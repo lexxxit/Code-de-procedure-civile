@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1981-05-14
+Version Consolidée au 1981-09-19
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -16119,6 +16119,51 @@ l'affaire.
 	**Créé par**:
 
 	  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+# Livre III : Dispositions particulières à certaines matières
+
+## Titre IV : Les obligations et les contrats.
+
+### Chapitre I : Les procédures d'injonction
+
+#### Section I : L'injonction de payer.
+
+###### Article 1405
+
+Le recouvrement d'une créance peut être demandé suivant la procédure d'injonction de payer lorsque :
+
+1° La créance a une cause contractuelle ou résulte d'une obligation de caractère statutaire et s'élève à un montant
+déterminé ; en matière contractuelle, la détermination est faite en vertu des stipulations du contrat y compris, le cas
+échéant, la clause pénale ;
+
+2° L'engagement résulte de l'acceptation ou du tirage d'une lettre de change, de la souscription d'un billet à ordre, de
+l'endossement ou de l'aval de l'un ou l'autre de ces titres ou de l'acceptation de la cession de créances conformément à la
+loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises.
+
+**Nota:**
+
+La loi n° 81-1 du 2 janvier 1981 a été codifiée aux articles L. 313-23 et suivants du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Loi n°81-1 1981-01-02
+	  - Code monétaire et financier - art. L313-23 (V)
+
+	**Modifié par**:
+
+	  - Décret n°81-862 1981-09-09 art. 5 JORF 19 septembre 1981
+
+	**Cité par**:
+
+	  - Arrêté du 3 mars 2011 - art. 2 (V)
+	  - Code de commerce. - art. R643-20 (V)
 
 
 # Livre IV : L'arbitrage.
