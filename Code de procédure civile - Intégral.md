@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1986-10-01
+Version Consolidée au 1987-06-23
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13336,6 +13336,27 @@ heurtent à aucune contestation sérieuse ou que justifie l'existence d'un diff�
 	  - Code des assurances - art. R421-9 (V)
 
 
+###### Article 809
+
+Le président peut toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou
+de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement
+illicite.
+
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
+ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 8 JORF 18 décembre 1985
+	  - Décret n°87-434 1987-06-17 art. 1 JORF 23 juin 1987
+
+
 ###### Article 810
 
 Les pouvoirs du président du tribunal de grande instance prévus aux deux articles précédents s'étendent à toutes les matières
@@ -14102,6 +14123,31 @@ toutes les mesures qui ne se heurtent à aucune contestation sérieuse ou que ju
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 849
+
+Le juge du tribunal d'instance peut toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures
+conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble
+manifestement illicite.
+
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
+ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 9 JORF 18 décembre 1985
+	  - Décret n°87-434 1987-06-17 art. 2 JORF 23 juin 1987
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 852-1 (V)
+
+
 ###### Article 850
 
 Le juge du tribunal d'instance dispose des mêmes pouvoirs dans les contestations nées à l'occasion du contrat de travail
@@ -14502,6 +14548,27 @@ différend.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 873
+
+Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures
+conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble
+manifestement illicite.
+
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
+ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 10 JORF 18 décembre 1985
+	  - Décret n°87-434 1987-06-17 art. 3 JORF 23 juin 1987
+
+
 #### Section II : Les ordonnances sur requête.
 
 ###### Article 874
@@ -14775,6 +14842,27 @@ en référé toutes les mesures qui ne se heurtent à aucune contestation série
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 894
+
+Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures
+conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble
+manifestement illicite.
+
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
+ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 11 JORF 18 décembre 1985
+	  - Décret n°87-434 1987-06-17 art. 4 JORF 23 juin 1987
 
 
 ###### Article 895
