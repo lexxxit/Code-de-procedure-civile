@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1980-12-28
+Version Consolidée au 1981-05-14
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -228,6 +228,29 @@ prétentions, les éléments de preuve qu'elles produisent et les moyens de droi
 même d'organiser sa défense.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 16
+
+Le juge doit, en toutes circonstances, faire observer et observer lui-même le principe de la contradiction.
+
+Il ne peut retenir, dans sa décision, les moyens, les explications et les documents invoqués ou produits par les parties que
+si celles-ci ont été à même d'en débattre contradictoirement.
+
+Il ne peut fonder sa décision sur les moyens de droit qu'il a relevés d'office sans avoir au préalable invité les parties à
+présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Conseil d'Etat 1875, 1905, 1948 à 1951 1979-10-12 Rassemblement des nouveaux avocats de France et autres, JCP 1980, II, 19288
+	  - Décret n°76-714 1976-07-29 art. 1 JORF 30 juillet 1976
+	  - Décret n°81-500 1981-05-12 art. 6 JORF 14 mai 1981
 
 	**Codifié par**:
 
@@ -622,11 +645,18 @@ La juridiction territorialement compétente est, sauf disposition contraire, cel
 
 S'il y a plusieurs défendeurs, le demandeur saisit, à son choix, la juridiction du lieu où demeure l'un d'eux.
 
+Si le défendeur n'a ni domicile ni résidence connus, le demandeur peut saisir la juridiction du lieu où il demeure ou celle
+de son choix s'il demeure à l'étranger.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 7 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 	**Cité par**:
 
@@ -685,7 +715,7 @@ Le demandeur peut saisir à son choix, outre la juridiction du lieu où demeure 
 - en matière contractuelle, la juridiction du lieu de la livraison effective de la chose ou du lieu de l'exécution de la
 prestation de service ;
 
-- en matière délictuelle, la juridiction du lieu du fait dommageable ou celle dans le ressort de laquelle le dommage est
+- en matière délictuelle, la juridiction du lieu du fait dommageable ou celle dans le ressort de laquelle le dommage a été
 subi ;
 
 - en matière mixte, la juridiction du lieu où est situé l'immeuble ;
@@ -697,6 +727,10 @@ subi ;
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 8 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
 ###### Article 47
@@ -784,6 +818,32 @@ Les autres juridictions ne connaissent que des demandes incidentes qui entrent d
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 52
+
+Les demandes relatives aux frais, émoluments et débours qui, afférents à une instance, ont été exposés devant une juridiction
+par les auxiliaires de justice et les officiers publics ou ministériels sont portées devant cette juridiction.
+
+Les demandes relatives aux frais, émoluments et débours qui n'ont pas été exposés devant une juridiction sont portées, selon
+le montant des frais, devant le tribunal d'instance ou le tribunal de grande instance dans le ressort duquel l'officier
+public ou ministériel ou l'auxiliaire de justice exerce ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1978-01-20 art. 15 JORF 24 janvier 1978
+	  - Décret n°81-500 1981-05-12 art. 9 JORF 14 mai 1981
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. L211-6 (VD)
+	  - Code de l'organisation judiciaire - art. R221-11 (VD)
 
 
 ## Titre IV : La demande en justice.
@@ -1573,6 +1633,39 @@ désignation s'impose aux parties et au juge de renvoi.
 	**Nouveaux textes**:
 
 	  - Code de procédure civile - art. 81 (V)
+
+
+###### Article 97
+
+En cas de renvoi devant une juridiction désignée, le dossier de l'affaire lui est aussitôt transmis par le secrétariat, avec
+une copie de la décision de renvoi. Toutefois la transmission n'est faite qu'à défaut de contredit dans le délai, lorsque
+cette voie était ouverte contre la décision de renvoi.
+
+Dès réception du dossier, les parties sont invitées par lettre recommandée avec demande d'avis de réception du secrétaire de
+la juridiction désignée à poursuivre l'instance et, s'il y a lieu, à constituer avocat ou avoué.
+
+Lorsque devant celle-ci les parties sont tenues de se faire représenter, l'affaire est d'office radiée si aucune d'elles n'a
+constitué avocat ou avoué, selon le cas, dans le mois de l'avis qui leur a été donné.
+
+Lorsque le renvoi est fait à la juridiction qui avait été primitivement saisie, l'instance se poursuit à la diligence du
+juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 4 JORF 30 décembre 1976
+	  - Décret n°81-500 1981-05-12 art. 10 JORF 14 mai 1981
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R142-2 (Ab)
+	  - Code de procédure civile - art. 1425-8 (V)
+	  - Code de procédure civile - art. 47 (V)
 
 
 ###### Article 98
@@ -5434,6 +5527,25 @@ ladite cour.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 366
+
+Les dispositions des articles 360 à 362 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 11 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 360, 361, 362
+
+
 ## Titre XI : Les incidents d'instance.
 
 ### Chapitre Ier : Les jonction et disjonction d'instances.
@@ -5683,6 +5795,24 @@ La décision de radiation est une mesure d'administration judiciaire.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 383
+
+La radiation ne fait pas obstacle à la poursuite de l'instance, après rétablissement de l'affaire, s'il n'y a, par ailleurs,
+péremption.
+
+L'affaire n'est rétablie que sur justification de l'accomplissement des diligences dont le défaut a entraîné la radiation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 12 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ### Chapitre IV : L'extinction de l'instance.
 
 ###### Article 384
@@ -5919,6 +6049,22 @@ Le désistement de l'appel ou de l'opposition est admis en toutes matières, sau
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 401
+
+Le désistement de l'appel n'a besoin d'être accepté que s'il contient des réserves ou si la partie à l'égard de laquelle il
+est fait a préalablement formé un appel incident ou une demande incidente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 13 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
 ###### Article 402
@@ -6214,6 +6360,22 @@ En dehors de ces cas, il peut agir pour la défense de l'ordre public à l'occas
 
 ### Chapitre II : Le ministère public partie jointe.
 
+###### Article 424
+
+Le ministère public est partie jointe lorsqu'il intervient pour faire connaître son avis sur l'application de la loi dans une
+affaire dont il a communication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 14 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ###### Article 425
 
 Le ministère public doit avoir communication :
@@ -6221,13 +6383,13 @@ Le ministère public doit avoir communication :
 1° Des affaires relatives à la filiation, à l'organisation de la tutelle des mineurs, à l'ouverture ou à la modification de
 la tutelle des majeurs ;
 
-2° Des procédures de suspension provisoire des poursuites et d'apurement collectif du passif, des procédures de règlement
-judiciaire et de liquidation des biens concernant les sociétés dont le capital est au moins égal à 300.000 F [*francs -
-montant*], ainsi que, pour toutes les sociétés, des causes relatives à la responsabilité pécuniaire des dirigeants sociaux,
-aux faillites personnelles et autres sanctions.
+2° Des procédures de suspension provisoire des poursuites et d'apurement collectif du passif, des procédures de réglement
+judiciaire et de liquidation des biens concernant les sociétés dont l capital est au moins égal à 300.000 F, ainsi que , pour
+toutes les sociétés, des causes relatives à la responsabilité pécuniaire des dirigeants sociaux, aux faillites personnelles
+et autres sanctions.
 
-Le ministère public doit également avoir communication de toutes les affaires dans lesquelles la loi dispose qu'il doit être
-entendu.
+Le ministère public doit également avoir communication de toutes les affaires dans lesquelles la loi dispose qu'il doit faire
+connaître son avis.
 
 **Liens relatifs à cet article**
 
@@ -6239,9 +6401,9 @@ entendu.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976 date d'entrée en vigueur 1er janvier 1976
+	  - Décret n°81-500 1981-05-12 art. 15 JORF 14 mai 1981 rectificatif JORF JORF 21 mai 1981
 
 
 ###### Article 426
@@ -6314,6 +6476,32 @@ la profession ou les fonctions ne sont pas de celles qui l'habilitent à faire p
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 431
+
+Le ministère public n'est tenu d'assister à l'audience que dans les cas où il est partie principale, dans ceux où il
+représente autrui ou lorsque sa présence est rendue obligatoire par la loi.
+
+Dans tous les autres cas, il peut faire connaître son avis à la juridiction soit en lui adressant des conclusions écrites qui
+sont mises à la disposition des parties, soit oralement à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 16 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cité par**:
+
+	  - Décret n°2014-897 du 15 août 2014 - art. 1
+	  - Code de la santé publique - art. R3211-15 (VD)
+	  - Code de la santé publique - art. R3211-21 (VD)
+	  - Code de la santé publique - art. R3211-31 (VT)
 
 
 ###### Article 432
@@ -6828,6 +7016,25 @@ accordé plus qu'il n'a été demandé.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 465
+
+Chacune des parties a la faculté de se faire délivrer une expédition revêtue de la formule exécutoire.
+
+S'il y a un motif légitime, une seconde expédition, revêtue de cette formule, peut être délivrée à la même partie par le
+secrétaire de la juridiction qui a rendu le jugement. En cas de difficulté, le président de cette juridiction statue par
+ordonnance sur requête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 17 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ###### Article 466
 
 En matière gracieuse, copie de la requête est annexée à l'expédition du jugement.
@@ -7198,6 +7405,28 @@ Elle ne peut être modifiée ou rapportée en référé qu'en cas de circonstanc
 	  - Code du travail - art. R1455-10 (VD)
 
 
+###### Article 489
+
+L'ordonnance de référé est exécutoire à titre provisoire. Le juge peut toutefois subordonner l'exécution provisoire à la
+constitution d'une garantie dans les conditions prévues aux articles 517 à 522.
+
+En cas de nécessité, le juge peut ordonner que l'exécution aura lieu au seul vu de la minute.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 18 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 517, 518, 519, 520, 521, 522
+
+
 ###### Article 491
 
 Le juge statuant en référé peut prononcer des condamnations à des astreintes. Il peut les liquider, à titre provisoire.
@@ -7394,6 +7623,29 @@ En cas d'exécution au seul vu de la minute, la présentation de celle-ci vaut n
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 504
+
+La preuve du caractère exécutoire ressort du jugement lorsque celui-ci n'est susceptible d'aucun recours suspensif ou qu'il
+bénéficie de l'exécution provisoire.
+
+Dans les autres cas, cette preuve résulte :
+
+- soit de l'acquiescement de la partie condamnée ;
+
+- soit de la notification de la décision et d'un certificat permettant d'établir, par rapprochement avec cette notification,
+l'absence, dans le délai, d'une opposition, d'un appel, ou d'un pourvoi en cassation lorsque le pourvoi est suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 19 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ###### Article 505
 
 Toute partie peut se faire délivrer par le secrétaire de la juridiction devant laquelle le recours pouvait être formé un
@@ -7535,6 +7787,26 @@ Le délai de grâce ne fait pas obstacle aux mesures conservatoires.
 
 ### Chapitre III : L'exécution provisoire.
 
+###### Article 514
+
+L'exécution provisoire ne peut pas être poursuivie sans avoir été ordonnée si ce n'est pour les décisions qui en bénéficient
+de plein droit.
+
+Sont notamment exécutoires de droit à titre provisoire les ordonnances de référé, les décisions qui prescrivent des mesures
+provisoires pour le cours de l'instance, celles qui ordonnent des mesures conservatoires ainsi que les ordonnances du juge de
+la mise en état qui accordent une provision au créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 20 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ###### Article 515
 
 Hors les cas où elle est de droit, l'exécution provisoire peut être ordonnée, à la demande des parties ou d'office, chaque
@@ -7671,6 +7943,80 @@ dès lors qu'il est saisi.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 517, 518, 519, 520, 521, 522, 525, 526
+
+
+###### Article 524
+
+Lorsque l'exécution provisoire a été ordonnée, elle ne peut être arrêtée, en cas d'appel, que par le premier président
+statuant en référé et dans les cas suivants :
+
+1° Si elle est interdite par la loi ;
+
+2° Si elle risque d'entraîner des conséquences manifestement excessives ; dans ce dernier cas, le premier président peut
+aussi prendre les mesures prévues aux articles 517 à 522.
+
+Le même pouvoir appartient, en cas d'opposition, au juge qui a rendu la décision.
+
+Lorsque l'exécution provisoire est de droit, le premier président peut prendre les mesures prévues au deuxième alinéa de
+l'article 521 et à l'article 522.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 9 I et 9 II JORF 30 décembre 1976
+	  - Décret n°81-500 1981-05-12 art. 22 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cité par**:
+
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 241-9 (VD)
+	  - Code de commerce - art. R661-1 (V)
+	  - Code de procédure civile - art. 525-2 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 517, 518, 519, 520, 521, 522
+
+
+###### Article 525
+
+Lorsque l'exécution provisoire a été refusée, elle ne peut être demandée, en cas d'appel, qu'au premier président statuant en
+référé ou, dès lors qu'il est saisi, au magistrat chargé de la mise en état et à condition qu'il y ait urgence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 23 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 526
+
+Lorsque l'exécution provisoire n'a pas été demandée, ou si, l'ayant été, le juge a omis de statuer, elle ne peut être
+demandée, en cas d'appel, qu'au premier président statuant en référé ou, dès lors qu'il est saisi, au magistrat chargé de la
+mise en état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 24 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 92 (V)
 
 
 ## Titre XVI : Les voies de recours.
@@ -8202,6 +8548,23 @@ nouveaux, produire de nouvelles pièces ou proposer de nouvelles preuves.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 564
+
+Les parties ne peuvent soumettre à la cour de nouvelles prétentions si ce n'est pour opposer compensation, faire écarter les
+prétentions adverses ou faire juger les questions nées de l'intervention d'un tiers, ou de la survenance ou de la révélation
+d'un fait.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 25 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ###### Article 565
 
 Les prétentions ne sont pas nouvelles dès lors qu'elles tendent aux mêmes fins que celles soumises au premier juge, même si
@@ -8439,6 +8802,28 @@ et en droit.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 583
+
+Est recevable à former tierce opposition toute personne qui y a intérêt, à la condition qu'elle n'ait été ni partie ni
+représentée au jugement qu'elle attaque.
+
+Les créanciers et autres ayants cause d'une partie peuvent toutefois former tierce opposition au jugement rendu en fraude de
+leurs droits ou s'ils invoquent des moyens qui leur sont propres.
+
+En matière gracieuse, la tierce opposition n'est ouverte qu'aux tiers auxquels la décision n'a pas été notifiée ; elle l'est
+également contre les jugements rendus en dernier ressort même si la décision leur a été notifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 26 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ###### Article 584
 
 En cas d'indivisibilité à l'égard de plusieurs parties au jugement attaqué, la tierce opposition n'est recevable que si
@@ -8460,6 +8845,35 @@ Tout jugement est susceptible de tierce opposition si la loi n'en dispose autrem
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 586
+
+La tierce opposition est ouverte à titre principal pendant trente ans à compter du jugement à moins que la loi n'en dispose
+autrement.
+
+Elle peut être formée sans limitation de temps contre un jugement produit au cours d'une autre instance par celui auquel on
+l'oppose.
+
+En matière contentieuse, elle n'est cependant recevable, de la part du tiers auquel le jugement a été notifié, que dans les
+deux mois  de cette notification, sous réserve que celle-ci indique de manière très apparente le délai dont il dispose ainsi
+que les modalités selon lesquelles le recours peut être exercé. Il en est de même en matière gracieuse lorsqu'une décision en
+dernier ressort a été notifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 27 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 643 (V)
+	  - Code de procédure civile - art. 644 (V)
 
 
 ###### Article 587
@@ -8969,6 +9383,27 @@ deux.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 605, 612
+
+
+###### Article 618-1
+
+Le procureur général près la Cour de cassation peut, en vue de déférer, dans l'intérêt de la loi, un jugement à la cour,
+inviter le ministère public près la juridiction qui a rendu ce jugement à le faire notifier aux parties. La notification est
+effectuée par le secrétaire de la juridiction par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 28 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 10
 
 
 ##### Section II : Les effets du pourvoi en cassation.
@@ -10074,6 +10509,28 @@ décision, ainsi qu'au ministère public lorsqu'un recours lui est ouvert.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 680
+
+L'acte de notification d'un jugement à une partie doit indiquer de manière très apparente le délai d'opposition, d'appel ou
+de pourvoi en cassation dans le cas où l'une de ces voies de recours est ouverte, ainsi que les modalités selon lesquelles le
+recours peut être exercé ; il indique, en outre, que l'auteur d'un recours abusif ou dilatoire peut être condamné à une
+amende civile et au paiement d'une indemnité à l'autre partie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 29 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 693 (V)
 
 
 ###### Article 681
@@ -11502,6 +11959,49 @@ pièces.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 771
+
+Lorsque la demande est présentée postérieurement à sa désignation, le juge de la mise en état est, jusqu'à son
+dessaisissement, seul compétent, à l'exclusion de toute autre formation du tribunal, pour :
+
+1. Statuer sur les exceptions dilatoires et sur les nullités pour vice de forme ;
+
+2. Allouer une provision pour le procès ;
+
+3. Accorder une provision au créancier lorsque l'existence de l'obligation n'est pas sérieusement contestable. Le juge de la
+mise en état peut subordonner l'exécution de sa décision à la constitution d'une garantie dans les conditions prévues aux
+articles 517 à 522 ;
+
+4. Ordonner toutes autres mesures provisoires, même conservatoires, à l'exception des saisies conservatoires et des
+hypothèques et nantissements provisoires, ainsi que modifier ou compléter, en cas de survenance d'un fait nouveau, les
+mesures qui auraient déjà été ordonnées ;
+
+5. Ordonner, même d'office, toute mesure d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 30 JORF 14 mai 1981
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 92 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-11 (V)
+	  - Décret n°2017-862 du 9 mai 2017 - art. (V)
+	  - Code de procédure civile - art. 819 (V)
+	  - Code des assurances - art. R421-9 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 517 à 522
+
+
 ###### Article 772
 
 Le juge de la mise en état peut statuer sur les dépens.
@@ -11561,6 +12061,33 @@ Les ordonnances du juge de la mise en état n'ont pas, au principal, l'autorité
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 776
+
+Les ordonnances du juge de la mise en état ne sont pas susceptibles d'opposition.
+
+Elles ne peuvent être frappées d'appel ou de pourvoi en cassation qu'avec le jugement sur le fond.
+
+Toutefois elles sont susceptibles d'appel dans les cas et conditions prévus en matière d'expertise, ou de sursis à statuer ;
+elles le sont également dans les quinze jours à compter de leur signification lorsqu'elles ont pour effet de mettre fin à
+l'instance, lorsqu'elles constatent son extinction ou lorsqu'elles ont trait aux mesures provisoires ordonnées en matière de
+divorce ou de séparation de corps ou aux provisions qui peuvent être accordées au créancier lorsque l'existence de
+l'obligation n'est pas sérieusement contestable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 31 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 905 (VD)
 
 
 ###### Article 777
@@ -13194,6 +13721,24 @@ tribunal, par lettre recommandée avec demande d'avis de réception.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 892
+
+Les décisions du tribunal paritaire ne sont pas susceptibles d'opposition.
+
+Lorsqu'elles sont susceptibles d'appel, celui-ci est formé, instruit et jugé suivant la procédure sans représentation
+obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 32 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ### Chapitre II : Les ordonnances de référé.
 
 ###### Article 893
@@ -13540,6 +14085,54 @@ Copie de la requête et des pièces doit être remise au premier président pour
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+
+###### Article 919
+
+La déclaration d'appel vise l'ordonnance du premier président.
+
+Les exemplaires destinés aux intimés sont restitués à l'appelant.
+
+La requête peut aussi être présentée au premier président au plus tard dans les huit jours de la déclaration d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 33 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 920
+
+L'appelant assigne la partie adverse pour le jour fixé.
+
+Copies de la requête, de l'ordonnance du premier président, et un exemplaire de la déclaration d'appel visé par le secrétaire
+ou une copie de la déclaration d'appel dans le cas mentionné au troisième alinéa de l'article 919, sont joints à
+l'assignation.
+
+L'assignation informe l'intimé que, faute de constituer avoué avant la date de l'audience, il sera réputé s'en tenir à ses
+moyens de première instance.
+
+L'assignation indique à l'intimé qu'il peut prendre connaissance au secrétariat-greffe de la copie des pièces visées dans la
+requête et lui fait sommation de communiquer avant la date de l'audience les nouvelles pièces dont il entend faire état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 34 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 919
 
 
 ###### Article 921
@@ -13890,6 +14483,22 @@ constatent l'extinction de l'instance.
 
 	  - Code de commerce - art. L322-1 (V)
 	  - Code de procédure civile - art. 964 (VD)
+
+
+###### Article 945-1
+
+Le magistrat chargé d'instruire l'affaire peut, si les parties ne s'y opposent pas, tenir seul l'audience pour entendre les
+plaidoiries. Il en rend compte à la cour dans son délibéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 35 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
 ###### Article 946
@@ -15180,6 +15789,22 @@ autorisées par le président.
 	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
+###### Article 1019
+
+La Cour de cassation statue après avis du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°81-500 1981-05-12 art. 36 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ###### Article 1020
 
 L'arrêt vise le texte de loi sur lequel la cassation est fondée.
@@ -15496,6 +16121,1506 @@ l'affaire.
 	  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
+# Livre IV : L'arbitrage.
+
+## Titre Ier : Les conventions d'arbitrage.
+
+### Chapitre Ier : La clause compromissoire.
+
+###### Article 1442
+
+La clause compromissoire est la convention par laquelle les parties à un contrat s'engagent à soumettre à l'arbitrage les
+litiges qui pourraient naître relativement à ce contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 2 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1443
+
+La clause compromissoire doit, à peine de nullité, être stipulée par écrit dans la convention principale ou dans un document
+auquel celle-ci se réfère.
+
+Sous la même sanction, la clause compromissoire doit, soit désigner le ou les arbitres, soit prévoir les modalités de leur
+désignation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 3 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1444
+
+Si, le litige né, la constitution du tribunal arbitral se heurte à une difficulté du fait de l'une des parties ou dans la
+mise en oeuvre des modalités de désignation, le président du tribunal de grande instance désigne le ou les arbitres.
+
+Toutefois, cette désignation est faite par le président du tribunal de commerce si la convention l'a expressément prévu.
+
+Si la clause compromissoire est soit manifestement nulle, soit insuffisante pour permettre de constituer le tribunal
+arbitral, le président le constate et déclare n'y avoir lieu à désignation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 4 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1445
+
+Le litige est soumis au tribunal arbitral soit conjointement par les parties, soit par la partie la plus diligente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 5 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1446
+
+Lorsqu'elle est nulle, la clause compromissoire est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 6 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+### Chapitre II : Le compromis.
+
+###### Article 1447
+
+Le compromis est la convention par laquelle les parties à un litige né soumettent celui-ci à l'arbitrage d'une ou plusieurs
+personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 7 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1448
+
+Le compromis doit, à peine de nullité, déterminer l'objet du litige.
+
+Sous la même sanction, il doit soit désigner le ou les arbitres, soit prévoir les modalités de leur désignation.
+
+Le compromis est caduc lorsqu'un arbitre qu'il désigne n'accepte pas la mission qui lui est confiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 8 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1449
+
+Le compromis est constaté par écrit. Il peut l'être dans un procès-verbal signé par l'arbitre et les parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 9 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1450
+
+Les parties ont la faculté de compromettre même au cours d'une instance déjà engagée devant une autre juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 10 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+### Chapitre III : Règles communes.
+
+###### Article 1451
+
+La mission d'arbitre ne peut être confiée qu'à une personne physique ; celle-ci doit avoir le plein exercice de ses droits
+civils.
+
+Si la convention d'arbitrage désigne une personne morale, celle-ci ne dispose que du pouvoir d'organiser l'arbitrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 11 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cité par**:
+
+	  - Décret n°2012-432 du 30 mars 2012 - art. 160 (V)
+	  - Code de déontologie des professionnels de l'exp... - art. 20 (V)
+
+
+###### Article 1452
+
+La constitution du tribunal arbitral n'est parfaite que si le ou les arbitres acceptent la mission qui leur est confiée.
+
+L'arbitre qui suppose en sa personne une cause de récusation doit en informer les parties. En ce cas, il ne peut accepter sa
+mission qu'avec l'accord de ces parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 1980-05-04 ART. 12
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1453
+
+Le tribunal arbitral est constitué d'un seul arbitre ou de plusieurs en nombre impair.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 13 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1454
+
+Lorsque les parties désignent les arbitres en nombre pair, le tribunal arbitral est complété par un arbitre choisi, soit
+conformément aux prévisions des parties, soit, en l'absence de telles prévisions, par les arbitres désignés, soit à défaut
+d'accord entre ces derniers, par le président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 14 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1455
+
+Lorsqu'une personne physique ou morale est chargée d'organiser l'arbitrage, la mission d'arbitrage est confiée à un ou
+plusieurs arbitres acceptés par toutes les parties.
+
+A défaut d'acceptation, la personne chargée d'organiser l'arbitrage invite chaque partie à désigner un arbitre et procède, le
+cas échéant, à la désignation de l'arbitre nécessaire pour compléter le tribunal arbitral. Faute pour les parties de désigner
+un arbitre, celui-ci est désigné par la personne chargée d'organiser l'arbitrage.
+
+Le tribunal arbitral peut aussi être directement constitué selon les modalités prévues à l'alinéa précédent.
+
+La personne chargée d'organiser l'arbitrage peut prévoir que le tribunal arbitral ne rendra qu'un projet de sentence et que
+si ce projet est contesté par l'une des parties, l'affaire sera soumise à un deuxième tribunal arbitral. Dans ce cas, les
+membres du deuxième tribunal sont désignés par la personne chargée d'organiser l'arbitrage, chacune des parties ayant la
+faculté d'obtenir le remplacement d'un des arbitres ainsi désignés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 15 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1456
+
+Si la convention d'arbitrage ne fixe pas de délai, la mission des arbitres ne dure que six mois à compter du jour où le
+dernier d'entre eux l'a acceptée.
+
+Le délai légal ou conventionnel peut être prorogé soit par accord des parties, soit, à la demande de l'une d'elles ou du
+tribunal arbitral, par le président du tribunal de grande instance ou, dans le cas visé à l'article 1444, alinéa 2, par le
+président du tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 16 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1444
+
+
+###### Article 1457
+
+Dans les cas prévus aux articles 1444, 1454, 1456 et 1463, le président du tribunal, saisi comme en matière de référé par une
+partie ou par le tribunal arbitral, statue par ordonnance non susceptible de recours.
+
+Toutefois, cette ordonnance peut être frappée d'appel lorsque le président déclare n'y avoir lieu à désignation pour une des
+causes prévues à l'article 1444 (alinéa 3). L'appel est formé, instruit et jugé comme en matière de contredit de compétence.
+
+Le président compétent est celui du tribunal qui a été désigné par la convention d'arbitrage ou, à défaut, celui dans le
+ressort duquel cette convention a situé les opérations d'arbitrage. Dans le silence de la convention, le président compétent
+est celui du tribunal du lieu où demeure le ou l'un des défendeurs à l'incident ou, si le défendeur ne demeure pas en France,
+celui du tribunal du lieu où demeure le demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 17 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1444, 1454, 1456 et 1463
+
+
+###### Article 1458
+
+Lorsqu'un litige dont un tribunal arbitral est saisi en vertu d'une convention d'arbitrage est porté devant une juridiction
+de l'Etat, celle-ci doit se déclarer incompétente.
+
+Si le tribunal arbitral n'est pas encore saisi, la juridiction doit également se déclarer incompétente à moins que la
+convention d'arbitrage ne soit manifestement nulle.
+
+Dans les deux cas, la juridiction ne peut relever d'office son incompétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 18 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1459
+
+Toute disposition ou convention contraire aux règles édictées par le présent chapitre est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 19 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+## Titre II : L'instance arbitrale.
+
+###### Article 1460
+
+Les arbitres règlent la procédure arbitrale sans être tenus de suivre les règles établies pour les tribunaux, sauf si les
+parties en ont autrement décidé dans la convention d'arbitrage.
+
+Toutefois, les principes directeurs du procès énoncés aux articles 4 à 10, 11 (alinéa 1) et 13 à 21 sont toujours applicables
+à l'instance arbitrale.
+
+Si une partie détient un élément de preuve, l'arbitre peut aussi lui enjoindre de le produire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 20 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 4 à 11 et 13 à 21
+
+
+###### Article 1461
+
+Les actes de l'instruction et les procès-verbaux sont faits par tous les arbitres si le compromis ne les autorise à commettre
+l'un d'eux.
+
+Les tiers sont entendus sans prestation de serment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 21 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1462
+
+Tout arbitre doit poursuivre sa mission jusqu'au terme de celle-ci.
+
+Un arbitre ne peut être révoqué que du consentement unanime des parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 22 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1463
+
+Un arbitre ne peut s'abstenir ni être récusé que pour une cause de récusation qui se serait révélée ou serait survenue depuis
+sa désignation.
+
+Les difficultés relatives à l'application du présent article sont portées devant le président du tribunal compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 23 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1464
+
+L'instance arbitrale prend fin, sous réserve des conventions particulières des parties :
+
+1° Par la révocation, le décès ou l'empêchement d'un arbitre ainsi que par la perte du plein exercice des ses droits civils ;
+
+2° Par l'abstention ou la récusation d'un arbitre ;
+
+3° Par l'expiration du délai d'arbitrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 24 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1465
+
+L'interruption de l'instance arbitrale est régie par les dispositions des articles 369 à 376.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 25 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 369 à 376
+
+
+###### Article 1466
+
+Si, devant l'arbitre, l'une des parties conteste dans son principe ou son étendue le pouvoir juridictionnel de l'arbitre, il
+appartient à celui-ci de statuer sur la validité ou les limites de son investiture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 26 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1467
+
+Sauf convention contraire, l'arbitre a le pouvoir de trancher l'incident de vérification d'écriture ou de faux conformément
+aux dispositions des articles 287 à 294 et de l'article 299.
+
+En cas d'inscription de faux incidente, l'article 313 est applicable devant l'arbitre. Le délai d'arbitrage continue à courir
+du jour où il a été statué sur l'incident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 27 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 287 à 294, 299 et 313
+
+
+###### Article 1468
+
+L'arbitre fixe la date à laquelle l'affaire sera mise en délibéré.
+
+Après cette date, aucune demande ne peut être formée ni aucun moyen soulevé. Aucune observation ne peut être présentée ni
+aucune pièce produite, si ce n'est à la demande de l'arbitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 28 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+## Titre III : La sentence arbitrale.
+
+###### Article 1469
+
+Les délibérations des arbitres sont secrètes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 29 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1470
+
+La sentence arbitrale est rendue à la majorité des voix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 30 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1471
+
+La sentence arbitrale doit exposer succinctement les prétentions respectives des parties et leurs moyens.
+
+La décision doit être motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 31 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1472
+
+La sentence arbitrale contient l'indication :
+
+- du nom des arbitres qui l'ont rendue ;
+
+- de sa date ;
+
+- du lieu où elle est rendue ;
+
+- des nom, prénoms ou dénomination des parties, ainsi que de leur domicile ou siège social ;
+
+- le cas échéant, du nom des avocats ou de toute personne ayant représenté ou assisté les parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 32 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cité par**:
+
+	  - Code du patrimoine. - art. R523-55 (V)
+
+
+###### Article 1473
+
+La sentence arbitrale est signée par tous les arbitres.
+
+Toutefois, si une minorité d'entre eux refuse de la signer, les autres en font mention et la sentence a le même effet que si
+elle avait été signée par tous les arbitres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 33 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1474
+
+L'arbitre tranche le litige conformément aux règles de droit, à moins que, dans la convention d'arbitrage, les parties ne lui
+aient conféré mission de statuer comme amiable compositeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 34 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1475
+
+La sentence dessaisit l'arbitre de la contestation qu'elle tranche.
+
+L'arbitre a néanmoins le pouvoir d'interpréter la sentence, de réparer les erreurs et omissions matérielles qui l'affectent
+et de la compléter lorsqu'il a omis de statuer sur un chef de demande. Les articles 461 à 463 sont applicables. Si le
+tribunal arbitral ne peut être à nouveau réuni, ce pouvoir appartient à la juridiction qui eût été compétente à défaut
+d'arbitrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 35 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 461 à 463
+
+
+###### Article 1476
+
+La sentence arbitrale a, dès qu'elle est rendue, l'autorité de la chose jugée relativement à la contestation qu'elle tranche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 36 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1477
+
+La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une décision d'exequatur émanant du tribunal de
+grande instance dans le ressort duquel la sentence a été rendue. L'exequatur est ordonné par le juge de l'exécution du
+tribunal.
+
+A cet effet, la minute de la sentence accompagnée d'un exemplaire de la convention d'arbitrage est déposée par l'un des
+arbitres ou par la partie la plus diligente au secrétariat de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 37 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1478
+
+L'exequatur est apposé sur la minute de la sentence arbitrale.
+
+L'ordonnance qui refuse l'exequatur doit être motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 38 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1479
+
+Les règles sur l'exécution provisoire des jugements sont applicables aux sentences arbitrales.
+
+En cas d'appel ou de recours en annulation, le premier président ou le magistrat chargé de la mise en état dès lors qu'il est
+saisi, peut accorder l'exequatur à la sentence arbitrale assortie de l'exécution provisoire. Il peut aussi ordonner
+l'exécution provisoire dans les conditions prévues aux articles 525 et 526 ; sa décision vaut exequatur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 39 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Code de procédure civile 525 et 526
+
+
+###### Article 1480
+
+Les dispositions des articles 1471 (alinéa 2), 1472, en ce qui concerne le nom des arbitres et la date de la sentence, et
+1473 sont prescrites à peine de nullité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 40 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1471, 1472, 1473
+
+
+## Titre IV : Les voies de recours.
+
+###### Article 1481
+
+La sentence arbitrale n'est pas susceptible d'opposition ni de pourvoi en cassation.
+
+Elle peut être frappée de tierce opposition devant la juridiction qui eût été compétente à défaut d'arbitrage, sous réserve
+des dispositions de l'article 588 (alinéa 1).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 41 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 588
+
+
+###### Article 1482
+
+La sentence arbitrale est susceptible d'appel à moins que les parties n'aient renoncé à l'appel dans la convention
+d'arbitrage. Toutefois, elle n'est pas susceptible d'appel lorsque l'arbitre a reçu mission de statuer comme amiable
+compositeur, à moins que les parties n'aient expressément réservé cette faculté dans la convention d'arbitrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 42 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1483
+
+Lorsque, suivant les distinctions faites à l'article 1482, les parties n'ont pas renoncé à l'appel, ou qu'elles se sont
+réservées expressément cette faculté dans la convention d'arbitrage, la voie de l'appel est seule ouverte, qu'elle tende à la
+réformation de la sentence arbitrale ou à son annulation. Le juge d'appel statue comme amiable compositeur lorsque l'arbitre
+avait cette mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 43 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1482
+
+
+###### Article 1484
+
+Lorsque, suivant les distinctions faites à l'article 1482, les parties ont renoncé à l'appel, ou qu'elles ne se sont pas
+expressément réservées cette faculté dans la convention d'arbitrage, un recours en annulation de l'acte qualifié sentence
+arbitrale peut néanmoins être formé malgré toute stipulation contraire.
+
+Il n'est ouvert que dans les cas suivants :
+
+1° Si l'arbitre a statué sans convention d'arbitrage ou sur convention nulle ou expirée ;
+
+2° Si le tribunal arbitral a été irrégulièrement composé ou l'arbitre unique irrégulièrement désigné ;
+
+3° Si l'arbitre a statué sans se conformer à la mission qui lui avait été conférée ;
+
+4° Lorsque le principe de la contradiction n'a pas été respecté ;
+
+5° Dans tous les cas de nullité prévus à l'article 1480 ;
+
+6° Si l'arbitre a violé une règle d'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 44 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1480 et 1482
+
+
+###### Article 1485
+
+Lorsque la juridiction saisie d'un recours en annulation annule la sentence arbitrale, elle statue sur le fond dans les
+limites de la mission de l'arbitre, sauf volonté contraire de toutes les parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 45 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1486
+
+L'appel et le recours en annulation sont portés devant la cour d'appel dans le ressort de laquelle la sentence arbitrale a
+été rendue.
+
+Ces recours sont recevables dès le prononcé de la sentence ; ils cessent de l'être s'ils n'ont pas été exercés dans le mois
+de la signification de la sentence revêtue de l'exequatur.
+
+Le délai pour exercer ces recours suspend l'exécution de la sentence arbitrale. Le recours exercé dans le délai est également
+suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 46 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1487
+
+L'appel et le recours en annulation sont formés, instruits et jugés selon les règles relatives à la procédure en matière
+contentieuse devant la cour d'appel.
+
+La qualification donnée par les parties à la voie de recours au moment où la déclaration est faite pour être modifiée ou
+précisée jusqu'à ce que la cour d'appel soit saisie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 47 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1488
+
+L'ordonnance qui accorde l'exequatur n'est susceptible d'aucun recours.
+
+Toutefois, l'appel ou le recours en annulation de la sentence emportent de plein droit, dans les limites de la saisine de la
+cour, recours contre l'ordonnance du juge de l'exequatur ou dessaisissement de ce juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 48 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1489
+
+L'ordonnance qui refuse l'exequatur peut être frappée d'appel jusqu'à l'expiration du délai d'un mois à compter de sa
+signification. En ce cas, la cour d'appel connaît, à la demande des parties, des moyens que celles-ci auraient pu faire
+valoir contre la sentence arbitrale, par la voie de l'appel ou du recours en annulation selon le cas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 49 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1490
+
+Le rejet de l'appel ou du recours en annulation confère l'exequatur à la sentence arbitrale ou à celles de ses dispositions
+qui ne sont pas atteintes par la censure de la cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 50 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1491
+
+Le recours en révision est ouvert contre la sentence arbitrale dans les cas et sous les conditions prévus pour les jugements.
+
+Il est porté devant la cour d'appel qui eût été compétente pour connaître des autres recours contre la sentence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Anciens textes**:
+
+	  - Décret n°80-354 du 14 mai 1980 - art. 51 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+## Titre V : L'arbitrage international.
+
+###### Article 1492
+
+Est international l'arbitrage qui met en cause des intérêts du commerce international.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1493
+
+Directement ou par référence à un règlement d'arbitrage, la convention d'arbitrage peut désigner le ou les arbitres ou
+prévoir les modalités de leur désignation.
+
+Si pour les arbitrages se déroulant en France ou pour ceux à l'égard desquels les parties ont prévu l'application de la loi
+de procédure française, la constitution du tribunal arbitral se heurte à une difficulté, la partie la plus diligente peut,
+sauf clause contraire, saisir le président du tribunal de grande instance de Paris selon les modalités de l'article 1457.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1457
+
+
+###### Article 1494
+
+La convention d'arbitrage peut, directement ou par référence à un règlement d'arbitrage, régler la procédure à suivre dans
+l'instance arbitrale ; elle peut aussi soumettre celle-ci à la loi de procédure qu'elle détermine.
+
+Dans le silence de la convention, l'arbitre règle la procédure, autant qu'il est besoin, soit directement, soit par référence
+à une loi ou à un règlement d'arbitrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1495
+
+Lorsque l'arbitrage international est soumis à la loi française, les dispositions des titres I, II et III du présent livre ne
+s'appliquent qu'à défaut de convention particulière et sous réserve des articles 1493 et 1494.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1493, 1494
+
+
+###### Article 1496
+
+L'arbitre tranche le litige conformément aux règles de droit que les parties ont choisies ; à défaut d'un tel choix,
+conformément à celles qu'il estime appropriées.
+
+Il tient compte dans tous les cas des usages du commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1497
+
+L'arbitre statue comme amiable compositeur si la convention des parties lui a conféré cette mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.
+
+### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.
+
+###### Article 1498
+
+Les sentences arbitrales sont reconnues en France si leur existence est établie par celui qui s'en prévaut et si cette
+reconnaissance n'est pas manifestement contraire à l'ordre public international.
+
+Sous les mêmes conditions, elles sont déclarées exécutoires en France par le juge de l'exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1499
+
+L'existence d'une sentence arbitrale est établie par la production de l'original accompagné de la convention d'arbitrage ou
+des copies de ces documents réunissant les conditions requises pour leur authenticité.
+
+Si ces pièces ne sont pas rédigées en langue française, la partie en produit une traduction certifiée par un traducteur
+inscrit sur la liste des experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1500
+
+Les dispositions des articles 1476 à 1479 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1476 à 1479
+
+
+### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.
+
+###### Article 1501
+
+La décision qui refuse la reconnaissance ou l'exécution est susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1502
+
+L'appel de la décision qui accorde la reconnaissance ou l'exécution n'est ouvert que dans les cas suivants :
+
+1° Si l'arbitre a statué sans convention d'arbitrage ou sur convention nulle ou expirée ;
+
+2° Si le tribunal arbitral a été irrégulièrement composé ou l'arbitre unique irrégulièrement désigné ;
+
+3° Si l'arbitre a statué sans se conformer à la mission qui lui avait été conférée ;
+
+4° Lorsque le principe de la contradiction n'a pas été respecté ;
+
+5° Si la reconnaissance ou l'exécution sont contraires à l'ordre public international.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article 1503
+
+L'appel prévu aux articles 1501 et 1502 est porté devant la cour d'appel dont relève le juge qui a statué. Il peut être formé
+jusqu'à l'expiration du délai d'un mois à compter de la signification de la décision du juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1501 et 1502
+
+
+###### Article 1504
+
+La sentence arbitrale rendue en France en matière d'arbitrage international peut faire l'objet d'un recours en annulation
+dans les cas prévus à l'article 1502.
+
+L'ordonnance qui accorde l'exécution de cette sentence n'est susceptible d'aucun recours. Toutefois, le recours en annulation
+emporte  de plein droit, dans les limites de la saisine de la cour, recours contre l'ordonnance du juge de l'exécution ou
+dessaisissement de ce juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1502
+
+
+###### Article 1505
+
+Le recours en annulation prévu à l'article 1504 est porté devant la cour d'appel dans le ressort de laquelle la sentence a
+été rendue. Ce recours est recevable dès le prononcé de la sentence ; il cesse de l'être s'il n'a pas été exercé dans le mois
+de la signification de la sentence déclarée exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1504
+
+
+###### Article 1506
+
+Le délai pour exercer les recours prévus aux articles 1501, 1502 et 1504 suspend l'exécution de la sentence arbitrale. Le
+recours exercé dans le délai est également suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1501, 1502 et 1504
+
+
+###### Article 1507
+
+Les dispositions du titre IV du présent livre, à l'exception de celles de l'alinéa 1er de l'article 1487 et de l'article
+1490, ne sont pas applicables aux voies de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1487 et 1490
+
+
 # Annexes
 
 ## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
@@ -15687,6 +17812,26 @@ modifiée ou rétractée, soit infirmée.
 
 ##### Sous-section I : Affaires de tutelle et de succession.
 
+###### Article ANNEXE, art. 11
+
+Le tribunal d'instance se saisit d'office pour organiser la tutelle dans les cas prévus par la loi ainsi que pour prendre
+toute mesure conservatoire en matière d'administration légale, de succession et de curatelle des non-présents.
+
+La compétence territoriale du juge des tutelles est déterminée par les articles 393 et 394 du code civil.
+
+Pour l'application des articles 1271 à 1281 du code de procédure civile, le tribunal compétent est le tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 37 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
 ###### Article ANNEXE, art. 12
 
 Les officiers de l'état civil sont tenus d'aviser le tribunal d'instance :
@@ -15784,6 +17929,27 @@ Le pourvoi immédiat est seul ouvert contre les décisions :
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article ANNEXE, art. 19
+
+La décision qui invalide un certificat d'héritier n'est pas susceptible de recours. Elle doit être portée à la connaissance
+du public par insertion dans un journal habilité à recevoir les annonces légales. Elle entre en vigueur un mois après son
+insertion au journal.
+
+La décision d'invalidation peut faire l'objet d'une prénotation au livre foncier et d'une mention au registre du commerce à
+la requête d'un notaire. Ces inscriptions sont radiées d'office lorsque l'immeuble ou le fonds est transcrit au nom du
+véritable créancier ou de son ayant cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°81-500 1981-05-12 art. 38 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
 ###### Article ANNEXE, art. 20
@@ -16091,6 +18257,54 @@ procédure civile.
 
 
 ### Chapitre VII : Dispositions diverses.
+
+###### Article ANNEXE, 46
+
+Le tribunal d'instance est seul compétent pour connaître de la procédure d'injonction de payer.
+
+Le montant des émoluments et droits alloués aux huissiers de justice et aux avocats postulants est indiqué dans l'ordonnance
+portant injonction de payer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 6 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+	  - Décret n°81-500 1981-05-12 art. 40 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
+
+###### Article ANNEXE, art. 43
+
+En matière de voies d'exécution et taxation des frais des parties, les pourvois suivent les règles relatives aux pourvois en
+matière gracieuse.
+
+Il en est de même des pourvois prévus par les articles 699 du code de procédure civile locale, 17 (alinéa 2) de la loi du 30
+juin 1878 relative aux indemnités accordées aux témoins et experts, 4 et 16 de la loi d'Empire du 20 mai 1898 sur les frais
+de justice et 9 du décret du 9 mai 1947 relatif aux droits et émoluments des avocats postulants des départements du Haut-
+Rhin, du Bas-Rhin et de la Moselle et en matière de taxation des frais de notaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de procédure civile locale 699
+	  - Décret n°1947-05-09 art. 9
+	  - Loi n°1878-06-30 art. 17
+	  - Loi n°1898-05-20 art. 4 et 16 (d'Empire)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 6 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+	  - Décret n°81-500 1981-05-12 art. 39 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+
 
 ###### Article ANNEXE, art. 44
 
