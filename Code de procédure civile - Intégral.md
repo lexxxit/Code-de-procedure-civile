@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1981-09-19
+Version Consolidée au 1982-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -16123,6 +16123,4620 @@ l'affaire.
 
 # Livre III : Dispositions particulières à certaines matières
 
+## Titre Ier : Les personnes
+
+### Chapitre Ier : La nationalité des personnes physiques
+
+###### Article 1038
+
+Le tribunal de grande instance est seul compétent pour connaître en premier ressort des contestations sur la nationalité
+française ou étrangère des personnes physiques, sous réserve des dispositions figurant au code de la nationalité pour les
+juridictions répressives comportant un jury criminel.
+
+Les exceptions de nationalité et d'extranéité ainsi que celle d'incompétence pour en connaître sont d'ordre public. Elles
+peuvent être soulevées en tout état de cause et doivent être relevées d'office par le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1039
+
+Le tribunal de grande instance territorialement compétent est celui du lieu où demeure la personne dont la nationalité est en
+cause ou, si cette personne ne demeure pas en France, le tribunal de grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1040
+
+Toute action qui a pour objet principal de faire déclarer qu'une personne a ou n'a pas la qualité de Français, est exercée
+par le ministère public ou contre lui sans préjudice du droit qui appartient à tout intéressé d'intervenir à l'instance ou de
+contester, conformément à l'article 107 du Code de la nationalité, la validité d'une déclaration enregistrée.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la nationalité française 107
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1044 (V)
+
+
+###### Article 1041
+
+Lorsqu'une juridiction de l'ordre judiciaire est saisie à titre incident d'une question de nationalité dont elle n'est pas
+habile à connaître et qui est nécessaire à la solution du litige, la cause est communiquée au ministère public.
+
+Le ministère public fait connaître, par conclusions écrites et motivées, s'il estime qu'il y a lieu ou non d'admettre
+l'existence d'une question préjudicielle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1042
+
+Si une question de nationalité est soulevée par une partie devant une juridiction qui estime qu'il y a question
+préjudicielle, la juridiction renvoie cette partie à se pourvoir devant le tribunal de grande instance compétent dans le
+délai d'un mois ou, dans le même délai, à présenter requête au procureur de la République. Lorsque la personne dont la
+nationalité est contestée se prévaut d'un certificat de nationalité française, ou lorsque la question de nationalité a été
+relevée d'office, la juridiction saisie au fond impartit le même délai d'un mois au procureur de la République pour saisir le
+tribunal de grande instance compétent.
+
+Si le délai d'un mois n'est pas respecté, l'instance poursuit son cours. Dans le cas contraire, la juridiction saisie au fond
+surseoit à statuer jusqu'à ce que la question de nationalité ait été jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1044 (V)
+
+
+###### Article 1043
+
+Dans toutes les instances où s'élève à titre principal ou incident une contestation sur la nationalité, une copie de
+l'assignation ou, le cas échéant, une copie des conclusions soulevant la contestation sont déposées au ministère de la
+justice qui en délivre récépissé. Le dépôt des pièces peut être remplacé par l'envoi de ces pièces par lettre recommandée
+avec demande d'avis de réception.
+
+La juridiction civile ne peut statuer sur la nationalité avant l'expiration d'un délai d'un mois à compter de la délivrance
+du récépissé ou de l'avis de réception. Toutefois, ce délai est de dix jours lorsque la contestation sur la nationalité a
+fait l'objet d'une question préjudicielle devant une juridiction statuant en matière électorale.
+
+L'assignation est caduque, les conclusions soulevant une question de nationalité irrecevables, s'il n'est pas justifié des
+diligences  prévues aux alinéas qui précèdent.
+
+Les dispositions du présent article sont applicables aux voies de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Arrêté du 25 mai 1994 - art. 1 (V)
+
+
+###### Article 1044
+
+Le procureur de la République est tenu d'agir dans les conditions de l'article 1040 s'il en est requis par une administration
+publique ou par une tierce personne qui a soulevé l'exception de nationalité devant une juridiction qui a sursis à statuer
+dans les conditions de l'article 1042. 
+
+Le tiers requérant est mis en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1040 (V)
+	  - Code de procédure civile - art. 1042 (V)
+
+
+###### Article 1045
+
+Le délai de pourvoi en cassation suspend l'exécution de l'arrêt qui statue sur la nationalité ; le pourvoi en cassation
+exercé dans ce délai est également suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+### Chapitre II : Les actes de l'état civil
+
+###### Article 1046
+
+La demande en rectification d'un acte de l'état civil est présentée soit au président du tribunal de grande instance dans le
+ressort duquel l'acte a été dressé ou transcrit, soit au président du tribunal de grande instance du lieu où demeure
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°2008-521 du 2 juin 2008 - art. 8 (VD)
+
+
+###### Article 1047
+
+La demande en rectification des jugements déclaratifs ou supplétifs d'actes de l'état civil est présentée soit au tribunal de
+grande instance qui a rendu le jugement, soit à celui dans le ressort duquel le jugement a été transcrit, soit à celui où
+demeure l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code des pensions militaires d'invalidité et de... - art. R511-2 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R512-3 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R513-5 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R514-1 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R531-1 (V)
+
+
+###### Article 1048
+
+Lorsque l'intéressé demeure hors de France, il peut aussi saisir, selon le cas, le président du Tribunal de grande instance
+de Paris ou ce tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1049
+
+Le président ou le tribunal territorialement compétent pour ordonner la rectification d'un acte ou d'un jugement est
+également compétent pour prescrire la rectification de tous les actes, même dressés ou transcrits hors de son ressort, qui
+reproduisent l'erreur ou comportent l'omission originaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1056-1 (V)
+
+
+###### Article 1051
+
+La demande en rectification des actes de l'état civil et des jugements déclaratifs ou supplétifs d'actes de l'état civil est
+formée, instruite et jugée comme en matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1052
+
+Lorsqu'elle n'émane pas du ministère public, la demande en rectification peut être présentée sans forme au procureur de la
+République qui, s'il y a lieu, la transmet à la juridiction compétente.
+
+La demande peut aussi être présentée directement par requête à la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1053
+
+Le juge peut ordonner et le ministère public demander la mise en cause de tout intéressé ainsi que la convocation du conseil
+de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1054
+
+L'appel est formé, instruit et jugé comme en matière gracieuse.
+
+Les voies de recours sont, dans tous les cas, ouvertes au ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1055
+
+Le dispositif de la décision portant rectification est transmis immédiatement par le procureur de la République au
+dépositaire des registres de l'état civil du lieu où se trouve inscrit l'acte rectifié. Mention de ce dispositif est aussitôt
+portée en marge de cet acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1056
+
+Toute décision dont la transcription ou la mention sur les registres de l'état civil est ordonnée, doit énoncer, dans son
+dispositif, les prénoms et nom des parties ainsi que, selon le cas, le lieu où la transcription doit être faite ou les lieux
+et dates des actes en marge desquels la mention doit être portée.
+
+Seul le dispositif de la décision est transmis au dépositaire des registres de l'état civil. Les transcriptions et mention du
+dispositif sont aussitôt opérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1174 (V)
+
+
+### Chapitre III : Le répertoire civil
+
+###### Article 1057
+
+Le répertoire civil est constitué par l'ensemble des extraits des demandes, actes et jugements qui, en vertu des textes
+particuliers se référant à ce répertoire, doivent être classés et conservés aux greffes des tribunaux de grande instance.
+
+Les extraits sont inscrits sur un registre, jour par jour et par ordre numérique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1064 (V)
+
+
+###### Article 1058
+
+Le classement et la conservation des extraits sont assurés par le secrétariat-greffe du tribunal de grande instance dans le
+ressort duquel est née la personne concernée et par le service central d'état civil pour les personnes nées à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1060
+
+La mention portée en marge des actes de naissance, des jugements qui rejettent une demande ou mettent fin à une mesure
+figurant au répertoire civil, est complétée d'office par l'indication qu'elle emporte radiation des mentions antérieures.
+
+L'indication de radiation peut aussi être portée à la suite des mentions prévues par l'article 1292 lorsque la partie
+intéressée a rapporté la preuve de l'extinction de l'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1292
+
+
+###### Article 1061
+
+Des copies des extraits conservés au répertoire civil peuvent être délivrées à tout intéressé.
+
+Elles ne peuvent l'être que sur autorisation du procureur de la République lorsqu'une indication de radiation a été portée en
+marge des actes de naissance par application de l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1060
+
+
+### Chapitre IV : Les absents
+
+#### Section I : La présomption d'absence
+
+###### Article 1062
+
+Les demandes relatives à la présomption d'absence sont présentées au juge des tutelles qui exerce ses fonctions au tribunal
+d'instance dans le ressort duquel la personne dont il s'agit de constater la présomption d'absence demeure ou a eu sa
+dernière résidence.
+
+A défaut, le juge compétent est celui du tribunal d'instance du lieu où demeure le demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1063
+
+La demande est formée, instruite et jugée selon les règles applicables à la tutelle des mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1064
+
+Un extrait de toute décision constatant une présomption d'absence ou désignant une personne pour représenter un présumé
+absent et administrer ses biens ainsi que de toute décision portant modification ou suppression des mesures prises est
+transmis au secrétariat-greffe du tribunal de grande instance dans le ressort duquel est née la personne présumée absente, à
+fin de conservation au répertoire civil et de publicité par mention en marge de l'acte de naissance, selon les modalités
+prévues aux articles 1057 à 1061. La transmission est faite au service central d'état civil pour les personnes nées à
+l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1057 à 1061
+
+
+#### Section II : La déclaration d'absence
+
+###### Article 1066
+
+Les demandes relatives à la déclaration d'absence d'une personne sont portées devant le tribunal de grande instance dans le
+ressort duquel celle-ci demeure ou a eu sa dernière résidence.
+
+A défaut, le tribunal compétent est celui du lieu où demeure le demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1067
+
+La demande est formée, instruite et jugée comme en matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1068
+
+Le délai dans lequel doivent être publiés les extraits du jugement déclaratif d'absence ne peut excéder six mois à compter du
+prononcé de ce jugement ; il est mentionné dans les extraits soumis à publication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1069
+
+L'appel est formé, instruit et jugé comme en matière gracieuse. 
+
+Le délai d'appel court à l'égard des parties et des tiers auxquels le jugement a été notifié, un mois après l'expiration du
+délai fixé par le tribunal pour l'accomplissement des mesures de publicité de l'article 127 du code civil. 
+
+Le délai de pourvoi en cassation suspend l'exécution de la décision déclarative d'absence. Le pourvoi en cassation exercé
+dans ce délai est également suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 127 (V)
+
+
+### Chapitre V : Le divorce et la séparation de corps
+
+#### Section I : Dispositions générales
+
+##### Sous-section I : La compétence.
+
+###### Article 1070
+
+Le tribunal territorialement compétent dans les affaires de divorce est :
+
+- le tribunal du lieu où se trouve la résidence de la famille ;
+
+- si les époux ont des résidences distinctes, le tribunal du lieu où réside celui des époux avec lequel habitent les enfants
+mineurs ;
+
+- dans les autres cas, le tribunal du lieu où réside l'époux qui n'a pas pris l'initiative de la demande.
+
+En cas de demande conjointe, le tribunal compétent est, selon le choix des époux, celui du lieu où réside l'un ou l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1071
+
+La compétence territoriale est déterminée par la résidence au jour où la requête initiale est présentée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1073
+
+Les demandes tendant à la modification des mesures prises par le juge en application de l'article 258 du Code civil sont
+portées devant les juges qui auraient été normalement compétents pour en connaître en l'absence de demande en divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 258 (M)
+
+
+##### Sous-section II : Le juge aux affaires matrimoniales.
+
+###### Article 1074
+
+Outre les pouvoirs qui lui sont dévolus par l'article 247 du Code civil, le juge aux affaires matrimoniales a pour mission de
+tenter une conciliation entre les époux avant ou pendant l'instance.
+
+Il est juge de la mise en état.
+
+Il exerce aussi les fonctions de juge des référés.
+
+Il statue, s'il y a lieu, sur les exceptions d'incompétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 247 (M)
+
+
+##### Sous-section III : Les demandes.
+
+###### Article 1076
+
+L'époux qui présente une demande en divorce peut, en tout état de cause, et même en appel, lui substituer une demande en
+séparation de corps.
+
+La substitution inverse est interdite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1077
+
+En cours d'instance, il ne peut être substitué à une demande fondée sur un des cas de divorce définis à l'article 229 du Code
+civil, une demande fondée sur un autre cas.
+
+Toutefois, s'ils parviennent à un accord en cours d'instance, les époux peuvent saisir le juge, dans les conditions prévues
+par l'article 246 du Code civil, d'une requête établie selon les formes réglées à la section II du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5, art. 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil 229 et 246
+
+
+##### Sous-section IV : L'enquête sociale et les décisions relatives à l'exercice de l'autorité parentale.
+
+###### Article 1079
+
+L'enquête sociale donne lieu à la rédaction d'un rapport où sont consignées les constatations faites par l'enquêteur et les
+solutions proposées par lui.
+
+Le juge ou le tribunal donne communication du rapport aux parties en leur fixant un délai dans lequel elles auront la faculté
+de demander un complément d'enquête ou une contre-enquête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+##### Sous-section VI : La publicité des jugements de divorce.
+
+###### Article 1081
+
+Le dispositif de la décision énonce, le cas échéant, la date à laquelle les époux ont été autorisés à résider séparément. Il
+est lu en audience publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1082
+
+Mention du divorce est portée en marge de l'acte de mariage, ainsi que des actes de naissance des époux, sur chacun des deux
+registres, au vu d'un extrait de la décision ne comportant que son dispositif et accompagné de la justification de son
+caractère exécutoire conformément à l'article 506.
+
+Si le mariage a été célébré à l'étranger, le dispositif de la décision est transcrit sur les registres de l'état civil et
+mentionné en marges des actes de naissance de chacun des époux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 506
+
+
+##### Sous-section VII : La modification des mesures accessoires.
+
+###### Article 1083
+
+Lorsque le jugement prononçant le divorce est frappé d'appel, la modification des mesures accessoires assorties de
+l'exécution provisoire, en cas de survenance d'un fait nouveau, ne peut être demandée, selon le cas, qu'au premier président
+de la cour d'appel ou au conseiller de la mise en état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1085
+
+Lorsque la demande est formée par simple requête, elle doit à peine d'irrecevabilité être datée et signée par celui qui la
+présente ou son avocat. Sous la même sanction, elle précise l'adresse du demandeur, indique l'objet de la demande et expose
+brièvement les raisons qui la justifient. La requête mentionne en outre l'adresse ou la dernière adresse connue du défendeur.
+
+Le juge est saisi par cette requête qui vaut conclusions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section II : Le divorce sur demande conjointe des époux.
+
+###### Article 1088
+
+Le divorce sur demande conjointe relève de la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1148-2 (V)
+
+
+###### Article 1089
+
+La demande conjointe en divorce est formée par une requête unique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1090
+
+La requête, qui n'indique pas les motifs du divorce, doit contenir, à peine d'irrecevabilité :
+
+1° Les nom, prénoms, profession, résidence, nationalité, date et lieu de naissance de chacun des époux ; la date et le lieu
+de leur mariage ; les mêmes indications, le cas échéant, pour chacun de leurs enfants ;
+
+2° Les renseignements prévus à l'article 1075 ;
+
+3° L'indication de la juridiction devant laquelle la demande est portée ;
+
+4° Le nom des avocats chargés par les époux de les représenter, ou de celui qu'ils ont choisi à cet effet d'un commun accord.
+
+Sous la même sanction, la requête est datée et est signée par chacun des époux et leur avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1132 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1075
+
+
+###### Article 1091
+
+A peine d'irrecevabilité, la requête comprend en annexe :
+
+1° Une convention temporaire par laquelle les époux règlent, pour la durée de l'instance, leur situation réciproque sur les
+différents points qui pourraient faire l'objet de mesures provisoires au sens des articles 255 et 256 du code civil ;
+
+2° Un projet de convention définitive, portant règlement complet des effets du divorce, avec l'indication, s'il en est
+besoin, d'un notaire chargé de liquider le régime matrimonial.
+
+Sous la même sanction, chacun des documents est daté et est signé par chacun des époux et leur avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cité par**:
+
+	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art. 2
+	  - Code de commerce - art. R444-59 (V)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil 255 et 256
+
+
+###### Article 1092
+
+Le tribunal est saisi par la remise au secrétariat-greffe de la requête initiale, qui vaut conclusions.
+
+Le juge aux affaires matrimoniales convoque chacun des époux par lettre simple expédiée quinze jours au moins avant la date
+qu'il fixe pour leur audition. Il avise le ou les avocats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1101 (V)
+
+
+###### Article 1093
+
+Au jour fixé, le juge entend [*pouvoirs*] les époux d'abord séparément, puis ensemble, et leur adresse les conseils qu'il
+estime opportuns.
+
+En présence du ou des avocats, après avoir vérifié la recevabilité de la requête et éventuellement fait supprimer ou modifier
+les clauses de la convention temporaire qui lui paraîtraient contraires à l'intérêt des enfants, il attribue, par ordonnance,
+à cette convention, la force exécutoire attachée à une décision de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1094
+
+Le juge [*pouvoirs*] examine ensuite avec les époux et leur avocat le projet de convention définitive qu'ils lui ont
+présenté.
+
+Il leur fait connaître, le cas échéant, que l'homologation de la convention, et, en conséquence, le prononcé du divorce,
+seront subordonnés à telles conditions ou garanties qu'il estime utiles, notamment quant à la garde des enfants et aux
+prestations et pensions après divorce.
+
+Si le projet de convention a été établi avec le concours d'un notaire, le juge peut consulter ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1095
+
+Au terme de l'examen, le juge [*pouvoirs*] indique aux époux qu'ils devront présenter à nouveau leur requête dans les délais
+prévus à l'article 231 du Code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 231 (Ab)
+
+
+###### Article 1096
+
+Cette requête fait simplement référence à la requête initiale sauf à y ajouter la mention des changements qui auraient pu
+survenir dans l'intervalle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1097
+
+A peine d'irrecevabilité     , la requête comprend en annexe : 
+
+1° Un compte rendu d'exécution de la convention temporaire ; 
+
+2° Une convention définitive portant règlement complet des effets du divorce et comprenant notamment un état liquidatif du
+régime matrimonial ou la déclaration qu'il n'y a pas lieu à liquidation. L'état liquidatif doit être passé en forme
+authentique devant notaire lorsque la liquidation porte sur des biens soumis à la publicité foncière. 
+
+Sous la même sanction, chacun des documents est daté et est signé par chacun des époux et leur avocat ainsi que, le cas
+échéant, par le notaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cité par**:
+
+	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1098
+
+Le juge [*pouvoirs*] procède alors à une nouvelle convocation en observant les formes et le délai de l'article 1092.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1092
+
+
+###### Article 1100
+
+Si la convention lui paraît préserver insuffisamment les intérêts des enfants ou de l'un des époux, le juge peut refuser de
+l'homologuer, ne pas prononcer le divorce et ajourner par ordonnance sa décision jusqu'à présentation d'une convention
+modifiée.
+
+L'ordonnance mentionne le délai d'appel et le point de départ de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1101
+
+Toute la procédure est caduque faute par les époux d'avoir présenté une convention modifiée dans les six mois de l'ordonnance
+d'ajournement.
+
+Le délai de six mois est suspendu en cas d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1102
+
+Les décisions du juge aux affaires matrimoniales sont susceptibles d'appel, à l'exception de celles qui homologuent les
+conventions des époux ou qui prononcent le divorce.
+
+Le délai d'appel est de quinze jours ; il court à compter de la date de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1103
+
+Le délai de pourvoi en cassation est de quinze jours à compter du prononcé de la décision qui homologue la convention des
+époux et prononce le divorce. Il suspend l'exécution de cette décision. Le pourvoi exercé dans ce délai est également
+suspensif.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1104
+
+Les créanciers de l'un et de l'autre époux peuvent faire déclarer que la convention homologuée leur est inopposable en
+formant tierce opposition contre la décision d'homologation dans l'année qui suit l'accomplissement des formalités
+mentionnées à l'article 262 du Code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5, art. 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 262 (V)
+
+
+###### Article 1105
+
+Les dépens de l'instance sont partagés par moitié [*proportion*] entre les époux, si leur convention n'en dispose autrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section III : Le divorce demandé par un époux
+
+##### Sous-section I : Règles communes
+
+##### Paragraphe 1 : La requête initiale.
+
+###### Article 1106
+
+L'époux qui veut former une demande en divorce présente par avocat une requête au juge. Il est tenu de se présenter en
+personne quand il sollicite des mesures d'urgence.
+
+En cas d'empêchement dûment constaté, le magistrat se rend à la résidence de l'époux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1148-2 (V)
+
+
+###### Article 1107
+
+Au bas de la requête, le juge indique les jour, heure et lieu auxquels il procédera à la tentative de conciliation.
+
+Il prescrit, s'il y a lieu, les mesures d'urgence prévues à l'article 257 du code civil.
+
+L'ordonnance ne peut faire l'objet d'aucun recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 257 (M)
+
+
+##### Paragraphe 2 : La tentative de conciliation.
+
+###### Article 1109
+
+En cas d'urgence, le juge aux affaires matrimoniales peut autoriser l'un des époux, sur sa requête, à assigner l'autre époux
+à jour fixe à fin de conciliation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1110
+
+Au jour indiqué, le juge statue d'abord, s'il y a lieu, sur la compétence.
+
+Il rappelle aux époux les dispositions de l'article 252-3 du code civil ; il procède ensuite à la tentative de conciliation
+selon les prescriptions des articles 252 à 252-2 du même code.
+
+Si l'un des époux se trouve dans l'impossibilité de se rendre au lieu indiqué, le juge peut en fixer un autre, se
+transporter, même en dehors de son ressort, pour entendre sur place le conjoint empêché ou donner mission à un autre
+magistrat de procéder à cette audition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1112 (V)
+
+	**Cite**:
+
+	  - Code civil 252 à 252-3
+
+
+###### Article 1111
+
+La conciliation des époux est constatée par procès-verbal.
+
+A défaut de conciliation ou si l'un des époux n'est pas présent, le juge rend une ordonnance par laquelle il peut, soit
+renvoyer les parties, conformément à l'article 252-1 du code civil, à une nouvelle tentative de conciliation, soit autoriser
+immédiatement l'époux qui a présenté la requête initiale à assigner son conjoint.
+
+Dans l'un et l'autre cas, il peut ordonner tout ou partie des mesures provisoires prévues aux articles 254 à 257 du code
+civil.
+
+Le juge, lorsqu'il autorise à assigner, rappelle dans son ordonnance les délais de l'article 1113 dans lesquels l'assignation
+doit être délivrée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 252-1 (M)
+	  - Code civil 252-1, 254 à 257
+	  - Nouveau code de procédure civile 1113
+
+
+###### Article 1112
+
+L'ordonnance rendue en application des articles 1110 et 1111 est susceptible d'appel dans les quinze jours de sa
+notification, mais seulement quant à la compétence et aux mesures provisoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1110 et 1111
+
+
+###### Article 1113
+
+Si l'époux n'a pas usé de l'autorisation d'assigner dans les trois mois du prononcé de l'ordonnance, son conjoint pourra,
+dans un nouveau délai de trois mois, l'assigner lui-même et requérir un jugement sur le fond.
+
+Si l'un ou l'autre des époux n'a pas suivi le tribunal à l'expiration des six mois, les mesures provisoires sont caduques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1111 (V)
+
+
+##### Paragraphe 3 : L'instance.
+
+###### Article 1114
+
+Les demandes reconventionnelles sont recevables même en appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1116
+
+Le juge aux affaires matrimoniales peut [*pouvoirs*], même d'office, charger un notaire ou un professionnel qualifié
+d'établir un projet de règlement des prestations et pensions après divorce. Il peut aussi donner mission à un notaire de
+dresser un projet de liquidation du régime matrimonial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+##### Paragraphe 4 : Les mesures provisoires.
+
+###### Article 1117
+
+Lorsqu'il ordonne des mesures provisoires, le juge peut prendre en considération les arrangements que les époux ont déjà
+conclus entre eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1118
+
+En cas de survenance d'un fait nouveau, le juge peut, jusqu'au dessaisissement de la juridiction, supprimer, modifier ou
+compléter les mesures provisoires qu'il a prescrites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1119
+
+La décision relative aux mesures provisoires est susceptible d'appel dans les quinze jours de sa notification.
+
+En cas d'appel, les modifications des mesures provisoires, s'il y a survenance d'un fait nouveau, ne peuvent être demandées,
+selon le cas, qu'au premier président de la cour d'appel ou au conseiller de la mise en état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+##### Paragraphe 5 : Les voies de recours.
+
+###### Article 1120
+
+Le jugement qui prononce le divorce est susceptible d'acquiescement, sauf lorsqu'il a été rendu contre un majeur protégé ou
+en application de l'article 238 du code civil.
+
+Dans ces mêmes cas, le désistement de l'appel est nul.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 238 (M)
+
+
+###### Article 1121
+
+Le délai de pourvoi en cassation suspend [*effet*] l'exécution de l'arrêt qui prononce le divorce. Le pourvoi en cassation
+exercé dans ce délai est également suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+##### Sous-section II : Le divorce pour rupture de la vie commune.
+
+###### Article 1123
+
+Quand le divorce est demandé pour rupture de la vie commune, la requête initiale, présentée par avocat, n'est recevable que
+si elle précise les moyens par lesquels l'époux assurera, tant durant l'instance qu'après la dissolution du mariage, son
+devoir de secours ainsi que ses obligations à l'égard des enfants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1124
+
+Dans le cas de l'article 238 du Code civil, la requête doit [*conditions de recevabilité*], à peine d'irrecevabilité, être
+accompagnée de tout document établissant, selon l'auteur de la requête, la réalité de la situation prévue par cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 238 (M)
+
+
+###### Article 1125
+
+Le tribunal ne peut prononcer le divorce dans le cas de l'article 238 du Code civil qu'au vu d'un rapport médical établi par
+trois médecins experts qu'il choisit sur la liste prévue à l'article 493-1 du Code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil 238 et 493-1
+
+
+###### Article 1126
+
+Lorsque le divorce est prononcé pour rupture de la vie commune, le dispositif du jugement ne doit faire aucune référence à la
+cause du divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1127
+
+Les dépens de l'instance sont à la charge de l'époux qui en a pris l'initiative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+##### Sous-section III : Le divorce pour faute.
+
+###### Article 1128
+
+La demande tendant à dispenser le tribunal d'énoncer dans les motifs de sa décision les torts et griefs des époux doit être
+formulée de façon expresse et concordante dans les conclusions de l'un et l'autre époux.
+
+Le tribunal se borne à constater qu'il existe les faits constitutifs d'une cause de divorce selon le Code civil, titre "Du
+divorce", section III, du chapitre Ier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+##### Sous-section IV : Le divorce demandé par un époux et accepté par l'autre.
+
+###### Article 1134
+
+Après examen, le juge aux affaires matrimoniales convoque [*pouvoirs*] les époux par lettre recommandée avec demande d'avis
+de réception [*modalités - formes*] expédiée quinze jours au moins [*délai*] à l'avance et confirmée le même jour par lettre
+simple. Il avise les avocats.
+
+L'auteur du mémoire initial est invité à confirmer celui-ci, son conjoint à confirmer sa déclaration d'acceptation et, le cas
+échéant, son mémoire. Si le juge aperçoit dans ces documents ou même dans leur confrontation des indices qui laissent
+présumer la persistance d'une communauté de sentiments entre les époux, il oriente leurs réflexions en ce sens.
+
+Les règles posées pour la tentative de conciliation par les articles 1110 et 1111 sont alors applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1110 et 1111
+
+
+###### Article 1135
+
+A défaut de conciliation, le juge aux affaires matrimoniales [*pouvoirs*] rend une ordonnance par laquelle il constate qu'il
+y a eu un double aveu de faits qui rendent intolérable le maintien de la vie commune. Il renvoie les époux à se pourvoir
+devant le tribunal pour qu'il prononce le divorce et statue sur ses effets, la cause de divorce demeurant acquise. Il
+prescrit, s'il y a lieu, tout ou partie des mesures provisoires prévues aux articles 255 et 256 du Code civil.
+
+L'ordonnance est susceptible d'appel dans le délai de quinze jours à compter de sa notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil 255 et 256
+
+
+###### Article 1136
+
+L'un ou l'autre des époux introduit l'instance devant le tribunal [*modalités*] par voie d'assignation.
+
+Le tribunal prononce le divorce dont la cause a été définitivement constatée sans autre motif que le visa de l'ordonnance du
+juge.
+
+Il statue sur les effets comme en cas de divorce aux torts partagés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1137
+
+Les dépens de la procédure, jusques et y compris l'assignation devant le tribunal, sont partagés par moitié entre les époux,
+sauf décision contraire du juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1210-11 (V)
+
+
+#### Section IV : Le divorce demandé par un époux et accepté par l'autre.
+
+###### Article 1129
+
+Quand la cause invoquée est celle de l'article 233 du Code civil, la requête initiale est présentée par avocat ; elle n'est
+recevable que si [*condition de recevabilité*] elle est accompagnée d'un mémoire personnel établi, daté et signé par l'époux
+qui prend l'initiative de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 233 (M)
+
+
+###### Article 1130
+
+Dans son mémoire, l'époux s'efforce de décrire objectivement la situation conjugale sans chercher à qualifier les faits ni à
+les imputer à l'un ou à l'autre conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5, JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1132
+
+Par ces mêmes lettres, l'autre époux est informé qu'il peut, à son choix :
+
+- rejeter le mémoire, soit expressément, soit tacitement en s'abstenant d'y répondre dans le mois [*délai*] de la réception
+de la lettre recommandée. Dans ce cas, la requête devient caduque et la procédure ne peut être poursuivie ;
+
+- déclarer accepter le mémoire. Dans ce cas, la procédure se poursuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1133
+
+La déclaration d'acceptation établie, datée et signée par l'autre époux, doit être déposée, par avocat, au secrétariat-greffe
+dans le mois [*délai*] qui suit la réception des documents adressés par la lettre recommandée.
+
+L'époux peut joindre un mémoire où, sans contester la relation des faits, il en propose, dans les mêmes formes, sa version
+personnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1138
+
+Les dispositions des articles 1106 à 1122 sont, pour le surplus, applicables au divorce demandé par un époux et accepté par
+l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1106 à 1122
+
+
+#### Section V : La séparation de corps.
+
+###### Article 1139
+
+La procédure de la séparation de corps obéit aux règles prévues pour la procédure du divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1138 (V)
+
+	**Nouveaux textes**:
+
+	  - Nouveau code de procédure civile 1129
+
+
+###### Article 1140
+
+La déclaration de reprise de la vie commune est mentionnée en marge de l'acte de mariage et des actes de naissance des deux
+époux.
+
+Les mêmes mentions sont opérées à la diligence du notaire qui a dressé l'acte constatant la reprise de la vie commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section VI : Le divorce sur conversion de la séparation de corps.
+
+###### Article 1141
+
+La compétence territoriale est déterminée selon les règles de l'article 1070.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1070
+
+
+###### Article 1142
+
+Hors le cas où il y a demande conjointe, la demande en conversion est formée, instruite et jugée selon la procédure en
+matière contentieuse.
+
+Aucune demande reconventionnelle n'est recevable, sauf sur les conséquences du divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1143
+
+En cas de demande conjointe, la requête aux fins de conversion, à peine d'irrecevabilité, contient [*conditions de
+recevabilité*] les mentions requises par l'article 1090, l'indication de la décision qui a prononcé la séparation de corps,
+et est accompagnée d'un projet de convention définitive sur les conséquences du divorce.
+
+Sous la même sanction, la requête et le projet de convention sont datés et signés par chacun des époux et leur avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1072-1 (V)
+	  - Code de procédure civile - art. 338-1 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1090
+
+
+###### Article 1144
+
+Dans le cas prévu à l'article précédent, le juge peut ne pas entendre les époux et se borner à examiner avec leur avocat le
+projet de convention.
+
+En l'absence de difficulté, il [*pouvoirs*] homologue la convention et prononce le divorce.
+
+Sinon il peut, sans autres formes, demander aux époux de présenter à nouveau la requête dans le mois, après modification de
+la convention ; s'il n'est pas déféré à cette demande, le juge rend une ordonnance par laquelle il refuse d'homologuer la
+convention.
+
+L'ordonnance mentionne le délai d'appel et le point de départ de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1143
+
+
+###### Article 1145
+
+L'ordonnance est susceptible d'appel dans les quinze jours [*délai*] de la décision.
+
+L'appel est formé, instruit et jugé selon les règles applicables à la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1146
+
+L'instruction de l'affaire et l'audition des époux sont limitées, en toute hypothèse, aux effets de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1147
+
+Les dépens de l'instance en conversion sont répartis comme ceux de l'instance en séparation de corps.
+
+Les dépens afférents à l'instance d'appel sont traités comme ceux d'une instance nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+#### Section VII : Dispositions diverses.
+
+###### Article 1148
+
+Il est justifié, à l'égard des tiers, d'un divorce ou d'une séparation de corps par la seule production d'un extrait de la
+décision l'ayant prononcé ne comportant que son dispositif, accompagné de la justification de son caractère exécutoire
+conformément à l'article 506.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Transféré par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Nouveaux textes**:
+
+	  - Nouveau code de procédure civile 1082-1
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 506
+
+
+### Chapitre VI : La filiation et les subsides
+
+#### Section I : Disposition générale.
+
+###### Article 1149
+
+Les actions relatives à la filiation et aux subsides sont instruites et débattues en chambre du conseil.
+
+Le jugement est prononcé en audience publique, sauf dans les cas prévus aux articles 1150 à 1153.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1150 à 1153
+
+
+#### Section II : La légitimation.
+
+###### Article 1150
+
+La requête aux fins de légitimation après mariage ou par autorité de justice est formée par l'un des deux parents devant le
+tribunal de grande instance du lieu où il demeure ou par les deux conjointement devant le tribunal où demeure l'un des deux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1151
+
+La légitimation relève de la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section III : Le changement de nom de l'enfant naturel par déclaration conjointe.
+
+###### Article 1152
+
+Les déclarations conjointes prévues aux articles 334-2 et 334-5 du Code civil sont faites devant le juge des tutelles du lieu
+où demeure l'enfant.
+
+Le juge des tutelles en donne aussitôt avis au procureur de la République du lieu de naissance de l'enfant qui fait procéder
+aux mentions nécessaires sur les registres de l'état civil.
+
+En cas de refus, le juge statue par ordonnance motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil 334-2 et 334-5
+
+
+###### Article 1153
+
+Le changement de nom de l'enfant naturel par déclaration conjointe relève de la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section IV : Les subsides.
+
+###### Article 1154
+
+Lorsqu'il y a lieu, pour le paiement des subsides, à l'application de l'article 342-3 du code civil, le tribunal peut
+désigner en qualité de mandataire de justice toute personne qui lui semble pouvoir s'intéresser à l'enfant.
+
+**Nota:**
+
+NOTA : L'article 342-3 du code civil est abrogé à compter du 1er juillet 2006 par l'article 18 de l'ordonnance n° 2005-759 du
+4 juillet 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code civil - art. 342-3 (Ab)
+
+
+###### Article 1155
+
+Le représentant légal de l'enfant peut demander à la personne chargée du recouvrement de l'indemnité toutes informations
+utiles.
+
+S'il s'élève un désaccord entre eux, le tribunal, saisi par la remise au secrétariat-greffe d'une note motivée, statue sans
+formalité après avoir provoqué les explications des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1156
+
+Le service de l'aide sociale à l'enfance, l'oeuvre ou le mandataire désigné par le tribunal sont, pour le recouvrement des
+subsides, subrogés dans les droits du créancier.
+
+Les sommes dues à l'enfant sont reversées à son représentant légal dès que possible et au plus tard dans le mois de leur
+réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section V : L'acte de notoriété.
+
+###### Article 1157
+
+Avant de dresser un acte de notoriété, le juge, s'il estime insuffisants les témoignages et documents produits, peut
+[*pouvoirs*] faire recueillir d'office par toute personne de son choix des renseignements sur les faits qu'il y a lieu de
+constater.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+### Chapitre VII : La déclaration d'abandon
+
+###### Article 1158
+
+La demande en déclaration d'abandon est portée devant le tribunal de grande instance du lieu où demeure l'enfant ;
+lorsqu'elle émane du service de l'aide sociale à l'enfance, elle est portée devant le tribunal de grande instance du chef-
+lieu du département dans lequel l'enfant a été recueilli.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 2
+
+
+###### Article 1159
+
+L'instance obéit aux règles de la procédure en matière contentieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1261-1 (V)
+
+
+###### Article 1162
+
+S'il y a lieu, le tribunal statue, en la même forme et par le même jugement, sur la délégation de l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1261-1 (V)
+
+
+###### Article 1164
+
+Les demandes en restitution de l'enfant sont soumises aux dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 2
+
+
+### Chapitre VIII : L'adoption
+
+#### Section I : Le consentement à l'adoption
+
+###### Article 1165
+
+Les personnes habilitées à recevoir un consentement à l'adoption doivent informer celui qui le donne de la possibilité de le
+rétracter et des modalités de la rétractation. 
+
+L'acte prévu à l'article 348-3 du code civil mentionne que cette information a été donnée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 348-3 (V)
+
+
+#### Section II : La procédure d'adoption
+
+###### Article 1166
+
+La demande aux fins d'adoption est portée devant le tribunal de grande instance.
+
+Le tribunal compétent est :
+
+- le tribunal du lieu où demeure le requérant lorsque celui-ci demeure en France ;
+
+- le tribunal du lieu où demeure la personne dont l'adoption est demandée lorsque le requérant demeure à l'étranger ;
+
+- le tribunal choisi en France par le requérant lorsque celui-ci et la personne dont l'adoption est demandée demeurent à
+l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1167
+
+L'action aux fins d'adoption relève de la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1169
+
+La requête doit préciser si la demande tend à une adoption plénière ou à une adoption simple.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1170
+
+L'affaire est instruite et débattue en chambre du conseil, après avis du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1171
+
+Le tribunal vérifie [*pouvoirs*] si les conditions légales de l'adoption sont remplies. S'il y a lieu, il fait procéder à une
+enquête par toute personne qualifiée. Il peut commettre un médecin aux fins de procéder à tout examen qui lui paraîtrait
+nécessaire.
+
+Il peut recueillir les renseignements relatifs à un pupille de l'Etat dans les conditions prévues à l'article L. 81 du Code
+de la famille et de l'aide sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°2009-285 du 12 mars 2009 - art. 1 (V)
+	  - Décret n°2009-285 du 12 mars 2009 - art. 12 (V)
+	  - Code de procédure civile - art. 695 (V)
+	  - Code de procédure pénale - art. A43-12 (V)
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale L81
+
+
+###### Article 1172
+
+En cas d'adoption simple, celui qui a consenti à être adopté est appelé à donner son avis sur la demande qui tend à
+substituer à son nom le seul nom du requérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 17 (V) JORF 17 septembre 1993
+
+
+###### Article 1173
+
+Le tribunal peut, avec l'accord du requérant, prononcer l'adoption simple, même s'il est saisi d'une requête aux fins
+d'adoption plénière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1174
+
+Le jugement est prononcé en audience publique. Son dispositif précise s'il s'agit d'une adoption plénière ou d'une adoption
+simple et contient les mentions prescrites par l'article 1056. Il contient, en outre, lorsque l'adoption plénière est
+prononcée en application de l'alinéa 2 de l'article 356 du code civil, l'indication des prénoms et du nom du conjoint à
+l'égard duquel subsiste la filiation d'origine de l'adopté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1056 (V)
+	  - Code civil - art. 356 (V)
+
+
+###### Article 1175
+
+S'il y a lieu, le tribunal se prononce [*pouvoirs*], en la même forme et par le même jugement, sur la modification des
+prénoms de l'adopté et, en cas d'adoption simple, sur le nom de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1176
+
+Les voies de recours sont ouvertes au ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section III : La procédure relative à la révocation de l'adoption simple
+
+###### Article 1177
+
+L'instance obéit aux règles de la procédure en matière contentieuse.
+
+L'affaire est instruite et débattue en chambre du conseil, après avis du ministère public.
+
+Le jugement est prononcé en audience publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1178
+
+L'appel est formé comme en matière contentieuse. Il est instruit et jugé selon les règles applicables en première instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+### Chapitre IX : L'autorité parentale
+
+#### Section I : L'exercice de l'autorité parentale
+
+###### Article 1179
+
+Les demandes relatives à l'application de l'article 372-1 du Code civil sont formées, instruites et jugées selon les règles
+applicables à la tutelle des mineurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 372-1 (T)
+
+
+#### Section II : L'assistance éducative
+
+###### Article 1193
+
+L'appel est instruit et jugé par priorité en chambre du conseil par la chambre de la cour d'appel chargée des affaires de
+mineurs suivant la procédure applicable devant le juge des enfants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1200-12 (V)
+	  - Code de procédure civile - art. 1209 (V)
+
+
+###### Article 1194
+
+Les décisions de la cour d'appel sont notifiées comme il est dit à l'article 1190.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1190 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1209 (V)
+
+
+###### Article 1196
+
+En cas de pourvoi en cassation, les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de
+cassation.
+
+Le pourvoi en cassation est ouvert au ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1200-12 (V)
+
+
+###### Article 1197
+
+Lorsque les père et mère ne peuvent supporter la charge totale des frais de justice qui leur incombent, le juge fixe le
+montant de leur participation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1198
+
+Le juge peut visiter ou faire visiter tout mineur faisant l'objet d'une mesure de placement prise en application des articles
+375-3 et 375-5 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 375-3 (V)
+
+
+###### Article 1199
+
+Le juge peut déléguer sa compétence au juge du lieu où le mineur a été placé soit volontairement, soit par décision de
+justice, à l'effet d'organiser l'une des mesures prévues aux articles 375-2 et 375-4 du code civil et d'en suivre
+l'application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 375-2 (VT)
+
+
+###### Article 1200
+
+Dans l'application de l'assistance éducative, il doit être tenu compte des convictions religieuses ou philosophiques du
+mineur et de sa famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section III : Délégation, déchéance et retrait partiel de l'autorité parentale.
+
+###### Article 1201
+
+La déclaration prévue à l'article 377-1 du Code civil est faite au maire ou au commissaire de police. Elle est transmise dans
+les quinze jours [*délai*] au préfet qui procède aux notifications nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 15 () JORF 12 décembre 2002
+
+	**Cite**:
+
+	  - Code civil - art. 377-1 (M)
+
+
+###### Article 1202
+
+Les demandes en délégation, déchéance ou retrait partiel de l'autorité parentale sont portées devant [*compétence*] le
+tribunal de grande instance du lieu où demeure soit le mineur s'il s'agit de délégation, soit, dans les autres cas,
+l'ascendant contre lequel l'action est exercée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1203
+
+Le tribunal est saisi par requête. Les parties sont dispensées du ministère d'avocat. La requête peut être adressée au
+procureur de la République qui doit la transmettre au tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1205
+
+Le tribunal, même d'office, procède ou fait procéder à toutes les investigations utiles et notamment aux mesures
+d'information prévues à l'article 1183. Il peut à cet effet commettre le juge des enfants.
+
+Lorsqu'une procédure d'assistance éducative a été diligentée à l'égard d'un ou plusieurs enfants, le dossier en est
+communiqué au tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1183
+
+
+###### Article 1206
+
+Le procureur de la République recueille les renseignements qu'il estime utiles sur la situation de famille du mineur et la
+moralité de ses parents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1209
+
+Les dispositions de l'article 1186, du second alinéa de l'article 1187, du second alinéa de l'article 1188, du premier alinéa
+de l'article 1190, des articles 1191 à 1197 sont applicables aux procédures relatives à la délégation, la déchéance ou le
+retrait partiel de l'autorité parentale, les pouvoirs et obligations du juge des enfants étant assumés, selon le cas, par le
+tribunal ou son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1186, 1187, 1188, 1190 et 1191 à 1197
+
+
+### Chapitre X : La tutelle des mineurs
+
+#### Section I : Le juge des tutelles.
+
+###### Article 1211
+
+Le juge des tutelles territorialement compétent est celui du lieu où demeure le mineur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1212
+
+Hors les cas où il se saisit d'office, le juge est saisi par simple requête ou par déclaration écrite ou verbale au
+secrétariat-greffe de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1260-5 (V)
+
+
+###### Article 1213
+
+Les audiences du juge ne sont pas publiques. Des expéditions de ses décisions ne peuvent, sauf autorisation du président du
+tribunal de grande instance, être délivrées qu'aux parties et aux personnes investies d'une charge tutélaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1229 (V)
+
+
+###### Article 1214
+
+La décision du juge est notifiée, à la diligence de celui-ci, dans les trois jours, au requérant, au tuteur, à
+l'administrateur légal et à tous ceux dont elle modifie les droits ou les charges s'ils ne sont pas présents.
+
+En outre, dans le cas de l'article 389-5 du code civil, elle est notifiée au conjoint qui n'a pas consenti à l'acte et, dans
+le cas de l'article 468 du même code, au subrogé-tuteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil 389-5 et 468
+
+
+###### Article 1216
+
+Le recours est formé par une requête signée par un avocat et remise, ou adressée par lettre recommandée, au secrétariat-
+greffe du tribunal d'instance.
+
+Dans les huit jours de la remise de la requête ou de sa réception, le secrétaire de la juridiction transmet le dossier au
+président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+
+#### Section II : Le conseil de famille.
+
+###### Article 1219
+
+Les séances du conseil de famille ne sont pas publiques.
+
+Les tiers ne peuvent obtenir des expéditions de ses délibérations qu'avec l'autorisation du président du tribunal de grande
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1220
+
+La délibération du conseil de famille est motivée ; toutes les fois qu'elle n'est pas prise à l'unanimité, l'avis de chacun
+des membres est mentionné dans le procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1228 (V)
+
+
+###### Article 1221
+
+La délibération du conseil de famille est exécutoire par elle-même.
+
+Toutefois, si le juge n'a pas assorti la délibération de l'exécution provisoire, son exécution est suspendue pendant le délai
+du recours prévu à l'article 1222 et par le recours lui-même exercé dans ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°2009-285 du 12 mars 2009 - art. 1 (V)
+	  - Décret n°2009-285 du 12 mars 2009 - art. 12 (V)
+	  - Code de procédure civile - art. 1260-8 (V)
+	  - Code de procédure civile - art. 695 (V)
+	  - Code de procédure pénale - art. A43-12 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1222
+
+
+#### Section III : Dispositions communes.
+
+###### Article 1224
+
+Les notifications qui doivent être faites à la diligence du juge des tutelles le sont par lettre recommandée avec demande
+d'avis de réception ; le juge peut, toutefois, décider qu'elles auront lieu par acte d'huissier de justice ou par la voie
+administrative.
+
+La délivrance d'une copie certifiée conforme d'une décision du juge ou d'une délibération du conseil de famille par le
+secrétariat-greffe contre récépissé daté et signé équivaut à la notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1225
+
+Les recours formés contre les décisions du juge des tutelles ou les délibérations du conseil de famille sont inscrits sur un
+répertoire tenu au secrétariat-greffe du tribunal d'instance. Y sont mentionnés le nom de l'auteur du recours, celui de son
+avocat, la date à laquelle le recours a été formé ainsi que celle de la transmission du dossier au tribunal de grande
+instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1228 (V)
+
+
+###### Article 1226
+
+Si le recours formé contre une décision du juge des tutelles ou une délibération du conseil de famille est rejeté, celui qui
+l'a formé, autre néanmoins que le juge, peut être condamné aux dépens et même à des dommages-intérêts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1228 (V)
+	  - Code de procédure civile - art. 1260-10 (V)
+
+
+###### Article 1227
+
+Le recours est instruit et jugé par priorité en chambre du conseil.
+
+Le tribunal peut demander au juge des tutelles les renseignements qu'il estime utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1228
+
+Le tribunal peut, même d'office, substituer une décision nouvelle à celle du juge des tutelles ou à la délibération du
+conseil de famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1229
+
+La décision du tribunal de grande instance n'est pas susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1230
+
+Le montant des amendes civiles prévues aux articles 389-5, 395, 412 et 413 du code civil est de 50 F au moins et de 500 F au
+plus.
+
+Les décisions qui les prononcent ne sont pas susceptibles du recours prévu à l'article 1215.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5, art. 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1228 (V)
+	  - Code de procédure civile - art. 1250 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 389-5 (M)
+	  - Code civil - art. 395 (AbD)
+	  - Code civil 389-5, 395, 412 et 413
+	  - Nouveau code de procédure civile 1215
+
+
+###### Article 1231
+
+Quand le partage à l'amiable a été autorisé conformément à l'article 466 du Code civil, l'état liquidatif, approuvé par les
+parties, est déposé au secrétariat-greffe du tribunal d'instance où les membres du conseil de famille peuvent en prendre
+connaissance, suivant l'avertissement qui leur est notifié à la diligence du juge des tutelles.
+
+Quinze jours [*délai*] après le dépôt ou, dans le cas de la tutelle, quinze jours après la notification de l'avertissement
+aux membres du conseil de famille, l'homologation de l'état liquidatif peut être poursuivie, soit par l'administrateur légal
+ou le tuteur, soit par les autres parties intéressées au partage.
+
+Les membres du conseil de famille qui s'opposeraient à l'homologation doivent le faire par voie d'intervention devant le
+tribunal de grande instance ; le juge des tutelles [*pouvoirs*] peut s'opposer à l'homologation par une note motivée adressée
+à ce tribunal.
+
+Les dispositions des articles 1228 et 1229 sont applicables à l'instance en homologation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1259-3 (V)
+	  - Code de procédure civile - art. 1260-11 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 466 (M)
+	  - Nouveau code de procédure civile 1228 et 1229
+
+
+### Chapitre XI : Les régimes de protection des majeurs
+
+#### Section I : Dispositions générales.
+
+###### Article 1232
+
+Le procureur de la République du lieu de traitement et le juge des tutelles ont la faculté, par application de l'article
+490-3 du code civil, sans préjudice d'autres mesures, de faire examiner par un médecin les personnes protégées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1259-3 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 490-3 (AbD)
+
+
+#### Section II : La sauvegarde de justice.
+
+###### Article 1236
+
+La déclaration aux fins de sauvegarde de justice prévue par l'article L. 326-1 du Code de la santé publique est transmise au
+procureur de la République du lieu de traitement. Celui-ci en donne avis, le cas échéant, au procureur de la République du
+lieu où l'intéressé est domicilié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L326-1 (M)
+
+
+###### Article 1237
+
+La mesure de sauvegarde de justice se périme par deux mois à compter de la déclaration ; les mesures de renouvellement par
+six mois à compter des déclarations à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1238
+
+La décision par laquelle le juge des tutelles place la personne à protéger sous la sauvegarde de justice, en application du
+deuxième alinéa de l'article 491-1 du code civil, est transmise par lui au procureur de la République de son ressort. Celui-
+ci en donne avis, le cas échéant, au procureur de la République du domicile ou du lieu de traitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 491-1 (AbD)
+
+
+###### Article 1239
+
+La décision par laquelle le juge des tutelles place la personne à protéger sous la sauvegarde de justice, en application du
+deuxième alinéa de l'article 491-1 du code civil, ne peut faire l'objet d'aucun recours de ce chef.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1180-18 (V)
+	  - Code de procédure civile - art. 1259-3 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 491-1 (AbD)
+
+
+###### Article 1240
+
+La désignation ou la révocation des mandataires des personnes placées sous la sauvegarde de justice ainsi que la
+détermination des pouvoirs de ces mandataires interviennent suivant la procédure prévue pour la tutelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1241
+
+Les personnes qui ont qualité pour exercer un recours contre la décision qui ouvre la tutelle, peuvent former un recours
+contre la décision par laquelle le juge des tutelles désigne, par application de l'article 491-5 du code civil, un mandataire
+spécial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 491-5 (AbD)
+
+
+###### Article 1242
+
+Le procureur de la République qui a reçu la déclaration aux fins de sauvegarde de justice ou la décision du juge des tutelles
+mentionne les déclaration et décision sur un répertoire spécialement tenu à cet effet.
+
+La déclaration aux fins de faire cesser la sauvegarde, ainsi que les radiations sont portées en marge de la mention initiale.
+
+Les déclarations en renouvellement sont portées à leur date sur le répertoire ; référence y est faite en marge de la mention
+initiale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1260-12 (V)
+	  - Code de procédure civile - art. 1261 (V)
+
+
+#### Section III : La tutelle.
+
+###### Article 1243
+
+La tutelle des majeurs obéit aux règles prévues pour la tutelle des mineurs, sous réserve des dispositions qui suivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1245
+
+La liste des médecins spécialistes est établie chaque année par le procureur de la République, après consultation du préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1246
+
+Le juge des tutelles entend la personne à protéger et lui donne connaissance de la procédure engagée. L'audition peut avoir
+lieu au siège du tribunal, au lieu de l'habitation, dans l'établissement de traitement ou en tout autre lieu approprié.
+
+Le juge peut, s'il l'estime opportun, procéder à cette audition en présence du médecin traitant et, éventuellement, d'autres
+personnes.
+
+Le procureur de la République et le conseil de la personne à protéger sont informés de la date et du lieu de l'audition ; ils
+peuvent y assister.
+
+Il est dressé procès-verbal de l'audition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1247
+
+Si l'audition de la personne à protéger est de nature à porter préjudice à sa santé, le juge peut, par disposition motivée,
+sur l'avis du médecin, décider qu'il n'y a pas lieu d'y procéder. Il en avise le procureur de la République.
+
+Par la même décision, il ordonne que connaissance de la procédure engagée sera donnée à la personne à protéger dans une forme
+appropriée à son état.
+
+Il est fait mention au dossier de la tutelle de l'exécution de cette décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1248
+
+Le juge peut, soit d'office, soit à la requête des parties ou du ministère public, ordonner toute mesure d'information. Il
+peut notamment faire procéder à une enquête sociale ou à des constatations par telle personne de son choix.
+
+Il entend lui-même, autant qu'il est possible, les parents, alliés et amis de la personne à protéger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°2009-285 du 12 mars 2009 - art. 1 (V)
+	  - Décret n°2009-285 du 12 mars 2009 - art. 12 (V)
+	  - CODE DE PROCEDURE PENALE - art. A43-12 (V)
+	  - Code de procédure civile - art. 695 (V)
+
+
+###### Article 1249
+
+Le juge des tutelles peut, avant de statuer, réunir un conseil de famille formé selon le mode que détermine le code civil
+pour la tutelle des mineurs.
+
+Le conseil de famille est appelé à donner son avis sur l'état de la personne pour laquelle est demandée l'ouverture d'une
+tutelle, ainsi que sur l'opportunité d'un régime de protection.
+
+L'avis du conseil de famille ne lie pas le juge ; il n'est susceptible d'aucun recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1251 (V)
+	  - Code de procédure civile - art. 1251-1 (V)
+
+
+###### Article 1250
+
+Le dossier est transmis au procureur de la République un mois avant la date fixée pour l'audience. Quinze jours avant cette
+date, le procureur de la République le renvoie au secrétariat-greffe avec son avis écrit. Ces délais peuvent être réduits par
+le juge en cas d'urgence.
+
+Le juge fait connaître au requérant et à la personne à protéger, si elle lui paraît en état de recevoir utilement cette
+notification, ou à leurs conseils, qu'ils pourront consulter le dossier au secrétariat-greffe jusqu'à la veille de
+l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1251
+
+A l'audience, le juge entend, s'il l'estime opportun, le requérant et la personne à protéger.
+
+Les conseils des parties sont entendus en leurs observations.
+
+L'affaire est instruite et jugée en chambre du conseil, après avis du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1251-1 (V)
+
+
+###### Article 1252
+
+La requête aux fins d'ouverture de la tutelle est caduque si la décision relative à cette ouverture n'intervient pas dans
+l'année de la requête.
+
+En cas de saisine d'office du juge, les actes de procédure sont non avenus si la décision d'ouverture n'intervient pas dans
+l'année.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1253
+
+Le jugement relatif à l'ouverture de la tutelle doit être notifié à la personne protégée ; avis en est donné au procureur de
+la République.
+
+Toutefois, le juge peut, par disposition motivée, décider qu'il n'y a pas lieu de notifier à la personne protégée, en raison
+de son état, le jugement prononçant l'ouverture de la tutelle. En ce cas, le jugement doit être notifié à son conseil si elle
+en a un, ainsi qu'à celle des personnes, conjoint, ascendant, descendant, frère ou soeur, que le juge estime la plus
+qualifiée pour recevoir cette notification.
+
+Le jugement peut être notifié, si le juge l'estime utile, aux personnes qu'il désigne parmi celles que la loi habilite à
+exercer un recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1260 (V)
+
+
+###### Article 1254
+
+Les jugements pris par application des articles 501 et 507 du code civil sont toujours notifiés à l'intéressé lui-même.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil 501 et 507
+
+
+###### Article 1255
+
+Le recours contre la décision qui refuse d'ouvrir la tutelle n'est ouvert qu'au requérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1257
+
+Les recours prévus aux articles 1255 et 1256 doivent être exercés dans les quinze jours du jugement. A l'égard des personnes
+à qui la décision est notifiée, le délai ne court qu'à compter de la notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1255 et 1256
+
+
+###### Article 1258
+
+Le ministère public peut former recours jusqu'à l'expiration d'un délai de quinze jours suivant la remise de l'avis qui lui a
+été donné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1261
+
+Dans toute instance relative à l'ouverture, la modification ou la mainlevée de la tutelle, le juge peut, en tout état de
+cause, faire désigner d'office un conseil à la personne à protéger ou protégée si celle-ci n'en a pas choisi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
+	  - Décret n°2016-1876 du 27 décembre 2016 - art. 12
+
+
+#### Section IV : La curatelle.
+
+###### Article 1262
+
+La curatelle obéit aux règles prévues pour la tutelle des majeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1262-2 (VD)
+
+
+###### Article 1263
+
+Quand le majeur en curatelle demande une autorisation supplétive, le juge ne peut statuer qu'après avoir entendu ou appelé le
+curateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+## Titre II : Les biens.
+
+### Chapitre Ier : Les actions possessoires.
+
+###### Article 1264
+
+Sous réserve du respect des règles concernant le domaine public, les actions possessoires sont ouvertes dans l'année du
+trouble à ceux qui, paisiblement, possèdent ou détiennent depuis au moins un an ; toutefois, l'action en réintégration contre
+l'auteur d'une voie de fait peut être exercée alors même que la victime de la dépossession possédait ou détenait depuis moins
+d'un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 29
+
+
+###### Article 1265
+
+La protection possessoire et le fond du droit ne sont jamais cumulés.
+
+Le juge peut toutefois examiner les titres à l'effet de vérifier si les conditions de la protection possessoire sont réunies.
+
+Les mesures d'instruction ne peuvent porter sur le fond du droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 29
+
+
+###### Article 1266
+
+Celui qui agit au fond n'est plus recevable à agir au possessoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 29
+
+
+###### Article 1267
+
+Le défendeur au possessoire ne peut agir au fond qu'après avoir mis fin au trouble.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 29
+
+
+### Chapitre II : La reddition de compte et la liquidation des fruits.
+
+###### Article 1268
+
+La demande en reddition de compte est portée, selon le cas, devant le tribunal dans le ressort duquel demeure le comptable
+ou, si le comptable a été commis par justice, devant le juge qui l'a commis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1269
+
+Aucune demande en révision de compte n'est recevable, sauf si elle est présentée en vue d'un redressement en cas d'erreur,
+d'omission ou de présentation inexacte.
+
+La même règle est applicable à la liquidation des fruits lorsqu'il y a lieu à leur restitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de commerce - art. L133-6 (V)
+	  - Code de commerce - art. L921-3 (Ab)
+	  - Code du travail - art. L3243-3 (V)
+	  - Code du travail applicable à Mayotte. - art. L143-8 (VD)
+
+
+### Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice.
+
+###### Article 1270
+
+L'autorisation prévue à l'article 595 du code civil obéit aux règles prescrites aux articles 1286 à 1289.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 595 (V)
+	  - Nouveau code de procédure civile 1286 à 1289
+
+
+### Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle.
+
+###### Article 1271
+
+La vente judiciaire des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle
+ne peut être ordonnée qu'au vu d'une délibération du conseil de famille énonçant la nature des biens et leur valeur
+approximative.
+
+Cette délibération n'est pas nécessaire si les biens appartiennent en même temps à des majeurs capables et si la vente est
+poursuivie par eux. Il est alors procédé conformément aux règles prévues pour les partages judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1348 (V)
+
+
+###### Article 1272
+
+Sur requête du tuteur ou du subrogé tuteur, les enchères sont reçues soit par un notaire commis à cet effet par le tribunal
+de grande instance, soit à l'audience des criées par un juge désigné par ce tribunal.
+
+Le tribunal compétent est celui dans le ressort duquel demeure la personne en tutelle.
+
+Si les biens sont situés dans plusieurs arrondissements, le tribunal peut commettre un notaire dans chacun de ces
+arrondissements et donner commission rogatoire à chacun des tribunaux de la situation de ces biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L268 (V)
+
+
+###### Article 1273
+
+Le tribunal détermine la mise à prix de chacun des biens à vendre et les conditions essentielles de la vente. Il peut
+préciser qu'à défaut d'enchères atteignant cette mise à prix, la vente pourra se faire sur une mise à prix inférieure qu'il
+fixe.
+
+Le tribunal peut, si la valeur ou la consistance des biens le justifie, faire procéder à leur estimation totale ou partielle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1274
+
+Le tribunal fixe les modalités de la publicité compte tenu de la valeur, de la nature et de la situation des biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1275
+
+Le notaire commis ou l'avocat établit un cahier des charges. Si la vente a lieu à l'audience des criées, ce cahier est déposé
+au secrétariat-greffe du tribunal.
+
+Le cahier des charges indique le jugement qui a ordonné la vente, désigne les biens à vendre et mentionne la mise à prix et
+les conditions de la vente. Lorsque la vente porte sur un fonds de commerce, le cahier des charges spécifie la nature et la
+situation tant du fonds que des divers éléments qui le composent, ainsi que les obligations qui seront imposées à
+l'acquéreur, notamment quant aux marchandises qui garnissent le fonds.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1276
+
+En application des dispositions de l'alinéa 1er de l'article 459 du code civil, le subrogé-tuteur est appelé à la vente, un
+mois au moins à l'avance, à la diligence du rédacteur du cahier des charges et informé qu'il sera procédé à la vente, même en
+son absence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 459 (V)
+
+
+###### Article 1277
+
+Si aucune enchère n'atteint le montant de la mise à prix, le juge ou le notaire, selon le cas, peut constater l'offre la plus
+élevée et adjuger le bien à titre provisoire pour le montant de cette offre.
+
+Sauf renonciation du vendeur, le tribunal qui a fixé la mise à prix, saisi à la requête du notaire, de l'avocat ou de tout
+intéressé, peut soit déclarer l'adjudication définitive et la vente réalisée, soit ordonner qu'une nouvelle vente aura lieu ;
+en ce dernier cas, il fixe le délai de la nouvelle vente sans que celui-ci puisse être inférieur à quinze jours, la mise à
+prix ainsi que les modalités de la publicité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1278
+
+Sont déclarés communs au présent chapitre les articles 701, 705 à 707, 711 à 713, 733 à 741 b et 742 du Code de procédure
+civile.
+
+Néanmoins, lorsqu'elles sont reçues par un notaire, les enchères peuvent être faites sans ministère d'avocat.
+
+Dans le cas de vente devant notaire, s'il y a lieu à folle enchère, la procédure est poursuivie devant le tribunal. Le
+certificat constatant que l'adjudicataire n'a pas exécuté les conditions est délivré par le notaire. Le procès-verbal
+d'adjudication est déposé au secrétariat-greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 701 (Ab)
+	  - Code de procédure civile - art. 742 (Ab)
+	  - Code de procédure civile 701, 705 à 707, 711 à 713, 733 à 741, 742
+
+
+###### Article 1279
+
+Dans les dix jours qui suivent l'adjudication définitive, toute personne peut faire une surenchère du dixième en se
+conformant aux formalités et délais prévus par les articles 708 à 710 du code de procédure civile.
+
+Dans le cas où l'adjudication a eu lieu devant notaire, le tribunal, par le jugement qui valide la surenchère, renvoie la
+nouvelle adjudication devant le même notaire qui procède selon le cahier des charges précédemment dressé.
+
+Lorsqu'une seconde adjudication a lieu après surenchère, aucune autre surenchère des mêmes biens ne peut avoir lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 708 (Ab)
+	  - Code de procédure civile 708, 709 et 710
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1280 (V)
+
+
+###### Article 1280
+
+La surenchère prévue par le second alinéa de l'article 459 du code civil est faite, dans les dix jours qui suivent
+l'adjudication, par déclaration au secrétariat-greffe du tribunal dans le ressort duquel réside le notaire qui a procédé à la
+vente.
+
+Cette déclaration est dénoncée à la personne ou au domicile de l'adjudicataire dans le délai de l'article 709 du Code de
+procédure civile.
+
+Les règles de l'article 1279 lui sont, pour le surplus, applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 709 (M)
+	  - Code civil - art. 459 (M)
+	  - Nouveau code de procédure civile 1279
+
+
+###### Article 1281
+
+Il n'est pas dérogé à la compétence respective des divers officiers publics en matière de vente de fonds de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.
+
+### Chapitre Ier : Les droits des époux et les régimes matrimoniaux.
+
+#### Section I : La contribution aux charges du mariage.
+
+###### Article 1282
+
+Si l'un des époux ne remplit pas son obligation de contribuer aux charges du mariage dans les conditions prévues aux articles
+214, 1448 et 1449 du Code civil, l'autre époux peut demander au tribunal d'instance de fixer la contribution de son conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Cite**:
+
+	  - Code civil - art. 214 (V)
+	  - Code civil 214, 1448 et 1449
+
+
+###### Article 1284
+
+Le jugement est, de droit, exécutoire à titre provisoire.
+
+La notification faite à la diligence d'un huissier de justice, par lettre recommandée avec demande d'avis de réception, au
+conjoint débiteur et à l'un des tiers mentionnés à l'article 1er de la loi n° 73-5 du 2 janvier 1973 vaut, en ce cas, demande
+de paiement direct.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+
+###### Article 1285
+
+La fixation de la contribution peut faire l'objet d'une nouvelle instance à la demande de l'un des époux, en cas de
+changement dans la situation de l'un ou de l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+
+#### Section II : Les autorisations et les habilitations.
+
+###### Article 1286
+
+Les demandes d'autorisation et d'habilitation prévues par la loi, et notamment aux articles 217, 219, au deuxième alinéa de
+l'article 1426 et aux articles 2139, 2140 et 2163 du Code civil, sont formées par requête au tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1287 (VD)
+	  - Code de procédure civile - art. 1289 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1426 (M)
+	  - Code civil - art. 2139 (M)
+	  - Code civil - art. 217 (V)
+	  - Code civil - art. 219 (V)
+	  - Code civil 217, 219, 1426, 2139, 2140 et 2163
+
+
+###### Article 1287
+
+La demande est instruite et jugée comme en matière gracieuse hors les cas où elle tend à passer outre au refus du conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1288
+
+Lorsque la demande d'autorisation tend à passer outre au refus du conjoint, l'époux demandeur présente requête au président
+en vue d'assigner son conjoint à jour fixe. Le tribunal entend le conjoint avant de statuer à moins que celui-ci,
+régulièrement cité, ne se présente pas. L'affaire est instruite et jugée en chambre du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1289
+
+L'appel est formé, instruit et jugé, selon les cas, comme en matière gracieuse ou comme en matière contentieuse ; dans ce
+dernier cas, l'affaire est instruite et jugée en chambre du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section III : Les mesures urgentes.
+
+###### Article 1290
+
+Les mesures urgentes prévues à l'article 220-1 du Code civil sont prescrites par le président du tribunal de grande instance
+statuant en référé ou, en cas de besoin, par ordonnance sur requête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 220-1 (M)
+
+
+#### Section IV : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.
+
+###### Article 1291
+
+Les actions prévues aux alinéas 1 et 3 de l'article 1426 et aux articles 1429 et 1580 du code civil sont régies par les
+règles applicables aux demandes en séparation de biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Code civil - art. 1426 (M)
+	  - Code civil 1426, 1429 et 1580
+
+
+#### Section V : La séparation judiciaire de biens.
+
+###### Article 1292
+
+La demande en séparation de biens est portée devant le tribunal de grande instance de la résidence de la famille.
+
+Un extrait de la demande est transmis par l'avocat du demandeur aux secrétariats-greffes des tribunaux de grande instance
+dans le ressort desquels sont nés l'un et l'autre des époux, à fin de conservation au répertoire civil et de publicité par
+mention en marge de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre.
+
+Un extrait de la demande peut, en outre, être publié dans un journal diffusé dans le ressort du tribunal saisi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1060 (V)
+	  - Code de procédure civile - art. 1296 (V)
+
+
+###### Article 1293
+
+Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent ait été portée en marge des actes
+de naissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1292
+
+
+###### Article 1294
+
+Le jugement prononçant la séparation est publié dans un journal diffusé dans le ressort du tribunal qui l'a rendu.
+
+Le dispositif du jugement est notifié à l'officier de l'état civil du lieu où le mariage a été célébré à fin de mention en
+marge de l'acte de célébration.
+
+Si un contrat de mariage a été passé par les époux, le dispositif de la décision est notifié par lettre recommandée avec
+demande d'avis de réception au notaire détenteur de la minute du contrat. Le notaire est tenu de faire mention de la décision
+sur la minute et ne doit plus, à peine de dommages-intérêts, en délivrer aucune copie, exécutoire ou non, sans reproduire
+cette mention.
+
+Dans les cas prévus aux deux alinéas qui précèdent, la notification est accompagnée de la justification du caractère
+exécutoire de la décision conformément à l'article 506.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1295 (V)
+	  - Code de procédure civile - art. 1297 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 506
+
+
+###### Article 1295
+
+Les formalités prévues à l'article 1294 sont accomplies à la diligence du demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1294
+
+
+###### Article 1296
+
+Le jugement qui rejette la demande de séparation de biens est publié conformément à l'alinéa 2 de l'article 1292.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1292
+
+
+###### Article 1297
+
+L'exécution de la décision n'est pas opposable aux créanciers des époux si elle a commencé avant que n'aient été accomplies
+les formalités prévues à l'article 1294.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1294
+
+
+###### Article 1298
+
+Dans l'année qui suit l'accomplissement de ces formalités, les créanciers de l'un ou de l'autre époux peuvent former tierce
+opposition contre le jugement de séparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1299
+
+L'aveu de l'époux défendeur ne fait pas preuve, même s'il n'y a pas de créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section VI : L'homologation judiciaire du changement de régime matrimonial.
+
+###### Article 1300
+
+La demande d'homologation d'un changement de régime matrimonial est portée devant [*compétence*] le tribunal de grande
+instance de la résidence de la famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1301
+
+L'homologation d'un changement de régime matrimonial relève de la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1302
+
+Une expédition de l'acte notarié qui modifie ou change entièrement le régime matrimonial est jointe à la requête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1303
+
+Les alinéas 2 à 3 de l'article 1292, les articles 1293 à 1296 et l'article 1298 sont applicables à l'homologation d'un
+changement de régime matrimonial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1292 à 1296 et 1298
+
+
 ## Titre IV : Les obligations et les contrats.
 
 ### Chapitre I : Les procédures d'injonction
@@ -16164,6 +20778,708 @@ La loi n° 81-1 du 2 janvier 1981 a été codifiée aux articles L. 313-23 et su
 
 	  - Arrêté du 3 mars 2011 - art. 2 (V)
 	  - Code de commerce. - art. R643-20 (V)
+
+
+###### Article 1406
+
+La demande est portée, selon le cas, devant le tribunal d'instance ou le président du tribunal de commerce dans les limites
+de la compétence d'attribution de ce dernier tribunal.
+
+Le juge territorialement compétent est celui du lieu où demeure le ou l'un des débiteurs poursuivis.
+
+Les règles prescrites aux alinéas précédents sont d'ordre public. Toute clause contraire est réputée non écrite. Le juge doit
+relever d'office son incompétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1407
+
+La demande est formée par requête remise ou adressée, selon le cas, au secrétariat-greffe ou au greffe par le créancier ou
+par tout mandataire.
+
+La requête contient :
+
+- les noms, prénoms, professions et domiciles des créancier et débiteur ou, pour les personnes morales, leur forme, leur
+dénomination et leur siège social ;
+
+- l'indication précise du montant de la somme réclamée avec le décompte des différents éléments de la créance, ainsi que du
+fondement de celle-ci.
+
+Elle est accompagnée des documents justificatifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de la sécurité sociale. - art. R142-27-1 (V)
+
+
+###### Article 1408
+
+Le créancier peut, dans la requête en injonction de payer, demander qu'en cas d'opposition, l'affaire soit immédiatement
+renvoyée devant la juridiction qu'il estime compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1409
+
+Si, au vu des documents produits, la demande lui paraît fondée en tout ou partie, le juge rend une ordonnance portant
+injonction de payer pour la somme qu'il retient.
+
+Si le juge rejette la requête, sa décision est sans recours pour le créancier, sauf à celui-ci à procéder selon les voies de
+droit commun.
+
+Si le juge ne retient la requête que pour partie, sa décision est également sans recours pour le créancier, sauf à celui-ci à
+ne pas signifier l'ordonnance et à procéder selon les voies de droit commun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1410
+
+L'ordonnance portant injonction de payer et la requête sont conservées à titre de minute au secrétariat-greffe ou au greffe.
+Les documents produits à l'appui de la requête sont provisoirement conservés au secrétariat-greffe ou au greffe.
+
+En cas de rejet de la requête, celle-ci et les documents produits sont restitués au requérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1411
+
+Une copie certifiée conforme de la requête et de l'ordonnance est signifiée, à l'initiative du créancier, à chacun des
+débiteurs.
+
+L'ordonnance portant injonction de payer est non avenue si elle n'a pas été signifiée dans les six mois de sa date.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1412
+
+Le débiteur peut s'opposer à l'ordonnance portant injonction de payer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1413
+
+A peine de nullité, l'acte de signification de l'ordonnance portant injonction de payer contient, outre les mentions
+prescrites pour les actes d'huissier de justice, sommation d'avoir :
+
+- soit à payer au créancier le montant de la somme fixée par l'ordonnance ainsi que les intérêts et frais de greffe dont le
+montant est précisé ;
+
+- soit, si le débiteur a à faire valoir des moyens de défense, à former opposition, celle-ci ayant pour effet de saisir le
+tribunal de la demande initiale du créancier et de l'ensemble du litige.
+
+Sous la même sanction, l'acte de signification :
+
+- indique le délai dans lequel l'opposition doit être formée, le tribunal devant lequel elle doit être portée et les formes
+selon lesquelles elle doit être faite ;
+
+- avertit le débiteur qu'il peut prendre connaissance au secrétariat-greffe ou au greffe des documents produits par le
+créancier et qu'à défaut d'opposition dans le délai indiqué il ne pourra plus exercer aucun recours et pourra être contraint
+par toutes voies de droit de payer les sommes réclamées.
+
+**Nota:**
+
+[*Après le 1er janvier 1982, la procédure d'injonction de payer demeurera applicable au recouvrement des créances constatées
+par une facture protestable, D. n° 81-500, 12 mai 1981, art. 54.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1414
+
+Si la signification est faite à la personne du débiteur, l'huissier de justice doit porter verbalement à la connaissance du
+débiteur les indications mentionnées à l'article 1413 ; l'accomplissement de cette formalité est mentionné dans l'acte de
+signification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1413
+
+
+###### Article 1415
+
+L'opposition est portée, suivant le cas, devant le tribunal d'instance qui a rendu l'ordonnance portant injonction de payer
+ou devant le tribunal de commerce dont le président a rendu l'ordonnance.
+
+Elle est formée au secrétariat-greffe ou au greffe, soit par déclaration contre récépissé, soit par lettre recommandée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1416
+
+L'opposition est formée dans le mois qui suit la signification de l'ordonnance.
+
+Toutefois, si la signification n'a pas été faite à personne, l'opposition est recevable jusqu'à l'expiration du délai d'un
+mois suivant le premier acte signifié à personne ou, à défaut, suivant la première mesure d'exécution ayant pour effet de
+rendre indisponibles en tout ou partie les biens du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1417
+
+Le tribunal statue sur la demande en recouvrement.
+
+Il connaît, dans les limites de sa compétence d'attribution, de la demande initiale et de toutes les demandes incidentes et
+défenses au fond.
+
+En cas de décision d'incompétence, ou dans le cas prévu à l'article 1408, l'affaire est renvoyée devant la juridiction
+compétente selon les règles prévues à l'article 97.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 97 et 1408
+
+
+###### Article 1419
+
+Si aucune des parties ne se présente, le tribunal constate l'extinction de l'instance ; celle-ci rend non avenue l'ordonnance
+portant injonction de payer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1420
+
+Le jugement du tribunal se substitue à l'ordonnance portant injonction de payer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1421
+
+Le tribunal statue à charge d'appel lorsque le montant de la demande excède le taux de sa compétence en dernier ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1422
+
+En l'absence d'opposition dans le mois qui suit la signification de l'ordonnance portant injonction de payer, quelles que
+soient les modalités de la signification, ou en cas de désistement du débiteur qui a formé opposition, le créancier peut
+demander l'apposition sur l'ordonnance de la formule exécutoire. Le désistement du débiteur obéit aux règles prévues aux
+articles 400 à 405.
+
+L'ordonnance produit tous les effets d'un jugement contradictoire. Elle n'est pas susceptible d'appel même si elle accorde
+des délais de paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 400 à 405
+
+
+###### Article 1423
+
+La demande tendant à l'apposition de la formule exécutoire est formée au secrétariat-greffe ou au greffe, soit par
+déclaration, soit par lettre simple [*modalités - forme*].
+
+L'ordonnance est non avenue si la demande du créancier n'a pas été présentée dans le délai d'un mois suivant l'expiration du
+délai d'opposition ou le désistement du débiteur.
+
+**Nota:**
+
+[*Après le 1er janvier 1982, la procédure d'injonction de payer demeurera applicable au recouvrement des créances constatées
+par une facture protestable, D. n° 81-500, 12 mai 1981, art. 54.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1424
+
+Les documents produits par le créancier et conservés provisoirement au secrétariat-greffe ou au greffe lui sont restitués sur
+sa demande dès l'opposition ou au moment où l'ordonnance est revêtue de la formule exécutoire.
+
+**Nota:**
+
+[*Après le 1er janvier 1982, la procédure d'injonction de payer demeurera applicable au recouvrement des créances constatées
+par une facture protestable, D. n° 81-500, 12 mai 1981, art. 54.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1425
+
+Devant le tribunal de commerce, les frais de l'ordonnance portant injonction de payer sont avancés par le créancier et
+consignés au greffe au plus tard dans les quinze jours de la demande prévue à l'article 1405, faute de quoi celle-ci sera
+caduque.
+
+L'opposition est reçue sans frais par le greffier. Celui-ci invite sans délai le créancier, par lettre recommandée avec
+demande d'avis de réception, à consigner les frais de l'opposition au greffe dans le délai de quinze jours à peine de
+caducité de la demande prévue à l'article 1405.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1405
+
+
+### Chapitre II : Les offres de paiement et la consignation.
+
+###### Article 1426
+
+Le procès-verbal d'offres réelles désigne la chose offerte ; s'il s'agit d'une somme d'argent, il en précise le montant et le
+mode de paiement.
+
+Il indique, dans tous les cas, le lieu où la consignation sera faite si les offres ne sont pas acceptées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de commerce - art. L523-8 (V)
+	  - Code de commerce - art. L524-6 (V)
+	  - Code de commerce - art. L925-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 31
+
+
+###### Article 1427
+
+Le procès-verbal fait mention de la réponse, du refus ou de l'acceptation du créancier, et indique s'il a signé, refusé de
+signer ou déclaré ne pouvoir signer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 31
+
+
+###### Article 1428
+
+Si le créancier refuse les offres, le débiteur peut, de lui-même, pour se libérer, se dessaisir de la somme ou de la chose
+offerte, en la consignant avec, le cas échéant, les intérêts jusqu'au jour de la consignation.
+
+Le tiers saisi qu'une opposition empêche de payer peut se libérer en consignant sans avoir à faire des offres réelles.
+
+L'officier ministériel dresse procès-verbal de la consignation et le signifie au créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 31
+
+
+###### Article 1429
+
+Les contestations relatives à la validité des offres ou de la consignation relèvent de la compétence du juge saisi du
+principal lorsqu'elles sont soulevées incidemment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 31
+
+
+### Chapitre III : La reconstitution d'actes détruits.
+
+###### Article 1430
+
+La demande en reconstitution de l'original d'un acte authentique ou sous seing privé détruit, en tous lieux, par suite de
+faits de guerre ou de sinistres est portée devant le tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1431
+
+Le tribunal compétent est celui du lieu où l'acte a été établi ou, si l'acte a été établi à l'étranger, celui du lieu où
+demeure le demandeur ; si celui-ci demeure à l'étranger, le tribunal de grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1432
+
+La reconstitution d'une décision de justice est effectuée par la juridiction qui l'a rendue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1433
+
+La demande est formée, instruite et jugée comme en matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1434
+
+Le tribunal peut opérer la reconstitution partielle de l'acte dans le cas où la preuve de certaines clauses, se suffisant à
+elles-mêmes, est seule rapportée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+### Chapitre IV : La délivrance de copies d'actes et de registres.
+
+###### Article 1435
+
+Les officiers publics ou ministériels ou les autres dépositaires d'actes sont tenus de délivrer, à charge de leurs droits,
+expédition ou copie des actes aux parties elles-mêmes, à leurs héritiers ou ayants droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1436
+
+En cas de refus ou de silence du dépositaire, le président du tribunal de grande instance, saisi par requête, statue, le
+demandeur et le dépositaire entendus ou appelés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1437
+
+La décision est exécutoire à titre provisoire.
+
+L'appel est formé, instruit et jugé comme en matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1438
+
+La partie peut obtenir copie d'un acte non enregistré ou imparfait ; elle doit en faire la demande au président du tribunal
+de grande instance. La demande est présentée par requête.
+
+En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1439
+
+La partie qui veut obtenir la délivrance d'une seconde copie exécutoire d'un acte authentique doit en faire la demande au
+président du tribunal de grande instance. La demande est présentée par requête.
+
+En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1440
+
+Les greffiers et dépositaires de registres ou répertoires publics sont tenus d'en délivrer copie ou extrait à tous
+requérants, à charge de leurs droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1441
+
+En cas de refus ou de silence, le président du tribunal de grande instance ou, si le refus émane d'un greffier, le président
+de la juridiction auprès de laquelle celui-ci exerce ses fonctions, saisi par requête, statue, le demandeur et le greffier ou
+le dépositaire entendus ou appelés.
+
+L'appel est formé, instruit et jugé comme en matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 # Livre IV : L'arbitrage.
