@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2003-09-15
+Version Consolidée au 2004-11-21
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -30328,6 +30328,100 @@ Les dispositions du titre IV du présent livre, à l'exception de celles de l'al
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1487 et 1490
+
+
+# Livre VI : Dispositions applicables à Mayotte
+
+###### Article 1508
+
+Le présent code est applicable à Mayotte dans les conditions définies au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+
+
+###### Article 1509
+
+Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
+
+1° "tribunal de grande instance" ou "tribunal d'instance" ou "tribunal de commerce" par : "tribunal de première instance" ;
+
+2° "cour" ou "cour d'appel" par : "tribunal supérieur d'appel" ;
+
+3° "juge d'instance" par : "président du tribunal de première instance ou son délégué" ;
+
+4° "premier président de la cour d'appel" par : "président du tribunal supérieur d'appel" ;
+
+5° "procureur de la République" par : "procureur de la République près le tribunal de première instance" ;
+
+6° "procureur général" par : "procureur de la République près le tribunal supérieur d'appel" ;
+
+7° "département" par : "collectivité départementale" ;
+
+8° "préfet" par : "représentant de l'Etat".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+
+
+###### Article 1510
+
+Les parties ne sont jamais tenues de se faire représenter et peuvent en toute circonstance se défendre elles-mêmes.
+
+**Nota:**
+
+NOTA : Décret n° 2004-1234 20 novembre 2004 art. 5 : Le décret n° 2004-1234 est applicable aux procédures introduites et aux
+mesures d'exécution diligentées à compter du 1er janvier 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+
+	**Cité par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 18 (V)
+
+
+###### Article 1511
+
+Sous réserve des dispositions prévues à l'article 1510 et au titre IV du livre IX du code de l'organisation judiciaire, le
+tribunal supérieur d'appel et le tribunal de première instance statuent selon les dispositions particulières de procédure
+applicables à chaque juridiction de métropole dans le domaine de compétence que le code de l'organisation judiciaire attribue
+à celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire art. 1510
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
 
 
 # Annexes
