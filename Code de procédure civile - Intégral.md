@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1992-03-14
+Version Consolidée au 1992-08-05
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13502,22 +13502,6 @@ où il n'existe pas de procédure particulière de référé.
 	  - Nouveau code de procédure civile 808 et 809
 
 
-###### Article 811
-
-Il peut également en être référé au président du tribunal pour statuer sur les difficultés d'exécution d'un jugement ou d'un
-autre titre exécutoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
-
-
 #### Chapitre II : Les ordonnances sur requête.
 
 ###### Article 812
@@ -15668,22 +15652,6 @@ ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de f
 
 	  - Décret n°85-1330 1985-12-17 art. 11 JORF 18 décembre 1985
 	  - Décret n°87-434 1987-06-17 art. 4 JORF 23 juin 1987
-
-
-###### Article 895
-
-Il peut également en être référé au président pour statuer sur les difficultés d'exécution d'un jugement du tribunal
-paritaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
 
 
 ###### Article 896
@@ -27488,8 +27456,7 @@ La sentence arbitrale a, dès qu'elle est rendue, l'autorité de la chose jugée
 ###### Article 1477
 
 La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une décision d'exequatur émanant du tribunal de
-grande instance dans le ressort duquel la sentence a été rendue. L'exequatur est ordonné par le juge de l'exécution du
-tribunal.
+grande instance dans le ressort duquel la sentence a été rendue.
 
 A cet effet, la minute de la sentence accompagnée d'un exemplaire de la convention d'arbitrage est déposée par l'un des
 arbitres ou par la partie la plus diligente au secrétariat de la juridiction.
@@ -27504,9 +27471,9 @@ arbitres ou par la partie la plus diligente au secrétariat de la juridiction.
 
 	  - Décret n°80-354 du 14 mai 1980 - art. 37 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
 
 
 ###### Article 1478
