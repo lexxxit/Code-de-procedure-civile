@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1976-01-01
+Version Consolidée au 1976-07-30
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -7282,6 +7282,26 @@ La nature, l'étendue et les modalités de la garantie sont précisées par la d
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 519
+
+Lorsque la garantie consiste en une somme d'argent, celle-ci est déposée à la Caisse des dépôts et consignations ; elle peut
+aussi l'être, à la demande de l'une des parties, entre les mains d'un tiers commis à cet effet.
+
+Dans ce dernier cas, le juge, s'il fait droit à cette demande, constate dans sa décision les modalités du dépôt.
+
+Si le tiers refuse le dépôt, la somme est déposée, sans nouvelle décision, à la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 2 JORF 30 juillet 1976
+
+
 ###### Article 520
 
 Si la valeur de la garantie ne peut être immédiatement appréciée, le juge invite les parties à se présenter devant lui à la
@@ -9237,6 +9257,43 @@ fraction à la charge d'une autre partie.
 	  - Code de procédure pénale - art. R93 (V)
 
 
+###### Article 697
+
+Les avocats, avoués et huissiers de justice peuvent être personnellement condamnés aux dépens afférents aux instances, actes
+et procédures d'exécution accomplis en dehors des limites de leur mandat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 3 JORF 30 juillet 1976
+
+
+###### Article 698
+
+Les dépens afférents aux instances, actes et procédures d'exécution injustifiés sont à la charge des auxiliaires de justice
+qui les ont faits, sans préjudice des dommages-intérêts qui seraient réclamés. Il en est de même des dépens afférents aux
+instances, actes et procédures d'exécution nuls par l'effet de leur faute.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1924-06-01 du 1 juin 1924 - art. 159 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 4 JORF 30 juillet 1976
+
+
 ###### Article 699
 
 Les avocats et les avoués peuvent, dans les matières où leur ministère est obligatoire, demander que la condamnation aux
@@ -9251,6 +9308,32 @@ créance de dépens.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 700
+
+Lorsqu'il paraît inéquitable de laisser à la charge d'une partie des sommes exposées par elle et non comprises dans les
+dépens, le juge peut condamner l'autre partie à lui payer le montant qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°60-323  du 2 avril 1960  - art. 68 (VT)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 4 (V)
+	  - Code de procédure civile - art. 1026 (VD)
+	  - Code de procédure civile - art. 818 (Ab)
+	  - Code de procédure civile - art. 865 (VD)
+	  - Code de procédure civile - art. 963 (VD)
+	  - Code de procédure civile - art. 964 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 5 JORF 30 juillet 1976
 
 
 ### Chapitre II : La liquidation des dépens à recouvrer par le secrétariat.
@@ -10493,6 +10576,22 @@ aurait été attribuée à un juge unique.
 
 #### Chapitre II : Procédure en matière gracieuse.
 
+###### Article 797
+
+La demande est formée par un avocat, ou par un officier public ou ministériel dans les cas où ce dernier y est habilité par
+les dispositions en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 6 JORF 30 juillet 1976
+
+
 ###### Article 798
 
 Le ministère public doit avoir communication des affaires gracieuses.
@@ -10698,6 +10797,24 @@ distribuée ou au juge déjà saisi.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 813
+
+La requête est présentée par un avocat, ou par un officier public ou ministériel dans les cas où ce dernier y est habilité
+par les dispositions en vigueur.
+
+Si elle est présentée à l'occasion d'une instance, elle doit indiquer la juridiction saisie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 7 JORF 30 juillet 1976
 
 
 ### Sous-titre III : Dispositions diverses.
@@ -12054,6 +12171,25 @@ improprement qualifiés en dernier ressort, ou exercer les pouvoirs qui lui sont
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
+###### Article 913
+
+Les avoués ont seuls qualité pour représenter les parties et conclure en leur nom.
+
+Les avis ou injonctions sont valablement adressés aux seuls avoués.
+
+Les avocats sont entendus sur leur demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 8 JORF 30 juillet 1976
+
+
 ###### Article 914
 
 Les ordonnances du conseiller de la mise en état ne sont susceptibles d'aucun recours indépendamment de l'arrêt sur le fond.
@@ -12456,6 +12592,30 @@ dispositions aux organismes qui doivent être tenus informés de la procédure e
 
 
 #### Chapitre II : La procédure en matière gracieuse.
+
+###### Article 950
+
+L'appel contre une décision gracieuse est formé, par une déclaration faite ou adressée par pli recommandé au secrétariat de
+la juridiction qui a rendu la décision, par un avocat ou un avoué, ou un autre officier public ou ministériel dans les cas où
+ce dernier y est habilité par les dispositions en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 9 JORF 30 juillet 1976
+
+	**Cité par**:
+
+	  - Décret n°2014-346 du 17 mars 2014 - art. 22 (V)
+	  - Code de commerce - art. R123-141 (V)
+	  - Code de commerce - art. R123-148 (V)
+	  - Code de commerce - art. R527-16 (V)
+
 
 ###### Article 953
 
