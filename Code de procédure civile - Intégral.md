@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1976-12-30
+Version Consolidée au 1978-01-24
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -459,6 +459,28 @@ Est irrecevable toute prétention émise par ou contre une personne dépourvue d
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 32-1
+
+Celui qui agit en justice de manière dilatoire ou abusive peut être condamné à une amende civile de 100 F à 10000 F, sans
+préjudice des dommages-intérêts qui seraient réclamés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°65-557 du 10 juillet 1965 - art. 42 (V)
+	  - Décret n°2011-945 du 10 août 2011 - art. 7 (V)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°78-62 1978-01-20 art. 14 JORF 24 janvier 1978
 
 
 ## Titre III : La compétence.
@@ -1321,6 +1343,35 @@ contredit, jusqu'à ce que la cour d'appel ait rendu sa décision.
 	  - Code de procédure civile - art. 847-5 (VT)
 
 
+###### Article 82
+
+Le contredit doit, à peine d'irrecevabilité, être motivé et remis au secrétariat de la juridiction qui a rendu la décision
+dans les quinze jours de celle-ci.
+
+Si le contredit donne lieu à perception de frais par le secrétariat, la remise n'est acceptée que si son auteur a consigné
+ces frais.
+
+Il est délivré récépissé de cette remise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1978-01-20 art. 16 JORF 24 janvier 1978
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1417 (VD)
+	  - Code de procédure civile - art. 1424-9 (VD)
+	  - Code de procédure civile - art. 1425-8 (VD)
+	  - Code de procédure civile - art. 354 (V)
+	  - Code de procédure civile - art. 47 (VD)
+
+
 ###### Article 85
 
 Les parties peuvent, à l'appui de leur argumentation, déposer toutes observations écrites qu'elles estiment utiles. Ces
@@ -1343,6 +1394,28 @@ renvoi.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 88
+
+Les frais éventuellement afférents au contredit sont à la charge de la partie qui succombe sur la question de compétence. Si
+elle est l'auteur du contredit, elle peut, en outre, être condamnée à une amende civile de 100 à 10000 F, sans préjudice des
+dommages-intérêts qui pourraient lui être réclamés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 26 octobre 1849 - art. 11 (VT)
+	  - Décret n°71-188 du 9 mars 1971  - art. 13 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1978-01-20 art. 18 JORF 24 janvier 1978
 
 
 ###### Article 89
@@ -9661,6 +9734,37 @@ La nullité des notifications est régie par les dispositions qui gouvernent la 
 
 ### Chapitre Ier : La charge des dépens.
 
+###### Article 695
+
+Les dépens afférents aux instances, actes et procédures d'exécution comprennent :
+
+1. Les droits, taxes, redevances ou émoluments perçus par les secrétariats des juridictions ou l'administration des impôts à
+l'exception des droits, taxes et pénalités éventuellement dus sur les actes et titres produits à l'appui des prétention des
+parties ;
+
+[*2. abrogé par décret 78-62 1978-01-20 art. 19-I*]
+
+3. Les indemnités des témoins ;
+
+4. La rémunération des techniciens ;
+
+5. Les débours tarifés ;
+
+6. Les émoluments des officiers publics ou ministériels ;
+
+7. La rémunération des avocats, dans la mesure où elle est réglementée y compris les droits de plaidoirie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1978-01-20 art. 19-I et 19-II JORF 24 janvier 1978
+
+
 ###### Article 696
 
 La partie perdante est condamnée aux dépens, à moins que le juge, par décision motivée, n'en mette la totalité ou une
@@ -9758,6 +9862,28 @@ dépens, le juge peut condamner l'autre partie à lui payer le montant qu'il dé
 
 ### Chapitre II : La liquidation des dépens à recouvrer par le secrétariat.
 
+###### Article 701
+
+Les dépens prévus à l'article 695 (1° et 3°) sont liquidés dans le jugement qui les adjuge ou par mention apposée sur la
+minute par l'un des juges de la juridiction.
+
+Les expéditions du jugement peuvent être délivrées avant que la liquidation ne soit faite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1978-01-20 art. 20 JORF 24 janvier 1978
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 695
+
+
 ###### Article 702
 
 Lorsque le montant des dépens liquidés ne figure pas dans l'expédition du jugement, le secrétaire délivre un titre
@@ -9768,6 +9894,25 @@ exécutoire.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 703
+
+La liquidation peut être contestée selon la procédure prévue aux articles 708 à 718.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1978-01-20 art. 21 JORF 24 janvier 1978
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718
 
 
 ### Chapitre III : La vérification et le recouvrement des dépens.
@@ -12895,6 +13040,29 @@ Le secrétaire enregistre l'appel à sa date ; il délivre ou adresse par lettre
 	  - Code de procédure civile - art. 1200-11 (V)
 
 
+###### Article 936
+
+Dès l'accomplissement des formalités par l'appelant, le secrétaire avise par lettre simple, la partie adverse de l'appel en
+l'informant qu'elle sera ultérieurement convoquée devant la cour. Simultanément, il transmet au secrétariat-greffe de la cour
+le dossier de l'affaire avec une copie de la déclaration et une copie du jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1978-01-20 art. 22 JORF 24 janvier 1978
+
+	**Cité par**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R13-48 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R311-24 (V)
+	  - Code de procédure civile - art. 949 (V)
+
+
 ###### Article 938
 
 S'il y a lieu de convoquer à nouveau une partie qui n'a pas été jointe par la première convocation, il peut être ordonné que
@@ -13053,6 +13221,32 @@ ce dernier y est habilité par les dispositions en vigueur.
 	  - Code de commerce - art. R123-141 (V)
 	  - Code de commerce - art. R123-148 (V)
 	  - Code de commerce - art. R527-16 (V)
+
+
+###### Article 952
+
+Le juge peut, sur cette déclaration, modifier ou rétracter sa décision.
+
+Dans le cas contraire, le secrétaire de la juridiction transmet sans délai au secrétariat-greffe de la cour le dossier de
+l'affaire avec la déclaration et une copie de la décision.
+
+Le juge informe la partie dans le délai d'un mois de sa décision d'examiner à nouveau l'affaire ou de la transmettre à la
+cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-714 1976-07-29 art. 10 JORF 30 juillet 1976
+	  - Décret n°78-62 1978-01-20 art. 23 JORF 24 janvier 1978
+
+	**Cité par**:
+
+	  - Décret n°2014-346 du 17 mars 2014 - art. 22 (V)
 
 
 ###### Article 953
