@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1994-02-01
+Version Consolidée au 1995-03-03
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -22025,6 +22025,76 @@ l'enfant.
 	**Créé par**:
 
 	  - Décret n°93-1091 du 16 septembre 1993 - art. 11 () JORF 17 septembre 1993
+
+
+#### Section VI : Le consentement à la procréation médicalement assistée.
+
+###### Article 1157-2
+
+Les époux ou concubins qui recourent à une assistance médicale à la procréation nécessitant l'intervention d'un tiers
+donneur, prévue à l'article 311-20 du code civil, y consentent par déclaration conjointe devant le président du tribunal de
+grande instance de leur choix ou son délégué, ou devant notaire.
+
+La déclaration est recueillie par acte authentique hors la présence de tiers.
+
+Expédition ou copie de l'acte ne peut être délivrée qu'à ceux dont le consentement a été recueilli.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°95-223 du 24 février 1995 - art. 1 () JORF 3 mars 1995
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. R2141-11 (V)
+	  - Code de la santé publique - art. R2141-14 (M)
+	  - Code de la santé publique - art. R2141-27 (M)
+	  - Code de la santé publique - art. R2142-25 (V)
+	  - Code de procédure civile - art. 1157-3 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 311-20 (M)
+
+
+###### Article 1157-3
+
+Avant de recueillir le consentement, le juge ou le notaire informe ceux qui s'apprêtent à l'exprimer :
+
+- de l'impossibilité d'établir un lien de filiation entre l'enfant issu de la procréation et l'auteur du don, ou d'agir en
+responsabilité à l'encontre de celui-ci ;
+
+- de l'interdiction d'exercer une action en contestation de filiation ou en réclamation d'état au nom de l'enfant, à moins
+qu'il ne soit soutenu que celui-ci n'est pas issu de la procréation médicalement assistée ou que le consentement a été privé
+d'effet ;
+
+- des cas où le consentement est privé d'effet ;
+
+- de la possibilité de faire déclarer judiciairement la paternité hors mariage de celui qui, après avoir consenti à
+l'assistance médicale à la procréation, ne reconnaît pas l'enfant qui en est issu, et d'exercer contre lui une action en
+responsabilité de ce chef.
+
+L'acte prévu à l'article 1157-2 mentionne que cette information a été donnée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°95-223 du 24 février 1995 - art. 1 () JORF 3 mars 1995
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1157-2
 
 
 ### Chapitre VII : La déclaration d'abandon
