@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1985-12-29
+Version Consolidée au 1986-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -7141,6 +7141,29 @@ ordonnance sur requête.
 	  - Décret n°81-500 1981-05-12 art. 17 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
+###### Article 465-1
+
+Lorsqu'un jugement fixe une pension alimentaire ou une des créances prévues aux articles 214, 276 et 342 du code civil, les
+parties sont informées par un document joint à l'expédition du jugement des modalités de recouvrement, des règles de révision
+de la créance et des sanctions pénales encourues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 1 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code civil - art. 214 (V)
+	  - Code civil - art. 276 (M)
+	  - Code civil - art. 342 (M)
+
+
 ###### Article 466
 
 En matière gracieuse, copie de la requête est annexée à l'expédition du jugement.
@@ -9711,6 +9734,49 @@ constatés et appréciés par les juges du fond, lui permettent d'appliquer la r
 	  - PILOTE_SUIVEUR: CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-5 (Ab)
 
 
+###### Article 628
+
+Le demandeur en cassation qui succombe dans son pourvoi peut, en cas de recours jugé abusif, être condamné à une amende
+civile dont le montant ne peut excéder 20000 F et, dans les mêmes limites, au paiement d'une indemnité envers le défendeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979
+	  - Décret n°85-1330 1985-12-17 art. 2 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+	  - Code de procédure civile - art. 1026 (VD)
+	  - Code de procédure civile - art. 1029 (V)
+
+
+###### Article 629
+
+Sans préjudice de l'application des dispositions de l'article 700, la Cour de cassation peut laisser la totalité ou une
+fraction des dépens à la charge d'une partie autre que celle qui succombe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 3 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 700
+
+
 ###### Article 630
 
 L'arrêt emporte exécution forcée pour le paiement de l'amende, de l'indemnité et des dépens.
@@ -10787,6 +10853,27 @@ destinataire.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 686
+
+L'huissier de justice doit, le jour même de la signification faite au parquet ou, au plus tard, le premier jour ouvrable,
+expédier au destinataire par lettre recommandée avec demande d'avis de réception, une copie certifiée conforme de l'acte
+signifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 4 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 693 (V)
+
+
 ###### Article 687
 
 S'il n'est pas établi que le destinataire d'un acte en a eu connaissance en temps utile, le juge saisi de l'affaire peut
@@ -11570,6 +11657,81 @@ mentionne, s'il y a lieu, les sommes déjà perçues soit à titre de provision,
 	**Cite**:
 
 	  - Nouveau code de procédure civile 720
+
+
+### Chapitre V : Les contestations relatives à la rémunération des techniciens.
+
+###### Article 724
+
+Les décisions mentionnées aux articles 255, 262 et 284, émanant d'un magistrat d'une juridiction de première instance ou de
+la cour d'appel, peuvent être frappées de recours devant le premier président de la cour d'appel dans les conditions prévues
+aux articles 714 (alinéa 2) et 715 à 718. Si la décision émane du premier président de la cour d'appel, elle peut être
+modifiée dans les mêmes conditions par celui-ci.
+
+Le délai court, à l'égard de chacune des parties, du jour de la notification qui lui est faite par le technicien.
+
+Le recours et le délai pour l'exercer ne sont pas suspensifs d'exécution. Le recours doit, à peine d'irrecevabilité, être
+dirigé contre toutes les parties et contre le technicien s'il n'est pas formé par celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 18 JORF 30 décembre 1976
+	  - Décret n°85-1330 1985-12-17 art. 5 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 255, 262, 284, 714, 715, 716, 717, 718
+
+
+###### Article 725
+
+La notification doit mentionner, à peine de nullité, la teneur de l'article précédent ainsi que celle des articles 714
+(alinéa 2) et 715.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 19 JORF 30 décembre 1976
+	  - Décret n°85-1330 1985-12-17 art. 6 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 714, 715, 724
+
+
+### Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce.
+
+###### Article 725-1
+
+Par dérogation aux articles 704 à 708, les demandes ou contestations relatives aux frais, émoluments et débours, compris ou
+non dans les dépens des greffiers des tribunaux de commerce, sont portées directement devant le président du tribunal de
+grande instance dans le ressort duquel le greffier du tribunal de commerce exerce ses fonctions, sans qu'il y ait lieu
+d'établir préalablement un certificat de vérification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 7 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 704, 705, 706, 707, 708
 
 
 ## Titre XIX : Le secrétariat de la juridiction.
@@ -14783,6 +14945,40 @@ Copie des conclusions est remise au secrétariat-greffe avec la justification de
 	  - Code de procédure civile - art. 916 (V)
 
 
+###### Article 910
+
+L'affaire est instruite sous le contrôle d'un magistrat de la chambre à laquelle elle est distribuée, dans les conditions
+prévues par les articles 763 à 787 et par les dispositions qui suivent.
+
+Lorsque l'affaire semble présenter un caractère d'urgence ou pouvoir être jugée à bref délai, le président de la chambre à
+laquelle elle est distribuée fixe les jours et heure auxquels elle sera appelée ; au jour indiqué, il est procédé selon les
+modalités prévues aux articles 760 à 762.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 12 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 38 (VD)
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 8 (VD)
+	  - Code de commerce. - art. R661-6 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 760 à 787
+
+
 ###### Article 911
 
 Le conseiller de la mise en état est compétent pour déclarer l'appel irrecevable et trancher à cette occasion toute question
@@ -15472,6 +15668,36 @@ L'appel est instruit et jugé selon les règles applicables en matière gracieus
 
 #### Chapitre III : Dispositions communes.
 
+###### Article 954
+
+Les conclusions d'appel doivent formuler expressément les prétentions de la partie et les moyens sur lesquels chacune des
+prétentions est fondée.
+
+L'avoué ou les avoués d'une ou plusieurs parties peuvent être invités à récapituler les moyens qui auraient été
+successivement présentés. Les moyens qui ne sont pas récapitulés sont regardés comme abandonnés.
+
+La partie qui conclut à l'infirmation du jugement doit expressément énoncer les moyens qu'elle invoque sans pouvoir procéder
+par voie de référence à ses conclusions de première instance.
+
+La partie qui, sans énoncer de nouveaux moyens, demande la confirmation du jugement est réputée s'en approprier les motifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 11 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°85-1330 1985-12-17 art. 13 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 913 (VD)
+	  - Code de procédure civile - art. 913-1 (MMN)
+
+
 ###### Article 955
 
 Lorsqu'elle confirme un jugement, la cour est réputée avoir adopté les motifs de ce jugement qui ne sont pas contraires aux
@@ -16149,6 +16375,28 @@ des défendeurs au pourvoi. Elle désigne la décision attaquée.
 	**Modifié par**:
 
 	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 986
+
+Le secrétaire enregistre le pourvoi. Il mentionne la date à laquelle il est formé et délivre, ou adresse par lettre
+recommandée avec demande d'avis de réception, récépissé de la déclaration, lequel reproduit la teneur des articles 989 et
+994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°85-1330 1985-12-17 art. 14 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 989 et 994
 
 
 ###### Article 987
@@ -17217,6 +17465,34 @@ l'arrêt de cassation y est annexée.
 	  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
+###### Article 1034
+
+A moins que la juridiction de renvoi n'ait été saisie sans notification préalable, la déclaration doit, à peine
+d'irrecevabilité relevée d'office, être faite avant l'expiration d'un délai de quatre mois à compter de la notification de
+l'arrêt de cassation faite à la partie. Ce délai court même à l'encontre de celui qui notifie.
+
+L'absence de déclaration dans le délai ou l'irrecevabilité de celle-ci confère force de chose jugée au jugement rendu en
+premier ressort lorsque la décision cassée avait été rendue sur appel de ce jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 15 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1035 (V)
+
+
 ###### Article 1035
 
 L'acte de notification de l'arrêt de cassation doit, à peine de nullité, indiquer de manière très apparente le délai
@@ -17525,6 +17801,38 @@ de Paris ou ce tribunal.
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
+###### Article 1048-1
+
+La demande en rectification des actes de l'état civil détenus par le service central de l'état civil du ministère des
+relations extérieures est présentée au président du tribunal de grande instance du lieu où est établi ce service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 16 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+
+###### Article 1048-2
+
+La demande en rectification des pièces tenant lieu d'actes d'état civil à un réfugié ou à un apatride est présentée au
+président du Tribunal de grande instance de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 16 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+
 ###### Article 1049
 
 Le président ou le tribunal territorialement compétent pour ordonner la rectification d'un acte ou d'un jugement est
@@ -17544,6 +17852,36 @@ reproduisent l'erreur ou comportent l'omission originaire.
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1056-1 (V)
+
+
+###### Article 1050
+
+Le procureur de la République territorialement compétent pour procéder à la rectification administrative des erreurs et
+omissions purement matérielles des actes de l'état civil est celui où l'acte a été dressé.
+
+Le procureur de la République territorialement compétent pour procéder à la rectification administrative des erreurs et
+omissions purement matérielles des actes de l'état civil détenus par le service central de l'état civil du ministère des
+relations extérieures est celui du lieu où est établi ce service.
+
+Le procureur de la République territorialement compétent pour procéder à la même rectification des pièces tenant lieu d'actes
+d'état civil à un réfugié ou à un apatride est celui établi près le Tribunal de grande instance de Paris.
+
+Toutefois, la demande peut toujours être présentée au procureur de la République du lieu où demeure l'intéressé afin d'être
+transmise au procureur de la République territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 17 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
 
 
 ###### Article 1051
@@ -18020,6 +18358,53 @@ Il statue, s'il y a lieu, sur les exceptions d'incompétence.
 
 ##### Sous-section III : Les demandes.
 
+###### Article 1075
+
+Dès le début de la procédure, les époux font, le cas échéant, connaître, avec les indications nécessaires à leur
+identification, la caisse d'assurance maladie à laquelle ils sont affiliés, les services ou organismes qui servent les
+prestations familiales, les pensions de retraite ou tout avantage de vieillesse ainsi que la dénomination et l'adresse de ces
+caisses, services ou organismes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 20 JORF 18 juillet 1984 rectificatif JORF 18 août 1984
+	  - Décret n°85-1330 1985-12-17 art. 21 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1090 (V)
+
+
+###### Article 1075-1
+
+Les époux doivent, à la demande du juge, justifier de leurs charges et ressources, notamment par la production de
+déclarations de revenus, d'avis d'imposition et de bordereaux de situation fiscale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 18 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1084 (V)
+
+
 ###### Article 1076
 
 L'époux qui présente une demande en divorce peut, en tout état de cause, et même en appel, lui substituer une demande en
@@ -18036,6 +18421,23 @@ La substitution inverse est interdite.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1076-1
+
+Lorsqu'une des parties n'a demandé que le versement d'une pension alimentaire ou d'une contribution aux charges du mariage,
+le juge ne peut prononcer le divorce sans avoir invité les parties à s'expliquer sur le versement d'une prestation
+compensatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 19 JORF 18 décembre 1985en vigueur le 1er janvier 1986
 
 
 ###### Article 1077
@@ -21017,6 +21419,63 @@ Les dispositions des articles 1228 et 1229 sont applicables à l'instance en hom
 
 	  - Code civil - art. 466 (M)
 	  - Nouveau code de procédure civile 1228 et 1229
+
+
+#### Section IV : Dispositions particulières aux pupilles de l'Etat.
+
+###### Article 1231-1
+
+Par dérogation aux dispositions de l'article 1223, le recours contre les délibérations du conseil de famille des pupilles de
+l'Etat est formé [*modalités*] par requête signée par un avocat et remise, ou adressée par lettre recommandée, au greffe du
+tribunal de grande instance.
+
+La procédure prévue à l'article 1217 est applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 20 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1217 et 1223
+
+
+###### Article 1231-2
+
+La demande relative au recours contre l'arrêté d'admission en qualité de pupille de l'Etat prévu à l'article 61 du Code de la
+famille et de l'aide sociale est portée devant le tribunal de grande instance dans le ressort duquel l'arrêté a été pris.
+
+Les articles 1159, 1160, 1161 (alinéa 1), et 1162 sont applicables à la demande et à l'instance.
+
+Le jugement est prononcé en audience publique. Il est notifié par le greffier au demandeur, au tuteur et au président du
+conseil général.
+
+Les voies de recours sont régies par les dispositions de l'article 1163.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°85-1330 1985-12-17 art. 20 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 61 (M)
+	  - Nouveau code de procédure civile 1159, 1160, 1161, 1162 et 1163
 
 
 ### Chapitre XI : Les régimes de protection des majeurs
