@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2001-10-01
+Version Consolidée au 2002-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -788,8 +788,8 @@ Est irrecevable toute prétention émise par ou contre une personne dépourvue d
 
 ###### Article 32-1
 
-Celui qui agit en justice de manière dilatoire ou abusive peut être condamné à une amende civile de 100 F à 10000 F, sans
-préjudice des dommages-intérêts qui seraient réclamés.
+Celui qui agit en justice de manière dilatoire ou abusive peut être condamné à une amende civile de 15 euros à 1 500 euros,
+sans préjudice des dommages-intérêts qui seraient réclamés.
 
 **Liens relatifs à cet article**
 
@@ -803,9 +803,9 @@ préjudice des dommages-intérêts qui seraient réclamés.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-62 1978-01-20 art. 14 JORF 24 janvier 1978
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ## Titre III : La compétence.
@@ -1824,8 +1824,8 @@ Cet arrêt n'est pas susceptible d'opposition. Le délai de pourvoi en cassation
 ###### Article 88
 
 Les frais éventuellement afférents au contredit sont à la charge de la partie qui succombe sur la question de compétence. Si
-elle est l'auteur du contredit, elle peut, en outre, être condamnée à une amende civile de 100 à 10000 F, sans préjudice des
-dommages-intérêts qui pourraient lui être réclamés.
+elle est l'auteur du contredit, elle peut, en outre, être condamnée à une amende civile de 15 à 1 500 euros, sans préjudice
+des dommages-intérêts qui pourraient lui être réclamés.
 
 **Liens relatifs à cet article**
 
@@ -1840,7 +1840,7 @@ dommages-intérêts qui pourraient lui être réclamés.
 
 	**Modifié par**:
 
-	  - Décret n°78-62 1978-01-20 art. 18 JORF 24 janvier 1978
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article 89
@@ -3592,7 +3592,7 @@ divorcé.
 Les témoins défaillants peuvent être cités à leurs frais si leur audition est jugée nécessaire. 
 
 Les témoins défaillants et ceux qui, sans motif légitime, refusent de déposer ou de prêter serment peuvent être condamnés à
-une amende civile de 100 à 10000 F. 
+une amende civile de 15 à 1 500 euros.
 
 Celui qui justifie n'avoir pas pu se présenter au jour fixé pourra être déchargé de l'amende et des frais de citation.
 
@@ -3601,6 +3601,10 @@ Celui qui justifie n'avoir pas pu se présenter au jour fixé pourra être déch
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -4963,13 +4967,17 @@ ordonnance ou d'un jugement.
 ###### Article 295
 
 S'il est jugé que la pièce a été écrite ou signée par la personne qui l'a déniée, celle-ci est condamnée à une amende civile
-de 100 à 10000 F sans préjudice des dommages-intérêts qui seraient réclamés.
+de 15 à 1 500 euros sans préjudice des dommages-intérêts qui seraient réclamés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -5109,14 +5117,18 @@ Le juge peut  ordonner l'audition de celui qui a dressé l'acte litigieux.
 
 ###### Article 305
 
-Le demandeur en faux qui succombe est condamné à une amende civile de 100 à 10000 F sans préjudice des dommages-intérêts qui
-seraient réclamés.
+Le demandeur en faux qui succombe est condamné à une amende civile de 15 à 1 500 euros sans préjudice des dommages-intérêts
+qui seraient réclamés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -6034,14 +6046,18 @@ Si la récusation est admise, il est procédé au remplacement du juge.
 
 ###### Article 353
 
-Si la récusation est rejetée, son auteur peut être condamné à une amende civile de 100 à 10000 F sans préjudice des dommages-
-intérêts qui pourraient être réclamés.
+Si la récusation est rejetée, son auteur peut être condamné à une amende civile de 15 à 1500 euros sans préjudice des
+dommages-intérêts qui pourraient être réclamés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article 354
@@ -9385,8 +9401,8 @@ La renonciation ne vaut pas si, postérieurement, une autre partie interjette el
 
 ###### Article 559
 
-En cas d'appel principal dilatoire ou abusif, l'appelant peut être condamné à une amende civile de 100 F à 10000 F, sans
-préjudice des dommages-intérêts qui lui seraient réclamés.
+En cas d'appel principal dilatoire ou abusif, l'appelant peut être condamné à une amende civile de 15 euros à 1 500 euros,
+sans préjudice des dommages-intérêts qui lui seraient réclamés.
 
 Cette amende, perçue séparément des droits d'enregistrement de la décision qui l'a prononcée, ne peut être réclamée aux
 intimés. Ceux-ci peuvent obtenir une expédition de la décision revêtue de la formule exécutoire sans que le non-paiement de
@@ -9397,6 +9413,10 @@ l'amende puisse y faire obstacle.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -9704,7 +9724,7 @@ Les voies extraordinaires de recours ne sont ouvertes que dans les cas spécifi�
 
 ###### Article 581
 
-En cas de recours dilatoire ou abusif, son auteur peut être condamné à une amende civile de 100 à 10.000 F, sans préjudice
+En cas de recours dilatoire ou abusif, son auteur peut être condamné à une amende civile de 15 à 1 500 euros, sans préjudice
 des dommages-intérêts qui seraient réclamés à la juridiction saisie du recours.
 
 **Liens relatifs à cet article**
@@ -9712,6 +9732,10 @@ des dommages-intérêts qui seraient réclamés à la juridiction saisie du reco
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -10534,7 +10558,8 @@ constatés et appréciés par les juges du fond, lui permettent d'appliquer la r
 ###### Article 628
 
 Le demandeur en cassation qui succombe dans son pourvoi peut, en cas de recours jugé abusif, être condamné à une amende
-civile dont le montant ne peut excéder 20000 F et, dans les mêmes limites, au paiement d'une indemnité envers le défendeur.
+civile dont le montant ne peut excéder 3000 euros et, dans les mêmes limites, au paiement d'une indemnité envers le
+défendeur.
 
 **Liens relatifs à cet article**
 
@@ -10544,8 +10569,7 @@ civile dont le montant ne peut excéder 20000 F et, dans les mêmes limites, au 
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979
-	  - Décret n°85-1330 1985-12-17 art. 2 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -16274,7 +16298,7 @@ exclusivement sur la demande initiale, dépasse le taux de la compétence en der
 Art. R. 517-5
 
 Si une demande reconventionnelle reconnue mal fondée a eu pour effet de rendre le jugement susceptible d'appel, la Cour peut
-condamner son auteur à une amende civile de 100 à 10.000 F [*montant*] sans préjudice des dommages-intérêts qui seraient
+condamner son auteur à une amende civile de 15 à 1500 euros [*montant*] sans préjudice des dommages-intérêts qui seraient
 réclamés.
 
 Section 3 : L'opposition.
@@ -16328,7 +16352,7 @@ Lorsque la demande de récusation est portée devant la Cour d'appel, elle est j
 
 **Nota:**
 
-Nota - (1) Par décisions n° 97 407, 97 408 et 97 413 en date du 11 février 1977 (J.O. du 26 avril 1977), le Conseil d'Etat
+NOTA (1) : Par décisions n° 97 407, 97 408 et 97 413 en date du 11 février 1977 (JORF du 26 avril 1977), le Conseil d'Etat
 statuant au contentieux avait annulé les articles R. 516-21 à R. 516-25, tels qu'ils résultent de l'article 4 du décret du 12
 septembre 1974, en tant qu'ils permettent à un conseiller rapporteur unique de prendre des mesures de caractère
 juridictionnel.
@@ -16341,13 +16365,7 @@ juridictionnel.
 
 	**Modifié par**:
 
-	  - Décret n°79-1022 1979-11-23 art. 12 JORF 2 décembre 1979
-	  - Décret n°80-303 1980-04-28 art. 1 JORF 29 avril 1980
-	  - Décret n°81-835 du 8 septembre 1981 - art. 1 () JORF 10 septembre 1981
-	  - Décret n°82-1073 1982-12-15 art. 12, art. 15 JORF 21 décembre 1982
-	  - Décret n°87-107 1987-02-18 art. 16 JORF 19 février 1987
-	  - Décret n°87-452 du 29 juin 1987 - art. 2 () JORF 30 juin 1987
-	  - Décret n°88-765 1988-06-17 art. 1 JORF 22 juin 1988
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -24764,8 +24782,8 @@ La décision du tribunal de grande instance n'est pas susceptible d'appel.
 
 ###### Article 1230
 
-Le montant des amendes civiles prévues aux articles 389-5, 395, 412 et 413 du code civil est de 50 F au moins et de 500 F au
-plus.
+Le montant des amendes civiles prévues aux articles 389-5, 395, 412 et 413 du code civil est de 7,5 euros au moins et de 75
+euros au plus.
 
 Les décisions qui les prononcent ne sont pas susceptibles du recours prévu à l'article 1215.
 
@@ -24775,9 +24793,9 @@ Les décisions qui les prononcent ne sont pas susceptibles du recours prévu à 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5, art. 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
