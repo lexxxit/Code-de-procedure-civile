@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1998-06-25
+Version Consolidée au 1999-03-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -1197,14 +1197,15 @@ L'assignation contient à peine de nullité, outre les mentions prescrites pour 
 
 1° L'indication de la juridiction devant laquelle la demande est portée ;
 
-2° L'objet de la demande avec un exposé des moyens ;
+2° L'objet de la demande avec un exposé des moyens en fait et en droit ;
 
-3° L'indication que, faute pour le défendeur de comparaître , il s'expose à ce qu'un jugement soit rendu contre lui sur les
+3° L'indication que, faute pour le défendeur de comparaître, il s'expose à ce qu'un jugement soit rendu contre lui sur les
 seuls éléments fournis par son adversaire ;
 
 4° Le cas échéant, les mentions relatives à la désignation des immeubles exigées pour la publication au fichier immobilier.
 
-Elle comprend aussi l'indication des pièces sur lesquelles la demande est fondée.
+Elle comprend en outre l'indication des pièces sur lesquelles la demande est fondée. Ces pièces sont énumérées sur un
+bordereau qui lui est annexé.
 
 Elle vaut conclusions.
 
@@ -1213,6 +1214,10 @@ Elle vaut conclusions.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 3 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 	**Cité par**:
 
@@ -2840,14 +2845,48 @@ chaque matière, au vu d'un extrait ou d'une copie certifiée conforme du jugeme
 
 La mesure d'instruction est exécutée sous le contrôle du juge qui l'a ordonnée lorsqu'il n'y procède pas lui-même.
 
-Lorsque la mesure est ordonnée par une juridiction statuant en formation collégiale, le contrôle est exercé par le juge qui
-était chargé de l'instruction ; à défaut, il l'est par le président s'il n'a été confié à l'un des juges de cette formation.
+Lorsque la mesure est ordonnée par une formation collégiale, le contrôle est exercé par le juge qui était chargé de
+l'instruction. A défaut, il l'est par le président de la formation collégiale s'il n'a pas été confié à un membre de celle-
+ci.
+
+Le juge mentionné au premier alinéa et la formation collégiale peuvent également avoir recours au juge désigné dans les
+conditions de l'article 155-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 4 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+
+###### Article 155-1
+
+Le président de la juridiction peut dans l'intérêt d'une bonne administration de la justice désigner un juge spécialement
+chargé de contrôler l'exécution des mesures d'instruction confiées à un technicien en application de l'article 232.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 5 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Cité par**:
+
+	  - Code de l'organisation judiciaire - art. R212-37 (VD)
+	  - Code de procédure civile - art. 155 (V)
+	  - Code de procédure civile - art. 819 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 232
 
 
 ###### Article 156
@@ -4555,13 +4594,17 @@ sur la compétence alors même que les parties n'auraient pas formé contredit.
 
 ###### Article 273
 
-L'expert doit informer le juge de l'avancement de ses opérations.
+L'expert doit informer le juge de l'avancement de ses opérations et des diligences par lui accomplies.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 6 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 	**Cité par**:
 
@@ -4586,13 +4629,18 @@ Les parties doivent remettre sans délai à l'expert tous les documents que celu
 sa mission.
 
 En cas de carence des parties, l'expert en informe le juge qui peut ordonner la production des documents, s'il y a lieu sous
-astreinte, ou bien, le cas échéant, l'autoriser à passer outre ou à déposer son rapport en l'état.
+astreinte, ou bien, le cas échéant, l'autoriser à passer outre ou à déposer son rapport en l'état. La juridiction de jugement
+peut tirer toute conséquence de droit du défaut de communication des documents à l'expert.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 7 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 ###### Article 276
@@ -4728,9 +4776,15 @@ appelées.
 
 ###### Article 284
 
-Dès le dépôt du rapport, le juge fixe la rémunération de l'expert et l'autorise à se faire remettre, jusqu'à due concurrence,
-les sommes consignées au greffe. Il ordonne, s'il y a lieu, le versement de sommes complémentaires dues à l'expert en
-indiquant la ou les parties qui en ont la charge, ou la restitution des sommes consignées en excédent.
+Dès le dépôt du rapport, le juge fixe la rémunération de l'expert en fonction notamment des diligences accomplies, du respect
+des délais impartis et de la qualité du travail fourni.
+
+Il autorise l'expert à se faire remettre jusqu'à due concurrence les sommes consignées au greffe. Il ordonne, selon le cas,
+soit le versement des sommes complémentaires dues à l'expert en indiquant la ou les parties qui en ont la charge, soit la
+restitution des sommes consignées en excédent.
+
+Lorsque le juge envisage de fixer la rémunération de l'expert à un montant inférieur au montant demandé, il doit au préalable
+inviter l'expert à formuler ses observations.
 
 Le juge délivre à l'expert, sur sa demande, un titre exécutoire.
 
@@ -4742,7 +4796,7 @@ Le juge délivre à l'expert, sur sa demande, un titre exécutoire.
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 7 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 8 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 ###### Article 284-1
@@ -6335,14 +6389,18 @@ Il peut demander au ministère public de recueillir les renseignements nécessai
 
 ###### Article 377
 
-En dehors des cas où la loi le prévoit, l'instance est suspendue par la décision qui surseoit à statuer ou qui radie
-l'affaire.
+En dehors des cas où la loi le prévoit, l'instance est suspendue par la décision qui sursoit à statuer, radie l'affaire ou
+ordonne son retrait du rôle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 9 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 #### Section I : Le sursis à statuer.
@@ -6410,37 +6468,16 @@ violation de la règle de droit.
 	  - Décret n°79-941 1979-11-07 art. 7 et 16 JORF 9 décembre 1979 en vigueur le 1 janvier 1980
 
 
-#### Section II : La radiation.
+#### Section II : La radiation et le retrait du rôle.
 
 ###### Article 381
 
-La radiation sanctionne, dans les conditions de la loi, le défaut de diligence des parties. Elle emporte retrait de l'affaire
-du rang des affaires en cours.
+La radiation sanctionne dans les conditions de la loi le défaut de diligence des parties.
 
-**Liens relatifs à cet article**
+Elle emporte suppression de l'affaire du rang des affaires en cours.
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 382
-
-La décision de radiation est une mesure d'administration judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 383
-
-La radiation ne fait pas obstacle à la poursuite de l'instance, après rétablissement de l'affaire, s'il n'y a, par ailleurs,
-péremption.
-
-L'affaire n'est rétablie que sur justification de l'accomplissement des diligences dont le défaut a entraîné la radiation.
+Elle est notifiée par lettre simple aux parties ainsi qu'à leurs représentants. Cette notification précise le défaut de
+diligence sanctionné.
 
 **Liens relatifs à cet article**
 
@@ -6450,7 +6487,41 @@ L'affaire n'est rétablie que sur justification de l'accomplissement des diligen
 
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 12 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 10 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+
+###### Article 382
+
+Le retrait du rôle est ordonné lorsque toutes les parties en font la demande écrite et motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 10 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+
+###### Article 383
+
+La radiation et le retrait du rôle sont des mesures d'administration judiciaire.
+
+A moins que la péremption de l'instance ne soit acquise, l'affaire est rétablie, en cas de radiation, sur justification de
+l'accomplissement des diligences dont le défaut avait entraîné celle-ci ou, en cas de retrait du rôle, à la demande de l'une
+des parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 10 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 ### Chapitre IV : L'extinction de l'instance.
@@ -7484,15 +7555,20 @@ Il contient l'indication :
 
 ###### Article 455
 
-Le jugement doit exposer succinctement les prétentions respectives des parties et leurs moyens ; il doit être motivé.
+Le jugement doit exposer succinctement les prétentions respectives des parties et leurs moyens. Cet exposé peut revêtir la
+forme d'un visa des conclusions des parties avec l'indication de leur date. Le jugement doit être motivé.
 
-Le jugement énonce la décision sous forme de dispositif.
+Il énonce la décision sous forme de dispositif.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 11 () JORF 30 décembre 1998 rectificatif JORF 13 février 1999 en vigueur le 1er mars 1999
 
 
 ###### Article 456
@@ -8155,6 +8231,40 @@ Le délai d'appel ou d'opposition est de quinze jours.
 	**Modifié par**:
 
 	  - Décret n°86-585 1986-03-14 art. 2 JORF 19 mars 1986
+
+
+###### Article 490-1
+
+Lorsque l'appel est relatif à une ordonnance de référé rendue sur le fondement de l'article 808 ou du premier alinéa de
+l'article 809, le président de la chambre à laquelle elle est distribuée fixe à bref délai l'audience à laquelle elle sera
+appelée. Au jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
+
+L'appel de l'ordonnance de référé, quel que soit le fondement sur lequel elle a été rendue, peut être instruit et jugé dans
+les conditions et selon la procédure prévues à l'article 917.
+
+**Nota:**
+
+NOTA : Décret 2004-836 du 20 août 2004 art. 59 : Le présent décret entre en vigueur le 1er janvier 2005. Il est applicable
+aux procédures en cours. Toutefois, les articles 20 à 43 sont applicables uniquement aux recours dirigés à l'encontre des
+décisions rendues à compter du 1er janvier 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 12 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2004-836 du 20 août 2004 - art. 20 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 808, 809, 760 à 762, 917
 
 
 ###### Article 491
@@ -10061,6 +10171,22 @@ d'une personne qui n'était pas partie à l'instance.
 	**Modifié par**:
 
 	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 611-1
+
+Hors les cas où la notification de la décision susceptible de pourvoi incombe au greffe de la juridiction qui l'a rendue, le
+pourvoi en cassation n'est recevable que si la décision qu'il attaque a été préalablement signifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°99-131 du 26 février 1999 - art. 4 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 
 ###### Article 612
@@ -12985,6 +13111,14 @@ Outre les mentions prescrites à l'article 56, l'assignation contient à peine d
 
 ###### Article 753
 
+Les conclusions doivent formuler expressément les prétentions des parties ainsi que les moyens en fait et en droit sur
+lesquels chacune de ces prétentions est fondée. Un bordereau énumérant les pièces justifiant ces prétentions est annexé aux
+conclusions.
+
+Les parties doivent reprendre dans leurs dernières conclusions les prétentions et moyens présentés ou invoqués dans leurs
+conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et le tribunal ne statue que sur les dernières
+conclusions déposées.
+
 Les conclusions sont notifiées et les pièces communiquées par l'avocat de chacune des parties à celui de l'autre partie ; en
 cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avocats constitués.
 
@@ -12995,6 +13129,10 @@ Copie des conclusions est remise au greffe avec la justification de leur notific
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 13 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 	**Cité par**:
 
@@ -13125,8 +13263,9 @@ même.
 ###### Article 761
 
 Le président peut également décider que les avocats se présenteront à nouveau devant lui, à une date qu'il fixe, pour
-conférer une dernière fois de l'affaire s'il estime qu'un ultime échange de conclusions ou qu'une ultime communication de
-pièces suffit à la mettre en état.
+conférer une dernière fois de l'affaire, s'il estime qu'un ultime échange de conclusions ou une ultime communication de
+pièces suffit à la mettre en état ou que les conclusions des parties doivent être mises en conformité avec les dispositions
+de l'article 753.
 
 Dans ce cas, il impartit à chacun des avocats le délai nécessaire à la signification des conclusions et, s'il y a lieu, à la
 communication des pièces. Sa décision fait l'objet d'une simple mention au dossier.
@@ -13141,10 +13280,18 @@ tenue le jour même.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 14 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
 	**Cité par**:
 
 	  - Code de l'aviation civile - art. R123-7 (V)
 	  - Code du domaine public fluvial et de la navigat... - art. 131 (VD)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 753
 
 
 ###### Article 762
@@ -13207,9 +13354,9 @@ Il peut également renvoyer l'affaire à une conférence ultérieure en vue de f
 
 ###### Article 765
 
-Le juge de la mise en état peut inviter les avocats à répondre aux moyens sur lesquels ils n'auraient pas conclu.
-
-Il peut également les inviter à fournir les explications de fait et de droit nécessaires à la solution du litige.
+Le juge de la mise en état peut inviter les avocats à répondre aux moyens sur lesquels ils n'auraient pas conclu, à fournir
+les explications de fait et de droit nécessaires à la solution du litige et, le cas échéant, à mettre leurs écritures en
+conformité avec les dispositions de l'article 753.
 
 Il peut se faire communiquer l'original des pièces versées aux débats ou en demander la remise en copie.
 
@@ -13218,6 +13365,14 @@ Il peut se faire communiquer l'original des pièces versées aux débats ou en d
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 15 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 753
 
 
 ###### Article 766
@@ -13303,7 +13458,7 @@ pièces.
 Lorsque la demande est présentée postérieurement à sa désignation, le juge de la mise en état est, jusqu'à son
 dessaisissement, seul compétent, à l'exclusion de toute autre formation du tribunal, pour :
 
-1. Statuer sur les exceptions dilatoires et sur les nullités pour vice de forme ;
+1. Statuer sur les exceptions de procédure ;
 
 2. Allouer une provision pour le procès ;
 
@@ -13323,10 +13478,6 @@ mesures qui auraient déjà été ordonnées ;
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Modifié par**:
-
-	  - Décret n°81-500 1981-05-12 art. 30 JORF 14 mai 1981
-
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
@@ -13335,6 +13486,10 @@ mesures qui auraient déjà été ordonnées ;
 	  - Décret n°2017-862 du 9 mai 2017 - art. (V)
 	  - Code de procédure civile - art. 819 (V)
 	  - Code des assurances - art. R421-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 16 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 	**Cite**:
 
@@ -13404,7 +13559,7 @@ Les ordonnances du juge de la mise en état n'ont pas, au principal, l'autorité
 
 ###### Article 776
 
-Les ordonnances du juge de la mise en état ne sont pas susceptibles d'opposition.
+Les ordonnances du juge de la mise en état ne sont pas susceptibles d'opposition ni de contredit.
 
 Elles ne peuvent être frappées d'appel ou de pourvoi en cassation qu'avec le jugement sur le fond.
 
@@ -13417,7 +13572,9 @@ Elles le sont également, dans les quinze jours à compter de leur signification
 
 3° Lorsque, dans le cas où le montant de la demande est supérieur au taux de compétence en dernier ressort, elles ont trait
 aux provisions qui peuvent être accordées au créancier au cas où l'existence de l'obligation n'est pas sérieusement
-contestable.
+contestable ;
+
+4° Lorsqu'elles statuent sur une exception d'incompétence, de litispendance ou de connexité.
 
 **Liens relatifs à cet article**
 
@@ -13427,7 +13584,7 @@ contestable.
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 17 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 17 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 	**Cité par**:
 
@@ -13436,13 +13593,22 @@ contestable.
 
 ###### Article 777
 
-Le juge de la mise en état contrôle l'exécution des mesures d'instruction qu'il ordonne.
+Le juge de la mise en état contrôle l'exécution des mesures d'instruction qu'il ordonne, sous réserve des dispositions du
+troisième alinéa de l'article 155.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 18 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 155
 
 
 ###### Article 778
@@ -13479,11 +13645,17 @@ Si l'un des avocats n'a pas accompli les actes de la procédure dans le délai i
 clôture de l'instruction peuvent être décidés par le juge, d'office ou à la demande d'une autre partie, sauf, en ce dernier
 cas, la possibilité pour le juge de refuser par ordonnance motivée non susceptible de recours.
 
+Copie de cette ordonnance est adressée à la partie défaillante, à son domicile réel ou à sa résidence.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 19 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 ###### Article 781
@@ -13610,9 +13782,6 @@ La requête doit exposer les motifs de l'urgence, contenir les conclusions du de
 
 Copie de la requête et des pièces doit être remise au président pour être versée au dossier du tribunal.
 
-L'autorisation d'assigner à jour fixe peut être donnée, même d'office, par le président du tribunal saisi d'une procédure de
-référé.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13621,7 +13790,7 @@ référé.
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 18 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 20 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 	**Cité par**:
 
@@ -13992,6 +14161,28 @@ où il n'existe pas de procédure particulière de référé.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 808 et 809
+
+
+###### Article 811
+
+A la demande de l'une des parties et si l'urgence le justifie, le président saisi en référé peut renvoyer l'affaire à une
+audience dont il fixe la date pour qu'il soit statué au fond. Il veille à ce que le défendeur dispose d'un temps suffisant
+pour préparer sa défense. L'ordonnance emporte saisine du tribunal. Il est ensuite procédé comme il est dit à l'article 790
+et aux trois derniers alinéas de l'article 792.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 21 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 790, 792
 
 
 #### Chapitre II : Les ordonnances sur requête.
@@ -14498,8 +14689,8 @@ une même durée, à la demande du conciliateur.
 
 ###### Article 832-1
 
-Lorsque le juge envisage de désigner un conciliateur, il en avise les parties par lettre recommandée avec demande d'avis de
-réception et les invite à lui faire connaître leur acceptation dans le délai de quinze jours.
+Lorsque le juge envisage de désigner un conciliateur, il en avise les parties par lettre simple et les invite à lui faire
+connaître leur acceptation dans le délai de quinze jours.
 
 Il les informe qu'en l'absence d'accord de leur part il procédera comme il est dit aux articles 833 et 834.
 
@@ -14514,9 +14705,9 @@ La lettre adressée au défendeur mentionne les nom, prénoms, profession et adr
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 23 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 	**Cite**:
 
@@ -14816,15 +15007,20 @@ En cas d'urgence, les délais de comparution et de remise de l'assignation peuve
 
 ###### Article 840
 
-Le juge s'efforce de concilier les parties.
+Le juge s'efforce de concilier les parties. La tentative de conciliation peut avoir lieu dans son cabinet.
 
-La tentative de conciliation peut avoir lieu dans le cabinet du juge.
+Elle peut également être conduite par un conciliateur de justice désigné sans formalité particulière par le juge avec
+l'accord des parties.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 24 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 ###### Article 841
@@ -14946,13 +15142,22 @@ Le procès-verbal contient les mentions prévues pour la requête conjointe à l
 
 ###### Article 847
 
-Le juge s'efforce de concilier les parties et, s'il n'y parvient pas, tranche leur différend.
+Le juge s'efforce de concilier les parties.
+
+Il peut avec leur accord et sans formalité particulière désigner un conciliateur de justice pour procéder à la tentative de
+conciliation.
+
+Si les parties ne parviennent pas à se concilier, le juge tranche leur différend.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 25 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 #### Chapitre IV : La déclaration au greffe.
@@ -15011,6 +15216,26 @@ la convocation.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (V)
+
+
+###### Article 847-3
+
+Le juge s'efforce de concilier les parties.
+
+Il peut avec leur accord et sans formalité particulière désigner un conciliateur de justice pour procéder à la tentative de
+conciliation.
+
+Si les parties ne parviennent pas à se concilier, le juge tranche leur différend.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 26 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 ### Sous-titre II : Les ordonnances de référé.
@@ -16715,13 +16940,9 @@ Copie des conclusions est remise au secrétariat-greffe avec la justification de
 L'affaire est instruite sous le contrôle d'un magistrat de la chambre à laquelle elle est distribuée, dans les conditions
 prévues par les articles 763 à 787 et par les dispositions qui suivent.
 
-Lorsque l'affaire semble présenter un caractère d'urgence ou pouvoir être jugée à bref délai, le président de la chambre à
-laquelle elle est distribuée fixe les jours et heure auxquels elle sera appelée ; au jour indiqué, il est procédé selon les
-modalités prévues aux articles 760 à 762.
-
-**Nota:**
-
-
+Lorsque l'affaire semble présenter un caractère d'urgence ou être en état d'être jugée, le président de la chambre saisie,
+d'office ou à la demande d'une partie, fixe à bref délai l'audience à laquelle elle sera appelée ; au jour indiqué, il est
+procédé selon les modalités prévues aux articles 760 à 762.
 
 **Liens relatifs à cet article**
 
@@ -16729,19 +16950,19 @@ modalités prévues aux articles 760 à 762.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
-	**Modifié par**:
-
-	  - Décret n°85-1330 1985-12-17 art. 12 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
-
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 38 (VD)
 	  - Décret n°2006-936 du 27 juillet 2006 - art. 8 (VD)
 	  - Code de commerce. - art. R661-6 (V)
 
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 27 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
 	**Cite**:
 
-	  - Nouveau code de procédure civile 760 à 787
+	  - Nouveau code de procédure civile 763 à 787, 760 à 762
 
 
 ###### Article 911
@@ -16801,14 +17022,19 @@ Les avocats sont entendus sur leur demande.
 Les ordonnances du conseiller de la mise en état ne sont susceptibles d'aucun recours indépendamment de l'arrêt sur le fond.
 
 Toutefois, elles peuvent être déférées par simple requête à la cour dans les quinze jours de leur date lorsqu'elles ont pour
-effet de mettre fin à l'instance, lorsqu'elles constatent son extinction ou lorsqu'elles ont trait à des mesures provisoires
-en matière de divorce ou de séparation de corps.
+effet de mettre fin à l'instance, lorsqu'elles constatent son extinction, lorsqu'elles ont trait à des mesures provisoires en
+matière de divorce ou de séparation de corps ou lorsqu'elles statuent sur une exception d'incompétence, de litispendance ou
+de connexité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 28 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
 ###### Article 915
@@ -17475,11 +17701,13 @@ L'appel est instruit et jugé selon les règles applicables en matière gracieus
 
 ###### Article 954
 
-Les conclusions d'appel doivent formuler expressément les prétentions de la partie et les moyens sur lesquels chacune des
-prétentions est fondée.
+Les conclusions d'appel doivent formuler expressément les prétentions des parties et les moyens de fait et de droit sur
+lesquels chacune de ses prétentions est fondée. Elles comprennent en outre l'indication des pièces invoquées. A cet effet, un
+bordereau récapitulatif leur est annexé.
 
-L'avoué ou les avoués d'une ou plusieurs parties peuvent être invités à récapituler les moyens qui auraient été
-successivement présentés. Les moyens qui ne sont pas récapitulés sont regardés comme abandonnés.
+Les parties doivent reprendre, dans leurs dernières écritures, les prétentions et moyens précédemment présentés ou invoqués
+dans leurs conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et la cour ne statue que sur les
+dernières conclusions déposées.
 
 La partie qui conclut à l'infirmation du jugement doit expressément énoncer les moyens qu'elle invoque sans pouvoir procéder
 par voie de référence à ses conclusions de première instance.
@@ -17494,8 +17722,7 @@ La partie qui, sans énoncer de nouveaux moyens, demande la confirmation du juge
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 11 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
-	  - Décret n°85-1330 1985-12-17 art. 13 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 29 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 	**Cité par**:
 
@@ -18051,9 +18278,13 @@ d'ouverture [*condition de recevabilité*]. Chaque moyen ou chaque élément de 
 
 ###### Article 979
 
-A peine d'irrecevabilité du pourvoi prononcé d'office, une copie de la décision attaquée signifiée soit à partie, soit à
-avoué, soit à avocat ou une expédition de cette décision, ainsi qu'une copie de la décision confirmée ou infirmée par la
-décision attaquée, doivent être remises au greffe dans le délai de dépôt du mémoire.
+A peine d'irrecevabilité du pourvoi prononcée d'office, doivent être remises au greffe dans le délai de dépôt du mémoire :
+
+- une copie de la décision attaquée et de ses actes de signification ;
+
+- une copie de la décision confirmée ou infirmée par la décision attaquée ;
+
+- toute autre décision rendue dans le même litige et à laquelle la décision attaquée fait référence.
 
 Le demandeur doit également joindre les pièces invoquées à l'appui du pourvoi.
 
@@ -18065,8 +18296,7 @@ Le demandeur doit également joindre les pièces invoquées à l'appui du pourvo
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
-	  - Décret n°86-585 1986-03-14 art. 8 JORF 19 mars 1986
+	  - Décret n°99-131 du 26 février 1999 - art. 5 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 
 ###### Article 980
@@ -18178,9 +18408,8 @@ spéciale dispense les parties du ministère d'un avocat au Conseil d'Etat et à
 
 ###### Article 984
 
-Le pourvoi en cassation est formé par [*modalités*] déclaration orale ou écrite que la partie ou tout mandataire muni d'un
-pouvoir spécial fait, remet, ou adresse par pli recommandé, au secrétariat de la juridiction qui a rendu la décision
-attaquée.
+Le pourvoi en cassation est formé par déclaration écrite que la partie ou tout mandataire muni d'un pouvoir spécial remet ou
+adresse par lettre recommandée avec demande d'avis de réception au greffe de la Cour de cassation.
 
 **Liens relatifs à cet article**
 
@@ -18190,7 +18419,7 @@ attaquée.
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°99-131 du 26 février 1999 - art. 6 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 
 ###### Article 985
@@ -18216,9 +18445,8 @@ cas où l'exécution de la décision attaquée est interdite par la loi.
 
 ###### Article 986
 
-Le secrétaire enregistre le pourvoi. Il mentionne la date à laquelle il est formé et délivre, ou adresse par lettre
-recommandée avec demande d'avis de réception, récépissé de la déclaration, lequel reproduit la teneur des articles 989 et
-994.
+Le greffier enregistre le pourvoi. Il mentionne la date à laquelle il est formé et délivre, ou adresse par lettre recommandée
+avec demande d'avis de réception, récépissé de la déclaration, lequel reproduit la teneur des articles 989 et 994.
 
 **Liens relatifs à cet article**
 
@@ -18228,8 +18456,7 @@ recommandée avec demande d'avis de réception, récépissé de la déclaration,
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
-	  - Décret n°85-1330 1985-12-17 art. 14 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+	  - Décret n°99-131 du 26 février 1999 - art. 7 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 	**Cite**:
 
@@ -18238,9 +18465,11 @@ recommandée avec demande d'avis de réception, récépissé de la déclaration,
 
 ###### Article 987
 
-Le secrétaire adresse aussitôt au défendeur copie de la déclaration par lettre recommandée avec demande d'avis de réception.
+Le greffier adresse aussitôt au défendeur copie de la déclaration par lettre recommandée avec demande d'avis de réception. 
 
 Cette notification reproduit la teneur des articles 991 et 994.
+
+Le greffier demande simultanément communication du dossier au greffe de la juridiction qui a rendu la décision attaquée.
 
 **Liens relatifs à cet article**
 
@@ -18250,27 +18479,28 @@ Cette notification reproduit la teneur des articles 991 et 994.
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°99-131 du 26 février 1999 - art. 7 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 991 et 994
+	  - Code de procédure civile - art. 991 (V)
+	  - Code de procédure civile - art. 994 (V)
 
 
 ###### Article 988
 
-Le secrétaire transmet sans délai au secrétariat-greffe de la Cour de cassation le dossier de l'affaire avec :
+Le greffier de la juridiction qui a rendu la décision attaquée transmet sans délai au greffe de la Cour de cassation le
+dossier de l'affaire auquel sont jointes :
 
-- une copie de la déclaration ;
+- une copie de la décision attaquée et de ses actes de notification ;
 
-- une copie du récépissé de la déclaration ;
+- une copie de la décision confirmée ou infirmée par la décision attaquée ;
 
-- une copie de la décision attaquée ;
+- une copie de toute autre décision rendue dans le même litige et à laquelle la décision attaquée fait référence ;
 
-- une copie de la décision de première instance ainsi que, s'il en a été pris, les conclusions de première instance et
-d'appel.
+- les conclusions de première instance et d'appel s'il en a été pris.
 
-Il transmet immédiatement au secrétariat-greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement.
+Il transmet immédiatement au greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement.
 
 **Liens relatifs à cet article**
 
@@ -18280,16 +18510,16 @@ Il transmet immédiatement au secrétariat-greffe de la Cour de cassation toute 
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
-	  - Décret n°84-618 1984-07-13 art. 17 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+	  - Décret n°99-131 du 26 février 1999 - art. 8 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 
 ###### Article 989
 
 Lorsque la déclaration du pourvoi ne contient pas l'énoncé, même sommaire, des moyens de cassation invoqués contre la
 décision attaquée, le demandeur doit, à peine de déchéance constatée par ordonnance du premier président ou de son délégué,
-faire parvenir au greffe de la Cour de cassation, au plus tard dans un délai de trois mois à compter de la déclaration, un
-mémoire contenant cet énoncé, et, le cas échéant, les pièces invoquées à l'appui du pourvoi.
+faire parvenir au greffe de la Cour de cassation, au plus tard dans un délai de trois mois à compter de la remise ou de la
+réception du récépissé de la déclaration, un mémoire contenant cet énoncé, et, le cas échéant, les pièces invoquées à l'appui
+du pourvoi.
 
 Ce mémoire peut être établi par le mandataire de la partie sans nouveau pouvoir spécial.
 
@@ -18305,7 +18535,7 @@ Ce mémoire peut être établi par le mandataire de la partie sans nouveau pouvo
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 25 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+	  - Décret n°99-131 du 26 février 1999 - art. 9 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 	**Cité par**:
 
@@ -18802,6 +19032,8 @@ Le défendeur n'est pas tenu de se faire représenter par un avocat au Conseil d
 Le premier président, ou son délégué, à la demande d'une des parties ou d'office, peut réduire les délais prévus pour le
 dépôt des mémoires et des pièces.
 
+A l'expiration de ces délais, le président de la formation compétente fixe la date de l'audience.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -18814,7 +19046,7 @@ dépôt des mémoires et des pièces.
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 26 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+	  - Décret n°99-131 du 26 février 1999 - art. 10 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 	**Cité par**:
 
@@ -18823,12 +19055,36 @@ dépôt des mémoires et des pièces.
 
 ###### Article 1009-1
 
-Hors les matières où le pourvoi empêche l'exécution de la décision attaquée, le premier président peut, à la demande du
-défendeur, et après avoir recueilli l'avis du procureur général et des parties, décider le retrait du rôle d'une affaire
-lorsque le demandeur ne justifie pas avoir exécuté la décision frappée de pourvoi, à moins qu'il ne lui apparaisse que
-l'exécution serait de nature à entraîner des conséquences manifestement excessives.
+Hors les matières où le pourvoi empêche l'exécution de la décision attaquée, le premier président ou son délégué décide, à la
+demande du défendeur et après avoir recueilli l'avis du procureur général et les observations des parties, le retrait du rôle
+d'une affaire lorsque le demandeur ne justifie pas avoir exécuté la décision frappée de pourvoi, à moins qu'il ne lui
+apparaisse que l'exécution serait de nature à entraîner des conséquences manifestement excessives.
 
-Il autorise la réinscription de l'affaire au rôle de la cour sur justification de l'exécution de la décision attaquée.
+La demande du défendeur doit, à peine d'irrecevabilité prononcée d'office, être présentée avant l'expiration des délais
+prescrits aux articles 982 et 991.
+
+La décision de retrait du rôle n'emporte pas suspension des délais impartis au demandeur au pourvoi par les articles 978 et
+989.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°99-131 du 26 février 1999 - art. 11 () JORF 27 février 1999 en vigueur le 1er mars 1999
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 982, 991, 978, 989
+
+
+###### Article 1009-2
+
+Le délai de péremption court à compter de la notification de la décision ordonnant le retrait du rôle. Il est interrompu par
+un acte manifestant sans équivoque la volonté d'exécuter.
 
 **Liens relatifs à cet article**
 
@@ -18838,7 +19094,31 @@ Il autorise la réinscription de l'affaire au rôle de la cour sur justification
 
 	**Créé par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 27 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+	  - Décret n°99-131 du 26 février 1999 - art. 11 () JORF 27 février 1999 en vigueur le 1er mars 1999
+
+
+###### Article 1009-3
+
+Le premier président ou son délégué autorise, sauf s'il constate la péremption, la réinscription de l'affaire au rôle de la
+cour sur justification de l'exécution de la décision attaquée. 
+
+Les délais impartis au défendeur par les articles 982 et 991 courent à compter de la notification de la réinscription de
+l'affaire au rôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°99-131 du 26 février 1999 - art. 11 () JORF 27 février 1999 en vigueur le 1er mars 1999
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 982 (V)
+	  - Code de procédure civile - art. 991 (V)
 
 
 ###### Article 1010
@@ -18957,6 +19237,25 @@ peuvent être soulevés d'office, même s'ils ne sont pas d'ordre public.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 1015-1
+
+La chambre saisie d'un pourvoi peut solliciter l'avis d'une autre chambre saisie sur un point de droit qui relève de la
+compétence de celle-ci.
+
+Les parties en sont avisées par le président de la chambre saisie du pourvoi. Elles peuvent présenter des observations devant
+la chambre appelée à donner son avis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°99-131 du 26 février 1999 - art. 12 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 
 ###### Article 1016
@@ -19178,7 +19477,8 @@ Les dispositions des articles 396, 399, 400 et 403 s'appliquent au désistement 
 ###### Article 1026
 
 Le désistement est constaté par ordonnance du premier président ou du président de la chambre à laquelle l'affaire a été
-distribuée.
+distribuée. Le premier président ou le président de la formation compétente statue, le cas échéant, sur les demandes fondées
+sur l'article 700.
 
 Toutefois, le désistement est constaté par arrêt s'il intervient après le dépôt du rapport ou si l'acceptation du défendeur,
 lorsqu'elle est nécessaire, n'est donnée qu'après ce dépôt. Cet arrêt équivaut à un arrêt de rejet et entraîne l'application
@@ -19192,11 +19492,11 @@ des articles 628 et 630.
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°99-131 du 26 février 1999 - art. 13 () JORF 27 février 1999 en vigueur le 1er mars 1999
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 628 et 630
+	  - Nouveau code de procédure civile 628, 630, 700
 
 
 #### Section III : La récusation.
@@ -28096,6 +28396,33 @@ jours de sa notification.
 
 	  - Décret n°2005-1308 du 20 octobre 2005 - art. 45-1 (VT)
 	  - Décret n°2005-1742 du 30 décembre 2005 - art. 47-2 (VT)
+
+
+### Chapitre VI : La transaction
+
+###### Article 1441-4
+
+Le président du tribunal de grande instance, saisi sur requête par une partie à la transaction, confère force exécutoire à
+l'acte qui lui est présenté.
+
+**Nota:**
+
+Décret n° 2012-66 du 20 janvier 2012, article 45 : Le chapitre VII du titre IV du livre III du code de procédure civile est
+abrogé sauf pour son application à Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Créé par**:
+
+	  - Décret n°98-1231 du 28 décembre 1998 - art. 30 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 45
 
 
 # Livre IV : L'arbitrage.
