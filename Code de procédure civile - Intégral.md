@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1986-03-19
+Version Consolidée au 1986-05-02
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -10489,6 +10489,81 @@ Le cachet de l'huissier est apposé sur l'enveloppe.
 	  - Nouveau code de procédure civile 655 et 656
 
 
+###### Article 659
+
+Lorsque la personne à qui l'acte doit être signifié n'a ni domicile, ni résidence, ni lieu de travail connus, l'huissier de
+justice dresse un procès-verbal où il relate avec précision les diligences qu'il a accomplies pour rechercher le destinataire
+de l'acte. Le procès-verbal mentionne la nature de l'acte et le nom du requérant.
+
+Le même jour, ou, au plus tard, le premier jour ouvrable suivant, l'huissier de justice envoie au destinataire, à la dernière
+adresse connue, par lettre recommandée avec demande d'avis de réception, une copie du procès-verbal. La même formalité est
+accomplie par lettre simple envoyée le même jour.
+
+La copie du procès-verbal adressée au destinataire indique à celui-ci qu'il pourra se faire remettre copie de l'acte, pendant
+un délai de trois mois, à l'étude de l'huissier de justice ou mandater à cette fin toute personne de son choix ; elle
+reproduit les dispositions du présent article et, en cas de signification d'un jugement rendu par défaut ou réputé
+contradictoire, les dispositions de l'article 540.
+
+L'établissement du procès-verbal qui doit mentionner l'envoi des lettres vaut signification. L'huissier de justice en remet
+une copie au requérant ou à son mandataire. Il remet également à ce dernier l'avis de réception de la lettre recommandée, ou
+la lettre recommandée elle-même si elle lui a été renvoyée.
+
+Les dispositions qui précèdent sont applicables à la signification d'un acte concernant une personne morale qui n'a plus
+d'établissement connu au lieu indiqué comme siège social par le registre du commerce et des sociétés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 5 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1 octobre 1984
+	  - Décret n°86-585 1986-03-14 art. 4 et 9 JORF 19 mars 1986 en vigueur le 2 mai 1986
+
+	**Cité par**:
+
+	  - Décret n°96-1080 du 12 décembre 1996 - art. 6 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de commerce - art. A444-33 (V)
+	  - Code de procédure civile - art. 664-1 (VD)
+	  - Code de procédure civile - art. 687-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-25 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 415 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 540
+
+
+###### Article 660
+
+Si l'acte est destiné à une personne qui demeure dans un territoire d'outre-mer, la signification est faite au parquet.
+
+Le procureur vise l'original et envoie la copie au chef du service judiciaire local pour que celle-ci soit remise à
+l'intéressé selon les modalités applicables dans le territoire où il demeure.
+
+L'huissier de justice doit, le jour même de la signification faite au parquet ou, au plus tard, le premier jour ouvrable,
+expédier au destinataire, par lettre recommandée, la copie certifiée conforme de l'acte.
+
+Les dispositions du présent article ne sont pas applicables si la signification a pu être faite à personne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°86-585 1986-03-14 art. 5 et 9 JORF 19 mars 1986 en vigueur le 2 mai 1986
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 415 (V)
+
+
 ###### Article 661
 
 En cas de signification au parquet, le procureur informe l'huissier de justice des diligences faites ; il lui transmet, le
@@ -10500,6 +10575,27 @@ documents sont tenus par l'huissier de justice à la disposition de la juridicti
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 662
+
+Si, dans les cas prévus aux articles 659 et 660, il n'est pas établi que le destinataire a été effectivement avisé, le juge
+peut prescrire d'office toutes diligences complémentaires, sauf à ordonner les mesures provisoires ou conservatoires
+nécessaires à la sauvegarde des droits du demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°86-585 1986-03-14 art. 6 et 9 JORF 19 mars 1986 en vigueur le 2 mai 1986
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 659, 660
 
 
 ###### Article 663
@@ -11203,6 +11299,26 @@ Les notifications destinées aux collectivités publiques et aux établissements
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 693
+
+Ce qui est prescrit par les articles 654 à 659, 663 à 665, 672, 675, 678, 680, 683, 684, 686, 689 à 692 est observé à peine
+de nullité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°86-585 1986-03-14 art. 7 et 9 JORF 19 mars 1986 en vigueur le 2 mai 1986
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 654, 655, 656, 657, 658, 659, 663, 664, 665, 672, 675, 678, 680, 683, 684, 686, 689, 690, 691, 692
 
 
 ###### Article 694
