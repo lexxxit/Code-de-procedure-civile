@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1984-07-18
+Version Consolidée au 1984-10-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -8813,6 +8813,29 @@ Le jugement frappé d'opposition n'est anéanti que par le jugement qui le rétr
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 573
+
+L'opposition est faite dans les formes prévues pour la demande en justice devant la juridiction qui a rendu la décision.
+
+Elle peut être faite en la forme des notifications entre avocats devant les juridictions où la représentation est
+obligatoire.
+
+Lorsque l'opposition tend à faire rétracter une décision d'une cour d'appel rendue par défaut dans une matière régie par la
+procédure sans représentation obligatoire, elle est formée par une déclaration que la partie ou tout mandataire fait, ou
+adresse par pli recommandé, au secrétariat-greffe de la cour qui a statué. L'opposition est instruite et jugée selon les
+règles applicables devant la cour d'appel à la procédure sans représentation obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 4 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984
+
+
 ###### Article 574
 
 L'opposition doit contenir les moyens du défaillant.
@@ -11213,6 +11236,35 @@ La liquidation peut être contestée selon la procédure prévue aux articles 70
 
 ### Chapitre III : La vérification et le recouvrement des dépens.
 
+###### Article 704
+
+Les parties peuvent, en cas de difficultés, demander, sans forme, au secrétaire de la juridiction compétente en application
+de l'article 52, de vérifier le montant des dépens mentionnés à l'article 695.
+
+Il en est de même de l'auxiliaire de justice qui entend recouvrer les dépens ; sa demande est alors accompagnée du compte
+détaillé qu'il est tenu de remettre aux parties en vertu de la réglementation tarifaire. Ce compte mentionne les provisions
+reçues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 7, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R437-11 (VD)
+	  - Code de la sécurité sociale. - art. R581-7 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 52, 695
+
+
 ###### Article 705
 
 Le secrétaire de la juridiction vérifie le montant des dépens après avoir, s'il y a lieu, procédé aux redressements
@@ -11224,6 +11276,25 @@ de vérification.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05
+
+
+###### Article 706
+
+La partie poursuivante notifie le compte vérifié à l'adversaire qui dispose d'un délai d'un mois pour le contester. La
+notification emporte acceptation par son auteur du compte vérifié.
+
+Cette notification doit mentionner le délai de contestation et les modalités de son exercice et préciser qu'à défaut de
+contestation dans le délai indiqué, le certificat de vérification peut être rendu exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 8, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
 
 
 ###### Article 707
@@ -11240,6 +11311,49 @@ mentionner sur le certificat de vérification. Cette mention vaut titre exécuto
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 687 (V)
+
+
+###### Article 708
+
+Celui qui entend contester la vérification peut toujours présenter lui-même une demande d'ordonnance de taxe ; il peut aussi
+le faire par l'intermédiaire de son représentant.
+
+La demande est faite oralement ou par écrit au secrétariat de la juridiction qui a vérifié le compte. Elle doit être motivée
+et être accompagnée du certificat de vérification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 9, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+
+###### Article 709
+
+Le président de la juridiction ou le magistrat délégué à cet effet statue par ordonnance au vu du compte vérifié et de tous
+autres documents utiles, après avoir recueilli les observations du défendeur à la contestation ou les lui avoir demandées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 10, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 128 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-16 (V)
+	  - Décret n°2016-230 du 26 février 2016 - art. 4
+	  - Code de commerce - art. R663-39 (V)
+	  - Code de procédure civile - art. 1280 (V)
 
 
 ###### Article 710
@@ -11268,6 +11382,22 @@ mentionne, s'il y a lieu, les sommes déjà perçues à titre de provision.
 
 	  - Décret n°2016-230 du 26 février 2016 - art. 4
 	  - Code de commerce - art. R663-39 (V)
+
+
+###### Article 712
+
+Le juge a la faculté de renvoyer la demande, en l'état, à une audience du tribunal dont il fixe la date. Les parties sont
+convoquées quinze jours au moins à l'avance par le secrétaire de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 11, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
 
 
 ###### Article 713
@@ -11379,6 +11509,66 @@ adressées aux avocats ou aux avoués.
 	**Modifié par**:
 
 	  - Décret n°76-1236 1976-12-28 art. 17 JORF 30 décembre 1976
+
+
+### Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens.
+
+###### Article 719
+
+Les demandes ou contestations relatives aux frais, émoluments et débours qui ne sont pas compris dans les dépens mentionnés à
+l'article 695, formées par ou contre les auxiliaires de justice et les officiers publics ou ministériels sont soumises aux
+règles prévues aux article 704 à 718.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 12, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 695, 704 à 718
+
+
+###### Article 720
+
+Les contestations relatives aux honoraires des auxiliaires de justice ou des officiers publics ou ministériels dont le mode
+de calcul n'est pas déterminé par une disposition réglementaire demeurent soumises aux règles qui leur sont propres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 12, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+
+###### Article 721
+
+Dans le cas de l'article 720, le juge statue suivant la nature et l'importance des activités de l'auxiliaire de justice ou de
+l'officier public ou ministériel, les difficultés qu'elles ont présentées et la responsabilité qu'elles peuvent entraîner. Il
+mentionne, s'il y a lieu, les sommes déjà perçues soit à titre de provision, soit à titre de frais ou d'honoraires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 12, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 720
 
 
 ## Titre XIX : Le secrétariat de la juridiction.
@@ -12098,6 +12288,22 @@ Le juge de la mise en état peut constater la conciliation, même partielle, des
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 768-1
+
+Le juge de la mise en état peut inviter les parties à mettre en cause tous les intéressés dont la présence lui paraît
+nécessaire à la solution du litige.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°84-618 1984-07-13 art. 14 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
 
 
 ###### Article 769
@@ -14576,6 +14782,27 @@ Copie des conclusions est remise au secrétariat-greffe avec la justification de
 	  - Code de procédure civile - art. 916 (V)
 
 
+###### Article 911
+
+Le conseiller de la mise en état est compétent pour déclarer l'appel irrecevable et trancher à cette occasion toute question
+ayant trait à la recevabilité de l'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 15 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
+	  - Code de procédure civile - art. 1037-1 (VD)
+
+
 ###### Article 912
 
 Le conseiller de la mise en état, lorsqu'il est saisi, est seul compétent pour suspendre l'exécution des jugements
@@ -14974,6 +15201,22 @@ la nouvelle convocation sera faite par acte d'huissier de justice.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+
+###### Article 939
+
+Lorsque l'affaire n'est pas en état d'être jugée, son instruction peut être confiée à un des membres de la chambre. Celui-ci
+peut être désigné avant l'audience prévue pour les débats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 16 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
 
 
 ###### Article 940
@@ -15926,6 +16169,33 @@ Cette notification reproduit la teneur des articles 991 et 994.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 991 et 994
+
+
+###### Article 988
+
+Le secrétaire transmet sans délai au secrétariat-greffe de la Cour de cassation le dossier de l'affaire avec :
+
+- une copie de la déclaration ;
+
+- une copie du récépissé de la déclaration ;
+
+- une copie de la décision attaquée ;
+
+- une copie de la décision de première instance ainsi que, s'il en a été pris, les conclusions de première instance et
+d'appel.
+
+Il transmet immédiatement au secrétariat-greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°84-618 1984-07-13 art. 17 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
 
 
 ###### Article 989
@@ -17792,6 +18062,27 @@ de demander un complément d'enquête ou une contre-enquête.
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
+##### Sous-section V : La prestation compensatoire.
+
+###### Article 1080-1
+
+La prestation compensatoire fixée par la décision qui prononce le divorce ne peut être assortie de l'exécution provisoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°84-618 1984-07-13 art. 21-II et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
 ##### Sous-section VI : La publicité des jugements de divorce.
 
 ###### Article 1081
@@ -19438,6 +19729,66 @@ L'instance obéit aux règles de la procédure en matière contentieuse.
 	  - Code de procédure civile - art. 1261-1 (V)
 
 
+###### Article 1160
+
+La demande est formée par [*modalités*] requête remise au secrétariat-greffe. 
+
+Elle peut aussi être formée par simple requête du demandeur lui-même, remise au procureur de la République, qui doit la
+transmettre au tribunal. 
+
+Le greffier convoque les intéressés par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°84-618 1984-07-13 art. 24 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+
+###### Article 1161
+
+L'affaire est instruite et débattue en chambre du conseil en présence du requérant, après avis du ministère public. Le
+ministère d'avocat n'est pas obligatoire. 
+
+Les parents ou tuteur sont entendus ou appelés. Dans le cas où ceux-ci ont disparu, le tribunal peut faire procéder à une
+recherche dans l'intérêt des familles ; il sursoit alors à la décision pour un délai n'excédant pas six mois. 
+
+Le jugement est prononcé en audience publique. Il est notifié par le greffier au demandeur, aux parents et, le cas échéant,
+au tuteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°84-618 1984-07-13 art. 25 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1261-1 (V)
+
+
 ###### Article 1162
 
 S'il y a lieu, le tribunal statue, en la même forme et par le même jugement, sur la délégation de l'autorité parentale.
@@ -19451,6 +19802,36 @@ S'il y a lieu, le tribunal statue, en la même forme et par le même jugement, s
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1261-1 (V)
+
+
+###### Article 1163
+
+L'appel est formé selon les règles de la procédure sans représentation obligatoire. Il est instruit et jugé selon les règles
+applicables en première instance.
+
+Les voies de recours sont ouvertes aux personnes auxquelles le jugement a été notifié ainsi qu'au ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 26 et 31 JORF 18 juillet 1984 rectificatif 18 août 1984 en vigueur le 1er octobre 1984
 
 	**Abrogé par**:
 
@@ -19545,6 +19926,33 @@ L'action aux fins d'adoption relève de la matière gracieuse.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1168
+
+La demande est formée par requête.
+
+Si la personne dont l'adoption est demandée a été recueillie au foyer du requérant avant l'âge de quinze ans, le requérant
+peut former lui-même la demande par simple requête adressée au procureur de la République, qui doit la transmettre au
+tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 27 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1171 (V)
 
 
 ###### Article 1169
@@ -20175,6 +20583,38 @@ le cas de l'article 468 du même code, au subrogé-tuteur.
 	  - Code civil 389-5 et 468
 
 
+###### Article 1215
+
+Dans tous les cas, la décision du juge peut être frappée de recours dans les quinze jours devant le tribunal de grande
+instance. Le recours est ouvert aux personnes mentionnées à l'article précédent à compter de la notification ou, si elles
+étaient présentes, du prononcé de la décision.
+
+A moins que l'exécution provisoire n'ait été ordonnée, le délai de recours et le recours lui-même exercé dans le délai
+suspendent l'exécution de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 28 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1263 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1214
+
+
 ###### Article 1216
 
 Le recours est formé par une requête signée par un avocat et remise, ou adressée par lettre recommandée, au secrétariat-
@@ -20314,6 +20754,38 @@ du recours prévu à l'article 1222 et par le recours lui-même exercé dans ce 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1222
+
+
+###### Article 1222
+
+Dans tous les cas, la délibération du conseil de famille peut être frappée d'un recours devant le tribunal de grande
+instance, soit par le tuteur, le subrogé-tuteur ou les autres membres du conseil de famille, soit par le juge des tutelles,
+quel qu'ait été leur avis lors de la délibération.
+
+Le délai du recours est de quinze jours ; il court du jour de la délibération hors le cas de l'article 413 du code civil où
+il ne court, contre les membres du conseil de famille, que du jour où la délibération leur a été notifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 29 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1224 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 413 (AbD)
 
 
 ###### Article 1223
@@ -21012,6 +21484,39 @@ Le recours contre la décision qui refuse d'ouvrir la tutelle n'est ouvert qu'au
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1256
+
+Le recours contre la décision qui ouvre la tutelle ou refuse d'en donner mainlevée est formé, soit conformément aux
+dispositions de l'article 1216, soit par lettre sommairement motivée et signée par l'une des personnes ayant qualité pour
+agir en vertu de l'article 493 du code civil ; cette lettre est remise, ou adressée sous pli recommandé avec demande d'avis
+de réception, au secrétariat-greffe du tribunal d'instance.
+
+Quelle que soit la forme du recours, le ministère d'avocat n'est pas obligatoire pour la poursuite de l'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 30 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1260-5 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 493 (AbD)
+	  - Nouveau code de procédure civile 1216
 
 
 ###### Article 1257
