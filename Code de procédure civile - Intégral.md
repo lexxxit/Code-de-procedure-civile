@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1992-09-11
+Version Consolidée au 1993-07-23
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -18884,7 +18884,7 @@ cause ou, si cette personne ne demeure pas en France, le tribunal de grande inst
 
 Toute action qui a pour objet principal de faire déclarer qu'une personne a ou n'a pas la qualité de Français, est exercée
 par le ministère public ou contre lui sans préjudice du droit qui appartient à tout intéressé d'intervenir à l'instance ou de
-contester, conformément à l'article 107 du Code de la nationalité, la validité d'une déclaration enregistrée.
+contester, conformément à l'article 26-4 du code civil, la validité d'une déclaration enregistrée.
 
 **Nota:**
 
@@ -18892,21 +18892,21 @@ contester, conformément à l'article 107 du Code de la nationalité, la validit
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de la nationalité française 107
-
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1044 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 26-4 (M)
 
 
 ###### Article 1041
