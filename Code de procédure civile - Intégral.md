@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1984-10-01
+Version Consolidée au 1985-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -16965,6 +16965,25 @@ Une copie de l'arrêt est adressée à la juridiction dont émane la décision a
 	**Modifié par**:
 
 	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1022-1
+
+Dans les affaires pour lesquelles les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de
+cassation, les décisions de cassation sont notifiées par le secrétariat-greffe de la Cour de cassation par [*modalités*]
+lettre recommandée avec demande d'avis de réception ; les décisions de rejet ou de cassation sans renvoi sont portées par
+lettre simple à la connaissance des parties qui ne sont pas assistées ou représentées par un avocat au Conseil d'Etat ou à la
+Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°84-618 1984-07-13 art. 19 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er janvier 1985
 
 
 ### Chapitre V : Dispositions diverses
