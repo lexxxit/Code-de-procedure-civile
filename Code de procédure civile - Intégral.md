@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1978-01-24
+Version Consolidée au 1978-03-18
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -5006,6 +5006,58 @@ pour cause de suspicion légitime.
 
 
 ### Chapitre II : La récusation.
+
+###### Article 341
+
+La récusation d'un juge n'est admise que pour les causes déterminées par la loi.
+
+Comme il est dit à l'article L. 731-1 du code de l'organisation judiciaire "sauf dispositions particulières à certaines
+juridictions la récusation d'un juge peut être demandée :
+
+1° Si lui-même ou son conjoint a un intérêt personnel à la contestation ;
+
+2° Si lui-même ou son conjoint est créancier, débiteur, héritier présomptif ou donataire de l'une des parties ;
+
+3° Si lui-même ou son conjoint est parent ou allié de l'une des parties ou de son conjoint jusqu'au quatrième degré
+inclusivement ;
+
+4° S'il y a eu ou s'il y a procès entre lui ou son conjoint et l'une des parties ou son conjoint ;
+
+5° S'il a précédemment connu de l'affaire comme juge ou comme arbitre ou s'il a conseillé l'une des parties ;
+
+6° Si le juge ou son conjoint est chargé d'administrer les biens de l'une des parties ;
+
+7° S'il existe un lien de subordination entre le juge ou son conjoint et l'une des parties ou son conjoint ;
+
+8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties.
+
+Le ministère public, partie jointe, peut être récusé dans les mêmes cas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-330 1978-03-16 art. 7 JORF 18 mars 1978 rectificatif JORF 24 mars 1978 et JORF 10 novembre 1978
+
+	**Cité par**:
+
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 143 (V)
+	  - Décret n°2017-495 du 6 avril 2017 - art. 21
+	  - Code de la santé publique - art. L4234-2 (V)
+	  - Code de procédure civile - art. 349 (V)
+	  - Code de procédure civile - art. 350 (V)
+	  - Code des douanes - art. 444 (Ab)
+	  - Code des douanes de Mayotte - art. 308 (Ab)
+	  - Code du travail - art. R1457-1 (VD)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
+
 
 ###### Article 342
 
@@ -13528,6 +13580,33 @@ cette loi et les textes complémentaires intervenus depuis cette date, ainsi que
 	**Cite**:
 
 	  - Loi n°1924-06-01
+
+
+###### Article ANNEXE, art. 3
+
+Les matières énumérées à l'article 2 relèvent en premier ressort de la compétence du tribunal d'instance.
+
+Comme il est dit à l'article R. 911-2 du code de l'organisation judiciaire, le tribunal d'instance statue à la place du
+tribunal de grande instance et du président de cette juridiction dans les cas où la loi leur donne compétence en matière
+successorale et en la matière de légitimation postérieure au mariage, à l'exclusion du cas prévu par l'article 318 du code
+civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 1 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+	  - Décret n°78-330 1978-03-16 art. 8 JORF 18 mars 1978 rectificatif JORF 24 mars 1978 et JORF 10 novembre 1978
+
+	**Cite**:
+
+	  - Code civil - art. 318 (M)
+	  - Code de l'organisation judiciaire R911-2
+	  - Nouveau code de procédure civile Annexe, 2
 
 
 ###### Article ANNEXE, art. 4
