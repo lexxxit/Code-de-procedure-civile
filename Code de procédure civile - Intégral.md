@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1999-03-01
+Version Consolidée au 1999-09-19
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -24267,6 +24267,74 @@ pour le surplus, aux règles qui gouvernent les demandes en délégation de l'au
 	**Modifié par**:
 
 	  - Décret n°94-42 du 14 janvier 1994 - art. 19 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+
+#### Section IV : Dispositions relatives à l'administrateur ad hoc
+
+###### Article 1210-1
+
+Lorsqu'en application des dispositions des articles 388-2 et 389-3 du code civil, la juridiction procède à la désignation
+d'un administrateur ad hoc et que dans l'intérêt de l'enfant, il est impossible de choisir celui-ci au sein de la famille ou
+parmi les proches du mineur, la juridiction peut désigner l'administrateur ad hoc parmi les personnes figurant sur la liste
+prévue à l'article R. 53 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 7 () JORF 19 septembre 1999
+
+	**Cite**:
+
+	  - Code civil - art. 388-2 (V)
+	  - Code civil - art. 389-3 (V)
+	  - Code de procédure pénale - art. R53 (V)
+
+
+###### Article 1210-2
+
+La désignation d'un administrateur ad hoc peut être contestée par la voie de l'appel par les représentants légaux du mineur
+dans un délai de quinze jours. Cet appel n'est pas suspensif.
+
+L'appel est formé, instruit et jugé comme en matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 7 () JORF 19 septembre 1999
+
+
+###### Article 1210-3
+
+Lorsque l'administrateur ad hoc est choisi parmi les personnes figurant sur la liste prévue à l'article R. 53 du code de
+procédure pénale, sa rémunération est celle fixée au 3° de l'article R. 216 du même code.
+
+Les frais de cette rémunération sont recouvrés par le Trésor contre la partie condamnée aux dépens, selon les procédures et
+sous les garanties prévues en matière d'amende pénale. En l'absence de condamnation aux dépens, les frais sont recouvrés
+contre la partie indiquée par le juge qui a désigné l'administrateur ad hoc.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°99-818 du 16 septembre 1999 - art. 7 () JORF 19 septembre 1999
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. A43-10 (V)
 
 
 ### Chapitre X : La tutelle des mineurs
