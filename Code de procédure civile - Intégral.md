@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1992-01-01
+Version Consolidée au 1992-03-14
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -18618,6 +18618,139 @@ pourvoir devant la juridiction qu'il désigne pour qu'il soit statué sur la dem
 	**Modifié par**:
 
 	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+### Chapitre VI : La saisine pour avis de la Cour de cassation.
+
+###### Article 1031-1
+
+Lorsque le juge envisage de solliciter l'avis de la Cour de cassation en application de l'article L. 151-1 du code de
+l'organisation judiciaire, il en avise les parties et le ministère public. Il recueille leurs observations écrites
+éventuelles dans le délai qu'il fixe, à moins qu'ils n'aient déjà conclu sur ce point.
+
+Dès réception des observations ou à l'expiration du délai, le juge peut, par une décision non susceptible de recours,
+solliciter l'avis de la Cour de cassation en formulant la question de droit qu'il lui soumet. Il surseoit à statuer jusqu'à
+la réception de l'avis ou jusqu'à l'expiration du délai mentionné à l'article 1031-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-1 (M)
+	  - Nouveau code de procédure civile 1031-3
+
+
+###### Article 1031-2
+
+La décision sollicitant l'avis est adressée, avec les conclusions et les observations écrites éventuelles, par le secrétariat
+de la juridiction au greffe de la Cour de cassation.
+
+Elle est notifiée, ainsi que la date de transmission du dossier, aux parties par lettre recommandée avec demande d'avis de
+réception.
+
+Le ministère public auprès de la juridiction est avisé ainsi que le premier président de la cour d'appel et le procureur
+général lorsque la demande d'avis n'émane pas de la cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
+
+
+###### Article 1031-3
+
+La Cour de cassation rend son avis dans les trois mois de la réception du dossier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1031-1 (V)
+
+
+###### Article 1031-4
+
+Dans les matières où la représentation est obligatoire, les observations éventuelles des parties doivent être signées par un
+avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
+
+
+###### Article 1031-5
+
+L'affaire est communiquée au procureur général près la Cour de cassation. Celui-ci est informé de la date de la séance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
+
+
+###### Article 1031-6
+
+L'avis peut mentionner qu'il sera publié au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
+
+
+###### Article 1031-7
+
+L'avis est adressé à la juridiction qui l'a demandé, au ministère public auprès de cette juridiction, au premier président de
+la cour d'appel et au procureur général lorsque la demande n'émane pas de la cour.
+
+Il est notifié aux parties par le greffe de la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
 
 
 ## Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation.
