@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1992-08-05
+Version Consolidée au 1992-09-11
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -26634,6 +26634,76 @@ L'appel est formé, instruit et jugé comme en matière gracieuse.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+### Chapitre V : Le contentieux de la passation de certains contrats de travaux.
+
+###### Article 1441-1
+
+Toute personne habilitée à introduire un recours dans les conditions prévues au premier alinéa de l'article 11-1 de la loi n°
+91-3 du 3 janvier 1991 relative à la transparence et à la régularité des procédures de marchés et soumettant la passation de
+certains contrats à des règles de publicité et de mise en concurrence doit, si elle entend engager une telle action, mettre
+préalablement en demeure, par lettre recommandée avec demande d'avis de réception, la personne morale tenue aux obligations
+de publicité et de mise en concurrence auxquelles est soumise la passation du contrat de s'y conformer.
+
+En cas de refus ou d'absence de réponse dans un délai de dix jours, l'auteur de la mise en demeure peut saisir le président
+de la juridiction compétente ou son délégué, qui statue dans un délai de vingt jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Loi n°91-3 1991-01-03 art. 11-1
+
+	**Créé par**:
+
+	  - Décret n°92-964 du 7 septembre 1992 - art. 1 () JORF 11 septembre 1992
+
+
+###### Article 1441-2
+
+L'article 1441-1 est applicable au ministère public dans le cas prévu au deuxième alinéa de l'article 11-1 de la loi n° 91-3
+du 3 janvier 1991.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Loi n°91-3 1991-01-03 art. 11-1
+	  - Nouveau code de procédure civile 1441-1
+
+	**Créé par**:
+
+	  - Décret n°92-964 du 7 septembre 1992 - art. 1 () JORF 11 septembre 1992
+
+
+###### Article 1441-3
+
+La décision du président de la juridiction saisie ou de son délégué est susceptible de pourvoi en cassation dans les quinze
+jours de sa notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°92-964 du 7 septembre 1992 - art. 1 () JORF 11 septembre 1992
+
+	**Cité par**:
+
+	  - Décret n°2005-1308 du 20 octobre 2005 - art. 45-1 (VT)
+	  - Décret n°2005-1742 du 30 décembre 2005 - art. 47-2 (VT)
 
 
 # Livre IV : L'arbitrage.
