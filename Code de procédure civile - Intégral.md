@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-08-17
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -1432,6 +1432,46 @@ Il est délivré récépissé de cette remise.
 	  - Code de procédure civile - art. 47 (VD)
 
 
+###### Article 83
+
+Le secrétaire de la juridiction qui a rendu la décision notifie sans délai à la partie adverse une copie du contredit, par
+lettre recommandée avec demande d'avis de réception, et en informe également son représentant si elle en a un. 
+
+Il transmet simultanément au greffier en chef de la cour le dossier de l'affaire avec le contredit et une copie du jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°78-62 1978-01-20 art. 17 JORF 24 janvier 1978
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 272 (V)
+
+
+###### Article 84
+
+Le premier président fixe la date de l'audience, laquelle doit avoir lieu dans le plus bref délai. 
+
+Le greffier de la cour en informe les parties par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ###### Article 85
 
 Les parties peuvent, à l'appui de leur argumentation, déposer toutes observations écrites qu'elles estiment utiles. Ces
@@ -1454,6 +1494,24 @@ renvoi.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 87
+
+Le greffier de la cour notifie aussitôt l'arrêt aux parties par lettre recommandée avec demande d'avis de réception. 
+
+Cet arrêt n'est pas susceptible d'opposition. Le délai de pourvoi en cassation court à compter de sa notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 1 JORF 30 décembre 1976
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 88
@@ -1518,6 +1576,28 @@ adressée à leur domicile ou à leur résidence.
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 92 (V)
+
+
+###### Article 91
+
+Lorsque la cour estime que la décision qui lui est déférée par la voie du contredit devait l'être par celle de l'appel, elle
+n'en demeure pas moins saisie. 
+
+L'affaire est alors instruite et jugée selon les règles applicables à l'appel des décisions rendues par la juridiction dont
+émane le jugement frappé de contredit. 
+
+Si, selon ces règles, les parties sont tenues de constituer avoué, l'appel est d'office déclaré irrecevable si celui qui a
+formé le contredit n'a pas constitué avoué dans le mois de l'avis donné aux parties par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ##### Sous-section IV : L'incompétence relevée d'office.
@@ -4634,6 +4714,31 @@ seraient réclamés.
 ##### Section I : L'inscription de faux incidente.
 
 ##### Sous-section I : Incident soulevé devant le tribunal de grande instance ou la cour d'appel.
+
+###### Article 306
+
+L'inscription de faux est formée par acte remis au secrétariat-greffe par la partie ou son mandataire muni d'un pouvoir
+spécial. 
+
+L'acte, établi en double exemplaire, doit, à peine d'irrecevabilité, articuler avec précision les moyens que la partie
+invoque pour établir le faux. 
+
+L'un des exemplaires est immédiatement versé au dossier de l'affaire et l'autre, daté et visé par le greffier, est restitué à
+la partie en vue de la dénonciation de l'inscription au défendeur. 
+
+La dénonciation doit être faite par notification entre avocats ou signification à la partie adverse dans le mois de
+l'inscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
 
 ###### Article 307
 
@@ -11201,6 +11306,25 @@ Copie de cette note est simultanément envoyée à la partie adverse.
 	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
 
 
+###### Article 716
+
+Les parties sont convoquées quinze jours au moins à l'avance par le greffier de la cour d'appel.
+
+Le premier président ou son délégué les entend contradictoirement.
+
+Il procède ou fait procéder, s'il y a lieu, à toutes investigations utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ###### Article 717
 
 Le premier président ou son délégué a la faculté de renvoyer la demande en l'état à une audience de la cour dont il fixe la
@@ -11754,6 +11878,24 @@ A défaut de remise, requête peut être présentée au président en vue de fai
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 758
+
+Le président du tribunal fixe les jour et heure auxquels l'affaire sera appelée ; s'il y a lieu, il désigne la chambre à
+laquelle elle est distribuée. 
+
+Avis en est donné par le greffier aux avocats constitués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 759
@@ -12547,6 +12689,26 @@ est renoncé à la faculté de demander le renvoi à la formation collégiale.
 
 #### Chapitre IV : Dispositions diverses.
 
+###### Article 806
+
+Lorsque le tribunal est saisi par requête, en matière contentieuse ou gracieuse, les parties sont avisées de la date de
+l'audience par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 803 et 804
+
+
 ###### Article 807
 
 L'avis est soit donné aux avocats par simple bulletin, soit, lorsque la représentation n'est pas obligatoire, transmis aux
@@ -12792,6 +12954,132 @@ attribuées par le sous-titre Ier.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+#### Chapitre III : Le secrétariat-greffe.
+
+###### Article 821
+
+La remise au secrétariat-greffe de la copie d'un acte de procédure ou d'une pièce est constatée par la mention de la date de
+remise et le visa du greffier sur la copie ainsi que sur l'original, qui est immédiatement restitué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 796-1 (VD)
+
+
+###### Article 822
+
+La copie de l'assignation, de la requête ou de la requête conjointe est, dès sa remise au secrétariat-greffe, présentée par
+le greffier, au président du tribunal en vue des formalités de fixation et de distribution.
+
+La décision du président fait l'objet d'une simple mention en marge de la copie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 823
+
+Le dossier de l'affaire est conservé et tenu à jour par le greffier de la chambre à laquelle l'affaire a été distribuée. 
+
+Il est établi une fiche permettant de connaître à tout moment l'état de l'affaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 824
+
+Dans le cas prévu à l'article 788, les copies de la requête et des pièces remises au président sont, ainsi qu'une copie de
+son ordonnance, placées par le greffier dans le dossier, dès sa constitution. 
+
+Si, le jour où l'affaire doit être appelée, la copie de l'assignation n'a pas été remise au secrétariat-greffe, le greffier
+restitue d'office à l'avocat les copies qu'il détient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 969 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 788
+
+
+###### Article 825
+
+Le greffier avise aussitôt les avocats dont la constitution lui est connue du numéro d'inscription au répertoire général, des
+jour et heure fixés par le président du tribunal pour l'appel de l'affaire et de la chambre à laquelle celle-ci est
+distribuée. 
+
+Cet avis est donné aux avocats dont la constitution n'est pas encore connue, dès la remise au secrétariat-greffe de la copie
+de l'acte de constitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 826
+
+Les avocats de chacune des parties sont convoqués ou avisés des charges qui leur incombent par le président ou par le juge de
+la mise en état, selon le mode d'instruction de l'affaire ; ils sont convoqués ou avisés verbalement, avec émargement et
+mention au dossier.
+
+En cas d'absence, ils le sont par simple bulletin, daté et signé par le greffier, et remis ou déposé par celui-ci au lieu où
+sont effectuées, au siège du tribunal, les notifications entre avocats.
+
+Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ## Titre II : Dispositions particulières au tribunal d'instance.
 
 ###### Article 827
@@ -12882,6 +13170,43 @@ Le demandeur indique les nom, prénoms, profession et adresse des parties, ainsi
 	**Cité par**:
 
 	  - Décret n°2010-1165 du 1er octobre 2010 - art. 17 (VD)
+
+
+###### Article 831
+
+Le greffier avise le demandeur verbalement ou par lettre simple des lieu, jour et heure de la tentative de conciliation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 832 (M)
+
+
+###### Article 832
+
+Le greffier convoque le défendeur par lettre simple.
+
+La convocation mentionne les nom, prénoms, profession et adresse du demandeur, l'objet de la demande, ainsi que les lieu,
+jour et heure auxquels sera tentée la conciliation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 833
@@ -13001,6 +13326,39 @@ La tentative de conciliation peut avoir lieu dans le cabinet du juge.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 841
+
+A défaut de conciliation, l'affaire est immédiatement jugée ou, si elle n'est pas en état de l'être, renvoyée à une audience
+ultérieure. Dans ce dernier cas, le greffier avise par lettre simple les parties qui ne l'auraient pas été verbalement, de la
+date de l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 842
+
+La poursuite de l'instance après l'exécution d'une mesure d'instruction ou l'expiration d'un délai de sursis à statuer a lieu
+sur l'avis qui en est donné aux parties verbalement ou par lettre simple du greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 843
@@ -13897,6 +14255,57 @@ Elle est signée par l'avoué.
 	  - Code de procédure civile - art. ANNEXE, art. 42 (VD)
 
 
+###### Article 902
+
+La déclaration est remise au secrétariat-greffe de la cour en autant d'exemplaires qu'il y a d'intimés, plus deux.
+
+La remise est constatée par la mention de sa date et le visa du greffier sur chaque exemplaire dont l'un est immédiatement
+restitué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 38-1 (Ab)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
+	  - Code de procédure civile - art. 911-1 (VD)
+
+
+###### Article 903
+
+Le greffier adresse aussitôt, par lettre simple, à chacun des intimés, un exemplaire de la déclaration avec l'indication de
+l'obligation de constituer avoué.
+
+Au cas où cet exemplaire lui serait renvoyé par l'administration des postes, le greffier le transmet aussitôt à l'avoué de
+l'appelant, lequel procède comme il est dit à l'article 908.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Arrêté du 30 mars 2011 - art. 2 (V)
+
+	**Cite**:
+
+	  - Nouveau Code de procédure civile 908
+
+
 ###### Article 904
 
 Dès qu'il est constitué, l'avoué de l'intimé en informe celui de l'appelant ; copie de l'acte de constitution est remise au
@@ -13956,6 +14365,58 @@ décisions rendues à compter du 1er janvier 2005.
 	  - Code de procédure civile - art. 907 (VD)
 	  - Code des procédures civiles d'exécution - art. R121-20 (VD)
 	  - Code des procédures civiles d'exécution - art. R311-7 (VD)
+
+
+###### Article 906
+
+Une copie de la déclaration d'appel visée par le greffier et une expédition du jugement ou une copie certifiée conforme par
+l'avoué sont jointes à la demande d'inscription au rôle.
+
+**Nota:**
+
+NOTA : En cas de mise de tout ou partie du passif social à la charge d'un ou des dirigeants sociaux : l'appel interjeté avant
+le 1er janvier 1980 ne peut être déclaré irrégulier s'il a été formé par voie de déclaration ; l'appel interjeté après le 1er
+janvier 1980 ne peut être déclaré irrégulier s'il a été formé par voie de signification contre une décision qui avait été
+notifiée avant cette date, Décret 79-741 du 7 novembre 1979, art. 19.
+
+NOTA : Décret 2004-836 2004-08-20 art. 59 : Le présent décret entre en vigueur le 1er janvier 2005. Il est applicable aux
+procédures en cours. Toutefois, les articles 20 à 43 sont applicables uniquement aux recours dirigés à l'encontre des
+décisions rendues à compter du 1er janvier 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-836 du 20 août 2004 - art. 22 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Arrêté du 30 mars 2011 - art. 5 (V)
+
+
+###### Article 907
+
+Le premier président désigne la chambre à laquelle l'affaire est distribuée. 
+
+Avis en est donné par le secrétariat-greffe aux avoués constitués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 908
@@ -14382,6 +14843,25 @@ le dossier de l'affaire avec une copie de la déclaration et une copie du jugeme
 	  - Code de procédure civile - art. 949 (V)
 
 
+###### Article 937
+
+Le greffier de la cour convoque les parties à l'audience prévue pour les débats, dès sa fixation et quinze jours au moins à
+l'avance, par lettre recommandée avec demande d'avis de réception et leur adresse le même jour, par lettre simple, copie de
+cette convocation. 
+
+La convocation vaut citation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ###### Article 938
 
 S'il y a lieu de convoquer à nouveau une partie qui n'a pas été jointe par la première convocation, il peut être ordonné que
@@ -14515,6 +14995,51 @@ au dossier ou consignées dans un procès-verbal.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
+###### Article 947
+
+A moins que l'affaire ne soit jugée dès la première audience, le greffier avise par lettre simple de la date des audiences
+ultérieures les parties qui ne l'auraient pas été verbalement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 949 (V)
+
+
+###### Article 948
+
+La partie dont les droits sont en péril peut, même si une date d'audience a déjà été fixée, demander au premier président de
+la cour de retenir l'affaire, par priorité, à une prochaine audience. 
+
+S'il est fait droit à sa demande, le requérant est aussitôt avisé de la date fixée. 
+
+A moins que le premier président n'ait décidé qu'elle le serait par acte d'huissier de justice à l'initiative du requérant,
+le greffier convoque la partie adverse par lettre recommandée avec demande d'avis de réception et lui adresse le même jour,
+par lettre simple, copie de cette convocation. 
+
+La cour s'assure qu'il s'est écoulé un temps suffisant entre la convocation et l'audience pour que la partie convoquée ait pu
+préparer sa défense.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ###### Article 949
 
 Les avis et convocations prescrits par les articles 936, 937, 947 et 948 sont acheminés selon les formes prévues par ces
@@ -14615,6 +15140,22 @@ siens.
 	**Modifié par**:
 
 	  - Décret n°79-941 1979-11-07 art. 11 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 955-1
+
+Lorsque la cour est saisie par requête, les parties sont avisées de la date de l'audience par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 12 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 955-2
@@ -14839,6 +15380,56 @@ attribuées par le sous-titre Ier.
 
 #### Chapitre III : Le secrétariat-greffe.
 
+###### Article 966
+
+La remise au secrétariat-greffe de la copie d'un acte de procédure ou d'une pièce est constatée par la mention de la date de
+remise et le visa du greffier sur la copie, ainsi que sur l'original qui est immédiatement restitué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 967
+
+La copie de la déclaration, de la requête ou de la requête conjointe est, dès sa remise au secrétariat-greffe, présentée par
+le greffier au premier président en vue des formalités de fixation et de distribution. 
+
+La décision du premier président fait l'objet d'une simple mention en marge de la copie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 968
+
+Au dossier de la cour est joint celui de la juridiction de première instance que le greffier demande dès que la cour est
+saisie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ###### Article 969
 
 Lorsque la procédure est à jour fixe, les dispositions de l'article 824 sont observées.
@@ -14852,6 +15443,69 @@ Lorsque la procédure est à jour fixe, les dispositions de l'article 824 sont o
 	**Cite**:
 
 	  - Nouveau code de procédure civile 824
+
+
+###### Article 970
+
+Le greffier avise immédiatement les avoués dont la constitution lui est connue du numéro d'inscription au répertoire général,
+des jour et heure fixés par le premier président pour l'appel de l'affaire et de la chambre à laquelle celle-ci est
+distribuée. 
+
+Cet avis est donné aux avoués dont la constitution n'est pas encore connue, dès la remise au secrétariat-greffe de l'acte de
+constitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 971
+
+Les avoués et les avocats de chacune des parties sont convoqués ou avisés des charges qui leur incombent, par le président ou
+par le conseiller de la mise en état selon le mode d'instruction de l'affaire ; ils sont convoqués ou avisés verbalement,
+avec émargement et mention au dossier. 
+
+En cas d'absence, ils le sont par simple bulletin daté et signé par le greffier et remis ou déposé par celui-ci au lieu où
+sont effectuées, au siège de la cour, les notifications entre avoués.
+
+Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 972
+
+Si l'affaire est renvoyée devant une juridiction de première instance ou si elle doit reprendre son cours devant une telle
+juridiction, le dossier est transmis sans délai par le greffier de la cour au secrétaire de cette juridiction. 
+
+Si la décision n'est l'objet d'aucun recours, le dossier de la juridiction ayant statué en premier ressort est renvoyé au
+secrétaire de cette juridiction. 
+
+Dans tous les cas, il est joint une copie de la décision de la cour.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ## Titre VII : Dispositions particulières à la Cour de cassation.
@@ -14932,6 +15586,48 @@ Elle est signée par l'avocat au Conseil d'Etat et à la Cour de cassation.
 	**Modifié par**:
 
 	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 976
+
+La déclaration est remise au secrétariat-greffe en autant d'exemplaires qu'il y a de défendeurs, plus deux.
+
+La remise est constatée par la mention de sa date et le visa du greffier sur chaque exemplaire, dont l'un est immédiatement
+restitué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 977
+
+Le greffier adresse aussitôt au défendeur par lettre simple un exemplaire de la déclaration avec l'indication qu'il doit,
+s'il entend défendre au pourvoi, constituer un avocat au Conseil d'Etat et à la Cour de cassation. 
+
+Il demande simultanément au secrétariat de la juridiction qui a rendu la décision attaquée communication du dossier. 
+
+Au cas où l'exemplaire de la déclaration lui serait renvoyé par l'administration des postes, le greffier de la Cour de
+cassation le transmet aussitôt à l'avocat du demandeur en cassation, lequel le signifie au défendeur en lui rappelant qu'il
+doit, s'il entend défendre au pourvoi, constituer un avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 978
@@ -15155,6 +15851,27 @@ Ce mémoire peut être établi par le mandataire de la partie sans nouveau pouvo
 	  - Code de procédure civile - art. 991 (V)
 
 
+###### Article 990
+
+Lorsqu'un mémoire est produit par le demandeur, le greffier de la Cour de cassation en notifie sans délai une copie au
+défendeur par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 993 (V)
+
+
 ###### Article 991
 
 Le défendeur au pourvoi dispose d'un délai de deux mois à compter de la notification du mémoire du demandeur ou de
@@ -15181,6 +15898,33 @@ au secrétariat-greffe de la Cour de cassation un mémoire en réponse et former
 	**Cite**:
 
 	  - Nouveau code de procédure civile 989
+
+
+###### Article 992
+
+Le greffier de la Cour de cassation notifie, sans délai, une copie du mémoire en réponse au demandeur par lettre simple. 
+
+En cas de pourvoi incident, il notifie selon les mêmes formes au défendeur à ce pourvoi une copie du mémoire prévu à l'alinéa
+1er de l'article 1010.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1010 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 993 (V)
 
 
 ###### Article 993
@@ -15818,6 +16562,22 @@ L'arrêt vise le texte de loi sur lequel la cassation est fondée.
 	**Modifié par**:
 
 	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1021
+
+L'arrêt est signé par le président, le rapporteur et le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 1022
@@ -16542,6 +17302,31 @@ ressort duquel est née la personne concernée et par le service central d'état
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
+###### Article 1059
+
+La publicité des demandes, actes et jugements est réalisée par une mention en marge de l'un et l'autre exemplaire de l'acte
+de naissance de l'intéressé. Cette mention est faite à la diligence du greffier du tribunal de grande instance ou, le cas
+échéant, à celle du service central d'état civil. Elle est constituée par l'indication "répertoire civil" suivie de la
+référence sous laquelle la demande, l'acte ou le jugement a été conservé. 
+
+La date à laquelle la mention est apposée est portée sur l'extrait conservé au secrétariat-greffe ou au service central
+d'état civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ###### Article 1060
 
 La mention portée en marge des actes de naissance, des jugements qui rejettent une demande ou mettent fin à une mesure
@@ -16647,6 +17432,29 @@ l'étranger.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1057 à 1061
+
+
+###### Article 1065
+
+Lorsque la décision a été rendue par le juge des tutelles, la transmission est faite par le greffier du tribunal d'instance
+dans les quinze jours qui suivent l'expiration des délais de recours. 
+
+Lorsque la décision a été rendue par le tribunal de grande instance, la transmission est faite par le greffier du tribunal de
+grande instance dans les quinze jours du jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 #### Section II : La déclaration d'absence
@@ -16960,6 +17768,55 @@ Le juge est saisi par cette requête qui vaut conclusions.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1086
+
+Dans les quinze jours du dépôt de la requête, le greffier la notifie au défendeur par lettre recommandée avec demande d'avis
+de réception et lui indique la date retenue pour l'audience. 
+
+Le même jour, le greffier lui adresse par lettre simple une copie de la requête et de la lettre recommandée. 
+
+Il informe également de la date de l'audience par lettre simple celui qui a pris l'initiative de la demande et, sil y a lieu,
+son avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 1087
+
+Dans tous les cas, le juge aux affaires matrimoniales statue, sans formalité, sur les demandes respectives. Sa décision est,
+de droit, exécutoire à titre provisoire. 
+
+Le délai d'appel est de quinze jours ; il court à compter de la notification. Lorsqu'il a été saisi sur simple requête, le
+juge peut décider soit d'office, soit à la demande de l'un des intéressés, qu'il ne sera pas procédé à la signification de la
+décision mais que celle-ci sera notifiée par le greffier par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 #### Section II : Le divorce sur demande conjointe des époux.
@@ -17400,6 +18257,34 @@ L'ordonnance ne peut faire l'objet d'aucun recours.
 
 
 ##### Paragraphe 2 : La tentative de conciliation.
+
+###### Article 1108
+
+L'époux qui n'a pas présenté la requête est convoqué par le greffier à la tentative de conciliation, par lettre recommandée
+avec demande d'avis de réception, confirmée le même jour, par lettre simple. A peine de nullité, la lettre recommandée doit
+être expédiée quinze jours au moins à l'avance et accompagnée d'une copie de l'ordonnance. Le greffier avise l'avocat. 
+
+A la notification par lettre recommandée est également jointe, à titre d'information, une notice exposant, notamment, les
+dispositions des articles 252 à 252-3 du Code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cite**:
+
+	  - Code civil 252 à 252-3
+
 
 ###### Article 1109
 
@@ -17891,6 +18776,28 @@ les imputer à l'un ou à l'autre conjoint.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5, JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1131
+
+Dans les quinze jours [*délai*] de la présentation de la requête et du mémoire, le greffier en adresse copie à l'autre époux
+par [*modalités - formes*] lettre recommandée avec demande d'avis de réception.
+
+Le greffier adresse le même jour à cet époux une lettre simple l'informant du contenu de la lettre recommandée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 1132
@@ -18795,6 +19702,33 @@ Les décisions de la cour d'appel sont notifiées comme il est dit à l'article 
 	  - Code de procédure civile - art. 1209 (V)
 
 
+###### Article 1195
+
+Les convocations et notifications sont faites par le greffier par [*modalités*] lettre recommandée avec demande d'avis de
+réception ; le juge peut [*pouvoirs*] toutefois, décider qu'elles auront lieu par acte d'huissier de justice ou par la voie
+administrative. 
+
+La remise d'une expédition du jugement contre récépissé daté et signé équivaut à la notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1200-12 (V)
+
+
 ###### Article 1196
 
 En cas de pourvoi en cassation, les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de
@@ -18949,6 +19883,27 @@ procureur de la République qui doit la transmettre au tribunal.
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
+###### Article 1204
+
+Lorsque la demande tend à la déchéance ou au retrait partiel de l'autorité parentale, qu'elle émane du ministère public, d'un
+membre de la famille ou du tuteur de l'enfant, la requête est notifiée par le greffier à l'ascendant contre lequel l'action
+est exercée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ###### Article 1205
 
 Le tribunal, même d'office, procède ou fait procéder à toutes les investigations utiles et notamment aux mesures
@@ -19013,6 +19968,27 @@ tribunal ou son président.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1186, 1187, 1188, 1190 et 1191 à 1197
+
+
+###### Article 1210
+
+La demande en restitution des droits délégués ou retirés est formée par requête devant le tribunal du lieu où demeure la
+personne à laquelle ces droits ont été conférés. Elle est notifiée à cette personne par le greffier. Elle obéit, pour le
+surplus, aux règles qui gouvernent les demandes en délégation de l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ### Chapitre X : La tutelle des mineurs
@@ -19120,6 +20096,54 @@ président du tribunal de grande instance.
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
 
+###### Article 1217
+
+Le greffier du tribunal de grande instance donne avis de la date de l'audience à l'avocat du requérant et, par lettre
+recommandée avec demande d'avis de réception, aux personnes qui auraient pu former un recours contre la décision. 
+
+Celles-ci ont le droit d'intervenir devant le tribunal qui peut même ordonner qu'elles seront appelées en cause par acte
+d'huissier de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 1218
+
+Lorsque le tribunal de grande instance a statué, le dossier de la tutelle, auquel est jointe une copie certifiée conforme du
+jugement, est renvoyé au greffier du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1218-1 (V)
+	  - Code de procédure civile - art. 1228 (V)
+
+
 #### Section II : Le conseil de famille.
 
 ###### Article 1219
@@ -19188,6 +20212,37 @@ du recours prévu à l'article 1222 et par le recours lui-même exercé dans ce 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1222
+
+
+###### Article 1223
+
+La procédure prévue aux articles 1216 à 1218 est applicable aux recours formés contre les délibérations du conseil de
+famille. 
+
+Lorsque le recours est formé par le juge des tutelles, celui-ci joint au dossier une note exposant les motifs de son
+recours. 
+
+Le greffier de ce tribunal donne avis de la date de l'audience à l'avocat du requérant et, par lettre recommandée avec
+demande d'avis de réception, au tuteur, au subrogé-tuteur, ainsi qu'aux membres du conseil de famille qui n'ont pas formé le
+recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1216 à 1218
 
 
 #### Section III : Dispositions communes.
@@ -19398,6 +20453,29 @@ Le procureur de la République du lieu de traitement et le juge des tutelles ont
 	  - Code civil - art. 490-3 (AbD)
 
 
+###### Article 1235
+
+Le juge des tutelles peut, dans tous les cas où il estime utile d'entendre la personne protégée, se déplacer dans toute
+l'étendue du ressort de la cour d'appel, ainsi que dans les départements limitrophes de celui où il exerce ses fonctions. Le
+juge peut se déplacer sans l'assistance du greffier. 
+
+Les mêmes règles sont applicables lorsque la personne protégée est entendue par un juge du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 #### Section II : La sauvegarde de justice.
 
 ###### Article 1236
@@ -19561,6 +20639,41 @@ La tutelle des majeurs obéit aux règles prévues pour la tutelle des mineurs, 
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1244
+
+La requête aux fins d'ouverture de la tutelle désigne la personne à protéger et énonce les faits qui appellent cette
+protection. Doit y être joint un certificat délivré par un médecin spécialiste, conformément à l'article 493-1 du code civil.
+La requête énumère les proches parents de la personne à protéger, autant que leur existence est connue du requérant ; elle
+indique le nom et l'adresse du médecin traitant.
+
+Quand le juge se saisit d'office aux fins d'ouverture d'une tutelle, il commet un médecin spécialiste, choisi sur la liste
+prévue à l'article 493-1 du code civil, afin de constater l'état de la personne à protéger. 
+
+Le greffier avise le procureur de la République de la procédure engagée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1261 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 493-1 (AbD)
 
 
 ###### Article 1245
@@ -19833,6 +20946,53 @@ Le ministère public peut former recours jusqu'à l'expiration d'un délai de qu
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1259
+
+Le greffier du tribunal de grande instance informe de la date de l'audience les personnes ayant formé un recours contre la
+décision, celles à qui cette décision a été notifiée ainsi que, le cas échéant, leurs avocats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
+###### Article 1260
+
+Un extrait de toute décision portant ouverture, modification ou mainlevée d'une tutelle est transmis au secrétariat-greffe du
+tribunal de grande instance dans le ressort duquel est née la personne protégée, à fin de conservation au répertoire civil et
+de publicité par mention en marge de l'acte de naissance selon les modalités prévues au chapitre III du présent livre.
+
+Lorsque la décision a été rendue par le juge des tutelles, la transmission est faite par le greffier dans les quinze jours
+qui suivent l'expiration des délais de recours.
+
+Lorsque la décision a été rendue par le tribunal de grande instance, la transmission est faite par le procureur de la
+République dans les quinze jours du jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article 1261
@@ -20324,6 +21484,33 @@ Si l'un des époux ne remplit pas son obligation de contribuer aux charges du ma
 
 	  - Code civil - art. 214 (V)
 	  - Code civil 214, 1448 et 1449
+
+
+###### Article 1283
+
+La demande est formée par [*modalités - forme*] déclaration écrite ou verbale enregistrée au secrétariat-greffe de la
+juridiction ou par lettre simple. Elle mentionne l'adresse ou la dernière adresse connue du défendeur. 
+
+Le greffier convoque les époux par lettre recommandée avec demande d'avis de réception. La convocation mentionne l'objet de
+la demande et précise que les époux doivent, sauf empêchement grave, se présenter en personne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Abrogé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1284
@@ -21038,6 +22225,31 @@ compétente selon les règles prévues à l'article 97.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 97 et 1408
+
+
+###### Article 1418
+
+Le greffier convoque les parties à l'audience par lettre recommandée avec demande d'avis de réception.
+
+La convocation est adressée à toutes les parties, même à celles qui n'ont pas formé opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1419 (V)
 
 
 ###### Article 1419
@@ -23392,6 +24604,23 @@ sous-section 4.
 	  - Nouveau code de procédure civile annexe
 
 
+###### Article ANNEXE, art. 25
+
+Toute inscription doit mentionner le jour où elle est effectuée et être signée par le greffier. 
+
+L'inscription est notifiée à celui qui l'a demandée, sauf renonciation de sa part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+
+
 ###### Article ANNEXE, art. 26
 
 Lorsqu'une inscription est subordonnée à la solution préalable d'un différend, le tribunal d'instance peut surseoir à statuer
@@ -23402,6 +24631,21 @@ sur la demande d'inscription.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article ANNEXE, art. 27
+
+Les requêtes aux fins d'inscription peuvent être prises en procès-verbal par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ###### Article ANNEXE, art. 28
@@ -23615,6 +24859,29 @@ procédure civile.
 	**Modifié par**:
 
 	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.
+
+###### Article ANNEXE, 42
+
+La déclaration d'appel prévue à l'article 901 du nouveau code de procédure civile doit mentionner le nom des représentants
+des intimés en première instance. 
+
+L'appelant remet au secrétariat-greffe, en plus de ceux que prévoit l'article 902 dudit code, autant d'exemplaires de la
+déclaration qu'il y a de représentants. Le greffier adresse aussitôt un exemplaire à chacun de ces représentants par lettre
+simple.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 4 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
 ### Chapitre VII : Dispositions diverses.
