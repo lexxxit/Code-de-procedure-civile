@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1999-09-19
+Version Consolidée au 2000-06-22
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -25001,7 +25001,7 @@ Les mêmes règles sont applicables lorsque la personne protégée est entendue 
 
 ###### Article 1236
 
-La déclaration aux fins de sauvegarde de justice prévue par l'article L. 326-1 du Code de la santé publique est transmise au
+La déclaration aux fins de sauvegarde de justice prévue par l'article L. 3211-1 du code de la santé publique est transmise au
 procureur de la République du lieu de traitement. Celui-ci en donne avis, le cas échéant, au procureur de la République du
 lieu où l'intéressé est domicilié.
 
@@ -25011,13 +25011,13 @@ lieu où l'intéressé est domicilié.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Ordonnance 2000-548 2000-06-15 art. 4 JORF 22 juin 2000
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L326-1 (M)
+	  - Code de la santé publique - art. L3211-1 (V)
 
 
 ###### Article 1237
