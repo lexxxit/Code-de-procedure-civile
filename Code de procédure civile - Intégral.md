@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1996-08-23
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -25627,6 +25627,285 @@ Il n'est pas dérogé à la compétence respective des divers officiers publics 
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+### Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution.
+
+###### Article 1281-1
+
+S'il y a lieu, en dehors de toute procédure d'exécution, de répartir une somme d'argent entre créanciers, la partie la plus
+diligente peut se pourvoir en référé devant le président du tribunal de grande instance dans le ressort duquel demeure le
+débiteur, lequel désigne une personne chargée de la distribution.
+
+La personne chargée de la distribution est séquestre des fonds, à moins que la consignation ne soit ordonnée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+
+###### Article 1281-2
+
+Le séquestre chargé de la distribution doit offrir des garanties de représentation de la somme mise en distribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+	**Cité par**:
+
+	  - Code de commerce. - art. R143-23 (V)
+
+
+###### Article 1281-3
+
+Le greffe notifie par lettre simple une copie de l'ordonnance à la personne chargée de la distribution et, si la consignation
+a été ordonnée, à la Caisse des dépôts et consignations.
+
+La personne chargée de la distribution avise les créanciers, par lettre recommandée avec demande d'avis de réception, qu'ils
+doivent, dans un délai d'un mois, lui adresser une déclaration comportant un décompte des sommes réclamées en principal,
+intérêts et autres accessoires. Le cas échéant, cette déclaration mentionne les privilèges et sûretés attachés à la créance.
+Les documents justificatifs sont joints à la déclaration.
+
+A défaut de déclaration dans le délai mentionné à l'alinéa qui précède, le créancier est déchu du droit de participer à la
+distribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1281-4 (V)
+
+
+###### Article 1281-4
+
+La personne chargée de la distribution établit un projet de répartition dans les deux mois qui suivent le dernier avis prévu
+au deuxième alinéa de l'article 1281-3. 
+
+Elle le notifie au débiteur et à chacun des créanciers par lettre recommandée avec demande d'avis de réception. 
+
+A peine de nullité, la notification indique au destinataire : 
+
+1° Qu'il dispose d'un délai de quinze jours, à compter de la réception de la lettre, pour soulever par lettre recommandée
+avec demande d'avis de réception une contestation motivée, accompagnée des pièces justificatives nécessaires, auprès de la
+personne chargée de la distribution ; 
+
+2° Qu'à défaut de réponse dans le délai imparti il est réputé avoir accepté le projet et que celui-ci deviendra définitif si
+aucune contestation n'est soulevée. 
+
+En cas de difficulté, le délai mentionné au premier alinéa du présent article peut être prorogé par le président du tribunal
+de grande instance saisi par simple requête de la personne chargée de la distribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1281-3 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1281-5 (V)
+
+
+###### Article 1281-5
+
+A défaut de contestation dans les quinze jours suivant la dernière notification mentionnée au deuxième alinéa de l'article
+1281-4, le projet de répartition devient définitif. 
+
+Lorsqu'elle détient la somme à répartir, la personne chargée de la distribution procède alors au paiement des créanciers dans
+les quinze jours. 
+
+Lorsque les fonds ont été consignés, la personne chargée de la distribution notifie le projet de répartition devenu définitif
+à la Caisse des dépôts et consignations, qui procède au paiement dans les quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1281-4 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1281-7 (V)
+
+
+###### Article 1281-6
+
+En cas de contestation, la personne chargée de la distribution convoque les parties par lettre recommandée avec demande
+d'avis de réception, en vue d'une tentative de conciliation qui doit avoir lieu dans le mois suivant la première
+contestation. 
+
+La convocation reproduit les termes du second alinéa de l'article 1281-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1281-7 (V)
+
+
+###### Article 1281-7
+
+Si un accord intervient, il en est dressé acte dont une copie est remise ou adressée par lettre simple à toutes les parties.
+Il est alors procédé au paiement dans les conditions prévues aux deuxième et troisième alinéas de l'article 1281-5. 
+
+La personne régulièrement convoquée qui ne se présente pas est réputée avoir accepté l'accord.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1281-5 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1281-6 (V)
+
+
+###### Article 1281-8
+
+A défaut de conciliation, la personne chargée de la distribution dresse acte des points de désaccord.
+
+Les sommes mises en répartition sont immédiatement consignées, si elles ne le sont déjà en vertu de la décision de
+désignation de la personne chargée de la distribution.
+
+La partie la plus diligente peut saisir le tribunal de grande instance, qui procède à la répartition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1281-9 (V)
+
+
+###### Article 1281-9
+
+A défaut de projet de répartition dans les délais impartis, il est procédé comme il est dit aux deuxième et troisième alinéas
+de l'article 1281-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1281-8 (V)
+
+
+###### Article 1281-10
+
+Les paiements doivent être effectués quinze jours au plus tard après notification à la Caisse des dépôts et consignations du
+jugement de répartition passé en force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+
+###### Article 1281-11
+
+La rétribution de la personne chargée de la distribution est prélevée sur les fonds à répartir et supportée par les
+créanciers, au prorata de la somme qui revient à chacun d'eux.
+
+En cas de contestation, elle est fixée par le président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+
+###### Article 1281-12
+
+En matière commerciale, les compétences dévolues au tribunal de grande instance et à son président sont exercées par le
+tribunal de commerce et par son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
 
 
 ## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.
