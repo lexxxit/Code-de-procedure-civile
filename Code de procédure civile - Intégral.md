@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1993-09-17
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -5267,6 +5267,183 @@ soit demeuré en la cause, même à titre accessoire.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+## Titre IX bis : L'audition de l'enfant en justice.
+
+###### Article 338-1
+
+Lorsque le mineur demande à être entendu en application de l'article 338-1 du code civil, les dispositions suivantes sont
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+
+	**Cite**:
+
+	  - Code civil 338-1
+
+
+###### Article 338-2
+
+La demande est présentée sans forme au juge par l'intéressé. Elle peut l'être en tout état de la procédure et même pour la
+première fois en cause d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+
+
+###### Article 338-3
+
+La décision statuant sur la demande d'audition formée par le mineur n'est susceptible d'aucun recours.
+
+La décision par laquelle l'audition est ordonnée peut toutefois être modifiée ou rapportée par une autre décision
+spécialement motivée lorsque le juge a connaissance d'un motif grave s'opposant à ce que le mineur soit entendu dans les
+conditions initialement prévues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+
+
+###### Article 338-4
+
+La décision ordonnant l'audition peut revêtir la forme d'une simple mention au dossier ou au registre d'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1092 (V)
+
+
+###### Article 338-5
+
+Une convocation en vue de son audition est adressée au mineur par lettre recommandée avec demande d'avis de réception,
+doublée d'une lettre simple.
+
+La convocation l'informe de son droit d'être entendu seul, avec un avocat ou une autre personne de son choix.
+
+Le même jour, le secrétariat-greffe avise les défenseurs des parties par simple bulletin et, à défaut, les parties elles-
+mêmes par lettre recommandée avec demande d'avis de réception de la décision ordonnant l'audition. L'avis reproduit les
+dispositions de l'article 338-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 338-3
+
+
+###### Article 338-6
+
+Lorsque le juge est saisi de la demande d'audition en présence de toutes les parties et du mineur, l'audition peut avoir lieu
+sur-le-champ. S'il n'est pas procédé à celle-ci immédiatement, la convocation du mineur et l'information prévue au deuxième
+alinéa de l'article 338-5 sont données verbalement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 338-5
+
+
+###### Article 338-7
+
+Lorsque le mineur se présente seul en vue de son audition, le juge lui donne avis de son droit d'être entendu avec un avocat
+ou une autre personne de son choix. Si le mineur exerce ce droit, l'audition est renvoyée à une date ultérieure.
+
+L'avocat choisi par le mineur doit en informer le juge.
+
+Si le mineur demande à être entendu avec un avocat et s'il ne choisit pas lui-même celui-ci, le juge requiert du bâtonnier la
+désignation d'un avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+
+
+###### Article 338-8
+
+La décision refusant l'audition est adressée par le secrétariat-greffe au mineur, par lettre recommandée avec demande d'avis
+de réception doublée d'une lettre simple. Le cas échéant, copie de la décision est adressée à l'avocat du mineur par simple
+bulletin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+
+
+###### Article 338-9
+
+La juridiction qui statue collégialement peut entendre elle-même le mineur ou désigner l'un de ses membres pour procéder à
+l'audition et lui rendre compte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
 
 
 ## Titre X : L'abstention, la récusation et le renvoi
@@ -19028,6 +19205,8 @@ exercé dans ce délai est également suspensif.
 
 ### Chapitre II : Les actes de l'état civil
 
+#### Section I : De la rectification des actes de l'état civil.
+
 ###### Article 1046
 
 La demande en rectification d'un acte de l'état civil est présentée soit au président du tribunal de grande instance dans le
@@ -19040,9 +19219,9 @@ l'intéressé.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 	**Cité par**:
 
@@ -19061,9 +19240,9 @@ demeure l'intéressé.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 	**Cité par**:
 
@@ -19085,15 +19264,15 @@ de Paris ou ce tribunal.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 
 ###### Article 1048-1
 
 La demande en rectification des actes de l'état civil détenus par le service central de l'état civil du ministère des
-relations extérieures est présentée au président du tribunal de grande instance du lieu où est établi ce service.
+affaires étrangères est présentée au président du tribunal de grande instance du lieu où est établi ce service.
 
 **Liens relatifs à cet article**
 
@@ -19101,9 +19280,13 @@ relations extérieures est présentée au président du tribunal de grande insta
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1330 1985-12-17 art. 16 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 1048-2
@@ -19117,9 +19300,13 @@ président du Tribunal de grande instance de Paris.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1330 1985-12-17 art. 16 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 1049
@@ -19134,9 +19321,9 @@ reproduisent l'erreur ou comportent l'omission originaire.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 	**Cité par**:
 
@@ -19146,11 +19333,11 @@ reproduisent l'erreur ou comportent l'omission originaire.
 ###### Article 1050
 
 Le procureur de la République territorialement compétent pour procéder à la rectification administrative des erreurs et
-omissions purement matérielles des actes de l'état civil est celui où l'acte a été dressé.
+omissions purement matérielles des actes de l'état civil est celui du lieu où l'acte a été dressé.
 
 Le procureur de la République territorialement compétent pour procéder à la rectification administrative des erreurs et
 omissions purement matérielles des actes de l'état civil détenus par le service central de l'état civil du ministère des
-relations extérieures est celui du lieu où est établi ce service.
+affaires étrangères est celui du lieu où est établi ce service.
 
 Le procureur de la République territorialement compétent pour procéder à la même rectification des pièces tenant lieu d'actes
 d'état civil à un réfugié ou à un apatride est celui établi près le Tribunal de grande instance de Paris.
@@ -19164,13 +19351,9 @@ transmise au procureur de la République territorialement compétent.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°85-1330 1985-12-17 art. 17 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 
 ###### Article 1051
@@ -19184,9 +19367,9 @@ formée, instruite et jugée comme en matière gracieuse.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 
 ###### Article 1052
@@ -19202,9 +19385,9 @@ La demande peut aussi être présentée directement par requête à la juridicti
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 
 ###### Article 1053
@@ -19218,9 +19401,9 @@ de famille.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 
 ###### Article 1054
@@ -19235,9 +19418,9 @@ Les voies de recours sont, dans tous les cas, ouvertes au ministère public.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 
 ###### Article 1055
@@ -19252,19 +19435,20 @@ portée en marge de cet acte.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 1 () JORF 17 septembre 1993
 
 
-###### Article 1056
+#### Section II : Du changement de prénom
 
-Toute décision dont la transcription ou la mention sur les registres de l'état civil est ordonnée, doit énoncer, dans son
-dispositif, les prénoms et nom des parties ainsi que, selon le cas, le lieu où la transcription doit être faite ou les lieux
-et dates des actes en marge desquels la mention doit être portée.
+###### Article 1055-1
 
-Seul le dispositif de la décision est transmis au dépositaire des registres de l'état civil. Les transcriptions et mention du
-dispositif sont aussitôt opérées.
+La demande en changement de prénom est présentée au juge dans le ressort duquel l'acte de naissance de l'intéressé a été
+dressé ou du lieu où demeure celui-ci.
+
+Lorsque l'acte de naissance de l'intéressé est détenu par le service central de l'état civil du ministère des affaires
+étrangères, la demande peut aussi être présentée au juge du lieu où est établi ce service.
 
 **Liens relatifs à cet article**
 
@@ -19274,7 +19458,62 @@ dispositif sont aussitôt opérées.
 
 	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 1993-09-16 art. 2 JORF 17 septembre 1993
+
+
+###### Article 1055-2
+
+La demande en changement de prénom relève de la matière gracieuse.
+
+Les voies de recours sont ouvertes au ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 1993-09-16 art. 2 JORF 17 septembre 1993
+
+
+###### Article 1055-3
+
+Le dispositif de la décision de changement de prénom est transmis immédiatement par le procureur de la République à
+l'officier de l'état civil qui détient l'acte de naissance de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 1993-09-16 art. 2 JORF 17 septembre 1993
+
+
+#### Section III : De la transcription et de la mention des décisions sur les registres de l'état civil
+
+###### Article 1056
+
+Toute décision dont la transcription ou la mention sur les registres de l'état civil est ordonnée doit énoncer, dans son
+dispositif, les prénoms et nom des parties ainsi que, selon le cas, le lieu où la transcription doit être faite ou les lieux
+et dates des actes en marge desquels la mention doit être portée.
+
+Seul le dispositif de la décision est transmis au dépositaire des registres de l'état civil. Les transcription et mention du
+dispositif sont aussitôt opérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 3 () JORF 17 septembre 1993
 
 	**Cité par**:
 
@@ -21394,7 +21633,7 @@ conformément à l'article 506.
 
 ### Chapitre VI : La filiation et les subsides
 
-#### Section I : Disposition générale.
+#### Section I : Dispositions générales
 
 ###### Article 1149
 
@@ -21408,13 +21647,34 @@ Le jugement est prononcé en audience publique, sauf dans les cas prévus aux ar
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 9 () JORF 17 septembre 1993
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1150 à 1153
+
+
+###### Article 1149-1
+
+Lorsque, en cas de changement de filiation, l'enfant majeur consent à la modification de son nom, ce consentement est reçu
+par un officier de l'état civil, un notaire, un agent diplomatique ou consulaire français ou par la juridiction qui prononce
+la légitimation ; dans ce dernier cas, il en est fait mention au dispositif de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-1091 1993-09-16 art. 22
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 10 () JORF 17 septembre 1993
 
 
 #### Section II : La légitimation.
@@ -21470,14 +21730,12 @@ En cas de refus, le juge statue par ordonnance motivée.
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 32 () JORF 25 juillet 1989
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 14 () JORF 17 septembre 1993
 
 	**Cite**:
 
 	  - Code civil 334-2 et 334-5
 
-
-#### Section III : Le changement de nom de l'enfant naturel par déclaration conjointe.
 
 ###### Article 1153
 
@@ -21489,9 +21747,37 @@ Le changement de nom de l'enfant naturel par déclaration conjointe relève de l
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 14 () JORF 17 septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+
+
+###### Article 1153-1
+
+Le ministère public représente l'Etat dans les actions en recherche de paternité exercées en l'absence d'héritiers du père
+prétendu ou lorsque ceux-ci ont renoncé à la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
 	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 15 () JORF 17 septembre 1993
+
+	**Transféré par**:
+
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Nouveau code de procédure civile art. 1151
 
 
 #### Section IV : Les subsides.
@@ -21580,6 +21866,25 @@ constater.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1157-1
+
+Le juge qui délivre l'acte de notoriété constatant la possession d'état d'enfant légitime ou d'enfant naturel en donne
+aussitôt avis au procureur de la République du lieu où est détenu l'acte de naissance de l'intéressé.
+
+Le procureur de la République fait procéder à la mention du lien de filiation ainsi établi en marge de l'acte de naissance de
+l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 11 () JORF 17 septembre 1993
 
 
 ### Chapitre VII : La déclaration d'abandon
@@ -21886,12 +22191,13 @@ L'affaire est instruite et débattue en chambre du conseil, après avis du minis
 
 ###### Article 1171
 
-Le tribunal vérifie [*pouvoirs*] si les conditions légales de l'adoption sont remplies. S'il y a lieu, il fait procéder à une
-enquête par toute personne qualifiée. Il peut commettre un médecin aux fins de procéder à tout examen qui lui paraîtrait
-nécessaire.
+Le tribunal vérifie si les conditions légales de l'adoption sont remplies dans un délai de six mois à compter soit du dépôt
+de la requête, soit de sa transmission dans le cas prévu au second alinéa de l'article 1168. S'il y a lieu, il fait procéder
+à une enquête par toute personne qualifiée. Il peut commettre un médecin aux fins de procéder à tout examen qui lui
+paraîtrait nécessaire.
 
-Il peut recueillir les renseignements relatifs à un pupille de l'Etat dans les conditions prévues à l'article L. 81 du Code
-de la famille et de l'aide sociale.
+Il peut recueillir les renseignements relatifs à un pupille de l'Etat dans les conditions prévues à l'article 81 du code de
+la famille et de l'aide sociale.
 
 **Liens relatifs à cet article**
 
@@ -21899,9 +22205,9 @@ de la famille et de l'aide sociale.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 16 () JORF 17 septembre 1993
 
 	**Cité par**:
 
@@ -21913,26 +22219,7 @@ de la famille et de l'aide sociale.
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale L81
-
-
-###### Article 1172
-
-En cas d'adoption simple, celui qui a consenti à être adopté est appelé à donner son avis sur la demande qui tend à
-substituer à son nom le seul nom du requérant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 17 (V) JORF 17 septembre 1993
+	  - Nouveau code de procédure civile 1168
 
 
 ###### Article 1173
@@ -21976,8 +22263,8 @@ l'égard duquel subsiste la filiation d'origine de l'adopté.
 
 ###### Article 1175
 
-S'il y a lieu, le tribunal se prononce [*pouvoirs*], en la même forme et par le même jugement, sur la modification des
-prénoms de l'adopté et, en cas d'adoption simple, sur le nom de celui-ci.
+S'il y a lieu, le tribunal se prononce, en la même forme, sur la modification des prénoms de l'adopté et, en cas d'adoption
+simple, sur le nom de celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -21985,9 +22272,9 @@ prénoms de l'adopté et, en cas d'adoption simple, sur le nom de celui-ci.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 18 () JORF 17 septembre 1993
 
 
 ###### Article 1176
@@ -22063,6 +22350,47 @@ applicables à la tutelle des mineurs.
 	**Cite**:
 
 	  - Code civil - art. 372-1 (T)
+
+
+###### Article 1179-1
+
+Le juge territorialement compétent pour délivrer l'acte de communauté de vie prévu à l'article 372-1 du code civil est celui
+du lieu où demeure le demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 19 () JORF 17 septembre 1993
+
+	**Cite**:
+
+	  - Code civil - art. 372-1 (T)
+
+
+###### Article 1179-2
+
+Lorsque les éléments apportés au juge saisi d'une demande de délivrance de l'acte de communauté de vie ne suffisent pas à lui
+permettre d'apprécier l'existence de celle-ci, le juge peut inviter le demandeur à produire tout autre document et solliciter
+l'audition des personnes ayant délivré les attestations produites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°93-1091 du 16 septembre 1993 - art. 19 () JORF 17 septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 15 () JORF 12 décembre 2002
 
 
 ###### Article 1180
@@ -22836,7 +23164,7 @@ Pour le cours de l'instance, le tribunal peut ordonner toute mesure provisoire r
 ###### Article 1208
 
 Le tribunal entend les père, mère, tuteur ou personne ou représentant du service à qui l'enfant a été confié, ainsi que toute
-personne dont l'audition lui paraît utile. Il entend le mineur s'il l'estime opportun.
+personne dont l'audition lui paraît utile.
 
 L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en présence du ministère public.
 
@@ -22846,13 +23174,9 @@ L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 14 JORF 25 juillet 1987
+	  - Décret n°93-1091 1993-09-16 art. 21 JORF 17 septembre 1993
 
 
 ###### Article 1209
