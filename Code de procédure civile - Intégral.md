@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1993-12-31
+Version Consolidée au 1994-02-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -5273,7 +5273,7 @@ soit demeuré en la cause, même à titre accessoire.
 
 ###### Article 338-1
 
-Lorsque le mineur demande à être entendu en application de l'article 338-1 du code civil, les dispositions suivantes sont
+Lorsque le mineur demande à être entendu en application de l'article 388-1 du code civil, les dispositions suivantes sont
 applicables.
 
 **Liens relatifs à cet article**
@@ -5282,13 +5282,13 @@ applicables.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+	  - Décret n°94-42 du 14 janvier 1994 - art. 22 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
-	  - Code civil 338-1
+	  - Code civil - art. 388-1 (M)
 
 
 ###### Article 338-2
@@ -12613,13 +12613,17 @@ particulières à chaque juridiction.
 ###### Article 750
 
 La demande en justice est formée par assignation ou par remise au secrétariat-greffe d'une requête conjointe, sous réserve
-des cas dans lesquels le tribunal peut être saisi par simple requête.
+des cas dans lesquels le tribunal peut être saisi par simple requête ou par déclaration.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 8 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -19778,6 +19782,155 @@ dans ce délai est également suspensif.
 	  - Code civil - art. 127 (V)
 
 
+### Chapitre IV bis : L'obligation alimentaire et la contribution aux charges du mariage
+
+#### Section I : Dispositions générales.
+
+###### Article 1069-1
+
+Ainsi qu'il est dit à l'article 52 de la loi n° 93-22 du 8 janvier 1993 modifiant le code civil relative à l'état civil, à la
+famille et aux droits de l'enfant et instituant le juge aux affaires familiales, pour les actions relatives à la fixation de
+la contribution aux charges du mariage, de l'obligation alimentaire et de l'obligation d'entretien, les parties ont la
+faculté de se faire assister ou représenter selon les règles applicables devant le tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Loi n°93-22 1993-01-08 art. 52
+
+	**Créé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 11 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 2 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1069-2
+
+Les actions liées à la fixation de l'obligation alimentaire, de la contribution aux charges du mariage et de l'obligation
+d'entretien sont jugées à charge d'appel.
+
+Les débats ont lieu en chambre du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 11 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 2 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+#### Section II : Dispositions particulières à la contribution aux charges du mariage.
+
+###### Article 1069-3
+
+Si l'un des époux ne remplit pas son obligation de contribuer aux charges du mariage dans les conditions prévues aux articles
+214, 1448 et 1449 du code civil, l'autre époux peut demander au juge aux affaires familiales de fixer la contribution de son
+conjoint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 11 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 2 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 1448 (V)
+	  - Code civil - art. 1449 (M)
+	  - Code civil - art. 214 (V)
+
+
+###### Article 1069-4
+
+La demande est formée par déclaration écrite ou verbale enregistrée au secrétariat-greffe de la juridiction ou par lettre
+simple. Elle mentionne l'adresse ou la dernière adresse connue du défendeur.
+
+Le greffier convoque les époux par lettre recommandée avec demande d'avis de réception. La convocation mentionne l'objet de
+la demande et précise que les époux doivent, sauf empêchement grave, se présenter en personne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 11 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 2 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1069-5
+
+Le jugement est, de droit, exécutoire à titre provisoire. La notification faite à la diligence d'un huissier de justice, par
+lettre recommandée avec demande d'avis de réception, au conjoint débiteur et à l'un des tiers mentionnés à l'article 1er de
+la loi n° 73-5 du 2 janvier 1973 vaut, en ce cas, demande de paiement direct.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 11 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 2 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1069-6
+
+La fixation de la contribution peut faire l'objet d'une nouvelle instance à la demande de l'un des époux, en cas de
+changement dans la situation de l'un ou de l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 11 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 2 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
 ### Chapitre V : Le divorce et la séparation de corps
 
 #### Section I : Dispositions générales
@@ -19825,16 +19978,17 @@ La compétence territoriale est déterminée par la résidence au jour où la re
 
 ###### Article 1072
 
-Si, après le prononcé du divorce, un litige s'élève entre les époux sur l'une de ses conséquences, le tribunal compétent pour
-en connaître est celui du lieu où, lors de l'introduction de l'instance, réside l'époux qui a l'exercice de l'autorité
-parentale ou, en cas d'exercice en commun, l'époux chez qui a été fixée la résidence habituelle des enfants mineurs ; à
-défaut, le tribunal du lieu où réside l'époux qui n'a pas pris l'initiative de la demande.
+Si, après le prononcé du divorce, un litige s'élève entre les époux sur l'une de ses conséquences, le juge aux affaires
+familiales compétent pour en connaître est celui du lieu où, lors de l'introduction de l'instance, réside l'époux qui a
+l'exercice de l'autorité parentale ou, en cas d'exercice en commun, l'époux chez qui a été fixée la résidence habituelle des
+enfants mineurs ; à défaut, le juge aux affaires familiales du lieu où réside l'époux qui n'a pas pris l'initiative de la
+demande.
 
 Toutefois, lorsque le litige porte seulement sur la pension alimentaire ou la prestation compensatoire, la juridiction
 compétente peut être celle du lieu où réside l'époux créancier ou le parent qui assume à titre principal la charge des
 enfants même majeurs.
 
-Ce tribunal peut demander communication du dossier à la juridiction qui a prononcé le divorce.
+Ce juge aux affaires familiales peut demander communication du dossier à la juridiction qui a prononcé le divorce.
 
 **Liens relatifs à cet article**
 
@@ -19842,13 +19996,9 @@ Ce tribunal peut demander communication du dossier à la juridiction qui a prono
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 1 JORF 25 juillet 1987
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -19879,11 +20029,11 @@ portées devant les juges qui auraient été normalement compétents pour en con
 	  - Code civil - art. 258 (M)
 
 
-##### Sous-section II : Le juge aux affaires matrimoniales.
+##### Sous-section II : Le juge aux affaires familiales.
 
 ###### Article 1074
 
-Outre les pouvoirs qui lui sont dévolus par l'article 247 du Code civil, le juge aux affaires matrimoniales a pour mission de
+Outre les pouvoirs qui lui sont dévolus par l'article 247 du code civil, le juge aux affaires familiales a pour mission de
 tenter une conciliation entre les époux avant ou pendant l'instance.
 
 Il est juge de la mise en état.
@@ -19898,9 +20048,9 @@ Il statue, s'il y a lieu, sur les exceptions d'incompétence.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 9 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -20018,8 +20168,8 @@ par l'article 246 du Code civil, d'une requête établie selon les formes régl�
 
 ###### Article 1078
 
-L'enquête sociale, prévue par l'article 287-2 du Code civil, peut être ordonnée même d'office par le juge des affaires
-matrimoniales [*pouvoirs*] ou par le tribunal s'ils s'estiment insuffisamment informés par les éléments dont ils disposent.
+L'enquête sociale, prévue par l'article 287-2 du Code civil, peut être ordonnée même d'office par le juge aux affaires
+familiales [*pouvoirs*] s'il s'estime insuffisamment informé par les éléments dont ils disposent.
 
 **Liens relatifs à cet article**
 
@@ -20027,13 +20177,13 @@ matrimoniales [*pouvoirs*] ou par le tribunal s'ils s'estiment insuffisamment in
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 3 JORF 25 juillet 1987
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -20045,8 +20195,8 @@ matrimoniales [*pouvoirs*] ou par le tribunal s'ils s'estiment insuffisamment in
 L'enquête sociale donne lieu à la rédaction d'un rapport où sont consignées les constatations faites par l'enquêteur et les
 solutions proposées par lui.
 
-Le juge ou le tribunal donne communication du rapport aux parties en leur fixant un délai dans lequel elles auront la faculté
-de demander un complément d'enquête ou une contre-enquête.
+Le juge donne communication du rapport aux parties en leur fixant un délai dans lequel elles auront la faculté de demander un
+complément d'enquête ou une contre-enquête.
 
 **Liens relatifs à cet article**
 
@@ -20054,9 +20204,9 @@ de demander un complément d'enquête ou une contre-enquête.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1080
@@ -20170,8 +20320,8 @@ de la cour d'appel ou au conseiller de la mise en état.
 ###### Article 1084
 
 Quand il y a lieu de statuer, après le prononcé du divorce, sur l'exercice de l'autorité parentale ou la modification de la
-pension alimentaire, la demande est présentée, même si un pourvoi en cassation a été formé, au juge aux affaires
-matrimoniales par les personnes intéressées, soit dans les formes prévues pour les référés, soit par simple requête.
+pension alimentaire, la demande est présentée, même si un pourvoi en cassation a été formé, au juge aux affaires familiales
+par les personnes intéressées, soit dans les formes prévues pour les référés, soit par simple requête.
 
 Il en est de même, lorsque le divorce a acquis force de chose jugée, s'il y a lieu à révision de la prestation compensatoire
 dans le cas prévu à l'article 279, alinéa 3, du Code civil.
@@ -20182,14 +20332,9 @@ dans le cas prévu à l'article 279, alinéa 3, du Code civil.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°84-618 1984-07-13 art. 22 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
-	  - Décret n°87-578 1987-07-22 art. 12 JORF 25 juillet 1987
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -20242,8 +20387,8 @@ son avocat.
 
 ###### Article 1087
 
-Dans tous les cas, le juge aux affaires matrimoniales statue, sans formalité, sur les demandes respectives. Sa décision est,
-de droit, exécutoire à titre provisoire. 
+Dans tous les cas, le juge aux affaires familiales statue, sans formalité, sur les demandes respectives. Sa décision est, de
+droit, exécutoire à titre provisoire.
 
 Le délai d'appel est de quinze jours ; il court à compter de la notification. Lorsqu'il a été saisi sur simple requête, le
 juge peut décider soit d'office, soit à la demande de l'un des intéressés, qu'il ne sera pas procédé à la signification de la
@@ -20255,13 +20400,9 @@ décision mais que celle-ci sera notifiée par le greffier par lettre recommand�
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 #### Section II : Le divorce sur demande conjointe des époux.
@@ -20369,10 +20510,10 @@ Sous la même sanction, chacun des documents est daté et est signé par chacun 
 
 ###### Article 1092
 
-Le tribunal est saisi par la remise au secrétariat-greffe de la requête initiale, qui vaut conclusions.
+Le juge aux affaires familiales est saisi par la remise au secrétariat-greffe de la requête initiale, qui vaut conclusions.
 
-Le juge aux affaires matrimoniales convoque chacun des époux par lettre simple expédiée quinze jours au moins avant la date
-qu'il fixe pour leur audition. Il avise le ou les avocats.
+Il convoque chacun des époux par lettre simple expédiée quinze jours au moins avant la date qu'il fixe pour leur audition. Il
+avise le ou les avocats.
 
 **Liens relatifs à cet article**
 
@@ -20380,9 +20521,9 @@ qu'il fixe pour leur audition. Il avise le ou les avocats.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -20599,7 +20740,7 @@ Le délai de six mois est suspendu en cas d'appel.
 
 ###### Article 1102
 
-Les décisions du juge aux affaires matrimoniales sont susceptibles d'appel, à l'exception de celles qui homologuent les
+Les décisions du juge aux affaires familiales sont susceptibles d'appel, à l'exception de celles qui homologuent les
 conventions des époux ou qui prononcent le divorce.
 
 Le délai d'appel est de quinze jours ; il court à compter de la date de la décision.
@@ -20610,9 +20751,9 @@ Le délai d'appel est de quinze jours ; il court à compter de la date de la dé
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1103
@@ -20755,8 +20896,8 @@ dispositions des articles 252 à 252-3 du Code civil.
 
 ###### Article 1109
 
-En cas d'urgence, le juge aux affaires matrimoniales peut autoriser l'un des époux, sur sa requête, à assigner l'autre époux
-à jour fixe à fin de conciliation.
+En cas d'urgence, le juge aux affaires familiales peut autoriser l'un des époux, sur sa requête, à assigner l'autre époux à
+jour fixe à fin de conciliation.
 
 **Liens relatifs à cet article**
 
@@ -20764,9 +20905,9 @@ En cas d'urgence, le juge aux affaires matrimoniales peut autoriser l'un des ép
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1110
@@ -20855,7 +20996,8 @@ notification, mais seulement quant à la compétence et aux mesures provisoires.
 Si l'époux n'a pas usé de l'autorisation d'assigner dans les trois mois du prononcé de l'ordonnance, son conjoint pourra,
 dans un nouveau délai de trois mois, l'assigner lui-même et requérir un jugement sur le fond.
 
-Si l'un ou l'autre des époux n'a pas suivi le tribunal à l'expiration des six mois, les mesures provisoires sont caduques.
+Si l'un ou l'autre des époux n'a pas saisi le juge aux affaires familiales à l'expiration des six mois, les mesures
+provisoires sont caduques.
 
 **Liens relatifs à cet article**
 
@@ -20863,9 +21005,9 @@ Si l'un ou l'autre des époux n'a pas suivi le tribunal à l'expiration des six 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -20915,9 +21057,9 @@ civil.
 
 ###### Article 1116
 
-Le juge aux affaires matrimoniales peut [*pouvoirs*], même d'office, charger un notaire ou un professionnel qualifié
-d'établir un projet de règlement des prestations et pensions après divorce. Il peut aussi donner mission à un notaire de
-dresser un projet de liquidation du régime matrimonial.
+Le juge aux affaires familiales peut [*pouvoirs*], même d'office, charger un notaire ou un professionnel qualifié d'établir
+un projet de règlement des prestations et pensions après divorce. Il peut aussi donner mission à un notaire de dresser un
+projet de liquidation du régime matrimonial.
 
 **Liens relatifs à cet article**
 
@@ -20925,9 +21067,13 @@ dresser un projet de liquidation du régime matrimonial.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
 ##### Paragraphe 4 : Les mesures provisoires.
@@ -21092,8 +21238,8 @@ accompagnée de tout document établissant, selon l'auteur de la requête, la r�
 
 ###### Article 1125
 
-Le tribunal ne peut prononcer le divorce dans le cas de l'article 238 du Code civil qu'au vu d'un rapport médical établi par
-trois médecins experts qu'il choisit sur la liste prévue à l'article 493-1 du Code civil.
+Le juge aux affaires familiales ne peut prononcer le divorce dans le cas de l'article 238 du Code civil qu'au vu d'un rapport
+médical établi par trois médecins experts qu'il choisit sur la liste prévue à l'article 493-1 du Code civil.
 
 **Liens relatifs à cet article**
 
@@ -21101,9 +21247,9 @@ trois médecins experts qu'il choisit sur la liste prévue à l'article 493-1 du
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -21145,36 +21291,11 @@ Les dépens de l'instance sont à la charge de l'époux qui en a pris l'initiati
 
 ###### Article 1128
 
-La demande tendant à dispenser le tribunal d'énoncer dans les motifs de sa décision les torts et griefs des époux doit être
-formulée de façon expresse et concordante dans les conclusions de l'un et l'autre époux.
+La demande tendant à dispenser le juge aux affaires familiales d'énoncer dans les motifs de sa décision les torts et griefs
+des époux doit être formulée de façon expresse et concordante dans les conclusions de l'un et l'autre époux.
 
-Le tribunal se borne à constater qu'il existe les faits constitutifs d'une cause de divorce selon le Code civil, titre "Du
-divorce", section III, du chapitre Ier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-
-##### Sous-section IV : Le divorce demandé par un époux et accepté par l'autre.
-
-###### Article 1134
-
-Après examen, le juge aux affaires matrimoniales convoque [*pouvoirs*] les époux par lettre recommandée avec demande d'avis
-de réception [*modalités - formes*] expédiée quinze jours au moins [*délai*] à l'avance et confirmée le même jour par lettre
-simple. Il avise les avocats.
-
-L'auteur du mémoire initial est invité à confirmer celui-ci, son conjoint à confirmer sa déclaration d'acceptation et, le cas
-échéant, son mémoire. Si le juge aperçoit dans ces documents ou même dans leur confrontation des indices qui laissent
-présumer la persistance d'une communauté de sentiments entre les époux, il oriente leurs réflexions en ce sens.
-
-Les règles posées pour la tentative de conciliation par les articles 1110 et 1111 sont alors applicables.
+Le juge aux affaires familiales se borne à constater qu'il existe les faits constitutifs d'une cause de divorce selon le Code
+civil, titre "Du divorce", section III, du chapitre Ier.
 
 **Liens relatifs à cet article**
 
@@ -21182,77 +21303,9 @@ Les règles posées pour la tentative de conciliation par les articles 1110 et 1
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1110 et 1111
-
-
-###### Article 1135
-
-A défaut de conciliation, le juge aux affaires matrimoniales [*pouvoirs*] rend une ordonnance par laquelle il constate qu'il
-y a eu un double aveu de faits qui rendent intolérable le maintien de la vie commune. Il renvoie les époux à se pourvoir
-devant le tribunal pour qu'il prononce le divorce et statue sur ses effets, la cause de divorce demeurant acquise. Il
-prescrit, s'il y a lieu, tout ou partie des mesures provisoires prévues aux articles 255 et 256 du Code civil.
-
-L'ordonnance est susceptible d'appel dans le délai de quinze jours à compter de sa notification.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Cite**:
-
-	  - Code civil 255 et 256
-
-
-###### Article 1136
-
-L'un ou l'autre des époux introduit l'instance devant le tribunal [*modalités*] par voie d'assignation.
-
-Le tribunal prononce le divorce dont la cause a été définitivement constatée sans autre motif que le visa de l'ordonnance du
-juge.
-
-Il statue sur les effets comme en cas de divorce aux torts partagés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-
-###### Article 1137
-
-Les dépens de la procédure, jusques et y compris l'assignation devant le tribunal, sont partagés par moitié entre les époux,
-sauf décision contraire du juge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1210-11 (V)
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 #### Section IV : Le divorce demandé par un époux et accepté par l'autre.
@@ -21353,6 +21406,102 @@ personnelle.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1134
+
+Après examen, le juge aux affaires familiales convoque [*pouvoirs*] les époux par lettre recommandée avec demande d'avis de
+réception [*modalités - formes*] expédiée quinze jours au moins [*délai*] à l'avance et confirmée le même jour par lettre
+simple. Il avise les avocats.
+
+L'auteur du mémoire initial est invité à confirmer celui-ci, son conjoint à confirmer sa déclaration d'acceptation et, le cas
+échéant, son mémoire. Si le juge aperçoit dans ces documents ou même dans leur confrontation des indices qui laissent
+présumer la persistance d'une communauté de sentiments entre les époux, il oriente leurs réflexions en ce sens.
+
+Les règles posées pour la tentative de conciliation par les articles 1110 et 1111 sont alors applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1110 et 1111
+
+
+###### Article 1135
+
+A défaut de conciliation, le juge aux affaires familiales [*pouvoirs*] rend une ordonnance par laquelle il constate qu'il y a
+eu un double aveu de faits qui rendent intolérable le maintien de la vie commune. Il renvoie les époux à se pourvoir devant
+lui pour qu'il prononce le divorce et statue sur ses effets, la cause de divorce demeurant acquise. Il prescrit, s'il y a
+lieu, tout ou partie des mesures provisoires prévues aux articles 255 et 256 du Code civil.
+
+L'ordonnance est susceptible d'appel dans le délai de quinze jours à compter de sa notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Cite**:
+
+	  - Code civil 255 et 256
+
+
+###### Article 1136
+
+L'un ou l'autre des époux introduit l'instance devant le juge aux affaires familiales par voie d'assignation aux fins qu'il
+soit prononcé sur le divorce.
+
+Le juge aux affaires famililales prononce le divorce dont la cause a été définitivement constatée sans autre motif que le
+visa de l'ordonnance prévue à l'article 1135.
+
+Il statue sur les effets comme en cas de divorce aux torts partagés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1135
+
+
+###### Article 1137
+
+Les dépens de la procédure, jusques et y compris l'assignation afin de voir prononcer le divorce, sont partagés par moitié
+entre les époux, sauf décision contraire du juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1210-11 (V)
 
 
 ###### Article 1138
@@ -21705,11 +21854,11 @@ La légitimation relève de la matière gracieuse.
 
 ###### Article 1152
 
-Les déclarations conjointes prévues aux articles 334-2 et 334-5 du Code civil sont faites devant le juge des tutelles du lieu
-où demeure l'enfant.
+Les déclarations conjointes prévues aux articles 334-2 et 334-5 du Code civil sont faites devant le juge aux affaires
+familiales du lieu où demeure l'enfant.
 
-Le juge des tutelles en donne aussitôt avis au procureur de la République du lieu de naissance de l'enfant qui fait procéder
-aux mentions nécessaires en marge de l'acte de naissance de celui-ci.
+Le juge aux affaires familiales en donne aussitôt avis au procureur de la République du lieu de naissance de l'enfant qui
+fait procéder aux mentions nécessaires en marge de l'acte de naissance de celui-ci.
 
 En cas de refus, le juge statue par ordonnance motivée.
 
@@ -21721,7 +21870,7 @@ En cas de refus, le juge statue par ordonnance motivée.
 
 	**Modifié par**:
 
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 14 () JORF 17 septembre 1993
+	  - Décret n°94-42 du 14 janvier 1994 - art. 21 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -22325,8 +22474,12 @@ L'appel est formé comme en matière contentieuse. Il est instruit et jugé selo
 
 ###### Article 1179
 
-Les demandes relatives à l'application de l'article 372-1 du Code civil sont formées, instruites et jugées selon les règles
-applicables à la tutelle des mineurs.
+Les demandes relatives à l'application de l'article 372-1-1 du code civil sont formées, instruites et jugées en chambre du
+conseil, selon les règles édictées aux articles 1084 à 1087.
+
+Ainsi qu'il est dit à l'article 52 de la loi n° 93-22 du 8 janvier 1993 modifiant le code civil relative à l'état civil, à la
+famille et aux droits de l'enfant et instituant le juge aux affaires familiales, les parties ont la faculté de se faire
+assister ou représenter selon les règles applicables devant le tribunal d'instance.
 
 **Liens relatifs à cet article**
 
@@ -22334,13 +22487,15 @@ applicables à la tutelle des mineurs.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Cite**:
 
-	  - Code civil - art. 372-1 (T)
+	  - Loi n°93-22 1993-01-08 art. 52
+	  - Code civil - art. 372-1-1 (M)
+	  - Nouveau code de procédure civile 1084 à 1087
+
+	**Modifié par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 14 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1179-1
@@ -22411,8 +22566,8 @@ public.
 
 ###### Article 1180-1
 
-La déclaration conjointe prévue à l'article 374 du Code civil est recueillie par le juge des tutelles du lieu où demeure
-l'enfant. Le juge établit un procès-verbal dont il remet une copie à chacun des parents.
+La déclaration conjointe prévue à l'article 374 du Code civil est recueillie par le juge aux affaires familiales du lieu où
+demeure l'enfant. Le juge établit un procès-verbal dont il remet une copie à chacun des parents.
 
 En cas de refus, le juge [*pouvoirs*] statue par ordonnance motivée.
 
@@ -22424,9 +22579,9 @@ L'attribution de l'exercice de l'autorité parentale par déclaration conjointe 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 6 JORF 25 juillet 1987
+	  - Décret n°94-42 du 14 janvier 1994 - art. 15 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -22435,9 +22590,9 @@ L'attribution de l'exercice de l'autorité parentale par déclaration conjointe 
 
 ###### Article 1180-2
 
-Les demandes relatives à la modification, par le juge aux affaires matrimoniales, des conditions d'exercice de l'autorité
-parentale prévues à l'article 374 du Code civil sont formées, instruites et jugées après avis du ministère public selon les
-règles édictées aux articles 1084 à 1087. Les débats ne sont pas publics.
+Les demandes relatives à la modification, par le juge aux affaires familiales, des conditions d'exercice de l'autorité
+parentale prévues à l'article 374 du Code civil sont formées, instruites et jugées selon les règles édictées aux articles
+1084 à 1087. Les débats ne sont pas publics.
 
 **Liens relatifs à cet article**
 
@@ -22445,9 +22600,9 @@ règles édictées aux articles 1084 à 1087. Les débats ne sont pas publics.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 6 JORF 25 juillet 1987
+	  - Décret n°94-42 du 14 janvier 1994 - art. 16 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -23042,9 +23197,11 @@ les quinze jours [*délai*] au préfet qui procède aux notifications nécessair
 
 ###### Article 1202
 
-Les demandes en délégation, déchéance ou retrait partiel de l'autorité parentale sont portées devant [*compétence*] le
-tribunal de grande instance du lieu où demeure soit le mineur s'il s'agit de délégation, soit, dans les autres cas,
-l'ascendant contre lequel l'action est exercée.
+Les demandes en déchéance ou retrait partiel de l'autorité parentale sont portées devant le tribunal de grande instance du
+lieu où demeure l'ascendant contre lequel l'action est exercée.
+
+Les demandes en délégation de l'autorité parentale sont portées devant le juge aux affaires familiales du lieu où demeure le
+mineur.
 
 **Liens relatifs à cet article**
 
@@ -23052,15 +23209,15 @@ l'ascendant contre lequel l'action est exercée.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 17 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1203
 
-Le tribunal est saisi par requête. Les parties sont dispensées du ministère d'avocat. La requête peut être adressée au
-procureur de la République qui doit la transmettre au tribunal.
+Le tribunal ou le juge est saisi par requête. Les parties sont dispensées du ministère d'avocat. La requête peut être
+adressée au procureur de la République qui doit la transmettre au tribunal ou au juge.
 
 **Liens relatifs à cet article**
 
@@ -23068,9 +23225,9 @@ procureur de la République qui doit la transmettre au tribunal.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 18 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1204
@@ -23096,11 +23253,11 @@ est exercée.
 
 ###### Article 1205
 
-Le tribunal, même d'office, procède ou fait procéder à toutes les investigations utiles et notamment aux mesures
+Le tribunal ou le juge, même d'office, procède ou fait procéder à toutes les investigations utiles et notamment aux mesures
 d'information prévues à l'article 1183. Il peut à cet effet commettre le juge des enfants.
 
 Lorsqu'une procédure d'assistance éducative a été diligentée à l'égard d'un ou plusieurs enfants, le dossier en est
-communiqué au tribunal.
+communiqué au tribunal ou au juge.
 
 **Liens relatifs à cet article**
 
@@ -23108,9 +23265,9 @@ communiqué au tribunal.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 18 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -23135,7 +23292,8 @@ moralité de ses parents.
 
 ###### Article 1207
 
-Pour le cours de l'instance, le tribunal peut ordonner toute mesure provisoire relative à l'exercice de l'autorité parentale.
+Pour le cours de l'instance, le tribunal ou le juge peut ordonner toute mesure provisoire relative à l'exercice de l'autorité
+parentale.
 
 **Liens relatifs à cet article**
 
@@ -23143,19 +23301,15 @@ Pour le cours de l'instance, le tribunal peut ordonner toute mesure provisoire r
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 11 JORF 25 juillet 1987
+	  - Décret n°94-42 du 14 janvier 1994 - art. 19 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1208
 
-Le tribunal entend les père, mère, tuteur ou personne ou représentant du service à qui l'enfant a été confié, ainsi que toute
-personne dont l'audition lui paraît utile.
+Le tribunal ou le juge entend les père, mère, tuteur ou personne ou représentant du service à qui l'enfant a été confié,
+ainsi que toute personne dont l'audition lui paraît utile.
 
 L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en présence du ministère public.
 
@@ -23167,7 +23321,7 @@ L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en
 
 	**Modifié par**:
 
-	  - Décret n°93-1091 1993-09-16 art. 21 JORF 17 septembre 1993
+	  - Décret n°94-42 du 14 janvier 1994 - art. 19 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1209
@@ -23175,7 +23329,7 @@ L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en
 Les dispositions de l'article 1186, du second alinéa de l'article 1187, du second alinéa de l'article 1188, du premier alinéa
 de l'article 1190, des articles 1191 à 1197 sont applicables aux procédures relatives à la délégation, la déchéance ou le
 retrait partiel de l'autorité parentale, les pouvoirs et obligations du juge des enfants étant assumés, selon le cas, par le
-tribunal ou son président.
+tribunal ou le juge aux affaires familiales.
 
 **Liens relatifs à cet article**
 
@@ -23183,14 +23337,14 @@ tribunal ou son président.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
 	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
+
+	**Modifié par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 20 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -23199,9 +23353,9 @@ tribunal ou son président.
 
 ###### Article 1210
 
-La demande en restitution des droits délégués ou retirés est formée par requête devant le tribunal du lieu où demeure la
-personne à laquelle ces droits ont été conférés. Elle est notifiée à cette personne par le greffier. Elle obéit, pour le
-surplus, aux règles qui gouvernent les demandes en délégation de l'autorité parentale.
+La demande en restitution des droits délégués ou retirés est formée par requête devant le tribunal ou le juge du lieu où
+demeure la personne à laquelle ces droits ont été conférés. Elle est notifiée à cette personne par le greffier. Elle obéit,
+pour le surplus, aux règles qui gouvernent les demandes en délégation de l'autorité parentale.
 
 **Liens relatifs à cet article**
 
@@ -23209,13 +23363,9 @@ surplus, aux règles qui gouvernent les demandes en délégation de l'autorité 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 19 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ### Chapitre X : La tutelle des mineurs
@@ -24894,108 +25044,7 @@ Il n'est pas dérogé à la compétence respective des divers officiers publics 
 
 ### Chapitre Ier : Les droits des époux et les régimes matrimoniaux.
 
-#### Section I : La contribution aux charges du mariage.
-
-###### Article 1282
-
-Si l'un des époux ne remplit pas son obligation de contribuer aux charges du mariage dans les conditions prévues aux articles
-214, 1448 et 1449 du Code civil, l'autre époux peut demander au tribunal d'instance de fixer la contribution de son conjoint.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
-
-	**Cite**:
-
-	  - Code civil - art. 214 (V)
-	  - Code civil 214, 1448 et 1449
-
-
-###### Article 1283
-
-La demande est formée par [*modalités - forme*] déclaration écrite ou verbale enregistrée au secrétariat-greffe de la
-juridiction ou par lettre simple. Elle mentionne l'adresse ou la dernière adresse connue du défendeur. 
-
-Le greffier convoque les époux par lettre recommandée avec demande d'avis de réception. La convocation mentionne l'objet de
-la demande et précise que les époux doivent, sauf empêchement grave, se présenter en personne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Modifié par**:
-
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
-
-	**Abrogé par**:
-
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
-
-
-###### Article 1284
-
-Le jugement est, de droit, exécutoire à titre provisoire.
-
-La notification faite à la diligence d'un huissier de justice, par lettre recommandée avec demande d'avis de réception, au
-conjoint débiteur et à l'un des tiers mentionnés à l'article 1er de la loi n° 73-5 du 2 janvier 1973 vaut, en ce cas, demande
-de paiement direct.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-5 du 2 janvier 1973 - art. 1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
-
-
-###### Article 1285
-
-La fixation de la contribution peut faire l'objet d'une nouvelle instance à la demande de l'un des époux, en cas de
-changement dans la situation de l'un ou de l'autre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
-
-
-#### Section II : Les autorisations et les habilitations.
+#### Section I : Les autorisations et les habilitations.
 
 ###### Article 1286
 
@@ -25008,9 +25057,9 @@ l'article 1426 et aux articles 2139, 2140 et 2163 du Code civil, sont formées p
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -25036,9 +25085,9 @@ La demande est instruite et jugée comme en matière gracieuse hors les cas où 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1288
@@ -25053,9 +25102,9 @@ régulièrement cité, ne se présente pas. L'affaire est instruite et jugée en
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1289
@@ -25069,17 +25118,17 @@ dernier cas, l'affaire est instruite et jugée en chambre du conseil.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
-#### Section III : Les mesures urgentes.
+#### Section II : Les mesures urgentes.
 
 ###### Article 1290
 
-Les mesures urgentes prévues à l'article 220-1 du Code civil sont prescrites par le président du tribunal de grande instance
-statuant en référé ou, en cas de besoin, par ordonnance sur requête.
+Les mesures urgentes prévues à l'article 220-1 du Code civil sont prescrites par le juge aux affaires familiales statuant en
+référé ou, en cas de besoin, par ordonnance sur requête.
 
 **Liens relatifs à cet article**
 
@@ -25087,16 +25136,16 @@ statuant en référé ou, en cas de besoin, par ordonnance sur requête.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
 	  - Code civil - art. 220-1 (M)
 
 
-#### Section IV : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.
+#### Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.
 
 ###### Article 1291
 
@@ -25109,17 +25158,18 @@ règles applicables aux demandes en séparation de biens.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
-	  - Code civil - art. 1426 (M)
-	  - Code civil 1426, 1429 et 1580
+	  - Code civil - art. 1426 (V)
+	  - Code civil - art. 1429 (V)
+	  - Code civil - art. 1580 (V)
 
 
-#### Section V : La séparation judiciaire de biens.
+#### Section IV : La séparation judiciaire de biens.
 
 ###### Article 1292
 
@@ -25137,14 +25187,34 @@ Un extrait de la demande peut, en outre, être publié dans un journal diffusé 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1060 (V)
 	  - Code de procédure civile - art. 1296 (V)
+
+
+###### Article 1293
+
+Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent ait été portée en marge de l'acte
+de naissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1292
 
 
 ###### Article 1294
@@ -25168,9 +25238,9 @@ exécutoire de la décision conformément à l'article 506.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cité par**:
 
@@ -25192,13 +25262,13 @@ Les formalités prévues à l'article 1294 sont accomplies à la diligence du de
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1294
+	  - Code de procédure civile - art. 1294 (V)
 
 
 ###### Article 1296
@@ -25211,13 +25281,13 @@ Le jugement qui rejette la demande de séparation de biens est publié conformé
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1292
+	  - Code de procédure civile - art. 1292 (V)
 
 
 ###### Article 1297
@@ -25231,13 +25301,13 @@ les formalités prévues à l'article 1294.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1294
+	  - Code de procédure civile - art. 1294 (V)
 
 
 ###### Article 1298
@@ -25251,9 +25321,9 @@ opposition contre le jugement de séparation.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1299
@@ -25266,12 +25336,12 @@ L'aveu de l'époux défendeur ne fait pas preuve, même s'il n'y a pas de créan
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
-#### Section VI : L'homologation judiciaire du changement de régime matrimonial.
+#### Section V : L'homologation judiciaire du changement de régime matrimonial.
 
 ###### Article 1300
 
@@ -25284,9 +25354,9 @@ instance de la résidence de la famille.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1301
@@ -25299,9 +25369,9 @@ L'homologation d'un changement de régime matrimonial relève de la matière gra
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1302
@@ -25314,9 +25384,9 @@ Une expédition de l'acte notarié qui modifie ou change entièrement le régime
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
 ###### Article 1303
@@ -25330,9 +25400,9 @@ changement de régime matrimonial.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 	**Cite**:
 
@@ -25912,34 +25982,6 @@ Si une contestation oppose les parties entre elles, le juge du tribunal d'instan
 	**Abrogé par**:
 
 	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
-
-
-## Titre III : Les régimes matrimoniaux
-
-### Les successions et les libéralités
-
-#### Chapitre Ier : Les droits des époux et les régimes matrimoniaux
-
-##### Section V : La séparation judiciaire de biens.
-
-###### Article 1293
-
-Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent ait été portée en marge de l'acte
-de naissance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°89-511 du 20 juillet 1989 - art. 33 () JORF 25 juillet 1989
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1292
 
 
 ## Titre IV : Les obligations et les contrats.
