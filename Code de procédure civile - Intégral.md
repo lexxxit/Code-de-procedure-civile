@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1997-09-18
+Version Consolidée au 1998-06-25
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -20810,14 +20810,14 @@ conformément à l'article 506.
 
 Si le mariage a été célébré à l'étranger et en l'absence d'acte de mariage conservé par une autorité française, mention du
 dispositif de la décision est portée en marge de l'acte de naissance de chacun des époux, si cet acte est conservé sur un
-registre français. A défaut, l'extrait de la décision est conservé au répertoire mentionné au deuxième alinéa de l'article 4
-du décret n° 65-422 du 1er juin 1965 portant création d'un service central d'état civil au ministère des affaires étrangères.
+registre français. A défaut, l'extrait de la décision est conservé au répertoire mentionné à l'article 4-1 du décret n°
+65-422 du 1er juin 1965 portant création d'un service central d'état civil au ministère des affaires étrangères.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°65-422 du 1 juin 1965 - art. 4 (M)
+	  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
 	  - Nouveau code de procédure civile 506
 
 	**Codifié par**:
@@ -20826,7 +20826,7 @@ du décret n° 65-422 du 1er juin 1965 portant création d'un service central d'
 
 	**Modifié par**:
 
-	  - Décret n°97-854 du 16 septembre 1997 - art. 1 () JORF 18 septembre 1997
+	  - Décret n°98-508 du 23 juin 1998 - art. 2 () JORF 25 juin 1998
 
 
 ##### Sous-section VII : La modification des mesures accessoires.
@@ -26079,10 +26079,16 @@ Un extrait de la demande peut, en outre, être publié dans un journal diffusé 
 
 ###### Article 1293
 
-Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent ait été portée en marge de l'acte
-de naissance.
+Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent a été portée en marge de l'acte
+de naissance de chacun des époux ou, si cet acte n'est pas conservé sur un registre français, après que l'extrait de la
+demande a été inscrit au répertoire civil mentionné à l'article 4 du décret n° 65-422 du 1er juin 1965 portant création d'un
+service central d'état civil au ministère des affaires étrangères.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 4 (V)
 
 	**Codifié par**:
 
@@ -26090,11 +26096,7 @@ de naissance.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1292
+	  - Décret n°98-508 du 23 juin 1998 - art. 3 () JORF 25 juin 1998
 
 
 ###### Article 1294
@@ -26102,7 +26104,8 @@ de naissance.
 Le jugement prononçant la séparation est publié dans un journal diffusé dans le ressort du tribunal qui l'a rendu.
 
 Le dispositif du jugement est notifié à l'officier de l'état civil du lieu où le mariage a été célébré à fin de mention en
-marge de l'acte de célébration.
+marge de l'acte de célébration. Lorsque l'union a été célébrée à l'étranger et qu'un acte de mariage a été dressé ou
+transcrit sur un registre français, le dispositif du jugement est notifié aux mêmes fins à l'autorité détenant ce registre.
 
 Si un contrat de mariage a été passé par les époux, le dispositif de la décision est notifié par lettre recommandée avec
 demande d'avis de réception au notaire détenteur de la minute du contrat. Le notaire est tenu de faire mention de la décision
@@ -26120,7 +26123,7 @@ exécutoire de la décision conformément à l'article 506.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°98-508 du 23 juin 1998 - art. 4 () JORF 25 juin 1998
 
 	**Cité par**:
 
@@ -26287,6 +26290,158 @@ changement de régime matrimonial.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1292 à 1296 et 1298
+
+
+#### Section VI : La publicité en matière internationale
+
+##### Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage
+
+###### Article 1303-1
+
+Lorsque l'acte de mariage est conservé par une autorité française, celle-ci mentionne en marge de cet acte, à la demande des
+époux ou de l'un d'eux, l'acte portant désignation de la loi applicable au régime matrimonial, dont la publication est prévue
+au deuxième alinéa de l'article 1397-3 du code civil.
+
+En l'absence d'acte de mariage conservé par une autorité française, et si l'acte portant désignation de la loi applicable au
+régime matrimonial a été établi en France en la forme authentique ou si l'un des époux est français, ledit acte ou le
+certificat délivré par la personne compétente pour l'établir est, à la demande des époux ou de l'un deux, inscrit aux fins de
+conservation au répertoire civil annexe mentionné à l'article 4-1 du décret n° 65-422 du 1er juin 1965 portant création d'un
+service central d'état civil au ministère des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+	**Cite**:
+
+	  - Code civil - art. 1397-3 (M)
+
+
+###### Article 1303-2
+
+Lorsqu'un contrat de mariage a été passé en France, les époux ou l'un d'eux adressent au notaire détenteur de la minute du
+contrat, par lettre recommandée avec demande d'avis de réception, copie de l'acte portant désignation de la loi applicable au
+régime matrimonial. Si le contrat de mariage a été reçu par un agent diplomatique ou consulaire français, les époux ou l'un
+d'eux avisent le ministre des affaires étrangères.
+
+Le notaire, l'agent diplomatique ou consulaire français ou le ministre des affaires étrangères fait mention de la loi
+applicable ainsi désignée sur la minute du contrat de mariage et ne doit plus en délivrer aucune copie ou extrait sans
+reproduire cette mention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+
+##### Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère
+
+###### Article 1303-3
+
+Lorsque l'acte de mariage est conservé par une autorité française, le changement de régime matrimonial obtenu en application
+de la loi étrangère régissant les effets de l'union est mentionné en marge de cet acte.
+
+En l'absence d'acte de mariage conservé par une autorité française, ce changement de régime matrimonial, s'il a donné lieu à
+une décision d'un tribunal français ou à un acte établi en France en la forme authentique ou si l'un des époux est français,
+est inscrit aux fins de conservation au répertoire civil annexe mentionné à l'article 4-1 du décret n° 65-422 du 1er juin
+1965 portant création d'un service central d'état civil au ministère des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+
+###### Article 1303-4
+
+Si ce changement a donné lieu à une décision d'un tribunal français, la mention en marge de l'acte de mariage ou
+l'inscription au répertoire civil annexe est faite conformément aux deuxième, troisième et quatrième alinéas de l'article
+1294. Dans les autres cas, le procureur de la République du lieu où est conservé l'acte de mariage ou le répertoire civil
+annexe fait procéder à cette mention ou à cette inscription, à la demande des époux ou de l'un d'eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1294
+
+
+###### Article 1303-5
+
+Lorsqu'un contrat de mariage a été passé en France, les époux ou l'un d'eux adressent au notaire détenteur de la minute du
+contrat, par lettre recommandée avec demande d'avis de réception, une copie ou un extrait de l'acte de mariage mis à jour
+conformément aux articles 1303-3 et 1303-4 ou un certificat d'inscription au répertoire civil annexe mentionné à l'article
+4-1 du décret du 1er juin 1965 précité. Si le contrat de mariage a été reçu par un agent diplomatique ou consulaire français,
+les époux ou l'un deux avisent le ministre des affaires étrangères.
+
+Le notaire, l'agent diplomatique ou consulaire français ou le ministre des affaires étrangères fait mention du changement du
+régime matrimonial sur la minute du contrat de mariage et ne doit plus en délivrer aucune copie ou extrait sans reproduire
+cette mention.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
+	  - Nouveau code de procédure civile 1303-3, 1303-4
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+
+##### Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française
+
+###### Article 1303-6
+
+Les mesures de publicité prévues au paragraphe 2 s'appliquent également en cas de changement de régime matrimonial intervenu
+à l'étranger en application de la loi française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
 
 
 ### Chapitre II : Les successions et les libéralités
