@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1989-07-25
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -19013,10 +19013,10 @@ ressort duquel est née la personne concernée et par le service central d'état
 
 ###### Article 1059
 
-La publicité des demandes, actes et jugements est réalisée par une mention en marge de l'un et l'autre exemplaire de l'acte
-de naissance de l'intéressé. Cette mention est faite à la diligence du greffier du tribunal de grande instance ou, le cas
-échéant, à celle du service central d'état civil. Elle est constituée par l'indication "répertoire civil" suivie de la
-référence sous laquelle la demande, l'acte ou le jugement a été conservé. 
+La publicité des demandes, actes et jugements est réalisée par une mention en marge de l'acte de naissance de l'intéressé.
+Cette mention est faite à la diligence du greffier du tribunal de grande instance ou, le cas échéant, à celle du service
+central d'état civil. Elle est constituée par l'indication "répertoire civil" suivie de la référence sous laquelle la
+demande, l'acte ou le jugement a été conservé.
 
 La date à laquelle la mention est apposée est portée sur l'extrait conservé au secrétariat-greffe ou au service central
 d'état civil.
@@ -19027,21 +19027,17 @@ d'état civil.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°89-511 du 20 juillet 1989 - art. 28 () JORF 25 juillet 1989
 
 
 ###### Article 1060
 
-La mention portée en marge des actes de naissance, des jugements qui rejettent une demande ou mettent fin à une mesure
+La mention portée en marge de l'acte de naissance, des jugements qui rejettent une demande ou mettent fin à une mesure
 figurant au répertoire civil, est complétée d'office par l'indication qu'elle emporte radiation des mentions antérieures.
 
-L'indication de radiation peut aussi être portée à la suite des mentions prévues par l'article 1292 lorsque la partie
+L'indication de radiation peut être aussi portée à la suite des mentions prévues par l'article 1292 lorsque la partie
 intéressée a rapporté la preuve de l'extinction de l'instance.
 
 **Liens relatifs à cet article**
@@ -19050,9 +19046,9 @@ intéressée a rapporté la preuve de l'extinction de l'instance.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°89-511 du 20 juillet 1989 - art. 29 () JORF 25 juillet 1989
 
 	**Cite**:
 
@@ -19590,12 +19586,12 @@ est lu en audience publique.
 
 ###### Article 1082
 
-Mention du divorce est portée en marge de l'acte de mariage, ainsi que des actes de naissance des époux, sur chacun des deux
-registres, au vu d'un extrait de la décision ne comportant que son dispositif et accompagné de la justification de son
-caractère exécutoire conformément à l'article 506.
+Mention du divorce est portée en marge de l'acte de mariage, ainsi que de l'acte de naissance de chacun des époux, au vu d'un
+extrait de la décision ne comportant que son dispositif et accompagné de la justification de son caractère exécutoire
+conformément à l'article 506.
 
 Si le mariage a été célébré à l'étranger, le dispositif de la décision est transcrit sur les registres de l'état civil et
-mentionné en marges des actes de naissance de chacun des époux.
+mentionné en marge de l'acte de naissance de chacun des époux.
 
 **Liens relatifs à cet article**
 
@@ -19603,9 +19599,9 @@ mentionné en marges des actes de naissance de chacun des époux.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°89-511 du 20 juillet 1989 - art. 30 () JORF 25 juillet 1989
 
 	**Cite**:
 
@@ -20866,8 +20862,8 @@ La procédure de la séparation de corps obéit aux règles prévues pour la pro
 
 ###### Article 1140
 
-La déclaration de reprise de la vie commune est mentionnée en marge de l'acte de mariage et des actes de naissance des deux
-époux.
+La déclaration de reprise de la vie commune est mentionnée en marge de l'acte de mariage et de l'acte de naissance de chacun
+des époux.
 
 Les mêmes mentions sont opérées à la diligence du notaire qui a dressé l'acte constatant la reprise de la vie commune.
 
@@ -20877,9 +20873,13 @@ Les mêmes mentions sont opérées à la diligence du notaire qui a dressé l'ac
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°89-511 du 20 juillet 1989 - art. 31 () JORF 25 juillet 1989
+
+	**Nouveaux textes**:
+
+	  - Nouveau code de procédure civile 1130
 
 
 #### Section VI : Le divorce sur conversion de la séparation de corps.
@@ -21140,7 +21140,7 @@ La légitimation relève de la matière gracieuse.
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-#### Section III : Le changement de nom de l'enfant naturel par déclaration conjointe.
+#### Section III : La filiation naturelle.
 
 ###### Article 1152
 
@@ -21148,7 +21148,7 @@ Les déclarations conjointes prévues aux articles 334-2 et 334-5 du Code civil 
 où demeure l'enfant.
 
 Le juge des tutelles en donne aussitôt avis au procureur de la République du lieu de naissance de l'enfant qui fait procéder
-aux mentions nécessaires sur les registres de l'état civil.
+aux mentions nécessaires en marge de l'acte de naissance de celui-ci.
 
 En cas de refus, le juge statue par ordonnance motivée.
 
@@ -21158,14 +21158,16 @@ En cas de refus, le juge statue par ordonnance motivée.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°89-511 du 20 juillet 1989 - art. 32 () JORF 25 juillet 1989
 
 	**Cite**:
 
 	  - Code civil 334-2 et 334-5
 
+
+#### Section III : Le changement de nom de l'enfant naturel par déclaration conjointe.
 
 ###### Article 1153
 
@@ -24520,26 +24522,6 @@ Un extrait de la demande peut, en outre, être publié dans un journal diffusé 
 	  - Code de procédure civile - art. 1296 (V)
 
 
-###### Article 1293
-
-Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent ait été portée en marge des actes
-de naissance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1292
-
-
 ###### Article 1294
 
 Le jugement prononçant la séparation est publié dans un journal diffusé dans le ressort du tribunal qui l'a rendu.
@@ -25305,6 +25287,34 @@ Si une contestation oppose les parties entre elles, le juge du tribunal d'instan
 	**Abrogé par**:
 
 	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
+
+
+## Titre III : Les régimes matrimoniaux
+
+### Les successions et les libéralités
+
+#### Chapitre Ier : Les droits des époux et les régimes matrimoniaux
+
+##### Section V : La séparation judiciaire de biens.
+
+###### Article 1293
+
+Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent ait été portée en marge de l'acte
+de naissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°89-511 du 20 juillet 1989 - art. 33 () JORF 25 juillet 1989
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1292
 
 
 ## Titre IV : Les obligations et les contrats.
