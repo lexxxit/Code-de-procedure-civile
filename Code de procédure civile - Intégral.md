@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2002-09-01
+Version Consolidée au 2002-12-12
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -4860,6 +4860,10 @@ Si l'une des parties dénie l'écriture qui lui est attribuée ou déclare ne pa
 auteur, le juge vérifie l'écrit contesté à moins qu'il ne puisse statuer sans en tenir compte. Si l'écrit contesté n'est
 relatif qu'à certains chefs de la demande, il peut être statué sur les autres.
 
+Si la dénégation ou le refus de reconnaissance porte sur un écrit ou une signature électroniques, le juge vérifie si les
+conditions, mises par les articles 1316-1 et 1316-4 du code civil à la validité de l'écrit ou de la signature électroniques,
+sont satisfaites.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4871,17 +4875,49 @@ relatif qu'à certains chefs de la demande, il peut être statué sur les autres
 	  - Décret n°91-1197 du 27 novembre 1991 - art. 147 (V)
 	  - Décret n°2016-651 du 20 mai 2016 - art. 16 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 7 () JORF 12 décembre 2002
+
+	**Cite**:
+
+	  - Code civil - art. 1316-1 (V)
+	  - Code civil - art. 1316-4 (V)
+
 
 ###### Article 288
 
 Il appartient au juge de procéder à la vérification d'écriture au vu des éléments dont il dispose après avoir, s'il y a lieu,
 enjoint aux parties de produire tous documents à lui comparer et fait composer, sous sa dictée, des échantillons d'écriture.
 
+Dans la détermination des pièces de comparaison, le juge peut retenir tous documents utiles provenant de l'une des parties,
+qu'ils aient été émis ou non à l'occasion de l'acte litigieux.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 8 () JORF 12 décembre 2002
+
+
+###### Article 288-1
+
+Lorsque la signature électronique bénéficie d'une présomption de fiabilité, il appartient au juge de dire si les éléments
+dont il dispose justifient le renversement de cette présomption.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 8 () JORF 12 décembre 2002
 
 
 ###### Article 289
@@ -11095,8 +11131,9 @@ représentant sous réserve des règles particulières à la notification des ju
 
 ###### Article 653
 
-La date de la signification d'un acte d'huissier de justice est celle du jour où elle est faite à personne, à domicile, à
-résidence, au parquet ou, dans le cas mentionné à l'article 659, celle de l'établissement du procès-verbal.
+La date de la signification d'un acte d'huissier de justice, sous réserve de l'article 688-9, est celle du jour où elle est
+faite à personne, à domicile, à résidence, au parquet ou, dans le cas mentionné à l'article 659, celle de l'établissement du
+procès-verbal.
 
 **Liens relatifs à cet article**
 
@@ -11111,11 +11148,11 @@ résidence, au parquet ou, dans le cas mentionné à l'article 659, celle de l'�
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 14 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 24 () JORF 12 décembre 2002
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 659
+	  - Nouveau code de procédure civile 688-9, 659
 
 
 ###### Article 654
@@ -11421,14 +11458,22 @@ contre émargement ou récépissé.
 
 ###### Article 668
 
-La date de la notification par voie postale est, à l'égard de celui qui y procède, celle de l'expédition, et, à l'égard de
-celui à qui elle est faite, la date de la réception de la lettre.
+Sous réserve de l'article 688-10, la date de la notification par voie postale est, à l'égard de celui qui y procède, celle de
+l'expédition, et, à l'égard de celui à qui elle est faite, la date de la réception de la lettre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 25 () JORF 12 décembre 2002
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 688-10
 
 
 ###### Article 669
@@ -11973,6 +12018,74 @@ pas présentée conformément aux dispositions du présent code.
 	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
 
 
+#### Section V-1 : Règles particulières à la signification et à la notification à destination d'autres Etats membres de la Communauté européenne des actes judiciaires et extrajudiciaires en matière civile et commerciale
+
+###### Article 688-9
+
+Lorsque l'acte est destiné à un officier ministériel, une autorité ou une autre personne d'un Etat membre de la Communauté
+européenne, la date de la signification des actes judiciaires et extrajudiciaires en matière civile et commerciale est, à
+l'égard du requérant, celle de la date de l'expédition de l'acte par l'huissier de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 23 () JORF 12 décembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 67 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+
+
+###### Article 688-10
+
+Lorsque l'acte est destiné à un officier ministériel, une autorité ou une autre personne d'un Etat membre de la Communauté
+européenne, la date de la notification des actes judiciaires et extrajudiciaires en matière civile et commerciale est, à
+l'égard du requérant, celle de la date de l'expédition de l'acte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 23 () JORF 12 décembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 67 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+
+
+###### Article 688-11
+
+Les articles 688-9 et 688-10 ne sont pas applicables aux actes devant faire l'objet d'une transmission au Royaume du
+Danemark, qui demeurent régis par la section V du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 23 () JORF 12 décembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 67 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 688-9, 688-10
+
+
 #### Section VI : Le lieu des notifications.
 
 ###### Article 689
@@ -12048,6 +12161,10 @@ Les notifications destinées aux collectivités publiques et aux établissements
 Ce qui est prescrit par les articles 654 à 659, 663 à 665, 672, 675, 678, 680, 683, 684, 686, 689 à 692 est observé à peine
 de nullité.
 
+Doivent être également observées, à peine de nullité, les dispositions des articles 4, 6 et 7 du règlement (CE) n° 1348/2000
+du Conseil du 29 mai 2000 en cas d'expédition d'un acte vers un autre Etat membre de la Communauté européenne à l'exception
+du Royaume du Danemark.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12056,7 +12173,7 @@ de nullité.
 
 	**Modifié par**:
 
-	  - Décret n°86-585 1986-03-14 art. 7 et 9 JORF 19 mars 1986 en vigueur le 2 mai 1986
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 26 () JORF 12 décembre 2002
 
 	**Cite**:
 
@@ -12086,7 +12203,7 @@ Les dépens afférents aux instances, actes et procédures d'exécution comprenn
 l'exception des droits, taxes et pénalités éventuellement dus sur les actes et titres produits à l'appui des prétention des
 parties ;
 
-[*2. abrogé par décret 78-62 1978-01-20 art. 19-I*]
+2. Les frais de traduction des actes lorsque celle-ci est rendue obligatoire par la loi ou par un engagement international ;
 
 3. Les indemnités des témoins ;
 
@@ -12106,7 +12223,7 @@ parties ;
 
 	**Modifié par**:
 
-	  - Décret n°78-62 1978-01-20 art. 19-I et 19-II JORF 24 janvier 1978
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 27 () JORF 12 décembre 2002
 
 
 ###### Article 696
@@ -20775,6 +20892,25 @@ changement dans la situation de l'un ou de l'autre.
 
 #### Section I : Dispositions générales
 
+###### Article 1075-2
+
+Les époux doivent, à la demande du juge, justifier de leurs charges et ressources, notamment par la production de
+déclarations de revenus, d'avis d'imposition et de bordereaux de situation fiscale.
+
+Ils doivent également, à sa demande, produire les pièces justificatives relatives à leur patrimoine et leurs conditions de
+vie, en complément de la déclaration sur l'honneur permettant la fixation de la prestation compensatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 10 () JORF 12 décembre 2002
+
+
 ##### Sous-section I : La compétence.
 
 ###### Article 1070
@@ -20928,8 +21064,8 @@ caisses, services ou organismes.
 
 ###### Article 1075-1
 
-Les époux doivent, à la demande du juge, justifier de leurs charges et ressources, notamment par la production de
-déclarations de revenus, d'avis d'imposition et de bordereaux de situation fiscale.
+Lorsqu'une demande de prestation compensatoire est présentée, chaque époux produit la déclaration sur l'honneur prévue à
+l'article 271 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -20937,13 +21073,17 @@ déclarations de revenus, d'avis d'imposition et de bordereaux de situation fisc
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1330 1985-12-17 art. 18 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 10 () JORF 12 décembre 2002
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1084 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 271 (M)
 
 
 ###### Article 1076
@@ -21166,8 +21306,8 @@ Quand il y a lieu de statuer, après le prononcé du divorce, sur l'exercice de 
 pension alimentaire, la demande est présentée, même si un pourvoi en cassation a été formé, au juge aux affaires familiales
 par les personnes intéressées, soit dans les formes prévues pour les référés, soit par simple requête.
 
-Il en est de même, lorsque le divorce a acquis force de chose jugée, s'il y a lieu à révision de la prestation compensatoire
-dans le cas prévu à l'article 279, alinéa 3, du Code civil.
+Il en est de même, lorsque le divorce a acquis force de chose jugée, s'il y a lieu à révision de la prestation compensatoire.
+Les articles 1075-1 et 1075-2 du présent code sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -21177,11 +21317,11 @@ dans le cas prévu à l'article 279, alinéa 3, du Code civil.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 10 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 12 () JORF 12 décembre 2002
 
 	**Cite**:
 
-	  - Code civil - art. 279 (M)
+	  - Nouveau code de procédure civile 1075-1, 1075-2
 
 
 ###### Article 1085
@@ -22697,13 +22837,11 @@ La légitimation relève de la matière gracieuse.
 
 ###### Article 1152
 
-Les déclarations conjointes prévues aux articles 334-2 et 334-5 du Code civil sont faites devant le juge aux affaires
-familiales du lieu où demeure l'enfant.
+Les déclarations conjointes prévues aux articles 334-2 et 334-5 du Code civil sont faites devant le greffier en chef du
+tribunal de grande instance du lieu où demeure l'enfant.
 
-Le juge aux affaires familiales en donne aussitôt avis au procureur de la République du lieu de naissance de l'enfant qui
-fait procéder aux mentions nécessaires en marge de l'acte de naissance de celui-ci.
-
-En cas de refus, le juge statue par ordonnance motivée.
+Le greffier en chef en donne aussitôt avis au procureur de la République du lieu de naissance de l'enfant qui fait procéder
+aux mentions nécessaires en marge de l'acte de naissance de celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -22713,11 +22851,12 @@ En cas de refus, le juge statue par ordonnance motivée.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 21 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 13 () JORF 12 décembre 2002
 
 	**Cite**:
 
-	  - Code civil 334-2 et 334-5
+	  - Code civil - art. 334-2 (M)
+	  - Code civil - art. 334-5 (M)
 
 
 ###### Article 1153
@@ -23387,8 +23526,9 @@ L'appel est formé comme en matière contentieuse. Il est instruit et jugé selo
 
 ###### Article 1179
 
-Les demandes relatives à l'application de l'article 372-1-1 du code civil sont formées, instruites et jugées en chambre du
-conseil, selon les règles édictées aux articles 1084 à 1087.
+Les demandes relatives à l'application de des articles 372 à 374-2 du code civil, sous réserve des règles édictées à la
+présente section, sont formées, instruites et jugées en chambre du conseil, selon les règles édictées aux articles 1084 à
+1087.
 
 Ainsi qu'il est dit à l'article 52 de la loi n° 93-22 du 8 janvier 1993 modifiant le code civil relative à l'état civil, à la
 famille et aux droits de l'enfant et instituant le juge aux affaires familiales, les parties ont la faculté de se faire
@@ -23403,18 +23543,19 @@ assister ou représenter selon les règles applicables devant le tribunal d'inst
 	**Cite**:
 
 	  - Loi n°93-22 1993-01-08 art. 52
-	  - Code civil - art. 372-1-1 (M)
+	  - Code civil 372 à 374-2
 	  - Nouveau code de procédure civile 1084 à 1087
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 14 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 14 () JORF 12 décembre 2002
 
 
 ###### Article 1179-1
 
-Le juge territorialement compétent pour délivrer l'acte de communauté de vie prévu à l'article 372-1 du code civil est celui
-du lieu où demeure le demandeur.
+Pour l'application de l'article 373-2-8 et de l'article 373-2-13 du code civil, les tiers saisissent par simple requête le
+procureur de la République qui peut recueillir les renseignements qu'il estime utiles sur la situation du mineur et de sa
+famille.
 
 **Liens relatifs à cet article**
 
@@ -23422,34 +23563,14 @@ du lieu où demeure le demandeur.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 19 () JORF 17 septembre 1993
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 15 () JORF 12 décembre 2002
 
 	**Cite**:
 
-	  - Code civil - art. 372-1 (T)
-
-
-###### Article 1179-2
-
-Lorsque les éléments apportés au juge saisi d'une demande de délivrance de l'acte de communauté de vie ne suffisent pas à lui
-permettre d'apprécier l'existence de celle-ci, le juge peut inviter le demandeur à produire tout autre document et solliciter
-l'audition des personnes ayant délivré les attestations produites.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 19 () JORF 17 septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 15 () JORF 12 décembre 2002
+	  - Code civil - art. 373-2-13 (V)
+	  - Code civil - art. 373-2-8 (V)
 
 
 ###### Article 1180
@@ -23479,10 +23600,9 @@ public.
 
 ###### Article 1180-1
 
-La déclaration conjointe prévue à l'article 374 du Code civil est recueillie par le juge aux affaires familiales du lieu où
-demeure l'enfant. Le juge établit un procès-verbal dont il remet une copie à chacun des parents.
-
-En cas de refus, le juge [*pouvoirs*] statue par ordonnance motivée.
+La déclaration conjointe prévue à l'article 372 du code civil est recueillie par le greffier en chef du tribunal de grande
+instance du lieu où demeure l'enfant. Le greffier en chef établit un procès-verbal dont il remet une copie à chacun des
+parents.
 
 L'attribution de l'exercice de l'autorité parentale par déclaration conjointe relève de la matière gracieuse.
 
@@ -23494,18 +23614,18 @@ L'attribution de l'exercice de l'autorité parentale par déclaration conjointe 
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 15 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 16 () JORF 12 décembre 2002
 
 	**Cite**:
 
-	  - Code civil - art. 374 (M)
+	  - Code civil - art. 372 (M)
 
 
 ###### Article 1180-2
 
-Les demandes relatives à la modification, par le juge aux affaires familiales, des conditions d'exercice de l'autorité
-parentale prévues à l'article 374 du Code civil sont formées, instruites et jugées selon les règles édictées aux articles
-1084 à 1087. Les débats ne sont pas publics.
+L'ordonnance qui fixe à titre provisoire la résidence de l'enfant en application de l'alinéa 2 de l'article 373-2-9 du code
+civil mentionne, outre la durée de la mesure, les lieux, jour et heure de l'audience à laquelle il sera statué à nouveau sur
+la résidence.
 
 **Liens relatifs à cet article**
 
@@ -23515,12 +23635,35 @@ parentale prévues à l'article 374 du Code civil sont formées, instruites et j
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 16 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 17 () JORF 12 décembre 2002
 
 	**Cite**:
 
-	  - Code civil - art. 374 (M)
-	  - Nouveau code de procédure civile 1084 à 1087
+	  - Code civil - art. 373-2-9 (V)
+
+
+###### Article 1180-3
+
+La décision enjoignant aux parties de rencontrer un médiateur familial en application de l'article 373-2-10, troisième alinéa
+du code civil, n'est pas susceptible de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 18 () JORF 12 décembre 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 11 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 373-2-10 (V)
 
 
 #### Section II : L'assistance éducative
@@ -23815,11 +23958,15 @@ L'affaire est instruite et jugée en chambre du conseil, après avis du ministè
 
 ###### Article 1190
 
-Toute décision du juge est notifiée dans les huit jours [*délai*] aux père, mère, tuteur ou personne ou service à qui
-l'enfant a été confié, ainsi qu'au conseil du mineur s'il en a été désigné un ; avis en est donné au procureur de la
-République.
+Les décisions du juge sont notifiées dans les huit jours aux père, mère, tuteur ou personne ou service à qui l'enfant a été
+confié, ainsi qu'au conseil du mineur s'il en a été désigné un.
 
 Le dispositif de la décision est notifié au mineur de plus de seize ans à moins que son état ne le permette pas.
+
+Toutefois, la décision écartant certaines pièces de la consultation en application du quatrième alinéa de l'article 1187 est
+notifiée dans les huit jours à la seule partie qui a demandé celle-ci.
+
+Dans tous les cas, un avis de notification est donné au procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -23827,18 +23974,18 @@ Le dispositif de la décision est notifié au mineur de plus de seize ans à moi
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 13 JORF 25 juillet 1987
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 20 () JORF 12 décembre 2002
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1194 (V)
 	  - Code de procédure civile - art. 1209 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1187
 
 
 ###### Article 1191
@@ -24108,36 +24255,12 @@ par le juge des enfants dans les conditions prévues aux articles 1181 à 1200.
 	  - Nouveau code de procédure civile 1181 à 1200
 
 
-#### Section III : Délégation, déchéance et retrait partiel de l'autorité parentale.
-
-###### Article 1201
-
-La déclaration prévue à l'article 377-1 du Code civil est faite au maire ou au commissaire de police. Elle est transmise dans
-les quinze jours [*délai*] au préfet qui procède aux notifications nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 15 () JORF 12 décembre 2002
-
-	**Cite**:
-
-	  - Code civil - art. 377-1 (M)
-
+#### Section III : Délégation, retrait total et partiel de l'autorité parentale
 
 ###### Article 1202
 
-Les demandes en déchéance ou retrait partiel de l'autorité parentale sont portées devant le tribunal de grande instance du
-lieu où demeure l'ascendant contre lequel l'action est exercée.
+Les demandes en retrait total ou partiel de l'autorité parentale sont portées devant le tribunal de grande instance du lieu
+où demeure l'ascendant contre lequel l'action est exercée.
 
 Les demandes en délégation de l'autorité parentale sont portées devant le juge aux affaires familiales du lieu où demeure le
 mineur.
@@ -24150,7 +24273,7 @@ mineur.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 17 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 
 ###### Article 1203
@@ -24166,14 +24289,14 @@ adressée au procureur de la République qui doit la transmettre au tribunal ou 
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 18 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 
 ###### Article 1204
 
-Lorsque la demande tend à la déchéance ou au retrait partiel de l'autorité parentale, qu'elle émane du ministère public, d'un
-membre de la famille ou du tuteur de l'enfant, la requête est notifiée par le greffier à l'ascendant contre lequel l'action
-est exercée.
+Lorsque la demande tend au retrait total ou partiel de l'autorité parentale, qu'elle émane du ministère public, d'un membre
+de la famille ou du tuteur de l'enfant, la requête est notifiée par le greffier à l'ascendant contre lequel l'action est
+exercée.
 
 **Liens relatifs à cet article**
 
@@ -24181,19 +24304,15 @@ est exercée.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 
 ###### Article 1205
 
 Le tribunal ou le juge, même d'office, procède ou fait procéder à toutes les investigations utiles et notamment aux mesures
-d'information prévues à l'article 1183. Il peut à cet effet commettre le juge des enfants.
+d'information prévues à l'article 1183. Il peut à cet effet commettre le juge des enfants. 
 
 Lorsqu'une procédure d'assistance éducative a été diligentée à l'égard d'un ou plusieurs enfants, le dossier en est
 communiqué au tribunal ou au juge.
@@ -24206,11 +24325,11 @@ communiqué au tribunal ou au juge.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 18 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1183
+	  - Code de procédure civile - art. 1183 (V)
 
 
 ###### Article 1206
@@ -24224,9 +24343,9 @@ moralité de ses parents.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 
 ###### Article 1207
@@ -24242,7 +24361,7 @@ parentale.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 19 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 
 ###### Article 1208
@@ -24260,15 +24379,15 @@ L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 19 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 
 ###### Article 1209
 
-Les dispositions de l'article 1186, du second alinéa de l'article 1187, du second alinéa de l'article 1188, du premier alinéa
-de l'article 1190, des articles 1191 à 1197 sont applicables aux procédures relatives à la délégation, la déchéance ou le
-retrait partiel de l'autorité parentale, les pouvoirs et obligations du juge des enfants étant assumés, selon le cas, par le
-tribunal ou le juge aux affaires familiales.
+Les dispositions de l'article 1186, du premier alinéa de l'article 1187, du second alinéa de l'article 1188, des premier et
+quatrième alinéas de l'article 1190, des articles 1191 et 1193, alinéa 1, et 1194 à 1197 sont applicables aux procédures
+relatives à la délégation, au retrait total ou partiel de l'autorité parentale, les pouvoirs et obligations du juge des
+enfants étant assumés, selon le cas, par le tribunal ou le juge des affaires familiales.
 
 **Liens relatifs à cet article**
 
@@ -24283,11 +24402,17 @@ tribunal ou le juge aux affaires familiales.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 20 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1186, 1187, 1188, 1190 et 1191 à 1197
+	  - Code de procédure civile - art. 1186 (V)
+	  - Code de procédure civile - art. 1187 (V)
+	  - Code de procédure civile - art. 1188 (V)
+	  - Code de procédure civile - art. 1190 (V)
+	  - Code de procédure civile - art. 1191 (V)
+	  - Code de procédure civile - art. 1193 (V)
+	  - Code de procédure civile - art. 1194 (V)
 
 
 ###### Article 1210
@@ -24304,7 +24429,7 @@ pour le surplus, aux règles qui gouvernent les demandes en délégation de l'au
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 19 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
 
 
 #### Section IV : Dispositions relatives à l'administrateur ad hoc
