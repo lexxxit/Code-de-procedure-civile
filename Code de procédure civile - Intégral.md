@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-03-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -20921,6 +20921,31 @@ dispositif sont aussitôt opérées.
 	  - Code de procédure civile - art. 1174 (V)
 
 
+###### Article 1056-1
+
+Le procureur de la République territorialement compétent pour se prononcer, en application de l'article 170-1 du code civil,
+sur la transcription d'un acte de mariage célébré à l'étranger est le procureur du lieu où est établi le service central
+d'état civil du ministère des affaires étrangères.
+
+Lorsque l'acte de mariage a été transcrit sur les registres consulaires français, il est également compétent pour poursuivre
+l'annulation du mariage célébré à l'étranger, même lorsqu'il n'a pas été saisi préalablement à la transcription dans les
+conditions prévues à l'article 170-1 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-170 du 23 février 2005 - art. 5 () JORF 25 février 2005 en vigueur le 1er mars 2005
+
+	**Cite**:
+
+	  - Code civil - art. 170-1 (M)
+
+
 ### Chapitre III : Le répertoire civil
 
 ###### Article 1057
@@ -22793,138 +22818,6 @@ notifié par le greffe par lettre recommandée avec demande d'avis de réception
 	  - Décret n°2004-1333 du 6 décembre 2004 - art. 2 () JORF 8 décembre 2004
 
 
-### Chapitre V : Le divorce et la séparation de corps
-
-#### Section VI : Le divorce sur conversion de la séparation de corps.
-
-###### Article 1144
-
-Dans le cas prévu à l'article précédent, le juge peut ne pas entendre les époux et se borner à examiner avec leur avocat le
-projet de convention.
-
-En l'absence de difficulté, il [*pouvoirs*] homologue la convention et prononce le divorce.
-
-Sinon il peut, sans autres formes, demander aux époux de présenter à nouveau la requête dans le mois, après modification de
-la convention ; s'il n'est pas déféré à cette demande, le juge rend une ordonnance par laquelle il refuse d'homologuer la
-convention.
-
-L'ordonnance mentionne le délai d'appel et le point de départ de ce délai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1143
-
-
-###### Article 1145
-
-L'ordonnance est susceptible d'appel dans les quinze jours [*délai*] de la décision.
-
-L'appel est formé, instruit et jugé selon les règles applicables à la matière gracieuse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1146
-
-L'instruction de l'affaire et l'audition des époux sont limitées, en toute hypothèse, aux effets de la décision.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1147
-
-Les dépens de l'instance en conversion sont répartis comme ceux de l'instance en séparation de corps.
-
-Les dépens afférents à l'instance d'appel sont traités comme ceux d'une instance nouvelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-#### Section VII : Dispositions diverses.
-
-###### Article 1148
-
-Il est justifié, à l'égard des tiers, d'un divorce ou d'une séparation de corps par la seule production d'un extrait de la
-décision l'ayant prononcé ne comportant que son dispositif, accompagné de la justification de son caractère exécutoire
-conformément à l'article 506.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Transféré par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Nouveaux textes**:
-
-	  - Nouveau code de procédure civile 1082-1
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 506
-
-
 ### Chapitre VI : La filiation et les subsides
 
 #### Section I : Dispositions générales
@@ -24628,6 +24521,96 @@ contre la partie indiquée par le juge qui a désigné l'administrateur ad hoc.
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. A43-10 (V)
+
+
+#### Section V : Le déplacement illicite international d'enfants
+
+###### Article 1210-4
+
+Les actions engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au
+déplacement illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal de grande
+instance territorialement compétent en application de l'article L. 312-1-1 du code de l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 12 () JORF 31 octobre 2004 en vigueur le 1er mars 2005
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1210-9 (M)
+
+	**Cite**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1-1 (M)
+
+
+###### Article 1210-5
+
+La demande aux fins d'obtenir le retour de l'enfant, en application de la convention du 25 octobre 1980 sur les aspects
+civils de l'enlèvement international d'enfants, est formée, instruite et jugée en la forme des référés.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1210-6 (V)
+
+	**Cite**:
+
+	  - Convention 1980-10-25
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 12 () JORF 31 octobre 2004 en vigueur le 1er mars 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 28
+
+
+###### Article 1210-6
+
+La décision de non-retour de l'enfant rendue à l'étranger ainsi que les documents qui l'accompagnent, transmis à l'autorité
+centrale française en application du 6 de l'article 11 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif
+à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité
+parentale, sont communiqués au ministère public près le tribunal de grande instance visé à l'article 1210-4, qui en saisit le
+juge aux affaires familiales par requête.
+
+Nonobstant les articles 100 et 101 du présent code, les autres juges aux affaires familiales saisis du même litige, ou de
+litiges connexes, se dessaisissent à son profit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 12 () JORF 31 octobre 2004 en vigueur le 1er mars 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2012-98 du 27 janvier 2012 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1210-9 (M)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1210-4, 100, 101
+	  - Règlement 2201/2003 2003-11-27 CE art. 11
 
 
 ### Chapitre X : La tutelle des mineurs
