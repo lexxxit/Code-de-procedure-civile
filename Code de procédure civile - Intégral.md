@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1993-09-17
+Version Consolidée au 1993-12-31
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -19060,12 +19060,7 @@ cause ou, si cette personne ne demeure pas en France, le tribunal de grande inst
 ###### Article 1040
 
 Toute action qui a pour objet principal de faire déclarer qu'une personne a ou n'a pas la qualité de Français, est exercée
-par le ministère public ou contre lui sans préjudice du droit qui appartient à tout intéressé d'intervenir à l'instance ou de
-contester, conformément à l'article 26-4 du code civil, la validité d'une déclaration enregistrée.
-
-**Nota:**
-
-
+par le ministère public ou contre lui sans préjudice du droit qui appartient à tout intéressé d'intervenir à l'instance.
 
 **Liens relatifs à cet article**
 
@@ -19075,15 +19070,11 @@ contester, conformément à l'article 26-4 du code civil, la validité d'une dé
 
 	**Modifié par**:
 
-	  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
+	  - Décret n°93-1362 du 30 décembre 1993 - art. 66 () JORF 31 décembre 1993
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1044 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 26-4 (M)
 
 
 ###### Article 1041
