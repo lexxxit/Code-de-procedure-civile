@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1978-03-18
+Version Consolidée au 1979-11-09
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13533,6 +13533,62 @@ Lorsque la procédure est à jour fixe, les dispositions de l'article 824 sont o
 	**Cite**:
 
 	  - Nouveau code de procédure civile 824
+
+
+## Titre VII : Dispositions particulières à la Cour de cassation.
+
+### Chapitre II : La procédure sans représentation obligatoire.
+
+###### Article 995
+
+Si le pourvoi a été formé selon les règles de la procédure avec représentation obligatoire, il n'en est pas moins recevable
+quelle que soit la procédure ultérieurement suivie.
+
+Le défendeur n'est pas tenu de se faire représenter par un avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979
+
+
+### Chapitre III : La procédure en matière électorale.
+
+#### Section II : Les élections professionnelles.
+
+###### Article 1008
+
+Si la déclaration de pourvoi a été faite dans les formes de la procédure avec représentation obligatoire, le pourvoi n'en est
+pas moins recevable quelle que soit la procédure ultérieurement suivie, l'alinéa 1er de l'article 1004 demeurant néanmoins
+applicable. 
+
+Le défendeur n'est pas tenu de se faire représenter par un avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979
+
+	**Cité par**:
+
+	  - Décret n°94-147 du 16 février 1994 - art. 27 (V)
+	  - Décret n°94-147 du 16 février 1994 - art. 38 (V)
+	  - Arrêté du 23 juillet 2003 - art. 16 (V)
+	  - Code de la sécurité sociale. - art. D231-21 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1004 (V)
 
 
 # Annexes
