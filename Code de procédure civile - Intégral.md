@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2002-12-12
+Version Consolidée au 2003-09-15
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -14666,7 +14666,7 @@ provision dans les conditions prévues par l'alinéa 2 de l'article 809.
 	  - Nouveau code de procédure civile 759 à 762 et 809
 
 
-## Titre II : Dispositions particulières au tribunal d'instance.
+## Titre II : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.
 
 ###### Article 827
 
@@ -14679,6 +14679,10 @@ Elles ont la faculté de se faire assister ou représenter.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cité par**:
 
@@ -14705,22 +14709,11 @@ fonctionnaire ou un agent de leur administration.
 
 Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
 
-**Nota:**
-
-NOTA : Le décret 98-1231 du 28 décembre 1998 article 22, publié au JORF du 30 décembre 1998 a été annulé en tant qu'il
-ajoutait, dans l'article 828 le concubin à la liste des personnes qui peuvent assister ou représenter une partie en cause et
-en n'exigeant plus, lorsqu'une partie se fait représenter par une personne attachée à son service ou à son entreprise, que
-cette personne soit exclusivement attachée à son service.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975
-
-	**Créé par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 en vigueur le 1er janvier 1976 rectificatif JORF 27 janvier 1976
 
 	**Cité par**:
 
@@ -14732,19 +14725,23 @@ cette personne soit exclusivement attachée à son service.
 
 	**Modifié par**:
 
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 22 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-	  - Conseil d'Etat 205136 2001-04-06, Ordre des avocats au Barreau du Mans, Recueil Lebon
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
-### Sous-titre I : La procédure ordinaire.
+### Sous-titre Ier : La procédure ordinaire.
 
 ###### Article 829
 
-La demande en justice est formée par assignation à fin de conciliation et, à défaut, de jugement, sauf la faculté pour le
-demandeur de provoquer une tentative de conciliation avant d'assigner.
+Devant le tribunal d'instance et la juridiction de proximité, la demande en justice est formée par assignation à fin de
+conciliation et, à défaut, de jugement, sauf la faculté pour le demandeur de provoquer une tentative de conciliation avant
+d'assigner.
 
 La demande peut également être formée soit par la remise au secrétariat-greffe d'une requête conjointe, soit par la
 présentation volontaire des parties devant le juge, soit, dans le cas prévu à l'article 847-1, par une déclaration au greffe.
+
+Faute d'accord des parties pour procéder à une tentative de conciliation, le juge, par décision insusceptible de recours,
+peut leur enjoindre de rencontrer un conciliateur qu'il désigne à cet effet, chargé de les informer sur l'objet et le
+déroulement de la mesure de conciliation.
 
 **Liens relatifs à cet article**
 
@@ -14754,7 +14751,8 @@ présentation volontaire des parties devant le juge, soit, dans le cas prévu à
 
 	**Modifié par**:
 
-	  - Décret n°88-209 du 4 mars 1988 - art. 1 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 18 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cité par**:
 
@@ -14766,7 +14764,7 @@ présentation volontaire des parties devant le juge, soit, dans le cas prévu à
 	  - Nouveau code de procédure civile 847-1
 
 
-#### Chapitre I : La tentative préalable de conciliation.
+#### Chapitre Ier : La tentative préalable de conciliation.
 
 ###### Article 830
 
@@ -14780,6 +14778,10 @@ Le demandeur indique les nom, prénoms, profession et adresse des parties, ainsi
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cité par**:
 
@@ -14805,7 +14807,7 @@ Dans tous les cas, les parties doivent se présenter en personne.
 
 	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cité par**:
 
@@ -14825,7 +14827,7 @@ une même durée, à la demande du conciliateur.
 
 	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 832-1
@@ -14836,7 +14838,7 @@ connaître leur acceptation dans le délai de quinze jours.
 Il les informe qu'en l'absence d'accord de leur part il procédera comme il est dit aux articles 833 et 834.
 
 La lettre précise que chaque partie peut se présenter devant le conciliateur avec une personne ayant qualité pour l'assister
-devant le tribunal d'instance et rappelle les dispositions de l'article 832.
+devant le juge et rappelle les dispositions de l'article 832.
 
 La lettre adressée au défendeur mentionne les nom, prénoms, profession et adresse du demandeur et l'objet de la demande.
 
@@ -14848,7 +14850,8 @@ La lettre adressée au défendeur mentionne les nom, prénoms, profession et adr
 
 	**Modifié par**:
 
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 23 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 19 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cite**:
 
@@ -14868,9 +14871,13 @@ Avis en est donné au conciliateur et aux parties. Une copie de la demande est a
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 832-3
@@ -14884,9 +14891,13 @@ conciliation.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 832-4
@@ -14902,9 +14913,13 @@ de ces personnes.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 832-5
@@ -14917,9 +14932,13 @@ Le conciliateur tient le juge informé des difficultés qu'il rencontre dans l'a
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 832-6
@@ -14939,9 +14958,13 @@ rappelle qu'elles ont la faculté de saisir la juridiction compétente aux fins 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 832-7
@@ -14960,9 +14983,13 @@ ont la faculté de saisir la juridiction compétente aux fins de jugement.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 832-8
@@ -14978,9 +15005,13 @@ L'homologation relève de la matière gracieuse.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 832-9
@@ -14994,9 +15025,13 @@ de la procédure sans l'accord des parties, ni, en tout état de cause, dans une
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 832-10
@@ -15009,9 +15044,13 @@ La décision ordonnant ou renouvelant la conciliation ou y mettant fin n'est pas
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 833
@@ -15032,7 +15071,7 @@ L'avis et la convocation précisent que chaque partie peut se faire assister par
 
 	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cité par**:
 
@@ -15056,7 +15095,7 @@ est procédé selon les modalités de la présentation volontaire.
 
 	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 835
@@ -15074,7 +15113,7 @@ délai accordé par le demandeur au débiteur pour exécuter son obligation.
 
 	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 1 () JORF 23 juillet 1996
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cite**:
 
@@ -15101,6 +15140,10 @@ représenter, ainsi que, s'il y a lieu, le nom du représentant du demandeur.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Cité par**:
 
 	  - Code de procédure civile - art. 835 (VD)
@@ -15120,11 +15163,15 @@ L'assignation doit être délivrée quinze jours au moins avant la date de l'aud
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 
 ###### Article 838
 
-Le tribunal d'instance est saisi, à la diligence de l'une ou l'autre partie, par la remise au secrétariat-greffe, d'une copie
-de l'assignation.
+Le juge est saisi, à la diligence de l'une ou l'autre partie, par la remise au secrétariat-greffe, d'une copie de
+l'assignation.
 
 Cette remise doit avoir lieu au plus tard huit jours avant la date de l'audience.
 
@@ -15133,6 +15180,11 @@ Cette remise doit avoir lieu au plus tard huit jours avant la date de l'audience
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 19 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 839
@@ -15144,6 +15196,10 @@ En cas d'urgence, les délais de comparution et de remise de l'assignation peuve
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 840
@@ -15161,7 +15217,7 @@ l'accord des parties.
 
 	**Modifié par**:
 
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 24 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 841
@@ -15178,7 +15234,7 @@ date de l'audience.
 
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 842
@@ -15194,7 +15250,7 @@ sur l'avis qui en est donné aux parties verbalement ou par lettre simple du gre
 
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 843
@@ -15209,6 +15265,10 @@ au dossier ou consignées dans un procès-verbal.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Liens**:
 
@@ -15234,6 +15294,10 @@ peut passer outre et statuer, sauf à tirer toute conséquence de l'abstention d
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Cité par**:
 
 	  - Décret n°2011-945 du 10 août 2011 - art. 7 (V)
@@ -15257,6 +15321,10 @@ le juge pour les faire juger.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 	**Cité par**:
 
 	  - Décret n°2011-945 du 10 août 2011 - art. 7 (V)
@@ -15265,8 +15333,8 @@ le juge pour les faire juger.
 
 ###### Article 846
 
-Le tribunal est saisi, soit par la remise au juge de la requête conjointe, soit par la signature d'un procès-verbal
-constatant que les parties se présentent volontairement pour faire juger leurs prétentions.
+Le juge est saisi, soit par la remise de la requête conjointe, soit par la signature d'un procès-verbal constatant que les
+parties se présentent volontairement pour faire juger leurs prétentions.
 
 Le procès-verbal contient les mentions prévues pour la requête conjointe à l'article 57.
 
@@ -15275,6 +15343,12 @@ Le procès-verbal contient les mentions prévues pour la requête conjointe à l
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 2003-06-23 art. 17, art. 19 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 19 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cite**:
 
@@ -15298,15 +15372,15 @@ Si les parties ne parviennent pas à se concilier, le juge tranche leur différe
 
 	**Modifié par**:
 
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 25 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 #### Chapitre IV : La déclaration au greffe.
 
 ###### Article 847-1
 
-Lorsque le montant de la demande n'excède pas le taux de compétence en dernier ressort du tribunal d'instance, celui-ci peut
-être saisi par une déclaration faite, remise ou adressée au greffe, où elle est enregistrée.
+Lorsque le montant de la demande n'excède pas le taux de compétence en dernier ressort du tribunal d'instance, la juridiction
+peut être saisie par une déclaration faite, remise ou adressée au greffe, où elle est enregistrée.
 
 La déclaration doit indiquer les nom, prénoms, profession et adresse des parties, ou, pour les personnes morales, leur
 dénomination et leur siège. Elle contient l'objet de la demande et un exposé sommaire de ses motifs.
@@ -15321,7 +15395,8 @@ La prescription et les délais pour agir sont interrompus par l'enregistrement d
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 19 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 19 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Liens**:
 
@@ -15344,9 +15419,9 @@ la convocation.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-209 du 4 mars 1988 - art. 2 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cité par**:
 
@@ -15374,12 +15449,73 @@ Si les parties ne parviennent pas à se concilier, le juge tranche leur différe
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+
+#### Chapitre V : Des renvois de compétence.
+
+###### Article 847-4
+
+Lorsqu'il se heurte à une difficulté juridique sérieuse portant sur l'application d'une règle de droit ou sur
+l'interprétation d'un contrat liant les parties, le juge de proximité, après avoir entendu les parties, renvoie l'affaire au
+juge d'instance en lui transmettant immédiatement le dossier.
+
+Sa décision est une mesure d'administration judiciaire. Elle peut revêtir la forme d'une simple mention au dossier.
+
+Le juge d'instance reprend la procédure en l'état où l'a laissée le juge de proximité, sauf à réentendre les parties si elles
+ont déjà plaidé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 70-4 (V)
+
 	**Créé par**:
 
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 26 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+	  - Décret n°2003-542 du 23 juin 2003 - art. 20 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
-### Sous-titre II : Les ordonnances de référé.
+###### Article 847-5
+
+Le juge de proximité renvoie toutes les exceptions d'incompétence au juge d'instance. Sa décision peut revêtir la forme d'une
+simple mention au dossier.
+
+Le juge de proximité peut toujours relever d'office son incompétence ainsi que le tribunal d'instance au profit du juge de
+proximité.
+
+Le juge d'instance statue sans recours si sa décision concerne seulement sa propre compétence et la compétence des juges de
+proximité de son ressort.
+
+Les articles 96 et 97 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 20 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R142-2 (Ab)
+	  - Code de procédure civile - art. 1425-1 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 96, 97
+
+
+### Sous-titre II : Les ordonnances de référé devant le juge d'instance.
 
 ###### Article 848
 
@@ -15395,6 +15531,11 @@ toutes les mesures qui ne se heurtent à aucune contestation sérieuse ou que ju
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 849
@@ -15414,8 +15555,8 @@ ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de f
 
 	**Modifié par**:
 
-	  - Décret n°85-1330 1985-12-17 art. 9 JORF 18 décembre 1985
-	  - Décret n°87-434 1987-06-17 art. 2 JORF 23 juin 1987
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cité par**:
 
@@ -15433,8 +15574,13 @@ lorsqu'elles relèvent de sa compétence.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
 
-### Sous-titre III : Les ordonnances sur requête.
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+
+### Sous-titre III : Les ordonnances sur requête devant le juge d'instance.
 
 ###### Article 851
 
@@ -15449,6 +15595,11 @@ exigent qu'elles ne soient pas prises contradictoirement.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 
 ###### Article 852
 
@@ -15460,17 +15611,22 @@ La requête est remise ou adressée au secrétariat-greffe par le requérant ou 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
 
 ### Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale.
 
 ###### Article 852-1
 
-Lorsqu'une affaire a été renvoyée devant le tribunal d'instance dans les conditions prévues par l'alinéa 2 de l'article 470-1
-et par l'article R. 41-1 du code de procédure pénale, le secrétariat-greffe de ce tribunal convoque à l'audience, un mois au
-moins à l'avance et par lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été
-engagée devant la juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. Le secrétariat-
-greffe adresse le même jour aux mêmes personnes copies de la convocation par lettre simple. La convocation à laquelle est
-annexée une copie de la décision de renvoi vaut citation en justice.
+Lorsqu'une affaire a été renvoyée devant le juge dans les conditions prévues par l'alinéa 2 de l'article 470-1 et par
+l'article R. 41-2 du Code de procédure pénale, le secrétariat-greffe de ce juge convoque à l'audience, un mois au moins à
+l'avance et par lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été engagée
+devant la juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. Le secrétariat-greffe
+adresse le même jour aux mêmes personnes copies de la convocation par lettre simple. La convocation à laquelle est annexée
+une copie de la décision de renvoi vaut citation en justice.
 
 La convocation indique que, même s'ils ne comparaissent pas, des décisions exécutoires à titre provisoire pourront être
 prises contre les parties autres que la victime du dommage et contre les tiers responsables mentionnés dans la décision de
@@ -15489,13 +15645,15 @@ les conditions prévues par l'alinéa 2 de l'article 849.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°83-1155 1983-12-23 art. 4 et 5 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+	  - Décret n°2003-542 2003-06-23 art. 17, art. 19 I, IV JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2003-542 du 23 juin 2003 - art. 19 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R41-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. R41-2 (M)
 	  - Nouveau code de procédure civile 470-1, 840, 841, 842, 843, 844 et 849
 
 
@@ -27601,13 +27759,13 @@ La loi n° 81-1 du 2 janvier 1981 a été codifiée aux articles L. 313-23 et su
 
 ###### Article 1406
 
-La demande est portée, selon le cas, devant le tribunal d'instance ou le président du tribunal de commerce dans les limites
-de la compétence d'attribution de ce dernier tribunal.
+La demande est portée, selon le cas, devant le tribunal d'instance, la juridiction de proximité ou devant le président du
+tribunal de commerce, dans la limite de la compétence d'attribution de ces deux juridictions.
 
 Le juge territorialement compétent est celui du lieu où demeure le ou l'un des débiteurs poursuivis.
 
 Les règles prescrites aux alinéas précédents sont d'ordre public. Toute clause contraire est réputée non écrite. Le juge doit
-relever d'office son incompétence.
+relever d'office son incompétence, l'article 847-4 étant alors applicable.
 
 **Liens relatifs à cet article**
 
@@ -27615,9 +27773,13 @@ relever d'office son incompétence.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2003-542 du 23 juin 2003 - art. 21 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 847-4
 
 
 ###### Article 1407
@@ -27799,8 +27961,8 @@ signification.
 
 ###### Article 1415
 
-L'opposition est portée, suivant le cas, devant le tribunal d'instance qui a rendu l'ordonnance portant injonction de payer
-ou devant le tribunal de commerce dont le président a rendu l'ordonnance.
+L'opposition est portée, suivant le cas, devant le tribunal d'instance, la juridiction de proximité qui a rendu l'ordonnance
+d'injonction de payer ou le tribunal de commerce dont le président a rendu l'ordonnance.
 
 Elle est formée au secrétariat-greffe ou au greffe, soit par déclaration contre récépissé, soit par lettre recommandée.
 
@@ -27810,9 +27972,9 @@ Elle est formée au secrétariat-greffe ou au greffe, soit par déclaration cont
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2003-542 du 23 juin 2003 - art. 22 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 1416
@@ -28033,15 +28195,18 @@ L'exécution en nature d'une obligation née d'un contrat conclu entre des perso
 commerçant peut être demandée au tribunal d'instance lorsque la valeur de la prestation dont l'exécution est réclamée
 n'excède pas le taux de compétence de cette juridiction.
 
+Le juge de proximité est compétent dans les limites définies au code de l'organisation judiciaire et dans les conditions de
+l'article 847-4 du présent code.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2003-542 du 23 juin 2003 - art. 23 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Cité par**:
 
@@ -28052,11 +28217,15 @@ n'excède pas le taux de compétence de cette juridiction.
 
 	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
+	**Cite**:
+
+	  - Nouveau code de procédure civile 847-4
+
 
 ###### Article 1425-2
 
-La demande est portée au choix du demandeur, soit devant le tribunal d'instance du lieu où demeure le défendeur, soit devant
-le tribunal d'instance du lieu d'exécution de l'obligation.
+La demande est portée au choix du demandeur soit devant la juridiction du lieu où demeure le défendeur, soit devant la
+juridiction du lieu d'exécution de l'obligation.
 
 **Liens relatifs à cet article**
 
@@ -28064,9 +28233,9 @@ le tribunal d'instance du lieu d'exécution de l'obligation.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2003-542 du 23 juin 2003 - art. 24 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 	**Liens**:
 
@@ -30768,16 +30937,16 @@ Dans les cas prévus au présent chapitre, les articles 751 et 753 du code de pr
 	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance.
+### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.
 
-###### Article ANNEXE, 36
+###### Article ANNEXE, art. 36
 
 Le tribunal d'instance peut être saisi soit selon les dispositions des chapitres Ier, II et III du sous-titre I du titre II
-du livre 2 du nouveau code de procédure civile, soit, tant en matière contentieuse que gracieuse, par déclaration faite,
-remise ou adressée au greffe, où elle est enregistrée.
+du livre II du code de procédure civile, soit, tant en matière contentieuse que gracieuse, par déclaration faite, remise ou
+adressée au greffe, où elle est enregistrée.
 
-Dans le second cas, les dispositions de l'article 847-1, 2e et 3e alinéa, et de l'article 847-2 du nouveau code de procédure
-civile sont applicables.
+Dans le second cas, les dispositions de l'article 847-1, 2e et 3e alinéa, et de l'article 847-2 du code de procédure civile
+sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -30787,12 +30956,30 @@ civile sont applicables.
 
 	**Modifié par**:
 
-	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
-	  - Décret n°88-209 du 4 mars 1988 - art. 5 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2003-542 du 23 juin 2003 - art. 26 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+
+###### Article ANNEXE, art. 36-1
+
+L'article 36 est applicable devant la juridiction de proximité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 26 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2017-683 du 28 avril 2017 - art. 2
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 847-1 et 847-2
+	  - Nouveau code de procédure civile annexe, 36
 
 
 ### Chapitre IV : Dispositions particulières à la matière commerciale.
