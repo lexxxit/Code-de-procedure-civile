@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1996-12-26
+Version Consolidée au 1997-09-18
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -20808,10 +20808,17 @@ Mention du divorce est portée en marge de l'acte de mariage, ainsi que de l'act
 extrait de la décision ne comportant que son dispositif et accompagné de la justification de son caractère exécutoire
 conformément à l'article 506.
 
-Si le mariage a été célébré à l'étranger, le dispositif de la décision est transcrit sur les registres de l'état civil et
-mentionné en marge de l'acte de naissance de chacun des époux.
+Si le mariage a été célébré à l'étranger et en l'absence d'acte de mariage conservé par une autorité française, mention du
+dispositif de la décision est portée en marge de l'acte de naissance de chacun des époux, si cet acte est conservé sur un
+registre français. A défaut, l'extrait de la décision est conservé au répertoire mentionné au deuxième alinéa de l'article 4
+du décret n° 65-422 du 1er juin 1965 portant création d'un service central d'état civil au ministère des affaires étrangères.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 4 (M)
+	  - Nouveau code de procédure civile 506
 
 	**Codifié par**:
 
@@ -20819,11 +20826,7 @@ mentionné en marge de l'acte de naissance de chacun des époux.
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 30 () JORF 25 juillet 1989
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 506
+	  - Décret n°97-854 du 16 septembre 1997 - art. 1 () JORF 18 septembre 1997
 
 
 ##### Sous-section VII : La modification des mesures accessoires.
