@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1976-07-30
+Version Consolidée au 1976-10-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -12864,6 +12864,94 @@ cette loi et les textes complémentaires intervenus depuis cette date, ainsi que
 	  - Loi n°1924-06-01
 
 
+###### Article ANNEXE, art. 4
+
+Dans les matières énumérées aux articles 2 et 3, les dispositions suivantes sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 2 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile Annexe, 2 et 3
+
+
+###### Article ANNEXE, art. 5
+
+Les décisions du tribunal d'instance sont notifiées par lettre recommandée avec demande d'avis de réception.
+
+Les décisions produisent effet du jour de leur notification lorsque le délai de recours est ouvert sans limitation de durée.
+
+Lorsque le recours est enfermé dans un délai, l'exécution est suspendue jusqu'à l'expiration du délai ou par le recours
+exercé dans le délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 2 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+###### Article ANNEXE, art. 6
+
+Les décisions peuvent être modifiées d'office sauf lorsque le recours est enfermé dans un délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 2 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+###### Article ANNEXE, art. 7
+
+Le recours est ouvert à tout intéressé.
+
+Il est formé, instruit et jugé selon les règles applicables en matière gracieuse devant la cour d'appel. Il peut également
+être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 2 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+###### Article ANNEXE, art. 8
+
+Le recours qui est enfermé dans un délai est appelé "pourvoi immédiat". Le délai de ce pourvoi est de quinze jours. Il est
+prorogé, s'il y a lieu, conformément aux dispositions des articles 643 à 647 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 3 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
 ###### Article ANNEXE, art. 9
 
 La décision autorisant un acte particulier ne peut plus être modifiée ni rétractée si cet acte a été valablement passé avec
@@ -13126,5 +13214,219 @@ L'ordonnance ne peut être frappée que d'un pourvoi immédiat.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+### Chapitre II : Dispositions particulières au tribunal de grande instance.
+
+###### Article ANNEXE, 31
+
+Devant le tribunal de grande instance, la demande en justice peut être formée [*mode de saisine*] soit selon les dispositions
+du nouveau Code de procédure civile, soit par la remise au secrétariat-greffe d'un acte introductif d'instance en double
+exemplaire signé par l'avocat du demandeur et comportant l'ensemble des mentions visées aux articles 56 et 752 du nouveau
+Code de procédure civile.
+
+Dans le second cas, il est procédé conformément aux articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+	**Cité par**:
+
+	  - Code de commerce - art. R670-1 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 56 et 752
+
+
+###### Article ANNEXE, art. 32
+
+Le président du tribunal détermine, par ordonnance, la date à laquelle l'affaire sera appelée devant le président et désigne,
+s'il y a lieu, la chambre à laquelle elle est distribuée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+###### Article ANNEXE, art. 33
+
+L'acte introductif d'instance et l'ordonnance du président sont signifiés quinze jours au moins avant la date fixée. La
+signification indique, à peine de nullité, le délai dans lequel le défendeur est tenu de constituer avocat. L'acte signifié
+vaut conclusions. 
+
+L'affaire est instruite selon les dispositions des articles 755,756 et 759 à 787 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 755 (V)
+	  - Code de procédure civile - art. 759 (V)
+
+
+###### Article ANNEXE, art. 34
+
+Si l'acte introductif d'instance est assorti d'une requête exposant des motifs d'urgence et si le président en reconnaît le
+bien-fondé dans son ordonnance de fixation, la notification prévue ci-dessus doit en outre comporter les énonciations visées
+au deuxième alinéa de l'article 789 du code de procédure civile. 
+
+Il est procédé devant le tribunal suivant les dispositions des articles 790 et 792 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 789 (V)
+
+
+###### Article ANNEXE, art. 35
+
+Dans les cas prévus au présent chapitre, les articles 751 et 753 du code de procédure civile sont également applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+### Chapitre IV : Dispositions particulières à la matière commerciale.
+
+###### Article ANNEXE, art. 37
+
+Sous réserve des dispositions de la loi du 1er juin 1924 portant introduction des lois commerciales françaises dans les
+départements du Haut-Rhin, du Bas-Rhin et de la Moselle, la procédure en matière commerciale est régie par le code de
+procédure civile et par les articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 4 et 35 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+	**Cité par**:
+
+	  - Code de commerce - art. R670-1 (V)
+
+	**Cite**:
+
+	  - Loi n°1924-06-01
+
+
+###### Article ANNEXE, art. 38
+
+La procédure applicable devant la chambre commerciale du tribunal de grande instance ou devant le tribunal de grande instance
+statuant en matière commerciale est celle qui est suivie devant le tribunal de grande instance, sans préjudice des règles
+particulières à la représentation des parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 4 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+###### Article ANNEXE, art. 39
+
+Le président de la chambre commerciale statue en référé et sur requête conformément aux articles 872, 873 et 875 du code de
+procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+### Chapitre VII : Dispositions diverses.
+
+###### Article ANNEXE, art. 44
+
+Les articles 21 et 22 de la présente annexe sont applicables au titre V de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, et relatif à l'exécution
+forcée sur les immeubles, à la procédure en matière de purge des hypothèques et à la procédure d'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 6 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+	**Cité par**:
+
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 60 (V)
+
+	**Cite**:
+
+	  - Loi n°1924-06-01
+	  - Nouveau code de procédure civile Annexe, 21 et 22
+
+
+###### Article ANNEXE, art. 45
+
+Les notifications qui incombent au secrétaire d'une juridiction sont faites conformément aux dispositions des articles 665 et
+670 du  code de procédure civile.
+
+Lorsqu'elles sont faites par voie postale, elles le sont par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 6 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
