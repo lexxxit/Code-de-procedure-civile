@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-09-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23531,22 +23531,17 @@ Les mesures d'assistance éducative sont prises par le juge des enfants du lieu 
 tuteur du mineur ou la personne, ou le service à qui l'enfant a été confié ; à défaut, par le juge du lieu où demeure le
 mineur.
 
-Le juge peut [*pouvoirs*], si le père, la mère, le tuteur ou la personne, ou le service à qui l'enfant a été confié change de
-domicile ou de résidence, se dessaisir au profit du juge du nouveau domicile ou de la nouvelle résidence.
+Si la personne mentionnée à l'alinéa précédent change de lieu de résidence, le juge se dessaisit au profit du juge du lieu de
+la nouvelle résidence, sauf ordonnance motivée.
+
+Ainsi qu'il est dit à l'article L. 228-4 du code de l'action sociale et des familles, en cas de changement de département, le
+président du conseil général de l'ancienne résidence et celui de la nouvelle résidence sont informés du dessaisissement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Modifié par**:
-
-	  - Décret n°87-578 1987-07-22 art. 7 JORF 25 juillet 1987
 
 	**Cité par**:
 
@@ -23555,11 +23550,29 @@ domicile ou de résidence, se dessaisir au profit du juge du nouveau domicile ou
 	  - Décret n°2008-1486 du 30 décembre 2008 (V)
 	  - Code de l'action sociale et des familles - art. R314-105 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2002-361 du 15 mars 2002 - art. 2 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L228-4 (V)
+
 
 ###### Article 1182
 
-Le juge donne avis de la procédure au procureur de la République et en informe les père, mère, tuteur, personne ou service à
-qui l'enfant a été confié quand ils ne sont pas requérants.
+Le juge donne avis de l'ouverture de la procédure au procureur de la République ; quand ils ne sont pas requérants, il en
+donne également avis au père, à la mère, au tuteur, à la personne ou au représentant du service à qui l'enfant a été confié.
+
+Il entend le père, la mère, le tuteur, la personne ou le représentant du service à qui l'enfant a été confié et le mineur
+capable de discernement et porte à leur connaissance les motifs de sa saisine.
+
+Il entend toute autre personne dont l'audition lui paraît utile.
+
+L'avis d'ouverture de la procédure et les convocations adressées aux père et mère, au tuteur, à la personne ou au
+représentant du service à qui l'enfant a été confié et au mineur mentionnent les droits des parties de faire choix d'un
+conseil ou de demander qu'il leur en soit désigné un d'office conformément aux dispositions de l'article 1186. L'avis et les
+convocations informent les parties de la possibilité de consulter le dossier conformément aux dispositions de l'article 1187.
 
 **Liens relatifs à cet article**
 
@@ -23567,30 +23580,26 @@ qui l'enfant a été confié quand ils ne sont pas requérants.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 8 JORF 25 juillet 1987
+	  - Décret n°2002-361 du 15 mars 2002 - art. 3 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. D226-3-2 (V)
 	  - Code de procédure civile - art. 1184 (V)
 
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1186, 1187
+
 
 ###### Article 1183
 
-Le juge entend les père et mère, le tuteur ou la personne ou le représentant du service à qui l'enfant a été confié, ainsi
-que toute autre personne dont l'audition lui paraît utile. Il entend le mineur à moins que l'âge ou l'état de celui-ci ne le
-permette pas.
-
-Il peut [*pouvoirs*], soit d'office, soit à la requête des parties ou du ministère public, ordonner toute mesure
-d'information et faire notamment procéder à une étude de la personnalité du mineur, en particulier par le moyen d'une enquête
-sociale, d'examens médicaux, psychiatriques et psychologiques, d'une observation du comportement ou d'un examen d'orientation
-professionnelle.
+Le juge peut, soit d'office, soit à la requête des parties ou du ministère public, ordonner toute mesure d'information
+concernant la personnalité et les conditions de vie du mineur et de ses parents, en particulier par le moyen d'une enquête
+sociale, d'examens médicaux, d'expertises psychiatriques et psychologiques ou d'une mesure d'investigation et d'orientation
+éducative.
 
 **Liens relatifs à cet article**
 
@@ -23598,13 +23607,9 @@ professionnelle.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 14 JORF 25 juillet 1987
+	  - Décret n°2002-361 du 15 mars 2002 - art. 4 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
 
 	**Cité par**:
 
@@ -23620,13 +23625,23 @@ professionnelle.
 
 ###### Article 1184
 
-Les mesures provisoires prévues au premier alinéa de l'article 375-5 du Code civil, ne peuvent être prises, hors le cas
-d'urgence, que s'il a été procédé à l'audition des père, mère, tuteur ou personne ou représentant du service à qui l'enfant a
-été confié, prescrite par l'article 1183.
+Les mesures provisoires prévues au premier alinéa de l'article 375-5 du code civil, ainsi que les mesures d'information
+prévues à l'article 1183 du présent code, ne peuvent être prises, hors le cas d'urgence spécialement motivée, que s'il a été
+procédé à l'audition, prescrite par l'article 1182, du père, de la mère, du tuteur, de la personne ou du représentant du
+service à qui l'enfant a été confié et du mineur capable de discernement.
+
+Lorsque le placement a été ordonné en urgence par le juge sans audition des parties, le juge les convoque à une date qui ne
+peut être fixée au-delà d'un délai de quinze jours à compter de la décision, faute de quoi le mineur est remis, sur leur
+demande, à ses père, mère ou tuteur, ou à la personne ou au service à qui il était confié.
+
+Lorsque le juge est saisi, conformément aux dispositions du second alinéa de l'article 375-5 du code civil, par le procureur
+de la République ayant ordonné en urgence une mesure de placement provisoire, il convoque les parties et statue dans un délai
+qui ne peut excéder quinze jours à compter de sa saisine, faute de quoi le mineur est remis, sur leur demande, à ses père,
+mère ou tuteur, ou à la personne ou au service à qui il était confié.
 
 Si l'urgence le requiert, les mesures provisoires peuvent aussi être prises, sans préjudice des dispositions du second alinéa
-de l'article 375-5 du Code civil, par le juge des enfants du lieu où le mineur a été trouvé, à charge pour lui de se
-dessaisir dans le mois [*délai*] au profit du juge territorialement compétent.
+de l'article 375-5 du code civil, par le juge des enfants du lieu où le mineur a été trouvé, à charge pour lui de se
+dessaisir dans le mois au profit du juge territorialement compétent.
 
 **Liens relatifs à cet article**
 
@@ -23638,18 +23653,14 @@ dessaisir dans le mois [*délai*] au profit du juge territorialement compétent.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 14 JORF 25 juillet 1987
+	  - Décret n°2002-361 du 15 mars 2002 - art. 5 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
 
 	**Cite**:
 
 	  - Code civil - art. 375-5 (M)
-	  - Nouveau code de procédure civile 1183
+	  - Nouveau code de procédure civile 1183, 1182
 
 
 ###### Article 1185
@@ -23657,8 +23668,8 @@ dessaisir dans le mois [*délai*] au profit du juge territorialement compétent.
 La décision sur le fond doit intervenir dans un délai de six mois à compter de la décision ordonnant les mesures provisoires,
 faute de quoi l'enfant est remis à ses père, mère, tuteur, personne ou service à qui il a été confié, sur leur demande.
 
-Si l'instruction n'est pas terminée dans le délai prévu à l'alinéa précédent, le juge peut [*pouvoirs*], après avis du
-procureur de la République, proroger ce délai pendant un temps dont il détermine la durée.
+Si l'instruction n'est pas terminée dans le délai prévu à l'alinéa précédent, le juge peut, après avis du procureur de la
+République, proroger ce délai pour une durée qui ne peut excéder six mois.
 
 **Liens relatifs à cet article**
 
@@ -23666,37 +23677,24 @@ procureur de la République, proroger ce délai pendant un temps dont il déterm
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 9 JORF 25 juillet 1987
+	  - Décret n°2002-361 du 15 mars 2002 - art. 6 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
 
 
 ###### Article 1186
 
-Le mineur, le père, la mère, le tuteur ou la personne ou le service à qui il a été confié peuvent faire choix d'un conseil ou
-demander au juge qu'il leur en soit désigné un d'office. La désignation doit intervenir dans les huit jours [*délai*] de la
-demande.
+Le mineur capable de discernement, le père, la mère, le tuteur ou la personne ou le représentant du service à qui l'enfant a
+été confié peuvent faire choix d'un conseil ou demander au juge que le bâtonnier leur en désigne un d'office. La désignation
+doit intervenir dans les huit jours de la demande.
 
-Le père, la mère, le tuteur ou la personne ou le représentant du service à qui l'enfant a été confié sont avisés de ce droit
-dès leur première audition. Le juge en avise également le mineur chaque fois que l'intérêt de celui-ci le requiert.
+Ce droit est rappelé aux intéressés lors de leur première audition.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Modifié par**:
-
-	  - Décret n°87-578 1987-07-22 art. 10 JORF 25 juillet 1987
 
 	**Cité par**:
 
@@ -23705,14 +23703,37 @@ dès leur première audition. Le juge en avise également le mineur chaque fois 
 	  - Code de procédure civile - art. 1182 (V)
 	  - Code de procédure civile - art. 1209 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2002-361 du 15 mars 2002 - art. 7 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
+
 
 ###### Article 1187
 
-L'instruction terminée, le dossier est transmis au procureur de la République qui le renvoie dans les quinze jours [*délai*]
-au juge, accompagné de son avis écrit sur la suite à donner ou de l'indication qu'il entend formuler cet avis à l'audience.
+Dès l'avis d'ouverture de la procédure, le dossier peut être consulté au secrétariat greffe, jusqu'à la veille de l'audition
+ou de l'audience, par l'avocat du mineur et celui de son père, de sa mère, de son tuteur, de la personne ou du service à qui
+l'enfant a été confié. L'avocat peut se faire délivrer copie de tout ou partie des pièces du dossier pour l'usage exclusif de
+la procédure d'assistance éducative. Il ne peut transmettre les copies ainsi obtenues ou la reproduction de ces pièces à son
+client.
 
-Le dossier peut être consulté au secrétariat-greffe par le conseil du mineur et celui, de ses père, mère, tuteur ou personne
-ou service à qui l'enfant a été confié, jusqu'à la veille de l'audience.
+Le dossier peut également être consulté, sur leur demande et aux jours et heures fixés par le juge, par le père, la mère, le
+tuteur, la personne ou le représentant du service à qui l'enfant a été confié et par le mineur capable de discernement,
+jusqu'à la veille de l'audition ou de l'audience.
+
+La consultation du dossier le concernant par le mineur capable de discernement ne peut se faire qu'en présence de son père,
+de sa mère ou de son avocat. En cas de refus des parents et si l'intéressé n'a pas d'avocat, le juge saisit le bâtonnier
+d'une demande de désignation d'un avocat pour assister le mineur ou autorise le service éducatif chargé de la mesure à
+l'accompagner pour cette consultation.
+
+Par décision motivée, le juge peut, en l'absence d'avocat, exclure tout ou partie des pièces de la consultation par l'un ou
+l'autre des parents, le tuteur, la personne ou le représentant du service à qui l'enfant a été confié ou le mineur lorsque
+cette consultation ferait courir un danger physique ou moral grave au mineur, à une partie ou à un tiers.
+
+Le dossier peut également être consulté, dans les mêmes conditions, par les services en charge des mesures prévues à
+l'article 1183 du présent code et aux articles 375-2 et 375-4 du code civil.
+
+L'instruction terminée, le dossier est transmis au procureur de la République qui le renvoie dans les quinze jours au juge,
+accompagné de son avis écrit sur la suite à donner ou de l'indication qu'il entend formuler cet avis à l'audience.
 
 **Liens relatifs à cet article**
 
@@ -23720,13 +23741,9 @@ ou service à qui l'enfant a été confié, jusqu'à la veille de l'audience.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°87-578 1987-07-22 art. 13 JORF 25 juillet 1987
+	  - Décret n°2002-361 du 15 mars 2002 - art. 8 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
 
 	**Cité par**:
 
@@ -23736,6 +23753,12 @@ ou service à qui l'enfant a été confié, jusqu'à la veille de l'audience.
 	  - Code de procédure civile - art. 1205-1 (V)
 	  - Code de procédure civile - art. 1209 (V)
 	  - Code de procédure civile - art. 1222-2 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 375-2 (M)
+	  - Code civil - art. 375-4 (M)
+	  - Nouveau code de procédure civile 1183
 
 
 ###### Article 1188
@@ -23881,7 +23904,10 @@ de la déclaration et une copie du jugement.
 ###### Article 1193
 
 L'appel est instruit et jugé par priorité en chambre du conseil par la chambre de la cour d'appel chargée des affaires de
-mineurs suivant la procédure applicable devant le juge des enfants.
+mineurs suivant la procédure applicable devant le juge des enfants. 
+
+La cour statue sur l'appel des décisions de placement provisoire prises par le juge des enfants en application des
+dispositions de l'article 375-5 du code civil dans les trois mois à compter de la déclaration d'appel.
 
 **Liens relatifs à cet article**
 
@@ -23889,14 +23915,18 @@ mineurs suivant la procédure applicable devant le juge des enfants.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2002-361 du 15 mars 2002 - art. 9 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1200-12 (V)
 	  - Code de procédure civile - art. 1209 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 375-1 (V)
 
 
 ###### Article 1194
@@ -23924,9 +23954,9 @@ Les décisions de la cour d'appel sont notifiées comme il est dit à l'article 
 
 ###### Article 1195
 
-Les convocations et notifications sont faites par le greffier par [*modalités*] lettre recommandée avec demande d'avis de
-réception ; le juge peut [*pouvoirs*] toutefois, décider qu'elles auront lieu par acte d'huissier de justice ou par la voie
-administrative. 
+Les convocations et notifications sont faites par le secrétariat greffe par lettre recommandée avec demande d'avis de
+réception et par lettre simple. Le juge peut, toutefois, décider qu'elles auront lieu par acte d'huissier de justice ou par
+la voie administrative.
 
 La remise d'une expédition du jugement contre récépissé daté et signé équivaut à la notification.
 
@@ -23936,13 +23966,9 @@ La remise d'une expédition du jugement contre récépissé daté et signé équ
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2002-361 du 15 mars 2002 - art. 10 () JORF 17 mars 2002 en vigueur le 1er septembre 2002
 
 	**Cité par**:
 
