@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1989-09-15
+Version Consolidée au 1991-12-20
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -16141,35 +16141,18 @@ suspensif, soit sur l'initiative de l'intimé qui peut demander que la clôture 
 l'audience pour être jugée au vu des conclusions de première instance.
 
 Par dérogation aux dispositions qui précèdent, le délai de quatre mois imparti pour conclure peut être prorogé par le
-conseiller de la mise en état dans le cas où l'avoué a été désigné au titre de l'aide judiciaire ou constitué par un appelant
-à qui l'aide judiciaire a été refusée.
-
-**Nota:**
-
-NOTA : Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
-juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.
+conseiller de la mise en état dans le cas où l'avoué a été désigné au titre de l'aide juridictionnelle ou constitué par un
+appelant à qui l'aide juridictionnelle a été refusée.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Abrogé par**:
-
-	  - Décret n°85-1330 1985-12-17 art. 21 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
-
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 20 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°89-511 du 20 juillet 1989 - art. 34 (V)
+	  - Décret n°91-1266 1991-12-19 art. 159 JORF 20 décembre 1991
 
 
 ##### Sous-section II : La procédure à jour fixe.
