@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1976-10-01
+Version Consolidée au 1976-12-30
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -1388,6 +1388,59 @@ adressée à leur domicile ou à leur résidence.
 
 
 ##### Sous-section IV : L'incompétence relevée d'office.
+
+###### Article 92
+
+L'incompétence peut être prononcée d'office en cas de violation d'une règle de compétence d'attribution lorsque cette règle
+est d'ordre public ou lorsque le défendeur ne comparaît pas. Elle ne peut l'être qu'en ces cas.
+
+Devant la cour d'appel et devant la Cour de cassation, cette incompétence ne peut être relevée d'office que si l'affaire
+relève de la compétence d'une juridiction répressive ou administrative ou échappe à la connaissance de la juridiction
+française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 2 JORF 30 décembre 1976
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 76 (V)
+
+
+###### Article 93
+
+En matière gracieuse, le juge peut relever d'office son incompétence territoriale. Il ne le peut, en matière contentieuse,
+que dans les litiges relatifs à l'état des personnes, dans les cas où la loi attribue compétence exclusive à une autre
+juridiction ou si le défendeur ne comparaît pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 3 JORF 30 décembre 1976
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 77 (V)
+
 
 ###### Article 94
 
@@ -5564,6 +5617,25 @@ administrateurs et tuteurs.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 392
+
+L'interruption de l'instance emporte celle du délai de péremption.
+
+Ce délai continue à courir en cas de suspension de l'instance sauf si celle-ci n'a lieu que pour un temps ou jusqu'à la
+survenance d'un événement déterminé ; dans ces derniers cas, un nouveau délai court à compter de l'expiration de ce temps ou
+de la survenance de cet événement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 5 JORF 30 décembre 1976
+
+
 ###### Article 393
 
 Les frais de l'instance périmée sont supportés par celui qui a introduit cette instance.
@@ -6614,6 +6686,33 @@ elles en ont un.
 
 ##### Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire.
 
+###### Article 471
+
+Le défendeur qui ne comparaît pas peut, à l'initiative du demandeur ou sur décision prise d'office par le juge, être à
+nouveau invité à comparaître si la citation n'a pas été délivrée à personne.
+
+La citation est, sauf application des règles particulières à certaines juridictions, réitérée selon les formes de la première
+citation. Le juge peut cependant ordonner qu'elle sera faite par acte d'huissier de justice lorsque la première citation
+avait été faite par le secrétaire de la juridiction. La nouvelle citation doit faire mention, selon le cas, des dispositions
+des articles 472 et 473 ou de celles de l'article 474 (alinéa 2).
+
+Le juge peut aussi informer l'intéressé, par lettre simple, des conséquences de son abstention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 6 JORF 30 décembre 1976
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 472, 473, 474
+
+
 ###### Article 472
 
 Si le défendeur ne comparaît pas, il est néanmoins statué sur le fond.
@@ -6984,6 +7083,28 @@ Elle est exécutoire au seul vu de la minute.
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 496
+
+S'il n'est pas fait droit à la requête, appel peut être interjeté à moins que l'ordonnance n'émane du premier président de la
+cour d'appel. Le délai d'appel est de quinze jours. L'appel est formé, instruit et jugé comme en matière gracieuse.
+
+S'il est fait droit à la requête, tout intéressé peut en référer au juge qui a rendu l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-223 du 17 mars 1967 - art. 61-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 7 JORF 30 décembre 1976
+
+
 ###### Article 497
 
 Le juge a la faculté de modifier ou de rétracter son ordonnance, même si le juge du fond est saisi de l'affaire.
@@ -7331,6 +7452,27 @@ Le juge peut, à tout moment, autoriser la substitution à la garantie primitive
 	**Cité par**:
 
 	  - Code de procédure civile - art. 524 (V)
+
+
+###### Article 523
+
+Les demandes relatives à l'application des articles 517 à 522 ne peuvent être portées, en cas d'appel, que devant le premier
+président statuant en référé ou, dans les cas prévus aux articles 525 ou 526, devant le magistrat chargé de la mise en état
+dès lors qu'il est saisi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 8 JORF 30 décembre 1976
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 517, 518, 519, 520, 521, 522, 525, 526
 
 
 ## Titre XVI : Les voies de recours.
@@ -8467,6 +8609,26 @@ ouvrable suivant.
 	  - Code rural - art. R213-7 (V)
 
 
+###### Article 642-1
+
+Les dispositions des articles 640 à 642 sont également applicables aux délais dans lesquels les inscriptions et autres
+formalités de publicité doivent être opérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 10 JORF 30 décembre 1976
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 640, 641, 642
+
+
 ###### Article 643
 
 Lorsque la demande est portée devant une juridiction qui a son siège en France métropolitaine, les délais de comparution,
@@ -8506,6 +8668,34 @@ d'appel, d'opposition, de recours en révision et de pourvoi en cassation sont a
 	  - Code de la sécurité sociale. - art. R146-8 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R731-2 (V)
 	  - Code électoral - art. R211 (V)
+
+
+###### Article 644
+
+Lorsque la demande est portée devant une juridiction qui a son siège dans un département d'outre-mer, les délais de
+comparution, d'appel, d'opposition et de recours en révision, sont augmentés de :
+
+1. Un mois pour les personnes qui ne demeurent pas dans ce département ainsi que pour celles qui demeurent dans les localités
+de ce département désignées par ordonnance du premier président ;
+
+2. Deux mois pour les personnes qui demeurent à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 11 JORF 30 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°2014-897 du 15 août 2014 - art. 1
+	  - Code de l'aviation civile - art. R123-4 (V)
+	  - Code de l'aviation civile - art. R123-7 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. R731-2 (V)
 
 
 ###### Article 645
@@ -8920,6 +9110,45 @@ La notification est réputée faite à personne lorsque l'avis de réception est
 	  - Code de procédure civile - art. 1387 (V)
 
 
+###### Article 670-1
+
+En cas de retour au secrétariat de la juridiction d'une lettre de notification qui n'a pu être remise à son destinataire, le
+secrétaire invite la partie à procéder par voie de signification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 12 JORF 30 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code des procédures civiles d'exécution - art. R442-4 (V)
+
+
+###### Article 670-2
+
+La notification faite par le secrétaire d'une juridiction à une personne qui demeure dans un territoire d'outre-mer l'est par
+la remise ou par la transmission de l'acte de notification au parquet.
+
+Le procureur procède alors comme en matière de signification au parquet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 12 JORF 30 décembre 1976
+
+
 #### Section III : Les notifications entre avocats.
 
 ###### Article 671
@@ -9096,6 +9325,36 @@ La notification d'un jugement est valablement faite au domicile élu en France p
 
 ##### Sous-section I : Notification des actes à l'étranger.
 
+###### Article 683
+
+Les notifications à l'étranger sont faites par voie de signification.
+
+Lorsque la notification est faite par le secrétaire de la juridiction, il est procédé comme il est dit à l'article 670-2. Le
+secrétaire de la juridiction est alors tenu des mêmes obligations que l'huissier de justice.
+
+Les dispositions du présent article ne préjudicient pas à l'application des traités prévoyant une autre forme de
+notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 14 JORF 30 décembre 1976
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 693 (V)
+	  - Code des transports - art. R4123-5 (V)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 670-2
+
+
 ###### Article 684
 
 La signification d'un acte destiné à une personne domiciliée à l'étranger est faite au parquet.
@@ -9154,6 +9413,167 @@ transmise par le parquet comme il est dit à l'article 685.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 685
+
+
+###### Article 688
+
+L'acte destiné à être notifié à un Etat étranger, à un agent diplomatique étranger en France ou à tout autre bénéficiaire de
+l'immunité de juridiction est notifié au parquet et transmis par l'intermédiaire du ministre de la justice, à moins qu'en
+vertu d'un traité la transmission puisse être faite par une autre voie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 15 JORF 30 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 168 (VD)
+	  - Code de procédure civile - art. 693 (V)
+
+
+##### Sous-section II : Notification des actes en provenance de l'étranger.
+
+###### Article 688-1
+
+Les actes en provenance d'un Etat étranger dont la notification est demandée par les autorités de cet Etat sont notifiés par
+voie de simple remise ou de signification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+
+
+###### Article 688-2
+
+Le ministre de la justice transmet les actes qui lui sont adressés au ministère public près le tribunal de grande instance
+dans le ressort duquel ils doivent être notifiés ou à la chambre nationale des huissiers de justice, à moins qu'en vertu d'un
+traité la transmission puisse être effectuée directement par les autorités étrangères au ministère public ou à la chambre
+nationale des huissiers de justice et sous réserve de tous autres modes de notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+
+
+###### Article 688-3
+
+Lorsque la notification est faite par les soins du ministère public, elle a lieu par voie de simple remise et sans frais.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+
+
+###### Article 688-4
+
+La chambre nationale des huissiers de justice transmet les actes qui lui sont adressés à un huissier de justice
+territorialement compétent pour les signifier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+
+
+###### Article 688-5
+
+La partie requérante est tenue de faire l'avance des frais de signification sous réserve des conventions internationales
+existantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+
+
+###### Article 688-6
+
+L'acte est notifié dans la langue de l'Etat d'origine.
+
+Toutefois le destinataire qui ne connaît pas la langue dans laquelle l'acte est établi peut en refuser la notification et
+demander que celui-ci soit traduit ou accompagné d'une traduction en langue française, à la diligence et aux frais de la
+partie requérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+
+
+###### Article 688-7
+
+Les pièces constatant l'exécution ou le défaut d'exécution des demandes de notification ou de signification sont transmises
+en retour selon les mêmes voies que celles par lesquelles les demandes avaient été acheminées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+
+
+###### Article 688-8
+
+L'exécution d'une demande de notification ou de signification peut être refusée par l'autorité française si elle est de
+nature à porter atteinte à la souveraineté ou à la sécurité de l'Etat. Elle peut également être refusée si la demande n'est
+pas présentée conformément aux dispositions du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
 
 
 #### Section VI : Le lieu des notifications.
@@ -9481,6 +9901,24 @@ date.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05
+
+
+###### Article 718
+
+Les notifications ou convocations sont faites par lettre recommandée avec demande d'avis de réception.
+
+Lorsqu'elles sont faites par le secrétaire de la juridiction, elles peuvent l'être par simple bulletin si elles sont
+adressées aux avocats ou aux avoués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 17 JORF 30 décembre 1976
 
 
 ## Titre XIX : Le secrétariat de la juridiction.
@@ -12633,6 +13071,40 @@ L'appel est instruit et jugé selon les règles applicables en matière gracieus
 
 
 ### Sous-titre II : Les pouvoirs du premier président.
+
+#### Chapitre Ier : Les ordonnances de référé.
+
+###### Article 956
+
+Dans tous les cas d'urgence, le premier président peut ordonner en référé, en cas d'appel, toutes les mesures qui ne se
+heurtent à aucune contestation sérieuse ou que justifie l'existence d'un différend.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 21 JORF 30 décembre 1976
+
+
+###### Article 957
+
+Le premier président peut également, en cas d'appel, suspendre l'exécution des jugements improprement qualifiés en dernier
+ressort, ou exercer les pouvoirs qui lui sont conférés en matière d'exécution provisoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-1236 1976-12-28 art. 21 JORF 30 décembre 1976
+
 
 #### Chapitre II : Les ordonnances sur requête.
 
