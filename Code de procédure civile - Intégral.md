@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1987-06-23
+Version Consolidée au 1987-07-25
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -18611,6 +18611,42 @@ La compétence territoriale est déterminée par la résidence au jour où la re
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
+###### Article 1072
+
+Si, après le prononcé du divorce, un litige s'élève entre les époux sur l'une de ses conséquences, le tribunal compétent pour
+en connaître est celui du lieu où, lors de l'introduction de l'instance, réside l'époux qui a l'exercice de l'autorité
+parentale ou, en cas d'exercice en commun, l'époux chez qui a été fixée la résidence habituelle des enfants mineurs ; à
+défaut, le tribunal du lieu où réside l'époux qui n'a pas pris l'initiative de la demande.
+
+Toutefois, lorsque le litige porte seulement sur la pension alimentaire ou la prestation compensatoire, la juridiction
+compétente peut être celle du lieu où réside l'époux créancier ou le parent qui assume à titre principal la charge des
+enfants même majeurs.
+
+Ce tribunal peut demander communication du dossier à la juridiction qui a prononcé le divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 1 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Décret n°2009-285 du 12 mars 2009 - art. 1 (V)
+	  - Décret n°2009-285 du 12 mars 2009 - art. 12 (V)
+	  - Décret n°2011-54 du 13 janvier 2011 - art. 2
+	  - Code de procédure civile - art. 695 (V)
+	  - Code de procédure pénale - art. A43-12 (V)
+
+
 ###### Article 1073
 
 Les demandes tendant à la modification des mesures prises par le juge en application de l'article 258 du Code civil sont
@@ -18768,6 +18804,30 @@ par l'article 246 du Code civil, d'une requête établie selon les formes régl�
 
 ##### Sous-section IV : L'enquête sociale et les décisions relatives à l'exercice de l'autorité parentale.
 
+###### Article 1078
+
+L'enquête sociale, prévue par l'article 287-2 du Code civil, peut être ordonnée même d'office par le juge des affaires
+matrimoniales [*pouvoirs*] ou par le tribunal s'ils s'estiment insuffisamment informés par les éléments dont ils disposent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 3 JORF 25 juillet 1987
+
+	**Cite**:
+
+	  - Code civil - art. 287-2 (Ab)
+
+
 ###### Article 1079
 
 L'enquête sociale donne lieu à la rédaction d'un rapport où sont consignées les constatations faites par l'enquêteur et les
@@ -18785,6 +18845,32 @@ de demander un complément d'enquête ou une contre-enquête.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1080
+
+Quand il y a lieu de statuer sur l'exercice de l'autorité parentale, l'époux à qui cet exercice n'avait pas été précédemment
+confié peut établir un projet détaillé des moyens qu'il mettrait en oeuvre pour assurer l'entretien et l'éducation des
+enfants si cet exercice lui était attribué ; il en est de même lorsque l'époux demande à exercer seul l'autorité parentale
+qui était précédemment exercée en commun. Des tiers, parents ou amis, peuvent se porter caution de la bonne exécution du
+projet. 
+
+L'enquête sociale porte, le cas échéant, sur les possibilités de réalisation du projet aussi bien que sur la situation
+actuelle, sans préjudice de toute mesure d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 4 JORF 25 juillet 1987
 
 
 ##### Sous-section V : La prestation compensatoire.
@@ -18867,6 +18953,35 @@ de la cour d'appel ou au conseiller de la mise en état.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1084
+
+Quand il y a lieu de statuer, après le prononcé du divorce, sur l'exercice de l'autorité parentale ou la modification de la
+pension alimentaire, la demande est présentée, même si un pourvoi en cassation a été formé, au juge aux affaires
+matrimoniales par les personnes intéressées, soit dans les formes prévues pour les référés, soit par simple requête.
+
+Il en est de même, lorsque le divorce a acquis force de chose jugée, s'il y a lieu à révision de la prestation compensatoire
+dans le cas prévu à l'article 279, alinéa 3, du Code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 22 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+	  - Décret n°87-578 1987-07-22 art. 12 JORF 25 juillet 1987
+
+	**Cite**:
+
+	  - Code civil - art. 279 (M)
 
 
 ###### Article 1085
@@ -19211,6 +19326,28 @@ Le juge [*pouvoirs*] procède alors à une nouvelle convocation en observant les
 	  - Nouveau code de procédure civile 1092
 
 
+###### Article 1099
+
+Au jour fixé, le juge vérifie la recevabilité de la requête ; il s'assure du libre accord persistant des époux et appelle
+leur attention sur l'importance des engagements pris par eux, notamment quant à l'exercice de l'autorité parentale.
+
+Il rend, sur-le-champ, un jugement par lequel il homologue la convention définitive et prononce le divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 12 JORF 25 juillet 1987
+
+
 ###### Article 1100
 
 Si la convention lui paraît préserver insuffisamment les intérêts des enfants ou de l'un des époux, le juge peut refuser de
@@ -19540,6 +19677,30 @@ Les demandes reconventionnelles sont recevables même en appel.
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
+###### Article 1115
+
+La seule intervention recevable est celle d'un membre de la famille agissant en application des articles 289 et 291 du Code
+civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 5 JORF 25 juillet 1987
+
+	**Cite**:
+
+	  - Code civil 289 et 291
+
+
 ###### Article 1116
 
 Le juge aux affaires matrimoniales peut [*pouvoirs*], même d'office, charger un notaire ou un professionnel qualifié
@@ -19647,6 +19808,31 @@ exercé dans ce délai est également suspensif.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1122
+
+L'effet suspensif qui s'attache au pourvoi en cassation ainsi qu'à son délai ne s'applique pas aux dispositions de la
+décision qui concernent les pensions, l'exercice de l'autorité parentale, la jouissance du logement et du mobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°84-618 1984-07-13 art. 23 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+	  - Décret n°87-578 1987-07-22 art. 12 JORF 25 juillet 1987
 
 	**Abrogé par**:
 
@@ -20891,7 +21077,431 @@ applicables à la tutelle des mineurs.
 	  - Code civil - art. 372-1 (T)
 
 
+###### Article 1180
+
+Les demandes formées en application de l'article 371-4 et de l'alinéa 2 de l'article 373-3 du Code civil obéissent aux règles
+de la procédure en matière contentieuse ; elles sont instruites et jugées en chambre du conseil, après avis du ministère
+public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 15 JORF 25 juillet 1987
+
+	**Cite**:
+
+	  - Code civil 371-4 et 373-3
+
+
+###### Article 1180-1
+
+La déclaration conjointe prévue à l'article 374 du Code civil est recueillie par le juge des tutelles du lieu où demeure
+l'enfant. Le juge établit un procès-verbal dont il remet une copie à chacun des parents.
+
+En cas de refus, le juge [*pouvoirs*] statue par ordonnance motivée.
+
+L'attribution de l'exercice de l'autorité parentale par déclaration conjointe relève de la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°87-578 1987-07-22 art. 6 JORF 25 juillet 1987
+
+	**Cite**:
+
+	  - Code civil - art. 374 (M)
+
+
+###### Article 1180-2
+
+Les demandes relatives à la modification, par le juge aux affaires matrimoniales, des conditions d'exercice de l'autorité
+parentale prévues à l'article 374 du Code civil sont formées, instruites et jugées après avis du ministère public selon les
+règles édictées aux articles 1084 à 1087. Les débats ne sont pas publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°87-578 1987-07-22 art. 6 JORF 25 juillet 1987
+
+	**Cite**:
+
+	  - Code civil - art. 374 (M)
+	  - Nouveau code de procédure civile 1084 à 1087
+
+
 #### Section II : L'assistance éducative
+
+###### Article 1181
+
+Les mesures d'assistance éducative sont prises par le juge des enfants du lieu où demeure, selon le cas, le père, la mère, le
+tuteur du mineur ou la personne, ou le service à qui l'enfant a été confié ; à défaut, par le juge du lieu où demeure le
+mineur.
+
+Le juge peut [*pouvoirs*], si le père, la mère, le tuteur ou la personne, ou le service à qui l'enfant a été confié change de
+domicile ou de résidence, se dessaisir au profit du juge du nouveau domicile ou de la nouvelle résidence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 7 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Arrêté du 25 août 1992 - art. 1 (V)
+	  - Arrêté du 25 août 1992 - art. 7 (V)
+	  - Décret n°2008-1486 du 30 décembre 2008 (V)
+	  - Code de l'action sociale et des familles - art. R314-105 (VD)
+
+
+###### Article 1182
+
+Le juge donne avis de la procédure au procureur de la République et en informe les père, mère, tuteur, personne ou service à
+qui l'enfant a été confié quand ils ne sont pas requérants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 8 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D226-3-2 (V)
+	  - Code de procédure civile - art. 1184 (V)
+
+
+###### Article 1183
+
+Le juge entend les père et mère, le tuteur ou la personne ou le représentant du service à qui l'enfant a été confié, ainsi
+que toute autre personne dont l'audition lui paraît utile. Il entend le mineur à moins que l'âge ou l'état de celui-ci ne le
+permette pas.
+
+Il peut [*pouvoirs*], soit d'office, soit à la requête des parties ou du ministère public, ordonner toute mesure
+d'information et faire notamment procéder à une étude de la personnalité du mineur, en particulier par le moyen d'une enquête
+sociale, d'examens médicaux, psychiatriques et psychologiques, d'une observation du comportement ou d'un examen d'orientation
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 14 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Arrêté du 1 décembre 2005 - art. 1 (V)
+	  - Loi n°2016-297 du 14 mars 2016 - art. 6
+	  - Loi n°2016-731 du 3 juin 2016 - art. 50
+	  - Code civil - art. 375-7 (V)
+	  - Code de l'action sociale et des familles - art. L226-3-3 (V)
+	  - Code de procédure civile - art. 1184 (V)
+	  - Code de procédure civile - art. 1187 (V)
+	  - Code de procédure civile - art. 1205 (V)
+
+
+###### Article 1184
+
+Les mesures provisoires prévues au premier alinéa de l'article 375-5 du Code civil, ne peuvent être prises, hors le cas
+d'urgence, que s'il a été procédé à l'audition des père, mère, tuteur ou personne ou représentant du service à qui l'enfant a
+été confié, prescrite par l'article 1183.
+
+Si l'urgence le requiert, les mesures provisoires peuvent aussi être prises, sans préjudice des dispositions du second alinéa
+de l'article 375-5 du Code civil, par le juge des enfants du lieu où le mineur a été trouvé, à charge pour lui de se
+dessaisir dans le mois [*délai*] au profit du juge territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°60-323  du 2 avril 1960  - art. 70 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 14 JORF 25 juillet 1987
+
+	**Cite**:
+
+	  - Code civil - art. 375-5 (M)
+	  - Nouveau code de procédure civile 1183
+
+
+###### Article 1185
+
+La décision sur le fond doit intervenir dans un délai de six mois à compter de la décision ordonnant les mesures provisoires,
+faute de quoi l'enfant est remis à ses père, mère, tuteur, personne ou service à qui il a été confié, sur leur demande.
+
+Si l'instruction n'est pas terminée dans le délai prévu à l'alinéa précédent, le juge peut [*pouvoirs*], après avis du
+procureur de la République, proroger ce délai pendant un temps dont il détermine la durée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 9 JORF 25 juillet 1987
+
+
+###### Article 1186
+
+Le mineur, le père, la mère, le tuteur ou la personne ou le service à qui il a été confié peuvent faire choix d'un conseil ou
+demander au juge qu'il leur en soit désigné un d'office. La désignation doit intervenir dans les huit jours [*délai*] de la
+demande.
+
+Le père, la mère, le tuteur ou la personne ou le représentant du service à qui l'enfant a été confié sont avisés de ce droit
+dès leur première audition. Le juge en avise également le mineur chaque fois que l'intérêt de celui-ci le requiert.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 10 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 81 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-10 (V)
+	  - Code de procédure civile - art. 1182 (V)
+	  - Code de procédure civile - art. 1209 (V)
+
+
+###### Article 1187
+
+L'instruction terminée, le dossier est transmis au procureur de la République qui le renvoie dans les quinze jours [*délai*]
+au juge, accompagné de son avis écrit sur la suite à donner ou de l'indication qu'il entend formuler cet avis à l'audience.
+
+Le dossier peut être consulté au secrétariat-greffe par le conseil du mineur et celui, de ses père, mère, tuteur ou personne
+ou service à qui l'enfant a été confié, jusqu'à la veille de l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 13 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1182 (V)
+	  - Code de procédure civile - art. 1187-1 (V)
+	  - Code de procédure civile - art. 1190 (V)
+	  - Code de procédure civile - art. 1205-1 (V)
+	  - Code de procédure civile - art. 1209 (V)
+	  - Code de procédure civile - art. 1222-2 (V)
+
+
+###### Article 1188
+
+L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
+la convocation indique.
+
+Les père, mère, tuteur ou personne ou service à qui l'enfant a été confié et, le cas échéant, le mineur, sont convoqués à
+l'audience huit jours au moins avant la date de celle-ci ; les conseils des parties sont également avisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 13 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1209 (V)
+
+
+###### Article 1189
+
+A l'audience, le juge entend le mineur, ses père et mère, tuteur ou personne ou représentant du service à qui l'enfant a été
+confié ainsi que toute autre personne dont l'audition lui paraît utile. Il peut dispenser le mineur de se présenter ou
+ordonner qu'il se retire pendant tout ou partie de la suite des débats.
+
+Les conseils des parties sont entendus en leurs observations. 
+
+L'affaire est instruite et jugée en chambre du conseil, après avis du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 14 JORF 25 juillet 1987
+
+
+###### Article 1190
+
+Toute décision du juge est notifiée dans les huit jours [*délai*] aux père, mère, tuteur ou personne ou service à qui
+l'enfant a été confié, ainsi qu'au conseil du mineur s'il en a été désigné un ; avis en est donné au procureur de la
+République.
+
+Le dispositif de la décision est notifié au mineur de plus de seize ans à moins que son état ne le permette pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 13 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1194 (V)
+	  - Code de procédure civile - art. 1209 (V)
+
+
+###### Article 1191
+
+Les décisions du juge peuvent être frappées d'appel :
+
+- par le père, la mère, le tuteur ou la personne ou le service à qui l'enfant a été confié jusqu'à l'expiration d'un délai de
+quinze jours suivant la notification ;
+
+- par le mineur lui-même jusqu'à l'expiration d'un délai de quinze jours suivant la notification et, à défaut, suivant le
+jour où il a eu connaissance de la décision ;
+
+- par le ministère public jusqu'à l'expiration d'un délai de quinze jours suivant la remise de l'avis qui lui a été donné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 13 JORF 25 juillet 1987
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1209 (V)
+
+
+###### Article 1192
+
+L'appel est formé selon les règles édictées aux articles 931 à 934.
+
+Le greffier avise de l'appel, par lettre simple, ceux des père, mère, tuteur, personne ou service à qui l'enfant a été confié
+et le mineur de plus de seize ans lui-même qui ne l'auraient pas eux-mêmes formé et les informe qu'ils seront ultérieurement
+convoqués devant la cour. Simultanément, il transmet au secrétariat-greffe de la cour le dossier de l'affaire avec une copie
+de la déclaration et une copie du jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°87-578 1987-07-22 art. 13 JORF 25 juillet 1987
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 931 à 934
+
 
 ###### Article 1193
 
@@ -21214,6 +21824,47 @@ moralité de ses parents.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1207
+
+Pour le cours de l'instance, le tribunal peut ordonner toute mesure provisoire relative à l'exercice de l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 11 JORF 25 juillet 1987
+
+
+###### Article 1208
+
+Le tribunal entend les père, mère, tuteur ou personne ou représentant du service à qui l'enfant a été confié, ainsi que toute
+personne dont l'audition lui paraît utile. Il entend le mineur s'il l'estime opportun.
+
+L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en présence du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+	**Modifié par**:
+
+	  - Décret n°87-578 1987-07-22 art. 14 JORF 25 juillet 1987
 
 
 ###### Article 1209
