@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1982-08-17
+Version Consolidée au 1984-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13080,6 +13080,44 @@ Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
 	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
+### Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale.
+
+###### Article 826-1
+
+Lorsqu'une affaire a été renvoyée devant le tribunal de grande instance dans les conditions prévues par l'alinéa 2 de
+l'article 470-1 et par l'article R. 41-1 du code de procédure pénale, le secrétariat-greffe convoque à l'audience, un mois au
+moins à l'avance et par lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été
+engagée devant la juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. Le secrétariat-
+greffe adresse le même jour aux mêmes personnes copie de la convocation par lettre simple. La convocation à laquelle est
+annexée une copie de la décision de renvoi vaut citation en justice.
+
+La convocation précise que la représentation à l'audience par avocat est obligatoire et que, même s'ils ne comparaissent pas,
+des décisions exécutoires à titre provisoire pourront être prises contre les parties autres que la victime du dommage et
+contre les tiers responsables mentionnés dans la décision de renvoi.
+
+Les organismes de sécurité sociale et le fonds de garantie automobile, s'ils sont intervenus devant la juridiction pénale,
+sont convoqués à la même audience au moyen d'une lettre recommandée avec demande d'avis de réception adressée par le
+secrétariat-greffe. Une copie de la décision de renvoi est annexée à la convocation.
+
+A l'audience, il est procédé comme il est dit aux articles 759 à 762. Le président de la chambre peut accorder en référé une
+provision dans les conditions prévues par l'alinéa 2 de l'article 809.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°83-1155 1983-12-23 art. 3 et 5 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cite**:
+
+	  - Code de procédure pénale 470-1 et R41-1
+	  - Nouveau code de procédure civile 759 à 762 et 809
+
+
 ## Titre II : Dispositions particulières au tribunal d'instance.
 
 ###### Article 827
@@ -13511,6 +13549,44 @@ La requête est remise ou adressée au secrétariat-greffe par le requérant ou 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+### Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale.
+
+###### Article 852-1
+
+Lorsqu'une affaire a été renvoyée devant le tribunal d'instance dans les conditions prévues par l'alinéa 2 de l'article 470-1
+et par l'article R. 41-1 du code de procédure pénale, le secrétariat-greffe de ce tribunal convoque à l'audience, un mois au
+moins à l'avance et par lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été
+engagée devant la juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. Le secrétariat-
+greffe adresse le même jour aux mêmes personnes copies de la convocation par lettre simple. La convocation à laquelle est
+annexée une copie de la décision de renvoi vaut citation en justice.
+
+La convocation indique que, même s'ils ne comparaissent pas, des décisions exécutoires à titre provisoire pourront être
+prises contre les parties autres que la victime du dommage et contre les tiers responsables mentionnés dans la décision de
+renvoi.
+
+Les organismes de sécurité sociale et le fonds de garantie automobile, s'ils sont intervenus devant la juridiction pénale,
+sont convoqués à la même audience au moyen d'une lettre recommandée avec demande d'avis de réception adressée par le
+secrétariat-greffe. Une copie de la décision de renvoi est annexée à la convocation.
+
+A l'audience, il est procédé comme il est dit aux articles 840 à 844. Le président peut accorder en référé une provision dans
+les conditions prévues par l'alinéa 2 de l'article 849.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°83-1155 1983-12-23 art. 4 et 5 JORF 27 décembre 1983 en vigueur le 1er janvier 1984
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R41-1 (M)
+	  - Nouveau code de procédure civile 470-1, 840, 841, 842, 843, 844 et 849
 
 
 ## Titre III : Dispositions particulières au tribunal de commerce.
