@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-12-23
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23235,10 +23235,10 @@ L'affaire est instruite et débattue en chambre du conseil, après avis du minis
 Le tribunal vérifie si les conditions légales de l'adoption sont remplies dans un délai de six mois à compter soit du dépôt
 de la requête, soit de sa transmission dans le cas prévu au second alinéa de l'article 1168. S'il y a lieu, il fait procéder
 à une enquête par toute personne qualifiée. Il peut commettre un médecin aux fins de procéder à tout examen qui lui
-paraîtrait nécessaire.
+paraîtrait nécessaire. 
 
-Il peut recueillir les renseignements relatifs à un pupille de l'Etat dans les conditions prévues à l'article 81 du code de
-la famille et de l'aide sociale.
+Il peut recueillir les renseignements relatifs à un pupille de l'Etat dans les conditions prévues aux articles L. 221-7 et L.
+221-8 du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -23248,7 +23248,7 @@ la famille et de l'aide sociale.
 
 	**Modifié par**:
 
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 16 () JORF 17 septembre 1993
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 	**Cité par**:
 
@@ -23259,8 +23259,8 @@ la famille et de l'aide sociale.
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale L81
-	  - Nouveau code de procédure civile 1168
+	  - Code de procédure civile - art. 1168 (V)
+	  - Code de l'action sociale et des familles - art. L221-7 (V)
 
 
 ###### Article 1173
@@ -24866,8 +24866,9 @@ La procédure prévue à l'article 1217 est applicable.
 
 ###### Article 1231-2
 
-La demande relative au recours contre l'arrêté d'admission en qualité de pupille de l'Etat prévu à l'article 61 du Code de la
-famille et de l'aide sociale est portée devant le tribunal de grande instance dans le ressort duquel l'arrêté a été pris.
+La demande relative au recours contre l'arrêté d'admission en qualité de pupille de l'Etat prévu aux  articles L. 224-4 et L.
+224-8 du code de l'action sociale et des familles est portée devant le tribunal de grande instance dans le ressort duquel
+l'arrêté a été pris.
 
 Les articles 1159, 1160, 1161 (alinéa 1), et 1162 sont applicables à la demande et à l'instance.
 
@@ -24882,13 +24883,18 @@ Les voies de recours sont régies par les dispositions de l'article 1163.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1330 1985-12-17 art. 20 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+	  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de la famille et de l'aide sociale. - art. 61 (M)
+	  - Code de l'action sociale et des familles - art. L224-4
+	  - Code de l'action sociale et des familles - art. L224-8
 	  - Nouveau code de procédure civile 1159, 1160, 1161, 1162 et 1163
 
 
