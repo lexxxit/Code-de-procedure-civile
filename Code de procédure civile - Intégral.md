@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1988-06-22
+Version Consolidée au 1989-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13801,6 +13801,34 @@ cette personne soit exclusivement attachée à son service.
 
 ### Sous-titre I : La procédure ordinaire.
 
+###### Article 829
+
+La demande en justice est formée par assignation à fin de conciliation et, à défaut, de jugement, sauf la faculté pour le
+demandeur de provoquer une tentative de conciliation avant d'assigner.
+
+La demande peut également être formée soit par la remise au secrétariat-greffe d'une requête conjointe, soit par la
+présentation volontaire des parties devant le juge, soit, dans le cas prévu à l'article 847-1, par une déclaration au greffe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 1 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1061-1 (V)
+	  - Code de procédure civile - art. 836 (VD)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 847-1
+
+
 #### Chapitre I : La tentative préalable de conciliation.
 
 ###### Article 830
@@ -14103,6 +14131,64 @@ Le juge s'efforce de concilier les parties et, s'il n'y parvient pas, tranche le
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+#### Chapitre IV : La déclaration au greffe.
+
+###### Article 847-1
+
+Lorsque le montant de la demande n'excède pas le taux de compétence en dernier ressort du tribunal d'instance, celui-ci peut
+être saisi par une déclaration faite, remise ou adressée au greffe, où elle est enregistrée.
+
+La déclaration doit indiquer les nom, prénoms, profession et adresse des parties, ou, pour les personnes morales, leur
+dénomination et leur siège social et préciser l'objet de la demande.
+
+La prescription et les délais pour agir sont interrompus par l'enregistrement de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 2 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (V)
+
+
+###### Article 847-2
+
+Les parties sont convoquées à l'audience par le greffier par lettre recommandée avec demande d'avis de réception. Il adresse
+le même jour copie de cette convocation par lettre simple. Le demandeur peut aussi être convoqué verbalement contre
+émargement.
+
+La convocation adressée au défendeur vaut citation. Elle mentionne que, faute par lui de comparaître, il s'expose à ce qu'un
+jugement soit rendu contre lui sur les seuls éléments fournis par son adversaire. Une copie de la déclaration est annexée à
+la convocation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 2 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R142-1 (Ab)
+	  - Code de procédure civile - art. 837 (V)
+	  - Code de procédure civile - art. 844 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (V)
 
 
 ### Sous-titre II : Les ordonnances de référé.
@@ -25690,6 +25776,245 @@ caducité de la demande prévue à l'article 1405.
 	  - Nouveau code de procédure civile 1405
 
 
+#### Section II : L'injonction de faire.
+
+###### Article 1425-1
+
+L'exécution en nature d'une obligation née d'un contrat conclu entre des personnes n'ayant pas toutes la qualité de
+commerçant peut être demandée au tribunal d'instance lorsque la valeur de la prestation dont l'exécution est réclamée
+n'excède pas le taux de compétence de cette juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+	  - Code de la consommation - art. R631-2 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+
+###### Article 1425-2
+
+La demande est portée au choix du demandeur, soit devant le tribunal d'instance du lieu où demeure le défendeur, soit devant
+le tribunal d'instance du lieu d'exécution de l'obligation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+
+###### Article 1425-3
+
+La demande est formée par requête déposée ou adressée au greffe par le bénéficiaire de l'obligation ou par les personnes
+mentionnées à l'article 828.
+
+La requête contient :
+
+1° Pour les personnes physiques, les nom, prénoms, profession et adresse des parties ou, pour les personnes morales, leur
+dénomination et leur siège social ;
+
+2° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ;
+
+Elle est accompagnée des documents justificatifs.
+
+La prescription et les délais pour agir sont interrompus par l'enregistrement au greffe de la requête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 828
+
+
+###### Article 1425-4
+
+Si, au vu des documents produits, la demande lui paraît fondée, le juge rend une ordonnance portant injonction de faire non
+susceptible de recours.
+
+Il fixe l'objet de l'obligation ainsi que le délai et les conditions dans lesquels celle-ci doit être exécutée.
+
+L'ordonnance mentionne, en outre, les lieu, jour et heure de l'audience à laquelle l'affaire sera examinée, à moins que le
+demandeur n'ait fait connaître que l'injonction a été exécutée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+
+###### Article 1425-5
+
+Le greffe notifie l'ordonnance aux parties, par lettre recommandée avec demande d'avis de réception. Il adresse le même jour
+copie de cette notification par lettre simple. La lettre de notification mentionne les dispositions des articles 1425-7 et
+1425-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1425-7 (V)
+	  - Code de procédure civile - art. 1425-8 (V)
+
+
+###### Article 1425-6
+
+L'ordonnance portant injonction de faire et la requête sont conservées à titre de minute au greffe qui garde provisoirement
+les documents produits à l'appui de la requête.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+
+###### Article 1425-7
+
+Lorsque l'injonction de faire a été exécutée dans les délais impartis, le demandeur en informe le greffe. L'affaire est
+retirée du rôle.
+
+A défaut d'une telle information et si le demandeur ne se présente pas à l'audience sans motif légitime, le tribunal déclare
+caduque la procédure d'injonction de faire.
+
+La déclaration de caducité peut être rapportée si le demandeur fait connaître au greffe dans un délai de quinze jours le
+motif légitime qu'il n'aurait pas été en mesure d'invoquer en temps utile. Dans ce cas, les parties sont convoquées à une
+audience ultérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1425-5 (V)
+
+
+###### Article 1425-8
+
+Le tribunal, en cas d'inexécution totale ou partielle de l'injonction de faire qu'il a délivrée, statue sur la demande, après
+avoir tenté de concilier les parties. 
+
+Il connaît, dans les limites de sa compétence d'attribution, de la demande initiale et de toutes les demandes incidentes et
+défenses au fond. 
+
+En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à
+l'article 97.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1425-5 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 97 (V)
+
+
+###### Article 1425-9
+
+Si le juge rejette la requête, la décision est sans recours pour le requérant, sauf à celui-ci à procéder selon les voies de
+droit commun. La requête et les documents produits sont restitués au requérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
+
+
 ### Chapitre II : Les offres de paiement et la consignation.
 
 ###### Article 1426
@@ -28096,6 +28421,33 @@ Dans les cas prévus au présent chapitre, les articles 751 et 753 du code de pr
 	**Modifié par**:
 
 	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+### Chapitre III : Dispositions particulières au tribunal d'instance.
+
+###### Article ANNEXE, 36
+
+Le tribunal d'instance peut être saisi soit selon les dispositions des chapitres Ier, II et III du sous-titre I du titre II
+du livre 2 du nouveau code de procédure civile, soit, tant en matière contentieuse que gracieuse, par déclaration faite,
+remise ou adressée au greffe, où elle est enregistrée.
+
+Dans le second cas, les dispositions de l'article 847-1, 2e et 3e alinéa, et de l'article 847-2 du nouveau code de procédure
+civile sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+	  - Décret n°88-209 du 4 mars 1988 - art. 5 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 847-1 et 847-2
 
 
 ### Chapitre IV : Dispositions particulières à la matière commerciale.
