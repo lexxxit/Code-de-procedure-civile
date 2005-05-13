@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2005-03-01
+Version Consolidée au 2005-05-14
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -8728,9 +8728,13 @@ territoire de la République de la manière et dans les cas prévus par la loi.
 
 ###### Article 509-1
 
-Sous réserve des dispositions particulières confiant cette mission au juge, les requêtes aux fins de certification des titres
-exécutoires français en vue de leur reconnaissance et de leur exécution à l'étranger sont présentées au greffier en chef de
-la juridiction qui a rendu la décision ou homologué la convention.
+Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
+l'étranger sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention.
+
+Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
+l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
+compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et de responsabilité parentale, sont
+présentées au juge qui a rendu la décision ou homologué la convention. Elles sont dispensées du ministère d'avocat.
 
 **Liens relatifs à cet article**
 
@@ -8738,9 +8742,9 @@ la juridiction qui a rendu la décision ou homologué la convention.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 17 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2005-460 du 13 mai 2005 - art. 26 () JORF 14 mai 2005
 
 	**Cité par**:
 
@@ -8754,24 +8758,25 @@ titres exécutoires étrangers, en application du règlement (CE) du Conseil n°
 compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, sont présentées au
 greffier en chef du tribunal de grande instance.
 
+Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
+titres exécutoires étrangers, en application du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
+compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et de responsabilité parentale, sont
+présentées au président du tribunal de grande instance ou à son délégué. Elles sont dispensées du ministère d'avocat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 17 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2005-460 du 13 mai 2005 - art. 27 () JORF 14 mai 2005
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1535 (V)
 	  - Code de procédure civile - art. 509-3 (V)
-
-	**Cite**:
-
-	  - Règlement CE 44/2001 2000-12-22
 
 
 ###### Article 509-3
@@ -15735,8 +15740,8 @@ Si les parties ne parviennent pas à se concilier, le juge tranche leur différe
 
 ###### Article 847-1
 
-Lorsque le montant de la demande n'excède pas le taux de compétence en dernier ressort du tribunal d'instance, la juridiction
-peut être saisie par une déclaration faite, remise ou adressée au greffe, où elle est enregistrée.
+Lorsque le montant de la demande n'excède pas 4 000 euros, la juridiction peut être saisie par une déclaration faite, remise
+ou adressée au greffe, où elle est enregistrée.
 
 La déclaration doit indiquer les nom, prénoms, profession et adresse des parties, ou, pour les personnes morales, leur
 dénomination et leur siège. Elle contient l'objet de la demande et un exposé sommaire de ses motifs.
@@ -15751,8 +15756,7 @@ La prescription et les délais pour agir sont interrompus par l'enregistrement d
 
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-	  - Décret n°2003-542 du 23 juin 2003 - art. 19 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2005-460 du 13 mai 2005 - art. 28 () JORF 14 mai 2005
 
 	**Liens**:
 
@@ -17088,9 +17092,15 @@ Les personnes habilitées à assister ou représenter les parties sont :
 ###### Article 885
 
 La demande est formée et le tribunal saisi par lettre recommandée avec demande d'avis de réception ou par acte d'huissier de
-justice adressé au secrétariat du tribunal.
+justice adressé au greffe du tribunal.
 
 Les demandes soumises à publication au fichier immobilier sont faites par acte d'huissier de justice.
+
+**Nota:**
+
+NOTA : Décret 2005-460 du 13 mai 2005 art. 38, art. 39  : Les articles 3, 26 à 31, 32 et 34 du présent décret sont
+applicables aux instances introduites après son entrée en vigueur. Les articles 26 à 33 du présent décret sont applicables à
+Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -17098,10 +17108,14 @@ Les demandes soumises à publication au fichier immobilier sont faites par acte 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 29 () JORF 14 mai 2005
+
 
 ###### Article 886
 
-Le secrétaire du tribunal convoque les parties par lettre recommandée avec demande d'avis de réception, quinze jours au moins
+Le greffe du tribunal convoque les parties par lettre recommandée avec demande d'avis de réception, quinze jours au moins
 avant la date fixée par le président du tribunal. Il leur adresse le même jour copie de cette convocation par lettre simple.
 
 **Liens relatifs à cet article**
@@ -17109,6 +17123,10 @@ avant la date fixée par le président du tribunal. Il leur adresse le même jou
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 29 () JORF 14 mai 2005
 
 	**Cité par**:
 
@@ -17182,14 +17200,18 @@ dans l'ordre de voix obtenues lors de l'élection.
 
 ###### Article 891
 
-Les décisions du tribunal paritaire sont intégralement notifiées aux parties dans les trois jours par le secrétaire du
-tribunal, par lettre recommandée avec demande d'avis de réception.
+Les décisions du tribunal paritaire sont intégralement notifiées aux parties dans les trois jours par le greffe du tribunal,
+par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 29 () JORF 14 mai 2005
 
 
 ###### Article 892
@@ -20200,8 +20222,8 @@ pourvoir devant la juridiction qu'il désigne pour qu'il soit statué sur la dem
 ###### Article 1031-1
 
 Lorsque le juge envisage de solliciter l'avis de la Cour de cassation en application de l'article L. 151-1 du code de
-l'organisation judiciaire, il en avise les parties et le ministère public. Il recueille leurs observations écrites
-éventuelles dans le délai qu'il fixe, à moins qu'ils n'aient déjà conclu sur ce point.
+l'organisation judiciaire, il en avise les parties et le ministère public, à peine d'irrecevabilité. Il recueille leurs
+observations écrites éventuelles dans le délai qu'il fixe, à moins qu'ils n'aient déjà conclu sur ce point.
 
 Dès réception des observations ou à l'expiration du délai, le juge peut, par une décision non susceptible de recours,
 solliciter l'avis de la Cour de cassation en formulant la question de droit qu'il lui soumet. Il surseoit à statuer jusqu'à
@@ -20213,14 +20235,9 @@ la réception de l'avis ou jusqu'à l'expiration du délai mentionné à l'artic
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
-
-	**Cite**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-1 (M)
-	  - Nouveau code de procédure civile 1031-3
+	  - Décret n°2005-460 du 13 mai 2005 - art. 30 () JORF 14 mai 2005
 
 
 ###### Article 1031-2
@@ -21051,6 +21068,35 @@ marge des actes de naissance par application de l'article précédent.
 	  - Nouveau code de procédure civile 1060
 
 
+### Chapitre III bis : Les funérailles
+
+###### Article 1061-1
+
+En matière de contestation sur les conditions des funérailles, le tribunal d'instance est saisi à la requête de la partie la
+plus diligente selon un des modes prévus à l'article 829.
+
+Il statue dans les vingt-quatre heures.
+
+Appel peut être interjeté dans les vingt-quatre heures de la décision devant le premier président de la cour d'appel. Celui-
+ci ou son délégué est saisi sans forme et doit statuer immédiatement. Les parties ne sont pas tenues de constituer avoué.
+
+La décision exécutoire sur minute est notifiée au maire chargé de l'exécution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 31 () JORF 14 mai 2005
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 829
+
+
 ### Chapitre IV : Les absents
 
 #### Section I : La présomption d'absence
@@ -21797,6 +21843,30 @@ Sous la même sanction, la requête est datée et est signée par chacun des ép
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1132 (V)
+
+
+###### Article 1091
+
+A peine d'irrecevabilité, la requête comprend en annexe une convention datée et signée par chacun des époux et leur avocat
+portant règlement complet des effets du divorce et incluant notamment un état liquidatif du régime matrimonial ou la
+déclaration qu'il n'y a pas lieu à liquidation. L'état liquidatif doit être passé en la forme authentique devant notaire
+lorsque la liquidation porte sur des biens soumis à publicité foncière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cité par**:
+
+	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art. 2
+	  - Code de commerce - art. R444-59 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 32 () JORF 14 mai 2005
 
 
 ###### Article 1092
@@ -22642,37 +22712,6 @@ Les dépens afférents à l'instance d'appel sont traités comme ceux d'une inst
 	**Anciens textes**:
 
 	  - Nouveau code de procédure civile 1147
-
-
-#### Section II : Le divorce et la séparation de corps
-
-##### Sous-section II : Le divorce par consentement mutuel.
-
-###### Article 1091
-
-A peine d'irrecevabilité, la requête comprend en annexe une convention portant règlement complet des effets du divorce et
-incluant notamment un état liquidatif du régime matrimonial ou la déclaration qu'il n'y a pas lieu à liquidation. L'état
-liquidatif doit être passé en la forme authentique devant notaire lorsque la liquidation porte sur des biens soumis à
-publicité foncière.
-
-Sous la même sanction, chacun des documents est daté et signé par chacun des époux et leur avocat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Cité par**:
-
-	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
-	  - Décret n°2016-230 du 26 février 2016 - art. 2
-	  - Code de commerce - art. R444-59 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
 #### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales
@@ -26597,9 +26636,15 @@ d'état de manifester sa volonté, sont présentées au juge des tutelles.
 	  - Code civil - art. 219 (V)
 
 
+##### Sous-section I : La procédure devant le tribunal de grande instance.
+
 ###### Article 1287
 
-La demande est instruite et jugée comme en matière gracieuse hors les cas où elle tend à passer outre au refus du conjoint.
+La demande mentionnée au premier alinéa de l'article 1286 est instruite et jugée comme en matière gracieuse.
+
+Toutefois, lorsque la demande d'autorisation tend à passer outre au refus du conjoint, les dispositions des articles 788 à
+792 sont applicables. Le tribunal entend le conjoint à moins que celui-ci, régulièrement cité, ne se présente pas. L'affaire
+est instruite et jugée en chambre du conseil.
 
 **Liens relatifs à cet article**
 
@@ -26609,14 +26654,13 @@ La demande est instruite et jugée comme en matière gracieuse hors les cas où 
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2005-460 du 13 mai 2005 - art. 33 () JORF 14 mai 2005
 
 
 ###### Article 1288
 
-Lorsque la demande d'autorisation tend à passer outre au refus du conjoint, l'époux demandeur présente requête au président
-en vue d'assigner son conjoint à jour fixe. Le tribunal entend le conjoint avant de statuer à moins que celui-ci,
-régulièrement cité, ne se présente pas. L'affaire est instruite et jugée en chambre du conseil.
+L'appel est formé, instruit et jugé, selon les cas, comme en matière gracieuse ou comme en matière contentieuse. L'affaire
+est instruite et jugée en chambre du conseil.
 
 **Liens relatifs à cet article**
 
@@ -26626,13 +26670,14 @@ régulièrement cité, ne se présente pas. L'affaire est instruite et jugée en
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2005-460 du 13 mai 2005 - art. 33 () JORF 14 mai 2005
 
+
+##### Sous-section II : La procédure devant le juge des tutelles.
 
 ###### Article 1289
 
-L'appel est formé, instruit et jugé, selon les cas, comme en matière gracieuse ou comme en matière contentieuse ; dans ce
-dernier cas, l'affaire est instruite et jugée en chambre du conseil.
+La demande mentionnée au second alinéa de l'article 1286 ainsi que l'appel relèvent de la matière gracieuse.
 
 **Liens relatifs à cet article**
 
@@ -26642,7 +26687,56 @@ dernier cas, l'affaire est instruite et jugée en chambre du conseil.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2005-460 du 13 mai 2005 - art. 33 () JORF 14 mai 2005
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1286 (V)
+
+
+###### Article 1289-1
+
+La requête de l'époux est accompagnée de tous éléments de nature à établir l'impossibilité pour son conjoint de manifester sa
+volonté ou d'un certificat médical, si l'impossibilité est d'ordre médical.
+
+Le juge peut, soit d'office, soit à la demande des parties, ordonner toute mesure d'instruction.
+
+A l'audience, il entend le conjoint. Il peut toutefois, sur avis médical, décider qu'il n'y a pas lieu de procéder à cette
+audition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Décret n°2005-460 2005-05-13
+
+	**Créé par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 33 () JORF 14 mai 2005
+
+
+###### Article 1289-2
+
+Il peut être mis fin à l'habilitation générale donnée par le juge des tutelles en application de l'article 219 du code civil,
+dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 33 () JORF 14 mai 2005
+
+	**Cite**:
+
+	  - Code civil - art. 219 (V)
 
 
 #### Section II : Les mesures urgentes.
@@ -31088,25 +31182,6 @@ qu'il y a de représentants. Le greffier adresse aussitôt un exemplaire à chac
 
 ### Chapitre VII : Dispositions diverses.
 
-###### Article ANNEXE, 46
-
-Le tribunal d'instance est seul compétent pour connaître de la procédure d'injonction de payer.
-
-Le montant des émoluments et droits alloués aux huissiers de justice et aux avocats postulants est indiqué dans l'ordonnance
-portant injonction de payer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°76-899 1976-09-29 art. 6 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
-	  - Décret n°81-500 1981-05-12 art. 40 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-
 ###### Article ANNEXE, art. 43
 
 En matière de voies d'exécution et taxation des frais des parties, les pourvois suivent les règles relatives aux pourvois en
@@ -31178,5 +31253,24 @@ Lorsqu'elles sont faites par voie postale, elles le sont par lettre recommandée
 	**Modifié par**:
 
 	  - Décret n°76-899 1976-09-29 art. 6 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+
+
+###### Article ANNEXE, art. 46
+
+Lorsqu'il statue selon la procédure d'injonction de payer, le tribunal d'instance est compétent à quelque valeur que la
+demande puisse s'élever.
+
+Le montant des émoluments et droits alloués aux huissiers de justice et aux avocats postulants est indiqué dans l'ordonnance
+portant injonction de payer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2005-460 du 13 mai 2005 - art. 34 () JORF 14 mai 2005
 
 

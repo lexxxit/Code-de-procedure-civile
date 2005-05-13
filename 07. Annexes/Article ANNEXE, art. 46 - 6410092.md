@@ -1,6 +1,7 @@
-# Article ANNEXE, 46
+# Article ANNEXE, art. 46
 
-Le tribunal d'instance est seul compétent pour connaître de la procédure d'injonction de payer.
+Lorsqu'il statue selon la procédure d'injonction de payer, le tribunal d'instance est compétent à quelque valeur que la
+demande puisse s'élever.
 
 Le montant des émoluments et droits alloués aux huissiers de justice et aux avocats postulants est indiqué dans l'ordonnance
 portant injonction de payer.
@@ -13,5 +14,4 @@ portant injonction de payer.
 
 	**Modifié par**:
 
-	  - Décret n°76-899 1976-09-29 art. 6 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
-	  - Décret n°81-500 1981-05-12 art. 40 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2005-460 du 13 mai 2005 - art. 34 () JORF 14 mai 2005
