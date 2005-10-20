@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2005-05-14
+Version Consolidée au 2005-10-21
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -30358,7 +30358,9 @@ Les dispositions du titre IV du présent livre, à l'exception de celles de l'al
 	  - Nouveau code de procédure civile 1487 et 1490
 
 
-# Livre VI : Dispositions applicables à Mayotte
+# Livre VI : Dispositions relatives à l'outre-mer.
+
+## Titre Ier : Dispositions applicables à Mayotte.
 
 ###### Article 1508
 
@@ -30370,9 +30372,21 @@ Le présent code est applicable à Mayotte dans les conditions définies au pré
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1570 (MMN)
 
 
 ###### Article 1509
@@ -30401,33 +30415,52 @@ Pour l'application du présent code à Mayotte, les termes énumérés ci-après
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1571 (MMN)
 
 
 ###### Article 1510
 
 Les parties ne sont jamais tenues de se faire représenter et peuvent en toute circonstance se défendre elles-mêmes.
 
-**Nota:**
-
-NOTA : Décret n° 2004-1234 20 novembre 2004 art. 5 : Le décret n° 2004-1234 est applicable aux procédures introduites et aux
-mesures d'exécution diligentées à compter du 1er janvier 2005.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
 
 	**Cité par**:
 
 	  - Décret n°2011-338 du 29 mars 2011 - art. 18 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1572 (MMN)
 
 
 ###### Article 1511
@@ -30439,9 +30472,35 @@ applicables à chaque juridiction de métropole dans le domaine de compétence q
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code de l'organisation judiciaire art. 1510
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1573 (MMN)
+
+
+## Titre II : Dispositions applicables aux îles Wallis et Futuna.
+
+###### Article 1512
+
+Le présent code est applicable aux îles Wallis et Futuna, à l'exception des dispositions des titres IV et V du livre II et du
+chapitre IV du titre II du livre III, dans les conditions définies au présent livre.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -30449,7 +30508,158 @@ applicables à chaque juridiction de métropole dans le domaine de compétence q
 
 	**Créé par**:
 
-	  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+
+###### Article 1513
+
+Pour l'application du présent code à Wallis et Futuna, les termes énumérés ci-après sont remplacés comme suit :
+
+1° "tribunal de grande instance" ou "tribunal d'instance" par :
+
+"tribunal de première instance" ;
+
+2° "tribunal de commerce" ou "justice consulaire" par :
+
+"tribunal de première instance statuant en matière commerciale" ;
+
+3° "juge d'instance" par : "président du tribunal de première instance" ;
+
+4° "procureur de la République" par : "procureur de la République près le tribunal de première instance" ;
+
+5° "département" par : "les îles Wallis et Futuna" ;
+
+6° "préfet" par : "représentant de l'Etat" ;
+
+7° "huissier de justice" par : "autorité administrative ou militaire" ;
+
+8° "journal local" par : "Journal officiel des îles Wallis et Futuna" ;
+
+9° "Caisse des dépôts et consignations" par : "Trésor public".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+
+###### Article 1514
+
+Les parties ne sont jamais tenues de se faire représenter et peuvent en toute circonstance se défendre elles-mêmes ou être
+représentées par un mandataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1577 (V)
+
+
+###### Article 1515
+
+La compétence dévolue aux huissiers de justice pour la délivrance des actes prévus au présent code peut être exercée dans les
+îles Wallis et Futuna par un représentant de l'autorité administrative ou militaire ; celle dévolue aux commissaires-priseurs
+pour les ventes aux enchères peut être exercée par le greffier du tribunal de première instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1578 (V)
+
+
+###### Article 1516
+
+Dans les îles Wallis et Futuna, les assignations, convocations, significations, notifications et remises d'actes prévues au
+présent code peuvent se faire par lettre simple contre émargement de la personne intéressée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1579 (V)
+
+
+###### Article 1517
+
+Sous réserve des dispositions prévues à l'article 1514 et au chapitre IV du titre III du livre IX du code de l'organisation
+judiciaire, le tribunal de première instance statue selon les dispositions particulières de procédure applicables à chaque
+juridiction de métropole dans le domaine de compétence que le code de l'organisation judiciaire attribue à celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1580 (V)
+
+
+###### Article 1518
+
+En l'absence d'adaptation, les références faites par les dispositions du présent code à des dispositions qui n'y sont pas
+applicables sont remplacées par les références aux dispositions ayant le même objet applicables localement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
 
 
 # Annexes
