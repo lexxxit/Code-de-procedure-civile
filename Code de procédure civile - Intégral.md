@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-07-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23129,7 +23129,7 @@ notifié par le greffe par lettre recommandée avec demande d'avis de réception
 
 Les actions relatives à la filiation et aux subsides sont instruites et débattues en chambre du conseil.
 
-Le jugement est prononcé en audience publique, sauf dans les cas prévus aux articles 1150 à 1153.
+Le jugement est prononcé en audience publique.
 
 **Liens relatifs à cet article**
 
@@ -23139,11 +23139,7 @@ Le jugement est prononcé en audience publique, sauf dans les cas prévus aux ar
 
 	**Modifié par**:
 
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 9 () JORF 17 septembre 1993
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1150 à 1153
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article 1149-1
@@ -23167,12 +23163,10 @@ la légitimation ; dans ce dernier cas, il en est fait mention au dispositif de 
 	  - Décret n°93-1091 du 16 septembre 1993 - art. 10 () JORF 17 septembre 1993
 
 
-#### Section II : La légitimation.
-
 ###### Article 1150
 
-La requête aux fins de légitimation après mariage ou par autorité de justice est formée par l'un des deux parents devant le
-tribunal de grande instance du lieu où il demeure ou par les deux conjointement devant le tribunal où demeure l'un des deux.
+Le délai de pourvoi en cassation suspend l'exécution de la décision qui établit ou modifie le lien de filiation. Le pourvoi
+en cassation exercé dans ce délai est également suspensif.
 
 **Liens relatifs à cet article**
 
@@ -23180,14 +23174,15 @@ tribunal de grande instance du lieu où il demeure ou par les deux conjointement
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article 1151
 
-La légitimation relève de la matière gracieuse.
+Le ministère public représente l'Etat dans les actions en recherche de paternité exercées en l'absence d'héritiers du père
+prétendu ou lorsque ceux-ci ont renoncé à la succession.
 
 **Liens relatifs à cet article**
 
@@ -23195,12 +23190,14 @@ La légitimation relève de la matière gracieuse.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
+	**Anciens textes**:
 
-#### Section III : La filiation naturelle.
+	  - Nouveau code de procédure civile 1153-1
+
 
 ###### Article 1152
 
@@ -23225,109 +23222,18 @@ aux mentions nécessaires en marge de l'acte de naissance de celui-ci.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1159 du 29 octobre 2004 - art. 15 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1153
-
-Le changement de nom de l'enfant naturel par déclaration conjointe relève de la matière gracieuse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 14 () JORF 17 septembre 1993
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 	**Abrogé par**:
 
-	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+	  - Décret n°2007-773 du 10 mai 2007 - art. 13 () JORF 11 mai 2007
 
 
-###### Article 1153-1
-
-Le ministère public représente l'Etat dans les actions en recherche de paternité exercées en l'absence d'héritiers du père
-prétendu ou lorsque ceux-ci ont renoncé à la succession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 15 () JORF 17 septembre 1993
-
-	**Transféré par**:
-
-	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
-
-	**Nouveaux textes**:
-
-	  - Nouveau code de procédure civile art. 1151
-
-
-#### Section IV : Les subsides.
-
-###### Article 1154
-
-Lorsqu'il y a lieu, pour le paiement des subsides, à l'application de l'article 342-3 du code civil, le tribunal peut
-désigner en qualité de mandataire de justice toute personne qui lui semble pouvoir s'intéresser à l'enfant.
-
-**Nota:**
-
-NOTA : L'article 342-3 du code civil est abrogé à compter du 1er juillet 2006 par l'article 18 de l'ordonnance n° 2005-759 du
-4 juillet 2005.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
-
-	**Cite**:
-
-	  - Code civil - art. 342-3 (Ab)
-
-
-###### Article 1155
-
-Le représentant légal de l'enfant peut demander à la personne chargée du recouvrement de l'indemnité toutes informations
-utiles.
-
-S'il s'élève un désaccord entre eux, le tribunal, saisi par la remise au greffe d'une note motivée, statue sans formalité
-après avoir provoqué les explications des intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
-
+#### Section II : Les subsides
 
 ###### Article 1156
 
-Le service de l'aide sociale à l'enfance, l'oeuvre ou le mandataire désigné par le tribunal sont, pour le recouvrement des
+Le service de l'aide sociale à l'enfance, l'œuvre ou le mandataire désigné par le tribunal sont, pour le recouvrement des
 subsides, subrogés dans les droits du créancier.
 
 Les sommes dues à l'enfant sont reversées à son représentant légal dès que possible et au plus tard dans le mois de leur
@@ -23339,18 +23245,17 @@ réception.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 
-#### Section V : L'acte de notoriété.
+#### Section III : L'acte de notoriété
 
 ###### Article 1157
 
-Avant de dresser un acte de notoriété, le juge, s'il estime insuffisants les témoignages et documents produits, peut
-[*pouvoirs*] faire recueillir d'office par toute personne de son choix des renseignements sur les faits qu'il y a lieu de
-constater.
+Avant de dresser un acte de notoriété, le juge, s'il estime insuffisants les témoignages et documents produits, peut faire
+recueillir d'office par toute personne de son choix des renseignements sur les faits qu'il y a lieu de constater.
 
 **Liens relatifs à cet article**
 
@@ -23358,15 +23263,15 @@ constater.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article 1157-1
 
-Le juge qui délivre l'acte de notoriété constatant la possession d'état d'enfant légitime ou d'enfant naturel en donne
-aussitôt avis au procureur de la République du lieu où est détenu l'acte de naissance de l'intéressé.
+Le juge qui délivre l'acte de notoriété constatant la possession d'état d'enfant en donne aussitôt avis au procureur de la
+République du lieu où est détenu l'acte de naissance de l'intéressé.
 
 Le procureur de la République fait procéder à la mention du lien de filiation ainsi établi en marge de l'acte de naissance de
 l'enfant.
@@ -23377,20 +23282,20 @@ l'enfant.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 11 () JORF 17 septembre 1993
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 
-#### Section VI : Le consentement à la procréation médicalement assistée.
+#### Section IV : Le consentement à la procréation médicalement assistée
 
 ###### Article 1157-2
 
 Les époux ou concubins qui recourent à une assistance médicale à la procréation nécessitant l'intervention d'un tiers
 donneur, prévue à l'article 311-20 du code civil, y consentent par déclaration conjointe devant le président du tribunal de
-grande instance de leur choix ou son délégué, ou devant notaire.
+grande instance de leur choix ou son délégué, ou devant notaire. 
 
-La déclaration est recueillie par acte authentique hors la présence de tiers.
+La déclaration est recueillie par acte authentique hors la présence de tiers. 
 
 Expédition ou copie de l'acte ne peut être délivrée qu'à ceux dont le consentement a été recueilli.
 
@@ -23399,10 +23304,6 @@ Expédition ou copie de l'acte ne peut être délivrée qu'à ceux dont le conse
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°95-223 du 24 février 1995 - art. 1 () JORF 3 mars 1995
 
 	**Cité par**:
 
@@ -23413,9 +23314,13 @@ Expédition ou copie de l'acte ne peut être délivrée qu'à ceux dont le conse
 	  - Code de la santé publique - art. R2142-25 (V)
 	  - Code de procédure civile - art. 1157-3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+
 	**Cite**:
 
-	  - Code civil - art. 311-20 (M)
+	  - Code civil - art. 311-20 (V)
 
 
 ###### Article 1157-3
@@ -23425,15 +23330,15 @@ Avant de recueillir le consentement, le juge ou le notaire informe ceux qui s'ap
 - de l'impossibilité d'établir un lien de filiation entre l'enfant issu de la procréation et l'auteur du don, ou d'agir en
 responsabilité à l'encontre de celui-ci ;
 
-- de l'interdiction d'exercer une action en contestation de filiation ou en réclamation d'état au nom de l'enfant, à moins
-qu'il ne soit soutenu que celui-ci n'est pas issu de la procréation médicalement assistée ou que le consentement a été privé
-d'effet ;
+- de l'interdiction d'exercer une action aux fins d'établissement ou de contestation de la filiation au nom de l'enfant, à
+moins qu'il ne soit soutenu que celui-ci n'est pas issu de la procréation médicalement assistée ou que le consentement a été
+privé d'effet ;
 
 - des cas où le consentement est privé d'effet ;
 
 - de la possibilité de faire déclarer judiciairement la paternité hors mariage de celui qui, après avoir consenti à
 l'assistance médicale à la procréation, ne reconnaît pas l'enfant qui en est issu, et d'exercer contre lui une action en
-responsabilité de ce chef.
+responsabilité de ce chef. 
 
 L'acte prévu à l'article 1157-2 mentionne que cette information a été donnée.
 
@@ -23443,13 +23348,13 @@ L'acte prévu à l'article 1157-2 mentionne que cette information a été donné
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-223 du 24 février 1995 - art. 1 () JORF 3 mars 1995
+	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1157-2
+	  - Code de procédure civile - art. 1157-2 (V)
 
 
 ### Chapitre VII : La déclaration d'abandon
@@ -23890,6 +23795,24 @@ L'appel est formé comme en matière contentieuse. Il est instruit et jugé selo
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+#### Section IV : Dispositions communes
+
+###### Article 1178-1
+
+Le délai de pourvoi en cassation suspend l'exécution de la décision relative à l'adoption. Le pourvoi en cassation exercé
+dans ce délai est également suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-640 du 1 juin 2006 - art. 20 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 
 ### Chapitre IX : L'autorité parentale
@@ -31010,8 +30933,7 @@ Les matières énumérées à l'article 2 relèvent en premier ressort de la com
 
 Comme il est dit à l'article R. 911-2 du code de l'organisation judiciaire, le tribunal d'instance statue à la place du
 tribunal de grande instance et du président de cette juridiction dans les cas où la loi leur donne compétence en matière
-successorale et en la matière de légitimation postérieure au mariage, à l'exclusion du cas prévu par l'article 318 du code
-civil.
+successorale.
 
 **Liens relatifs à cet article**
 
@@ -31021,12 +30943,10 @@ civil.
 
 	**Modifié par**:
 
-	  - Décret n°76-899 1976-09-29 art. 1 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
-	  - Décret n°78-330 1978-03-16 art. 8 JORF 18 mars 1978 rectificatif JORF 24 mars 1978 et JORF 10 novembre 1978
+	  - Décret n°2006-640 du 1 juin 2006 - art. 21 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
-	  - Code civil - art. 318 (M)
 	  - Code de l'organisation judiciaire R911-2
 	  - Nouveau code de procédure civile Annexe, 2
 
