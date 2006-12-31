@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2007-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -1336,8 +1336,8 @@ du demandeur ;
 Pour les personnes morales : l'indication de leur forme, leur dénomination, leur siège social et de l'organe qui les
 représente légalement ;
 
-2° L'indication des noms et domicile de la personne contre laquelle la demande est formée, ou, s'il s'agit d'une personne
-morale, de sa dénomination et de son siège social ;
+2° L'indication des nom, prénoms et domicile de la personne contre laquelle la demande est formée, ou, s'il s'agit d'une
+personne morale, de sa dénomination et de son siège social ;
 
 3° L'objet de la demande.
 
@@ -1351,7 +1351,7 @@ Elle est datée et signée.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 127 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -6025,9 +6025,9 @@ l'audition et lui rendre compte.
 	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
 
 
-## Titre X : L'abstention, la récusation et le renvoi
+## Titre X : L'abstention, la récusation, le renvoi et la prise à partie.
 
-### Chapitre I : L'abstention.
+### Chapitre Ier : L'abstention.
 
 ###### Article 339
 
@@ -6041,6 +6041,10 @@ désigné par le président du tribunal de grande instance à défaut de juge di
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article 340
 
@@ -6052,6 +6056,10 @@ pour cause de suspicion légitime.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ### Chapitre II : La récusation.
@@ -6080,17 +6088,13 @@ inclusivement ;
 
 8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties.
 
-Le ministère public, partie jointe, peut être récusé dans les mêmes cas.
+Le ministère public, partie jointe, peut être récusé dans les mêmes cas".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°78-330 1978-03-16 art. 7 JORF 18 mars 1978 rectificatif JORF 24 mars 1978 et JORF 10 novembre 1978
 
 	**Cité par**:
 
@@ -6102,6 +6106,10 @@ Le ministère public, partie jointe, peut être récusé dans les mêmes cas.
 	  - Code des douanes - art. 444 (Ab)
 	  - Code des douanes de Mayotte - art. 308 (Ab)
 	  - Code du travail - art. R1457-1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
@@ -6120,6 +6128,10 @@ En aucun cas la demande de récusation ne peut être formée après la clôture 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -6141,7 +6153,7 @@ Le mandataire doit être muni d'un pouvoir spécial.
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 34 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 344
@@ -6165,6 +6177,10 @@ Il est délivré récépissé de la demande.
 	  - Décret n°91-1197 du 27 novembre 1991 - art. 143 (V)
 	  - Code de procédure civile - art. 350 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article 345
 
@@ -6175,6 +6191,10 @@ Le secrétaire communique au juge la copie de la demande de récusation dont cel
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 346
@@ -6189,6 +6209,10 @@ En cas d'urgence, un autre juge peut être désigné, même d'office, pour proc�
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article 347
 
@@ -6201,6 +6225,10 @@ soit les motifs pour lesquels il s'y oppose.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article 348
 
@@ -6211,6 +6239,10 @@ Si le juge acquiesce, il est aussitôt remplacé.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 349
@@ -6225,6 +6257,10 @@ sans appel.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
 
 ###### Article 350
 
@@ -6236,6 +6272,10 @@ président de la cour d'appel ou au président de la juridiction échevinale.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 351
@@ -6250,6 +6290,14 @@ Copie de la décision est remise ou adressée par le secrétaire au juge et aux 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
 
 ###### Article 352
 
@@ -6261,6 +6309,14 @@ Si la récusation est admise, il est procédé au remplacement du juge.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
 
 ###### Article 353
 
@@ -6271,11 +6327,15 @@ des dommages-intérêts qui pourraient être réclamés.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 77 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 354
@@ -6288,6 +6348,14 @@ cause.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 355
@@ -6303,8 +6371,16 @@ Il est alors procédé comme il est dit au chapitre ci-après, alors même que l
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
 
-### Chapitre III : Le renvoi à une autre juridiction
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
+
+### Chapitre III : Le renvoi à une autre juridiction.
 
 #### Section I : Le renvoi pour cause de suspicion légitime.
 
@@ -6317,7 +6393,15 @@ demande de récusation.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 357
@@ -6328,7 +6412,15 @@ La demande de dessaisissement est aussitôt communiquée par le secrétaire au p
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 358
@@ -6349,6 +6441,14 @@ La décision n'est susceptible d'aucun recours ; elle s'impose aux parties et au
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
 
 ###### Article 359
 
@@ -6365,7 +6465,15 @@ Copie de la décision est adressée par le secrétaire aux parties et au présid
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 360
@@ -6381,6 +6489,14 @@ La décision s'impose aux parties et au juge de renvoi. Elle n'est susceptible d
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 352 (V)
+
 
 ###### Article 361
 
@@ -6391,9 +6507,21 @@ juridiction soupçonnée de partialité surseoira à statuer jusqu'au jugement s
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 353 (V)
+
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 362
@@ -6406,9 +6534,14 @@ En cas de renvoi, il est procédé comme il est dit à l'article 97.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Nouveau code de procédure civile 97
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2017-891 du 6 mai 2017 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 354 (V)
 
 
 ###### Article 363
@@ -6419,7 +6552,15 @@ Le rejet de la demande de renvoi peut emporter l'application des dispositions de
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -6440,6 +6581,14 @@ le délai de réponse.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
 
 #### Section III : Le renvoi pour cause de sûreté publique.
 
@@ -6450,9 +6599,21 @@ ladite cour.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 351 (V)
+
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 366
@@ -6467,11 +6628,176 @@ Les dispositions des articles 360 à 362 sont applicables.
 
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 11 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 360, 361, 362
+
+
+### Chapitre IV : La prise à partie.
+
+#### Section I : Dispositions générales.
+
+###### Article 366-1
+
+La requête aux fins d'autorisation de la procédure de prise à partie est portée devant le premier président de la cour
+d'appel dans le ressort de laquelle siège le juge intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 366-2
+
+La requête est présentée par un avoué. A peine d'irrecevabilité, elle contient l'énoncé des faits reprochés au juge et est
+accompagnée des pièces justificatives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 366-3
+
+Le premier président, après avoir recueilli l'avis du procureur général près la cour d'appel, vérifie que la demande est
+fondée sur un des cas de prise à partie prévus par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 366-4
+
+La décision du premier président autorisant la procédure de prise à partie fixe le jour où l'affaire sera examinée par deux
+chambres réunies de la cour. Le greffe porte par tout moyen la décision à la connaissance du juge et du président de la
+juridiction à laquelle il appartient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 366-5
+
+La décision de refus est susceptible d'un recours devant la Cour de cassation dans les quinze jours de son prononcé. Le
+recours est formé, instruit et jugé selon la procédure sans représentation obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 366-6
+
+Le juge, dès qu'il a connaissance de la décision autorisant la procédure de prise à partie, s'abstient jusqu'à ce qu'il ait
+été statué sur la prise à partie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 366-7
+
+Le requérant assigne le juge pour le jour fixé. A peine d'irrecevabilité de la demande, une copie de la requête, de la
+décision du premier président et des pièces justificatives sont jointes à l'assignation. Une copie de l'assignation est
+adressée au ministère public par lettre recommandée avec demande d'avis de réception à la diligence de l'huissier de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 366-8
+
+A l'audience, la représentation et l'assistance des parties s'exercent dans les conditions prévues par l'article 931. La cour
+statue après avis du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 931
+
+
+#### Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice.
+
+###### Article 366-9
+
+A peine d'irrecevabilité de la requête visée à l'article 366-1, le requérant qui invoque un déni de justice doit produire
+deux sommations de juger délivrées par huissier de justice au greffe de la juridiction. Le greffier vise l'original et le
+transmet au juge. La sommation doit être réitérée passé un délai de huit jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 366-1
 
 
 ## Titre XI : Les incidents d'instance.
@@ -11639,11 +11965,11 @@ relatives à la personne à laquelle la copie a été remise.
 ###### Article 656
 
 Si personne ne peut ou ne veut recevoir la copie de l'acte et s'il résulte des vérifications faites par l'huissier de
-justice, dont il sera fait mention dans l'acte de signification, que le destinataire demeure bien à l'adresse indiquée,
-l'huissier de justice laisse au domicile ou à la résidence de celui-ci un avis de passage conforme aux prescriptions du
-dernier alinéa de l'article 655. Cet avis mentionne, en outre, que la copie de l'acte doit être retirée dans le plus bref
-délai à l'étude de l'huissier de justice, contre récépissé ou émargement, par l'intéressé ou par toute personne spécialement
-mandatée.
+justice, dont il sera fait mention dans l'acte de signification, que le destinataire demeure bien à l'adresse indiquée, la
+signification est faite à domicile. Dans ce cas, l'huissier de justice laisse au domicile ou à la résidence de celui-ci un
+avis de passage conforme aux prescriptions du dernier alinéa de l'article 655. Cet avis mentionne, en outre, que la copie de
+l'acte doit être retirée dans le plus bref délai à l'étude de l'huissier de justice, contre récépissé ou émargement, par
+l'intéressé ou par toute personne spécialement mandatée.
 
 La copie de l'acte est conservée à l'étude pendant trois mois. Passé ce délai, l'huissier de justice en est déchargé.
 
@@ -11658,7 +11984,7 @@ le retirer dans les mêmes conditions.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 55 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 6 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -22978,6 +23304,102 @@ Les dépens afférents à l'instance d'appel sont traités comme ceux d'une inst
 	  - Nouveau code de procédure civile 1147
 
 
+##### Sous-section VI : La liquidation et le partage des intérêts patrimoniaux des époux
+
+###### Article 1136-1
+
+Les modalités de désignation et de rémunération ainsi que le déroulement de la mission du professionnel qualifié désigné en
+application du 9° de l'article 255 du code civil sont soumis aux règles applicables en matière d'expertise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 4 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1591 du 17 décembre 2009 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1120 (VD)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1292 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 255 (M)
+
+
+###### Article 1136-2
+
+Les modalités de désignation ainsi que le déroulement de la mission du notaire désigné en application du 10° de l'article 255
+du code civil sont soumis aux dispositions des articles 233 à 237, 239, 245, 264 à 267, 273, 275, 276 et 278 à 280 du présent
+code, sans préjudice des règles applicables à sa profession.
+
+Si le notaire établit l'acte de partage, il en fait rapport au juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 4 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-1591 du 17 décembre 2009 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1121 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 239 (Ab)
+	  - Code civil - art. 245 (M)
+	  - Code civil - art. 255 (M)
+	  - Code civil - art. 273 (M)
+	  - Code civil - art. 275 (M)
+	  - Code civil - art. 276 (M)
+	  - Code civil 255, 233 à 237, 239, 245, 264 à 267, 273, 275, 276, 278 à 280
+
+
+###### Article 1136-3
+
+Les dispositions de la section 6 du chapitre II du titre III du livre III sont applicables au partage des intérêts
+patrimoniaux des époux, sous réserve des dispositions des articles 267 et 267-1 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 4 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 267
+	  - Code civil - art. 267-1
+
+
 #### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales
 
 ###### Article 1137
@@ -26407,8 +26829,8 @@ prix ainsi que les modalités de la publicité.
 
 ###### Article 1278
 
-Sont déclarés communs au présent chapitre les articles 701, 705 à 707, 711 à 713, 733 à 741 b et 742 du code de procédure
-civile.
+Sont déclarés communs au présent chapitre les dispositions des articles 72 à 82, 87, 89, 90, 100 à 106 du décret n° 2006-936
+du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
 
 Néanmoins, lorsqu'elles sont reçues par un notaire, les enchères peuvent être faites sans ministère d'avocat.
 
@@ -26422,21 +26844,20 @@ d'adjudication est déposé au greffe.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Modifié par**:
-
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
 	**Cite**:
 
-	  - Code de procédure civile - art. 701 (Ab)
-	  - Code de procédure civile - art. 742 (Ab)
-	  - Code de procédure civile 701, 705 à 707, 711 à 713, 733 à 741, 742
+	  - Décret n°2006-936 2006-07-27 art. 72 à 82, art. 87, art. 89, art. 90, art. 100 à 106
+
+	**Modifié par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 128 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1279
 
 Dans les dix jours qui suivent l'adjudication définitive, toute personne peut faire une surenchère du dixième en se
-conformant aux formalités et délais prévus par les articles 708 à 710 du code de procédure civile.
+conformant aux formalités et délais prévus par les dispositions des articles 94 à 99 du décret n° 2006-936 du 27 juillet 2006
+relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
 
 Dans le cas où l'adjudication a eu lieu devant notaire, le tribunal, par le jugement qui valide la surenchère, renvoie la
 nouvelle adjudication devant le même notaire qui procède selon le cahier des charges précédemment dressé.
@@ -26449,14 +26870,13 @@ Lorsqu'une seconde adjudication a lieu après surenchère, aucune autre surench�
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
 	**Cite**:
 
-	  - Code de procédure civile - art. 708 (Ab)
-	  - Code de procédure civile 708, 709 et 710
+	  - Décret n°2006-936 2006-07-27 art. 94 à 99
+
+	**Modifié par**:
+
+	  - Décret n°2006-1805 2006-12-23 art. 9 8° JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -26509,9 +26929,10 @@ Il n'est pas dérogé à la compétence respective des divers officiers publics 
 
 ###### Article 1281-1
 
-S'il y a lieu, en dehors de toute procédure d'exécution, de répartir une somme d'argent entre créanciers, la partie la plus
-diligente peut se pourvoir en référé devant le président du tribunal de grande instance dans le ressort duquel demeure le
-débiteur, lequel désigne une personne chargée de la distribution.
+S'il y a lieu, en dehors de toute procédure d'exécution, de répartir une somme d'argent entre créanciers et hors le cas où
+cette somme proviendrait de la vente d'un immeuble, la partie la plus diligente peut se pourvoir en référé devant le
+président du tribunal de grande instance dans le ressort duquel demeure le débiteur, lequel désigne une personne chargée de
+la distribution.
 
 La personne chargée de la distribution est séquestre des fonds, à moins que la consignation ne soit ordonnée.
 
@@ -26521,9 +26942,9 @@ La personne chargée de la distribution est séquestre des fonds, à moins que l
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 130 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1281-2
@@ -26782,6 +27203,159 @@ tribunal de commerce et par son président.
 	**Créé par**:
 
 	  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+
+### Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur.
+
+###### Article 1281-13
+
+Le tiers détenteur fait procéder à la notification prévue à l'article 2478 du code civil par acte d'huissier de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 2478 (V)
+
+
+###### Article 1281-14
+
+Le créancier qui poursuit la vente aux enchères de l'immeuble en application de l'article 2480 du code civil notifie l'acte
+de réquisition prévu à cet article par acte d'huissier de justice. Cet acte contient, à peine de nullité, la constitution de
+l'avocat du requérant.
+
+L'acte de réquisition de vente aux enchères comporte l'attestation par l'avocat du créancier qu'il s'est fait remettre, en
+application du 5° du même article, une caution bancaire irrévocable ou toute garantie équivalente, précisément énoncée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 2480 (M)
+
+
+###### Article 1281-15
+
+La réquisition aux fins de vente aux enchères de l'immeuble peut être contestée par assignation à comparaître devant le
+tribunal de grande instance dans le ressort duquel est situé l'immeuble.
+
+Cette assignation doit, à peine d'irrecevabilité, être formée dans un délai de quinze jours suivant la notification de l'acte
+de réquisition.
+
+Si la contestation est admise, l'acte de réquisition est déclaré nul et le tiers détenteur maintenu dans ses droits, à moins
+qu'il n'ait été fait d'autres surenchères par d'autres créanciers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1281-16
+
+A l'expiration du délai de contestation, l'audience de vente aux enchères est fixée par le président sur requête du créancier
+poursuivant, à une date comprise dans un délai de deux à quatre mois suivant l'ordonnance.
+
+L'ordonnance est notifiée par le greffe par lettre recommandée avec demande d'avis de réception au tiers détenteur et au
+débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1281-17
+
+A la diligence du créancier poursuivant, il est procédé aux formalités de publicité dans les conditions prévues par les
+articles 63 à 71 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du
+prix d'un immeuble et par l'article 2206 du code civil, avec la précision du montant de la surenchère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Décret n°2006-936 2006-07-27 art. 63 à 71
+	  - Code civil - art. 2206 (M)
+
+	**Créé par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1281-18
+
+Il est procédé à la vente aux enchères dans les conditions prévues aux articles 72 à 91 du même décret.
+
+Aucune surenchère ne pourra être reçue.
+
+La réitération des enchères peut être poursuivie dans les conditions prévues aux articles 100 à 106 du même décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Décret n°2006-936 2006-07-27 art. 72 à 91
+
+	**Créé par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1281-19
+
+En cas de carence du créancier poursuivant ou du tiers détenteur, la subrogation peut être demandée par les créanciers
+inscrits dans les formes prévues par l'article 10 du même décret.
+
+Le créancier poursuivant reste tenu de sa garantie malgré la subrogation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Décret n°2006-936 2006-07-27 art. 10
+
+	**Créé par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
 
 
 ## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.
@@ -27150,12 +27724,17 @@ L'aveu de l'époux défendeur ne fait pas preuve, même s'il n'y a pas de créan
 	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
-#### Section V : L'homologation judiciaire du changement de régime matrimonial.
+#### Section V : Le changement de régime matrimonial.
+
+##### Paragraphe 1 : Dispositions générales
 
 ###### Article 1300
 
-La demande d'homologation d'un changement de régime matrimonial est portée devant [*compétence*] le tribunal de grande
-instance de la résidence de la famille.
+L'information prévue au deuxième alinéa de l'article 1397 du code civil est notifiée aux personnes qui avaient été parties au
+contrat de mariage et aux enfants majeurs de chaque époux. 
+
+Le contenu de cette information ainsi que celui de l'avis prévu au troisième alinéa de l'article 1397 du code civil est
+défini par arrêté du garde des sceaux, ministre de la justice.
 
 **Liens relatifs à cet article**
 
@@ -27165,7 +27744,101 @@ instance de la résidence de la famille.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 1397 (V)
+
+
+###### Article 1300-1
+
+Les oppositions faites par les personnes visées aux deuxième et troisième alinéas de l'article 1397 du code civil sont
+notifiées au notaire qui a établi l'acte. Il en informe les époux. 
+
+En cas d'opposition, il appartient aux époux de présenter une requête dans les formes prévues au paragraphe 2 de la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 1397 (V)
+
+
+###### Article 1300-2
+
+La mention du changement de régime matrimonial en marge de l'acte de mariage est requise par le notaire. Celui-ci adresse à
+l'officier d'état civil une expédition de l'acte et un certificat établi par lui précisant la date de réalisation des
+formalités d'information et de publication de l'avis et attestant de l'absence d'opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1300-3 (V)
+
+
+###### Article 1300-3
+
+Le délai pour procéder, le cas échéant, aux formalités de publicité foncière de l'acte constatant le changement de régime
+matrimonial court à compter de l'expiration du délai de trois mois prévu aux deuxième et troisième alinéas de l'article 1397
+du code civil. 
+
+L'acte soumis à publicité est accompagné du certificat visé à l'article 1300-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1300-2 (V)
+	  - Code civil - art. 1397 (V)
+
+
+##### Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial
+
+###### Article 1300-4
+
+La demande d'homologation d'un changement de régime matrimonial est portée devant le tribunal de grande instance de la
+résidence de la famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1060 (V)
 
 
 ###### Article 1301
@@ -27180,7 +27853,7 @@ L'homologation d'un changement de régime matrimonial relève de la matière gra
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1302
@@ -27195,13 +27868,13 @@ Une expédition de l'acte notarié qui modifie ou change entièrement le régime
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1303
 
-Les alinéas 2 à 3 de l'article 1292, les articles 1293 à 1296 et l'article 1298 sont applicables à l'homologation d'un
-changement de régime matrimonial.
+Le délai pour procéder, le cas échéant, aux formalités de publicité foncière de l'acte constatant le changement de régime
+matrimonial court à compter du jour où la décision d'homologation a acquis force de chose jugée.
 
 **Liens relatifs à cet article**
 
@@ -27211,11 +27884,7 @@ changement de régime matrimonial.
 
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1292 à 1296 et 1298
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 #### Section VI : La publicité en matière internationale
@@ -27382,11 +28051,11 @@ Les mesures de publicité prévues au paragraphe 2 s'appliquent également en ca
 
 L'apposition des scellés peut être demandée :
 
-1° Par le conjoint ;
+1° Par le conjoint ou le partenaire d'un pacte civil de solidarité ;
 
-2° Par tous ceux qui prétendent avoir un droit dans la succession ;
+2° Par tous ceux qui prétendent avoir une vocation successorale ;
 
-3° Par l'exécuteur testamentaire ;
+3° Par l'exécuteur testamentaire ou le mandataire désigné pour l'administration de la succession ;
 
 4° Par le ministère public ;
 
@@ -27404,9 +28073,9 @@ brigade de gendarmerie.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -27758,7 +28427,7 @@ Le procès-verbal de levée des scellés est daté et signé par le greffier en 
 
 5° Les observations des requérants et des comparants et les suites qui, le cas échéant, leur ont été réservées ;
 
-6° L'indication du notaire qui procède à l'inventaire.
+6° L'indication de l'auteur de l'inventaire.
 
 **Liens relatifs à cet article**
 
@@ -27766,9 +28435,9 @@ Le procès-verbal de levée des scellés est daté et signé par le greffier en 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
@@ -27943,6 +28612,1254 @@ Si une contestation oppose les parties entre elles, le juge du tribunal d'instan
 	**Abrogé par**:
 
 	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
+
+
+#### Section II : L'inventaire.
+
+###### Article 1328
+
+L'inventaire peut être requis par ceux qui peuvent demander l'apposition des scellés et, le cas échéant, par le curateur à la
+succession vacante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1329
+
+Doivent être appelés à l'inventaire :
+
+1° Le conjoint survivant ou le partenaire d'un pacte civil de solidarité ;
+
+2° Tous ceux qui prétendent avoir une vocation successorale ;
+
+3° L'exécuteur testamentaire si le testament est connu ;
+
+4° Le mandataire désigné pour l'administration de la succession.
+
+Le requérant les appelle à l'inventaire au plus tard vingt jours avant la date prévue pour sa réalisation, à moins qu'ils ne
+l'aient expressément dispensé de cet appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1317 (V)
+
+
+###### Article 1330
+
+Outre les mentions prescrites, selon le cas, pour les actes dressés par un commissaire-priseur judiciaire, un huissier de
+justice ou un notaire, par les lois et règlements applicables à ces professions, l'inventaire contient :
+
+1° Les nom, prénoms, profession et domicile du ou des requérants, des personnes comparantes ou représentées, le cas échéant
+des commissaires-priseurs judiciaires et des experts ;
+
+2° L'indication des lieux où l'inventaire est fait ;
+
+3° La description et l'estimation des biens ainsi que la désignation des espèces en numéraire ;
+
+4° La consistance active et passive de la succession telle qu'elle résulte de tous documents, titres et papiers présentés et
+des déclarations des requérants et comparants ;
+
+5° La mention du serment prêté, lors de la clôture de l'inventaire, par ceux qui ont été en possession des biens avant
+l'inventaire ou qui ont habité l'immeuble dans lequel sont lesdits biens, qu'ils n'en ont détourné, vu détourner, ni su qu'il
+en ait été détourné aucun ;
+
+6° La mention de la remise des objets et documents, s'il y a lieu, entre les mains de la personne dont il aura été convenu ou
+qui, à défaut, aura été nommée par le président du tribunal de grande instance ou son délégué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1331
+
+L'inventaire établi en application des dispositions de l'article 789 du code civil contient une liste numérotée des éléments
+d'actif de la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 789 (M)
+
+
+###### Article 1332
+
+L'inventaire notarié peut également contenir :
+
+1° Les qualités et droits de ceux qui peuvent prétendre à la communauté ou à la succession ;
+
+2° Le cas échéant, la consistance active et passive de la communauté telle qu'elle résulte de tous documents, titres et
+papiers présentés au notaire et des déclarations des requérants et comparants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1333
+
+S'il survient une difficulté dans l'établissement de l'inventaire, le président du tribunal de grande instance ou son
+délégué, saisi par la partie la plus diligente, statue dans la forme des référés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1319 (V)
+
+
+#### Section III : L'option successorale.
+
+##### Sous-section I : L'acceptation à concurrence de l'actif net.
+
+###### Article 1334
+
+La déclaration d'acceptation à concurrence de l'actif net faite au greffe du tribunal de grande instance indique les nom,
+prénoms et profession de l'héritier, son élection de domicile ainsi que la qualité en vertu de laquelle il est appelé à la
+succession.
+
+Le greffe inscrit la déclaration dans un registre tenu à cet effet et en donne récépissé au déclarant. Il informe l'héritier
+de l'obligation de publicité prévue au troisième alinéa de l'article 1335.
+
+Les cohéritiers, les créanciers successoraux et les légataires peuvent, sur justification de leur titre, consulter la partie
+du registre relative à la succession en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1355 (VD)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1335
+
+
+###### Article 1335
+
+La publicité prévue aux articles 788, 790 et 794 du code civil est faite au Bulletin officiel des annonces civiles et
+commerciales.
+
+Les modalités de la publicité par voie électronique sont définies par arrêté du garde des sceaux, ministre de la justice.
+
+Dans les quinze jours suivant la déclaration visée à l'article 788 du code civil, l'héritier fait procéder, dans les mêmes
+formes que la publicité prévue au premier alinéa du présent article, à l'insertion d'un avis dans un journal d'annonces
+légales diffusé dans le ressort du tribunal compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Arrêté du 9 novembre 2009 - art. 1 (V)
+	  - Code de procédure civile - art. 1334 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 788 (M)
+	  - Code civil - art. 790 (M)
+	  - Code civil - art. 794 (M)
+
+
+###### Article 1336
+
+Les demandes de l'héritier acceptant à concurrence de l'actif net contre la succession sont formées contre les autres
+héritiers. S'il n'y en a pas ou si les actions sont intentées par tous les héritiers, elles le sont contre un curateur nommé
+dans les mêmes formes que celles prévues pour le curateur de la succession vacante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1337
+
+A l'issue du délai de quinze mois prévu à l'article 792 du code civil, après soit le désintéressement de tous les créanciers
+déclarés, soit l'épuisement de l'actif et l'affectation des sommes correspondantes au paiement des créanciers, l'héritier
+dépose au greffe le compte définitif de son administration.
+
+Le dépôt donne lieu à publicité dans les conditions prévues à l'article 1335.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Arrêté du 9 novembre 2009 - art. 1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-5 (Ab)
+	  - Code de l'organisation judiciaire - art. R123-24 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 792 (M)
+	  - Nouveau code de procédure civile 1335
+
+
+###### Article 1338
+
+L'héritier fait l'avance des frais de publicité au greffe de la juridiction.
+
+Ces frais sont à la charge de la succession. Toutefois, lorsque l'héritier déclare conserver un bien de la succession, les
+frais liés à la publicité de cette déclaration demeurent à sa charge.
+
+Les frais liés à la délivrance de la copie de l'inventaire faite en vertu du dernier alinéa de l'article 790 du code civil
+sont à la charge du créancier ou du légataire qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 790 (M)
+
+
+##### Sous-section II : La renonciation.
+
+###### Article 1339
+
+La déclaration de renonciation à une succession faite au greffe du tribunal de grande instance indique les nom, prénoms,
+profession et domicile du successible, ainsi que la qualité en vertu de laquelle il est appelé à la succession.
+
+Le greffe inscrit la déclaration dans un registre tenu à cet effet et en donne récépissé au déclarant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1340
+
+La révocation expresse de la renonciation donne lieu à une déclaration dans les mêmes formes et sur le même registre que
+celui prévu à l'article 1339.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1339
+
+
+##### Sous-section III : L'option du conjoint survivant.
+
+###### Article 1341
+
+Dans le cas prévu par l'article 758-3 du code civil, le conjoint successible est invité à exercer l'option que lui réserve
+l'article 757 du même code par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 757 (M)
+	  - Code civil - art. 758-3 (V)
+
+
+#### Section IV : Les successions vacantes et les successions en déshérence.
+
+##### Sous-section I : Les successions vacantes.
+
+##### Paragraphe 1 : L'ouverture de la curatelle.
+
+###### Article 1342
+
+Les publicités prévues aux articles 809-1, 809-2, 810-5 et 810-7 du code civil donnent lieu à l'insertion d'un avis dans un
+journal d'annonces légales diffusé dans le ressort du tribunal compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 809-1 (V)
+	  - Code civil - art. 809-2 (V)
+	  - Code civil - art. 810-5 (V)
+	  - Code civil - art. 810-7 (V)
+
+
+##### Paragraphe 2 : La mission du curateur.
+
+###### Article 1343
+
+La mission du curateur est fixée par l'ordonnance de curatelle.
+
+Le curateur ne peut délivrer les legs particuliers ou à titre universel consentis par le défunt qu'à l'issue du délai
+mentionné à l'article 810-1 du code civil et lorsqu'ils ne font l'objet d'aucune opposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 810-1 (V)
+
+
+###### Article 1344
+
+L'inventaire comprend :
+
+1° La mention de l'ordonnance confiant la curatelle de la succession vacante à l'autorité administrative chargée des
+domaines ;
+
+2° L'indication des lieux où l'inventaire est fait ;
+
+3° La description et l'estimation des biens ainsi que la désignation des espèces en numéraire ;
+
+4° La consistance active et passive de la succession telle qu'elle résulte de tous documents, titres et papiers.
+
+Il est daté et signé de son auteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1345
+
+Les frais liés à la délivrance de la copie de l'inventaire faite en vertu du troisième alinéa de l'article 809-2 du code
+civil sont à la charge du créancier ou du légataire qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2016-230 du 26 février 2016 - art.
+
+	**Cite**:
+
+	  - Code civil - art. 809-2 (V)
+
+
+###### Article 1346
+
+L'information délivrée aux créanciers ou aux légataires de l'existence d'une nouvelle publicité est faite par lettre simple.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1347
+
+La déclaration des créances est faite par lettre recommandée avec demande d'avis de réception ou par remise contre récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1348
+
+Lorsque la vente des biens dépendant de la succession n'est pas faite dans les formes prévues par le code général de la
+propriété des personnes publiques pour l'aliénation, à titre onéreux, du domaine immobilier ou du domaine mobilier
+appartenant à l'Etat, elle est réalisée, pour les immeubles, selon les règles prévues aux articles 1271 à 1281 et, pour les
+meubles, dans les formes prévues aux articles 110 à 114 et 116 du décret n° 92-755 du 31 juillet 1992.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Décret n°92-755 1992-07-31 art. 110 à 114, art. 116
+	  - Nouveau code de procédure civile 1271 à 1281
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1349
+
+Lorsqu'il est envisagé de procéder à une vente amiable, le curateur en informe par lettre recommandée avec demande d'avis de
+réception les créanciers de la succession qui se sont déclarés.
+
+La demande d'un créancier faite en application du troisième alinéa de l'article 810-3 du code civil est signifiée au curateur
+dans un délai d'un mois à compter de la réception de l'information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 810-3 (V)
+
+
+##### Paragraphe 3 : La reddition de compte et la fin de la curatelle.
+
+###### Article 1350
+
+La demande de présentation du compte formée par un créancier ou un héritier est adressée au curateur par lettre recommandée
+avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1351
+
+Le projet de réalisation de l'actif subsistant est notifié aux héritiers connus par lettre recommandée avec demande d'avis de
+réception.
+
+L'opposition par les héritiers est faite dans les mêmes formes auprès du curateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1352
+
+A défaut d'héritier connu, la réalisation peut, à l'expiration d'un délai de deux ans à compter de l'établissement de
+l'inventaire, être entreprise sans autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1353
+
+Un arrêté du ministre de l'économie, des finances et de l'industrie fixe, dans les conditions prévues par l'article L. 77 du
+code du domaine de l'Etat, le taux et l'imputation du prélèvement opéré au profit du Trésor pour frais d'administration, de
+gestion et de vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L77 (V)
+
+
+##### Sous-section II : Les successions en déshérence.
+
+###### Article 1354
+
+L'administration chargée des domaines est dispensée de recourir au ministère d'avocat pour demander l'envoi en possession
+prévu à l'article 811 du code civil.
+
+Elle fait procéder à l'insertion d'un avis dans un journal d'annonces légales diffusé dans le ressort du tribunal compétent.
+
+Le tribunal statue sur la demande, après avis du ministère public, quatre mois après la réalisation de la publicité prévue à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R1122-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 811 (M)
+
+
+#### Section V : Le mandataire successoral désigné en justice.
+
+###### Article 1355
+
+L'enregistrement prévu à l'article 813-3 du code civil est fait au greffe du tribunal de grande instance dans le mois qui
+suit la nomination, sur le registre mentionné à l'article 1334. La décision de nomination est publiée à la requête du
+mandataire au Bulletin officiel des annonces civiles et commerciales.
+
+S'il y a lieu, le président du tribunal de grande instance ou son délégué peut, par une ordonnance qui n'est pas susceptible
+de recours, ordonner que la publicité soit complétée par une insertion dans un journal d'annonces légales diffusé dans le
+ressort du tribunal.
+
+Les frais de publicité sont à la charge de la succession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Arrêté du 9 novembre 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 813-3 (V)
+	  - Nouveau code de procédure civile 1334
+
+
+###### Article 1356
+
+Les héritiers sont tenus de communiquer au mandataire successoral tous les documents utiles à l'accomplissement de sa
+mission.
+
+Le mandataire successoral peut convoquer les héritiers pour les informer et les entendre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1357
+
+Le président du tribunal de grande instance ou son délégué peut, d'office ou sur demande des héritiers, convoquer le
+mandataire, solliciter de lui toutes les informations sur le déroulement de sa mission et lui adresser des injonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+#### Section VI : Le partage.
+
+##### Sous-section I : Le partage amiable.
+
+###### Article 1358
+
+La personne qualifiée désignée en application de l'article 837 du code civil pour représenter l'héritier défaillant sollicite
+l'autorisation de consentir au partage amiable en transmettant le projet de partage, approuvé par le reste des copartageants,
+au juge qui l'a désignée.
+
+L'autorisation de consentir au partage est rendue en dernier ressort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2017-862 du 9 mai 2017 - art. 2
+	  - Code de commerce - art. R444-71 (VD)
+
+	**Cite**:
+
+	  - Code civil - art. 837 (M)
+
+
+##### Sous-section II : Le partage judiciaire.
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article 1359
+
+En cas de pluralité d'assignations, le demandeur au partage est celui qui a fait en premier enrôler son assignation au greffe
+du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1360
+
+A peine d'irrecevabilité, l'assignation en partage contient un descriptif sommaire du patrimoine à partager et précise les
+intentions du demandeur quant à la répartition des biens ainsi que les diligences entreprises en vue de parvenir à un partage
+amiable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1361
+
+Le tribunal ordonne le partage, s'il peut avoir lieu, ou la vente par licitation si les conditions prévues à l'article 1378
+sont réunies.
+
+Lorsque le partage est ordonné, le tribunal peut désigner un notaire chargé de dresser l'acte constatant le partage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Code civil - art. 267 (VD)
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1378
+
+
+###### Article 1362
+
+Sans préjudice des dispositions de l'article 145, un expert peut être désigné en cours d'instance pour procéder à
+l'estimation des biens ou proposer la composition des lots à répartir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1363
+
+S'il y a lieu au tirage au sort des lots, celui-ci est réalisé devant le notaire commis en application du second alinéa de
+l'article 1361 et, à défaut, devant le président du tribunal de grande instance ou son délégué.
+
+Si un héritier est défaillant, le président du tribunal de grande instance ou son délégué peut, d'office, lorsque le tirage
+au sort a lieu devant lui ou sur transmission du procès-verbal dressé par le notaire, désigner un représentant à l'héritier
+défaillant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1361
+
+
+##### Paragraphe 2 : Dispositions particulières.
+
+###### Article 1364
+
+Si la complexité des opérations le justifie, le tribunal désigne un notaire pour procéder aux opérations de partage et commet
+un juge pour surveiller ces opérations.
+
+Le notaire est choisi par les copartageants et, à défaut d'accord, par le tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1365
+
+Le notaire convoque les parties et demande la production de tout document utile à l'accomplissement de sa mission.
+
+Il rend compte au juge commis des difficultés rencontrées et peut solliciter de lui toute mesure de nature à en faciliter le
+déroulement.
+
+Il peut, si la valeur ou la consistance des biens le justifie, s'adjoindre un expert, choisi d'un commun accord entre les
+parties ou, à défaut, désigné par le juge commis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1366
+
+Le notaire peut demander au juge commis de convoquer les parties ou leurs représentants, en sa présence, pour tenter une
+conciliation entre elles.
+
+A défaut de conciliation, le juge commis renvoie les parties devant le notaire, qui établit un procès-verbal reprenant les
+dires respectifs des parties ainsi qu'un projet d'état liquidatif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1367
+
+La mise en demeure prévue à l'article 841-1 du code civil est signifiée à l'héritier défaillant. Elle mentionne la date
+prévue pour réaliser les opérations de partage.
+
+A défaut de présentation de l'héritier ou de son mandataire à la date fixée dans la mise en demeure, le notaire dresse un
+procès-verbal et le transmet au juge commis afin que soit désigné un représentant à l'héritier défaillant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 841-1 (V)
+
+
+###### Article 1368
+
+Dans le délai d'un an suivant sa désignation, le notaire dresse un état liquidatif qui établit les comptes entre
+copartageants, la masse partageable, les droits des parties et la composition des lots à répartir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1369
+
+Le délai prévu à l'article 1368 est suspendu :
+
+1° En cas de désignation d'un expert et jusqu'à la remise du rapport ;
+
+2° En cas d'adjudication ordonnée en application de l'article 1377 et jusqu'au jour de réalisation définitive de celle-ci ;
+
+3° En cas de demande de désignation d'une personne qualifiée en application de l'article 841-1 du code civil et jusqu'au jour
+de sa désignation ;
+
+4° En cas de renvoi des parties devant le juge commis en application de l'article 1366 et jusqu'à l'accomplissement de
+l'opération en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 841-1 (V)
+	  - Nouveau code de procédure civile 1368, 1377, 1366
+
+
+###### Article 1370
+
+En raison de la complexité des opérations, une prorogation du délai, ne pouvant excéder un an, peut être accordée par le juge
+commis saisi sur demande du notaire ou sur requête d'un copartageant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1371
+
+Le juge commis veille au bon déroulement des opérations de partage et au respect du délai prévu à l'article 1369.
+
+A cette fin il peut, même d'office, adresser des injonctions aux parties ou au notaire commis, prononcer des astreintes et
+procéder au remplacement du notaire commis par le tribunal.
+
+Il statue sur les demandes relatives à la succession pour laquelle il a été commis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1369
+
+
+###### Article 1372
+
+Si un acte de partage amiable est établi, en application des dispositions de l'article 842 du code civil, le notaire en
+informe le juge qui constate la clôture de la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 842 (M)
+
+
+###### Article 1373
+
+En cas de désaccord des copartageants sur le projet d'état liquidatif dressé par le notaire, ce dernier transmet au juge
+commis un procès-verbal reprenant les dires respectifs des parties ainsi que le projet d'état liquidatif.
+
+Le greffe invite les parties non représentées à constituer avocat.
+
+Le juge commis peut entendre les parties ou leurs représentants et le notaire et tenter une conciliation.
+
+Il fait rapport au tribunal des points de désaccord subsistants.
+
+Il est, le cas échéant, juge de la mise en état.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1374
+
+Toutes les demandes faites en application de l'article 1373 entre les mêmes parties, qu'elles émanent du demandeur ou du
+défendeur, ne constituent qu'une seule instance. Toute demande distincte est irrecevable à moins que le fondement des
+prétentions ne soit né ou ne soit révélé que postérieurement à l'établissement du rapport par le juge commis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1373
+
+
+###### Article 1375
+
+Le tribunal statue sur les points de désaccord.
+
+Il homologue l'état liquidatif ou renvoie les parties devant le notaire pour établir l'acte constatant le partage.
+
+En cas d'homologation, il ordonne s'il y a lieu le tirage au sort des lots par la même décision, soit devant le juge commis,
+soit devant le notaire commis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+
+###### Article 1376
+
+Lorsque le tirage au sort des lots a été ordonné, si un héritier fait défaut, le juge commis dispose des pouvoirs reconnus au
+président du tribunal de grande instance au deuxième alinéa de l'article 1363.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1363
+
+
+##### Paragraphe 3 : La licitation.
+
+###### Article 1377
+
+Le tribunal ordonne, dans les conditions qu'il détermine, la vente par adjudication des biens qui ne peuvent être facilement
+partagés ou attribués.
+
+La vente est faite, pour les immeubles, selon les règles prévues aux articles 1271 à 1281 et, pour les meubles, dans les
+formes prévues aux articles 110 à 114 et 116 du décret n° 92-755 du 31 juillet 1992.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Cite**:
+
+	  - Décret n°92-755 1992-07-31 art. 110 à 114, art. 116
+	  - Nouveau code de procédure civile 1271 à 1281
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2017-862 du 9 mai 2017 - art. 2
+	  - Code de commerce - art. R444-71 (VD)
+
+
+###### Article 1378
+
+Si tous les indivisaires sont capables et présents ou représentés, ils peuvent décider à l'unanimité que l'adjudication se
+déroulera entre eux. A défaut, les tiers à l'indivision y sont toujours admis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cité par**:
+
+	  - Décret n°2017-862 du 9 mai 2017 - art. 2
+
+
+#### Section VII : Dispositions communes.
+
+###### Article 1379
+
+Les demandes formées en application des articles 784, 790, 809-1, 810-8, 812-1-1, 813, 813-4, 814-1, 837, 841-1 et 1031 du
+code civil sont portées devant le président du tribunal de grande instance ou son délégué qui statue dans les formes prévues
+aux articles 493 à 498 du présent code.
+
+Il en va de même des demandes formées en application de l'article 829 du code civil dans le cadre d'un partage amiable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 1031 (M)
+	  - Code civil - art. 784 (M)
+	  - Code civil - art. 790 (M)
+	  - Code civil - art. 809-1 (V)
+	  - Code civil - art. 810-8 (V)
+	  - Code civil - art. 812-1-1 (V)
+	  - Code civil - art. 813 (M)
+	  - Code civil - art. 813-4 (V)
+	  - Code civil - art. 814-1 (V)
+	  - Code civil - art. 829 (M)
+	  - Code civil - art. 837 (M)
+	  - Code civil - art. 841-1 (V)
+
+
+###### Article 1380
+
+Les demandes formées en application des articles 772, 794, 810-5, 812-3, 813-1, 813-7, 813-9 et du deuxième alinéa de
+l'article 814 du code civil sont portées devant le président du tribunal de grande instance ou son délégué qui statue en la
+forme des référés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 772 (M)
+	  - Code civil - art. 794 (M)
+	  - Code civil - art. 810-5 (V)
+	  - Code civil - art. 812-3 (V)
+	  - Code civil - art. 813-1 (V)
+	  - Code civil - art. 813-7 (V)
+	  - Code civil - art. 813-9 (V)
+	  - Code civil - art. 814 (M)
+
+
+###### Article 1381
+
+Les demandes formées en application des articles 811, 820, 821, 821-1, 824, 832-1, 832-2, 832-3, 887, 1026 du même code sont
+portées devant le tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Code civil - art. 1026 (M)
+	  - Code civil - art. 811 (M)
+	  - Code civil - art. 820 (M)
+	  - Code civil - art. 821 (Ab)
+	  - Code civil - art. 821-1 (V)
+	  - Code civil - art. 824 (M)
+	  - Code civil - art. 832-1 (M)
+	  - Code civil - art. 832-2 (M)
+	  - Code civil - art. 832-3 (M)
+	  - Code civil - art. 887 (M)
 
 
 ## Titre IV : Les obligations et les contrats.
@@ -28257,12 +30174,12 @@ La convocation contient :
 
 2° L'indication de la juridiction devant laquelle l'opposition est portée ;
 
-3° L'indication de la date de l'audience à laquelle le défendeur est convoqué ;
+3° L'indication de la date de l'audience à laquelle les parties sont convoquées ;
 
-4° L'indication que, faute pour le défendeur de comparaître, il s'expose à ce qu'un jugement soit rendu contre lui sur les
-seuls éléments fournis par son adversaire ;
+4° Les conditions dans lesquelles les parties peuvent se faire assister ou représenter.
 
-5° Les conditions dans lesquelles le défendeur peut se faire assister ou représenter.
+La convocation adressée au défendeur précise en outre que, faute de comparaître, il s'expose à ce qu'un jugement soit rendu
+contre lui sur les seuls éléments fournis par son adversaire.
 
 Ces mentions sont prescrites à peine de nullité.
 
@@ -28274,7 +30191,7 @@ Ces mentions sont prescrites à peine de nullité.
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 70 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2006-1805 du 23 décembre 2006 - art. 6 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
