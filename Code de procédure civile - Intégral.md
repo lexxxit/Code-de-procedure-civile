@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-05-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -33191,13 +33191,17 @@ Les décisions du tribunal d'instance peuvent être attaquées par la voie du po
 
 Les dispositions de la présente sous-section s'appliquent à la tenue des registres par le tribunal d'instance dans les cas
 prévus par la législation locale, sous réserve des dispositions particulières au registre des associations prévues dans la
-sous-section 4.
+sous-section IV.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 	**Cite**:
 
@@ -33265,14 +33269,18 @@ habilité à requérir l'inscription au nom de la personne tenue de faire la dé
 Lorsqu'une inscription a été enregistrée bien qu'elle ne fût pas admissible parce qu'une condition essentielle faisait
 défaut, le tribunal chargé du registre peut la rayer d'office.
 
-Il doit informer l'association ou la personne intéressée de la radiation envisagée et lui impartir un délai convenable pour
-faire valoir ses objections. L'ordonnance qui repousse ces objections ne peut être frappée que d'un pourvoi immédiat.
+Il doit informer la personne intéressée de la radiation envisagée et lui impartir un délai convenable pour faire valoir ses
+objections. L'ordonnance qui repousse ces objections ne peut être frappée que d'un pourvoi immédiat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
 ###### Article ANNEXE, art. 30
@@ -33291,6 +33299,379 @@ L'ordonnance ne peut être frappée que d'un pourvoi immédiat.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+##### Sous-section IV : Dispositions particulières au registre des associations
+
+##### Paragraphe 1 : L'instruction des demandes d'inscription
+
+###### Article ANNEXE, art. 30-1
+
+La déclaration en vue de l'inscription de l'association ou de l'inscription de toute modification des statuts est faite au
+greffe du tribunal d'instance par un membre de la direction de l'association.
+
+La déclaration précise l'objet, la dénomination et l'adresse du siège ou la domiciliation de l'association et, le cas
+échéant, son sigle.
+
+Lorsqu'elle est faite en vue de l'inscription de l'association, la déclaration mentionne en outre les nom, prénoms, domicile,
+nationalité, date et lieu de naissance de chacun des membres de la direction ainsi que leur fonction au sein de
+l'association. Un résumé de l'objet statutaire destiné à être publié dans un journal d'annonces légales comme prévu à
+l'article 66 du code civil local est joint à cette déclaration. Les signataires des statuts joints à la même déclaration en
+application de l'article 59 du même code y apposent leurs nom et prénoms.
+
+Le greffier donne récépissé de la déclaration au déclarant dans un délai de cinq jours. Le récépissé contient l'énumération
+des pièces annexées. Il est daté et signé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 66, 59
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+###### Article ANNEXE, art. 30-2
+
+Dans le cas prévu à l'article 60 du code civil local, le tribunal d'instance recueille les observations de la direction de
+l'association ou les lui demande avant de prendre une ordonnance de rejet de la déclaration.
+
+Il peut aussi renvoyer la déclaration, en l'état, à une audience dont il fixe la date. Les membres de la direction y sont
+convoqués huit jours au moins à l'avance par le greffier du tribunal d'instance. La décision de rejet intervient au plus tard
+dans le délai d'un mois à compter de la délivrance du récépissé de déclaration prévu à l'article 30-1.
+
+Dans les autres cas, il communique dans le même délai la déclaration au représentant de l'Etat dans le département, qui en
+accuse réception.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 60
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+###### Article ANNEXE, art. 30-3
+
+Le représentant de l'Etat dans le département qui s'oppose à l'inscription d'une association sur le fondement de l'article 61
+du code civil local en fait la déclaration au greffe du tribunal d'instance dans le délai prévu à l'article 63 du même code.
+
+Le greffe notifie l'opposition à la direction de l'association, par lettre recommandée avec demande d'avis de réception, dans
+le délai d'un mois à compter de sa réception au greffe. Le tribunal peut toutefois décider que cette notification aura lieu
+par acte d'huissier de justice ou par la voie administrative.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 61, 63
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2017-908 du 6 mai 2017 - art. 14
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R93 (V)
+
+
+###### Article ANNEXE, art. 30-4
+
+Les déclarations prévues au premier alinéa de l'article 67 et aux articles 74 et 76 du code civil local sont faites au greffe
+du tribunal d'instance par un membre de la direction de l'association et, le cas échéant, par les liquidateurs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 74, 76
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+##### Paragraphe 2 : La tenue du registre
+
+###### Article ANNEXE, art. 30-5
+
+Le registre des associations inscrites est tenu sous le contrôle du juge par le greffe du tribunal d'instance, selon un
+modèle fixé par arrêté du garde des sceaux, ministre de la justice. Un arrêté du même ministre fixe la date à compter de
+laquelle le registre est tenu sur support électronique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+###### Article ANNEXE, art. 30-6
+
+Les pièces jointes aux déclarations de l'association sont conservées au greffe du tribunal d'instance dans un dossier annexe
+organisé selon des modalités fixées par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+###### Article ANNEXE, art. 30-7
+
+L'attestation prévue à l'article 69 du code civil local est établie par le greffier en chef du tribunal d'instance, ou son
+délégué, selon un modèle fixé par arrêté du garde des sceaux, ministre de la justice.
+
+Elle précise les nom, prénoms, domicile, nationalité, date et lieu de naissance de chacun des membres de la direction ainsi
+que la date d'inscription de l'association.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 69
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+###### Article ANNEXE, art. 30-8
+
+Le greffier en chef du tribunal d'instance avise le ministère public de l'omission des déclarations à fin d'inscription
+prévues par le premier alinéa de l'article 67, le premier alinéa de l'article 71, le deuxième alinéa de l'article 74 et
+l'article 76 du code civil local dont il a connaissance. Il en est de même lorsque l'attestation prévue par l'article 72 du
+même code n'est pas fournie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 76, 74, 72
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+##### Paragraphe 3 : La publication de l'inscription
+
+###### Article ANNEXE, art. 30-9
+
+Les frais de publication de l'inscription dans un journal d'annonces légales sont à la charge de l'association.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+###### Article ANNEXE, art. 30-10
+
+Le tribunal d'instance détermine le montant à verser par l'association pour la publication de l'inscription en fonction des
+frais de publication.
+
+Ce montant est versé au comptable du Trésor, agissant en qualité de préposé de la Caisse des dépôts et consignations. Le
+tribunal peut toutefois autoriser l'association à verser directement ce montant au journal d'annonces légales.
+
+Dans les quinze jours de la justification du versement au comptable du Trésor ou au journal d'annonces légales, le greffe
+adresse à ce dernier, par lettre recommandée avec demande d'avis de réception, l'avis aux fins de publication.
+
+L'avis contient :
+
+1° Les références et la date de l'inscription ;
+
+2° La dénomination suivie, le cas échéant, du sigle ;
+
+3° L'adresse du siège ou la domiciliation ;
+
+4° L'extrait des statuts prévu au troisième alinéa de l'article 30-1 ;
+
+5° La date d'adoption des statuts ;
+
+6° Les nom et prénoms des membres de la direction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 30-1
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre
+
+###### Article ANNEXE, art. 30-11
+
+Pour l'application de l'article 73 du code civil local, avant de prendre une ordonnance de retrait de la capacité juridique
+de l'association, le tribunal d'instance recueille les observations de la direction ou les lui demande par lettre recommandée
+avec demande d'avis de réception et sollicite l'avis du ministère public sur le dossier ainsi complété.
+
+Le tribunal inscrit l'affaire à une audience dont il fixe la date et dont il informe le ministère public. Les membres de la
+direction y sont convoqués quinze jours au moins à l'avance par le greffier du tribunal d'instance.
+
+L'affaire est instruite et jugée en chambre du conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+	**Cite**:
+
+	  - Code civil - art. 73 (V)
+
+
+###### Article ANNEXE, art. 30-12
+
+L'ordonnance de radiation d'une association qui entre dans les prévisions du premier alinéa de l'article 79-I du code civil
+local est notifiée dans les formes prévues à l'article 5. En cas de retour au greffe de la notification dont l'avis n'a pas
+été signé par son destinataire, la notification est réputée valablement faite par l'affichage de l'ordonnance au greffe du
+tribunal pendant un délai de quinze jours.
+
+L'ordonnance de radiation ne peut être frappée que d'un pourvoi immédiat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 79
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+##### Paragraphe 5 : Les sanctions
+
+###### Article ANNEXE, art. 30-13
+
+A la demande du ministère public, le tribunal d'instance peut enjoindre par ordonnance aux membres de la direction de
+l'association ou aux liquidateurs selon le cas d'avoir à justifier dans un délai qu'il fixe du respect de l'alinéa premier de
+l'article 67, de l'alinéa premier de l'article 71, de l'article 72, du deuxième alinéa de l'article 74 et de l'article 76 du
+code civil local.
+
+A défaut de justification dans le délai imparti, le tribunal peut prononcer la sanction prévue à l'article 78 du code civil
+local. Les membres de la direction ou les liquidateurs sont convoqués à l'audience par lettre recommandée avec demande d'avis
+de réception et par lettre simple.
+
+En cas de retour au greffe de la convocation dont l'avis n'a pas été signé par son destinataire, il est fait application de
+l'article 670-1 du code de procédure civile.
+
+L'affaire est instruite et jugée en chambre du conseil.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 67, 71, 72, 74, 76, 78
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+###### Article ANNEXE, art. 30-14
+
+Le montant de la sanction prévue à l'article 78 du code civil local est celui de l'amende civile prévue à l'article 32-1 du
+code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code civil local 78
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+###### Article ANNEXE, art. 30-15
+
+L'ordonnance prononçant une sanction à l'encontre des membres de la direction de l'association ou des liquidateurs ne peut
+être frappée que d'un pourvoi immédiat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Créé par**:
+
+	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
 ### Chapitre II : Dispositions particulières au tribunal de grande instance.
