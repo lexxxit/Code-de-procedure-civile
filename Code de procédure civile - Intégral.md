@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2007-05-01
+Version Consolidée au 2007-05-11
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -21530,13 +21530,14 @@ dispositif sont aussitôt opérées.
 
 ###### Article 1056-1
 
-Le procureur de la République territorialement compétent pour se prononcer, en application de l'article 170-1 du code civil,
-sur la transcription d'un acte de mariage célébré à l'étranger est le procureur du lieu où est établi le service central
-d'état civil du ministère des affaires étrangères.
+Le procureur de la République territorialement compétent pour s'opposer à la célébration d'un mariage d'un Français à
+l'étranger est celui du lieu où est établi le service central d'état civil du ministère des affaires étrangères.
 
-Lorsque l'acte de mariage a été transcrit sur les registres consulaires français, il est également compétent pour poursuivre
-l'annulation du mariage célébré à l'étranger, même lorsqu'il n'a pas été saisi préalablement à la transcription dans les
-conditions prévues à l'article 170-1 du code civil.
+Il est également seul compétent pour se prononcer sur la transcription de l'acte de mariage étranger sur les registres de
+l'état civil français et pour poursuivre l'annulation de ce mariage.
+
+Il est également seul compétent, lorsque l'acte de mariage étranger a été transcrit sur les registres consulaires français,
+pour poursuivre l'annulation du mariage, même s'il n'a pas été saisi préalablement à la transcription.
 
 **Liens relatifs à cet article**
 
@@ -21544,13 +21545,17 @@ conditions prévues à l'article 170-1 du code civil.
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-170 du 23 février 2005 - art. 5 () JORF 25 février 2005 en vigueur le 1er mars 2005
+	  - Décret n°2007-773 du 10 mai 2007 - art. 1 () JORF 11 mai 2007
 
-	**Cite**:
+	**Liens**:
 
-	  - Code civil - art. 170-1 (M)
+	  - TRANSFERE: Décret n°2012-66 du 20 janvier 2012 - art. 39
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1056-2 (V)
 
 
 ### Chapitre III : Le répertoire civil
@@ -22212,21 +22217,24 @@ Le dispositif de la décision mentionne la date de l'ordonnance de non-conciliat
 
 ###### Article 1082
 
-Mention du divorce ou de la séparation de corps est portée en marge de l'acte de mariage, ainsi que de l'acte de naissance de
+Mention du divorce ou de la séparation de corps est portée en marge de l'acte de mariage ainsi que de l'acte de naissance de
 chacun des époux, au vu d'un extrait de la décision ne comportant que son dispositif et accompagné de la justification de son
-caractère exécutoire conformément à l'article 506.
+caractère exécutoire conformément à l'article 506. 
 
 Si le mariage a été célébré à l'étranger et en l'absence d'acte de mariage conservé par une autorité française, mention du
 dispositif de la décision est portée en marge de l'acte de naissance de chacun des époux, si cet acte est conservé sur un
 registre français. A défaut, l'extrait de la décision est conservé au répertoire mentionné à l'article 4-1 du décret n°
-65-422 du 1er juin 1965 portant création d'un service central d'état civil au ministère des affaires étrangères.
+65-422 du 1er juin 1965 portant création d'un service central d'état civil au ministère des affaires étrangères. 
+
+Toutefois, cette mention ne peut être portée en marge de l'acte de naissance d'un Français qu'après transcription sur les
+registres de l'état civil de l'acte de mariage célébré par l'autorité étrangère à compter du 1er mars 2007.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
-	  - Nouveau code de procédure civile 506
+	  - Code de procédure civile - art. 506 (V)
 
 	**Codifié par**:
 
@@ -22234,8 +22242,7 @@ registre français. A défaut, l'extrait de la décision est conservé au réper
 
 	**Modifié par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2007-773 du 10 mai 2007 - art. 12 () JORF 11 mai 2007
 
 
 ###### Article 1082-1
@@ -23619,36 +23626,6 @@ prétendu ou lorsque ceux-ci ont renoncé à la succession.
 	**Anciens textes**:
 
 	  - Nouveau code de procédure civile 1153-1
-
-
-###### Article 1152
-
-Pour les enfants nés avant le 1er janvier 2005, les déclarations conjointes prévues aux articles 334-2 et 334-5 du code
-civil, dans leur rédaction antérieure à la loi n° 2002-304 du 4 mars 2002, sont faites devant le greffier en chef du tribunal
-de grande instance du lieu où demeure l'enfant.
-
-Le greffier en chef en donne aussitôt avis au procureur de la République du lieu de naissance de l'enfant qui fait procéder
-aux mentions nécessaires en marge de l'acte de naissance de celui-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Cite**:
-
-	  - Loi n°2002-304 2002-03-04
-	  - Code civil - art. 334-2 (M)
-	  - Code civil - art. 334-5 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-773 du 10 mai 2007 - art. 13 () JORF 11 mai 2007
 
 
 #### Section II : Les subsides
@@ -27777,8 +27754,8 @@ section.
 ###### Article 1300-2
 
 La mention du changement de régime matrimonial en marge de l'acte de mariage est requise par le notaire. Celui-ci adresse à
-l'officier d'état civil une expédition de l'acte et un certificat établi par lui précisant la date de réalisation des
-formalités d'information et de publication de l'avis et attestant de l'absence d'opposition.
+l'officier d'état civil un extrait de l'acte et un certificat établi par lui précisant la date de réalisation des formalités
+d'information et de publication de l'avis et attestant de l'absence d'opposition.
 
 **Liens relatifs à cet article**
 
@@ -27786,9 +27763,9 @@ formalités d'information et de publication de l'avis et attestant de l'absence 
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-773 du 10 mai 2007 - art. 14 () JORF 11 mai 2007
 
 	**Cité par**:
 
