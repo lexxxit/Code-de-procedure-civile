@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-05-16
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -11663,15 +11663,13 @@ formalités de publicité doivent être opérées.
 Lorsque la demande est portée devant une juridiction qui a son siège en France métropolitaine, les délais de comparution,
 d'appel, d'opposition, de recours en révision et de pourvoi en cassation sont augmentés de :
 
-1. Un mois pour les personnes qui demeurent dans un département d'outre-mer ou dans un territoire d'outre-mer ;
+1. Un mois pour les personnes qui demeurent en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-
+Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-
+Calédonie et dans les Terres australes et antarctiques françaises ;
 
 2. Deux mois pour celles qui demeurent à l'étranger.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 	**Cité par**:
 
@@ -11698,26 +11696,24 @@ d'appel, d'opposition, de recours en révision et de pourvoi en cassation sont a
 	  - Code des pensions militaires d'invalidité et de... - art. R731-2 (V)
 	  - Code électoral - art. R211 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2008-452 du 13 mai 2008 - art. 22
+
 
 ###### Article 644
 
-Lorsque la demande est portée devant une juridiction qui a son siège dans un département d'outre-mer, les délais de
-comparution, d'appel, d'opposition et de recours en révision, sont augmentés de :
-
-1. Un mois pour les personnes qui ne demeurent pas dans ce département ainsi que pour celles qui demeurent dans les localités
-de ce département désignées par ordonnance du premier président ;
-
-2. Deux mois pour les personnes qui demeurent à l'étranger.
+Lorsque la demande est portée devant une juridiction qui a son siège en Guadeloupe, en Guyane, à la Martinique, à La Réunion,
+à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna, les délais de
+comparution, d'appel, d'opposition et de recours en révision sont augmentés d'un mois pour les personnes qui ne demeurent pas
+dans la collectivité territoriale dans le ressort de laquelle la juridiction a son siège et de deux mois pour les personnes
+qui demeurent à l'étranger.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°76-1236 1976-12-28 art. 11 JORF 30 décembre 1976
+	  - Décret n°2008-452 du 13 mai 2008 - art. 23
 
 	**Cité par**:
 
@@ -11773,19 +11769,16 @@ personne en un lieu où ceux qui y demeurent n'en bénéficieraient point, cette
 
 ###### Article 647-1
 
-La date de notification d'un acte judiciaire ou extrajudiciaire dans une collectivité d'outre-mer ou en Nouvelle-Calédonie
-ainsi qu'à l'étranger est, à l'égard de celui qui y procède, la date d'expédition de l'acte par l'huissier de justice ou le
-greffe, ou, à défaut, la date de réception par le parquet compétent.
+La date de notification d'un acte judiciaire ou extrajudiciaire, en Polynésie française, dans les îles Wallis et Futuna, en
+Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises ainsi qu'à l'étranger est, à l'égard de celui qui
+y procède, la date d'expédition de l'acte par l'huissier de justice ou le greffe, ou, à défaut, la date de réception par le
+parquet compétent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 62 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2008-452 du 13 mai 2008 - art. 24
 
 	**Cité par**:
 
@@ -12087,22 +12080,19 @@ d'établissement connu au lieu indiqué comme siège social par le registre du c
 
 ###### Article 660
 
-Si l'acte est destiné à une personne qui demeure dans une collectivité d'outre-mer ou en Nouvelle-Calédonie, et à moins que
-la signification ait pu être faite à personne, l'huissier de justice expédie l'acte à l'autorité compétente aux fins de sa
-remise à l'intéressé selon les modalités applicables dans la collectivité où il demeure.
+Si l'acte est destiné à une personne qui demeure en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-
+Calédonie et dans les Terres australes et antarctiques françaises, et à moins que la signification ait pu être faite à
+personne, l'huissier de justice expédie l'acte à l'autorité compétente aux fins de sa remise à l'intéressé selon les
+modalités applicables dans la collectivité où il demeure. 
 
 L'huissier de justice doit, le jour même ou, au plus tard, le premier jour ouvrable suivant, expédier au destinataire, par
 lettre recommandée avec demande d'avis de réception, la copie certifiée conforme de l'acte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 63 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2008-452 du 13 mai 2008 - art. 24
 
 	**Cité par**:
 
@@ -12344,22 +12334,19 @@ dans les conditions prévues à l'article 670, le secrétaire invite la partie �
 
 ###### Article 670-2
 
-Si l'acte est destiné à une personne qui demeure dans une collectivité d'outre-mer ou en Nouvelle-Calédonie, le secrétaire de
-la juridiction expédie l'acte à l'autorité compétente aux fins de sa remise à l'intéressé selon les modalités applicables
-dans la collectivité où il demeure.
+Si l'acte est destiné à une personne qui demeure en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-
+Calédonie et dans les Terres australes et antarctiques françaises, et à moins que la notification ait pu être faite par
+lettre recommandée avec demande d'avis de réception, le secrétaire de la juridiction expédie l'acte à l'autorité compétente
+aux fins de sa remise à l'intéressé selon les modalités applicables dans la collectivité où il demeure.
 
 L'autorité compétente informe la juridiction des diligences faites ; elle lui transmet, le cas échéant, tout procès-verbal ou
 récépissé constatant la remise de l'acte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 65 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2008-452 du 13 mai 2008 - art. 25
 
 
 ###### Article 670-3
@@ -20833,24 +20820,30 @@ connaissance des parties qui ne sont pas assistées ou représentées par un avo
 
 ###### Article 1023
 
-Les délais prévus aux articles 978 et 989 sont augmentés :
+Les délais prévus aux articles 978 et 989 sont augmentés de : 
 
-- d'un mois si le demandeur demeure dans un département d'outre-mer, à Mayotte ou dans un territoire d'outre-mer ;
+1° Un mois si le demandeur demeure en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à
+Saint-Martin, à Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie ou
+dans les Terres australes et antarctiques françaises ; 
 
-- de deux mois s'il demeure à l'étranger.
+2° Deux mois s'il demeure à l'étranger. 
 
-Les délais prévus aux articles 982, 991 et 1010 (dernier alinéa) sont de même augmentés d'un mois ou de deux mois selon que
-le défendeur demeure dans un département d'outre-mer, à Mayotte, un territoire d'outre-mer ou à l'étranger.
+Les délais prévus aux articles 982 et 991 et au dernier alinéa de l'article 1010 sont de même augmentés d'un mois ou de deux
+mois selon que le défendeur demeure dans l'une des collectivités territoriales énoncées au premier alinéa ou à l'étranger.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2008-452 du 13 mai 2008 - art. 26
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1010
+	  - Code de procédure civile - art. 978
+	  - Code de procédure civile - art. 982
+	  - Code de procédure civile - art. 989
+	  - Code de procédure civile - art. 991
 
 	**Cité par**:
 
