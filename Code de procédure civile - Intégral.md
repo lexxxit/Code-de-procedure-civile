@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-05
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -1138,13 +1138,14 @@ Les incidents d'instance sont tranchés par la juridiction devant laquelle se d�
 Le tribunal de grande instance connaît de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une
 autre juridiction.
 
-Les autres juridictions ne connaissent que des demandes incidentes qui entrent dans leur compétence d'attribution.
+Sauf disposition particulière, les autres juridictions ne connaissent que des demandes incidentes qui entrent dans leur
+compétence d'attribution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2008-522 du 2 juin 2008 - art. 9
 
 
 ###### Article 52
@@ -15400,33 +15401,6 @@ celle-ci est antérieure à la saisine du tribunal, avec la remise de la copie d
 
 #### Chapitre II : Mesures d'administration judiciaire.
 
-###### Article 817
-
-La désignation [*mode*] des juges de la mise en état et celle des magistrats appelés à statuer comme juge unique sont faites
-selon les modalités fixées pour la répartition des juges entre les diverses chambres du tribunal.
-
-Le président du tribunal de grande instance et les présidents de chambre peuvent [*pouvoirs*] exercer eux-mêmes ces
-attributions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 9
-
-	**Nouveaux textes**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-7 (V)
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-1 (Ab)
-
-
 ###### Article 818
 
 Plusieurs juges peuvent être chargés de la mise en état dans une même chambre ; dans ce cas, les affaires sont réparties
@@ -15445,21 +15419,6 @@ entre eux par le président de la chambre.
 	**Nouveaux textes**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-7 (V)
-
-
-###### Article 819
-
-Les juges de la mise en état peuvent être remplacés à tout moment en cas d'empêchement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 9
 
 
 ###### Article 820
@@ -17072,6 +17031,22 @@ lui sont dévolus par le présent titre.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 878-1
+
+Lorsque le tribunal de grande instance statue en matière commerciale en application de l'article L. 722-4 du code de
+commerce, les demandes sont formées, instruites et jugées conformément aux règles établies par le présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 9
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-4
 
 
 ## Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale.
@@ -20667,6 +20642,18 @@ La formation restreinte de la chambre à laquelle l'affaire a été distribuée 
 	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
+###### Article 1014
+
+Après le dépôt des mémoires, cette formation déclare non admis les pourvois irrecevables ou non fondés sur un moyen sérieux
+de cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-522 du 2 juin 2008 - art. 9
+
+
 ###### Article 1015
 
 Le président de la formation doit aviser les parties des moyens susceptibles d'être relevés d'office et les inviter à
@@ -21039,21 +21026,24 @@ pourvoir devant la juridiction qu'il désigne pour qu'il soit statué sur la dem
 
 Lorsque le juge envisage de solliciter l'avis de la Cour de cassation en application de l'article L. 151-1 du code de
 l'organisation judiciaire, il en avise les parties et le ministère public, à peine d'irrecevabilité. Il recueille leurs
-observations écrites éventuelles dans le délai qu'il fixe, à moins qu'ils n'aient déjà conclu sur ce point.
+observations écrites éventuelles dans le délai qu'il fixe, à moins qu'ils n'aient déjà conclu sur ce point. 
 
 Dès réception des observations ou à l'expiration du délai, le juge peut, par une décision non susceptible de recours,
 solliciter l'avis de la Cour de cassation en formulant la question de droit qu'il lui soumet. Il surseoit à statuer jusqu'à
-la réception de l'avis ou jusqu'à l'expiration du délai mentionné à l'article 1031-3.
+la réception de l'avis ou jusqu'à l'expiration du délai mentionné à l'article 1031-3. 
+
+La saisine pour avis ne fait pas obstacle à ce que le juge ordonne des mesures d'urgence ou conservatoires nécessaires.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-460 du 13 mai 2005 - art. 30 () JORF 14 mai 2005
+	  - Décret n°2008-522 du 2 juin 2008 - art. 9
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1031-3
+	  - Code de l'organisation judiciaire - art. L151-1
 
 
 ###### Article 1031-2
