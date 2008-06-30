@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2008-06-05
+Version Consolidée au 2008-07-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13985,6 +13985,97 @@ l'application d'une forme particulière de procéder à la demande de la juridic
 
 ## Titre XXI : La communication par voie électronique.
 
+###### Article 748-1
+
+Les envois, remises et notifications des actes de procédure, des pièces, avis, avertissements ou convocations, des rapports,
+des procès-verbaux ainsi que des copies et expéditions revêtues de la formule exécutoire des décisions juridictionnelles
+peuvent être effectués par voie électronique dans les conditions et selon les modalités fixées par le présent titre.
+
+**Nota:**
+
+Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
+décret entre en vigueur le 1er janvier 2009.
+
+Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
+le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
+président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
+communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
+du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
+de procédure civile) au 1er juillet 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-1678 2005-12-28 art. 88 : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 73 () JORF 29 décembre 2005 en vigueur le 1er janvier 2009 sous réserve art. 88
+
+	**Cité par**:
+
+	  - Arrêté du 25 septembre 2008 - art. 3 (V)
+	  - Arrêté du 7 avril 2009 - art. 2 (V)
+	  - Arrêté du 14 décembre 2009 - art. 7 (Ab)
+	  - Arrêté du 5 mai 2010 - art. 7 (V)
+	  - Arrêté du 23 décembre 2010 - art. 4 (VT)
+	  - Arrêté du 30 mars 2011 - art. 11 (V)
+	  - Arrêté du 22 février 2011 - art. 2 (V)
+	  - Arrêté du 28 août 2012 - art. 2 (V)
+	  - Arrêté du 28 août 2012 - art. 5 (V)
+	  - Arrêté du 28 août 2012 - art. 6 (V)
+	  - Arrêté du 28 août 2012 - art. 7 (V)
+	  - Arrêté du 9 février 2016 - art. 1 (V)
+	  - Code de procédure civile - art. 748-2 (V)
+	  - Code de procédure civile - art. 748-3 (VD)
+
+
+###### Article 748-2
+
+Le destinataire des envois, remises et notifications mentionnés à l'article 748-1 doit consentir expressément à l'utilisation
+de la voie électronique.
+
+**Nota:**
+
+Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
+décret entre en vigueur le 1er janvier 2009.
+
+Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
+le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
+président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
+communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
+du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
+de procédure civile) au 1er juillet 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-1678 2005-12-28 art. 88 : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 73 () JORF 29 décembre 2005 en vigueur le 1er janvier 2009 sous réserve art. 88
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 2011 - art. 12 (V)
+	  - Arrêté du 22 février 2011 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 748-1 (VT)
+
+
 ###### Article 748-3
 
 Les envois, remises et notifications mentionnés à l'article 748-1 font l'objet d'un avis électronique de réception adressé
@@ -14021,6 +14112,113 @@ de procédure civile) au 1er juillet 2008.
 	**Cite**:
 
 	  - Code de procédure civile - art. 748-1 (VD)
+
+
+###### Article 748-4
+
+Lorsqu'un document a été établi en original sur support papier, le juge peut en exiger la production.
+
+**Nota:**
+
+Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
+décret entre en vigueur le 1er janvier 2009.
+
+Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
+le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
+président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
+communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
+du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
+de procédure civile) au 1er juillet 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-1678 2005-12-28 art. 88 : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 73 () JORF 29 décembre 2005 en vigueur le 1er janvier 2009 sous réserve art. 88
+
+
+###### Article 748-5
+
+L'usage de la communication par voie électronique ne fait pas obstacle au droit de la partie intéressée de demander la
+délivrance, sur support papier, de l'expédition de la décision juridictionnelle revêtue de la formule exécutoire.
+
+**Nota:**
+
+Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
+décret entre en vigueur le 1er janvier 2009.
+
+Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
+le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
+président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
+communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
+du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
+de procédure civile) au 1er juillet 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-1678 2005-12-28 art. 88 : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 73 () JORF 29 décembre 2005 en vigueur le 1er janvier 2009 sous réserve art. 88
+
+
+###### Article 748-6
+
+Les procédés techniques utilisés doivent garantir, dans des conditions fixées par arrêté du garde des sceaux, ministre de la
+justice, la fiabilité de l'identification des parties à la communication électronique, l'intégrité des documents adressés, la
+sécurité et la confidentialité des échanges, la conservation des transmissions opérées et permettre d'établir de manière
+certaine la date d'envoi et celle de la réception par le destinataire.
+
+**Nota:**
+
+Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
+décret entre en vigueur le 1er janvier 2009.
+
+Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
+le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
+président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
+communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
+du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
+de procédure civile) au 1er juillet 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2005-1678 2005-12-28 art. 88 : Champ d'application
+
+	**Créé par**:
+
+	  - Décret n°2005-1678 du 28 décembre 2005 - art. 73 () JORF 29 décembre 2005 en vigueur le 1er janvier 2009 sous réserve art. 88
+
+	**Cité par**:
+
+	  - Décret n°2010-434 du 29 avril 2010 (VT)
+	  - Décret n°2010-434 du 29 avril 2010 - art. 1 (VT)
+	  - Décret n°2010-434 du 29 avril 2010 - art. 1-1 (VT)
+	  - Décret n°2012-366 du 15 mars 2012 (V)
+	  - Décret n°2012-366 du 15 mars 2012 - art. 24 (V)
+	  - Arrêté du 28 août 2012 - art. 5 (V)
+	  - Arrêté du 12 mars 2013 - art. 3 (Ab)
 
 
 ## Titre XXII : Disposition finale.
