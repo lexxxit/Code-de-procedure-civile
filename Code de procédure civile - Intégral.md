@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2008-07-01
+Version Consolidée au 2008-08-23
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -26916,6 +26916,35 @@ curateur.
 	**Créé par**:
 
 	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+### Chapitre XII : Les actions en matière de discriminations. 
+
+
+###### Article 1263-1
+
+Les associations régulièrement déclarées depuis au moins cinq ans et se proposant, par leurs statuts, de lutter contre les
+discriminations peuvent exercer les actions en justice qui naissent de la loi n° 2008-496 du 27 mai 2008 en faveur de la
+victime d'une discrimination. 
+
+L'association doit justifier avoir obtenu l'accord écrit de l'intéressé après avoir porté à sa connaissance les informations
+suivantes : 
+
+1° La nature et l'objet de l'action envisagée ; 
+
+2° Le fait que l'action sera conduite par l'association qui pourra exercer elle-même les voies de recours ; 
+
+3° Le fait que l'intéressé pourra, à tout moment, intervenir dans l'instance engagée par l'association ou y mettre fin.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2008-496 du 27 mai 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-799 du 20 août 2008 - art. 1
 
 
 ## Titre II : Les biens.
