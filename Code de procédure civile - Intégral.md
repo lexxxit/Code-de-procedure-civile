@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2008-08-23
+Version Consolidée au 2008-09-11
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -25540,26 +25540,45 @@ L'appel est formé, instruit et jugé comme en matière gracieuse.
 
 ###### Article 1210-3
 
-Lorsque l'administrateur ad hoc est choisi parmi les personnes figurant sur la liste prévue à l'article R. 53 du code de
-procédure pénale, sa rémunération est celle fixée au 3° de l'article R. 216 du même code.
+En sus du remboursement de ses frais de déplacement, calculés dans les conditions fixées pour les déplacements des personnels
+civils de l'Etat pour le ministère de la justice, il est alloué une indemnité à chaque personne désignée en qualité
+d'administrateur ad hoc, lorsqu'elle figure sur la liste prévue à l'article 53 du code de procédure pénale. 
+
+Une indemnité de carence est allouée à l'administrateur ad hoc qui n'a pu réaliser sa mission pour une cause qui lui est
+étrangère, sur la base d'un rapport indiquant les diligences accomplies, dans les conditions définies à l'article R. 53-8 du
+code de procédure pénale. 
+
+Le montant de ces indemnités est fixé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé
+du budget. 
 
 Les frais de cette rémunération sont recouvrés par le Trésor contre la partie condamnée aux dépens, selon les procédures et
 sous les garanties prévues en matière d'amende pénale. En l'absence de condamnation aux dépens, les frais sont recouvrés
 contre la partie indiquée par le juge qui a désigné l'administrateur ad hoc.
 
+**Nota:**
+
+Décret n° 2008-764 du 30 juillet 2008 article 15 II : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du
+présent décret entreront en vigueur à la date fixée par les arrêtés prévus par ces dispositions.
+
+Arrêté du 2 septembre 2008 article 4 : Les dispositions résultant des articles 8, 9, 11, 12, 13 et 14 du décret du 30 juillet
+2008 susvisé, instituant ou modifiant les articles R. 116-1, R. 117, R. 122, R. 216 et R. 216-1 du code de procédure pénale,
+l'article 1210-3 du nouveau code de procédure civile et l'article R. 111-20 du code de l'entrée et du séjour des étrangers et
+du droit d'asile entrent en vigueur à la date de publication du présent arrêté (11 septembre 2008).
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°99-818 du 16 septembre 1999 - art. 7 () JORF 19 septembre 1999
+	  - Décret n°2008-764 du 30 juillet 2008 - art. 13
 
 	**Cité par**:
 
 	  - CODE DE PROCEDURE PENALE - art. A43-10 (V)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. R53
+	  - Code de procédure pénale - art. R53-8
 
 
 #### Section V : Le déplacement illicite international d'enfants
