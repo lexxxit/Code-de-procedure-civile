@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2008-09-11
+Version Consolidée au 2008-12-20
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -30303,6 +30303,148 @@ portées devant le tribunal de grande instance.
 
 ## Titre IV : Les obligations et les contrats.
 
+### Chapitre Ier : La procédure européenne de règlement des petits litiges.
+
+###### Article 1382
+
+Le présent chapitre est relatif à la procédure européenne de règlement des petits litiges prévue par le règlement (CE) n°
+861 / 2007 du Parlement européen et du Conseil du 11 juillet 2007 instituant une procédure européenne de règlement des petits
+litiges. 
+
+Lorsque le règlement (CE) n° 44 / 2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance
+et l'exécution des décisions en matière civile et commerciale désigne les juridictions d'un Etat membre sans autre précision,
+la juridiction territorialement compétente est celle du lieu où demeure le ou l'un des défendeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1383
+
+Le formulaire de demande est remis ou adressé par voie postale au greffe de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1384
+
+Si, au vu du formulaire de demande qui lui est présenté, il apparaît au tribunal que l'affaire ne relève pas du champ
+d'application de la procédure européenne de règlement des petits litiges, il en avise le demandeur par lettre recommandée
+avec demande d'avis de réception. Il lui impartit un délai pour se désister de sa demande et l'informe que, à défaut,
+l'affaire sera instruite et jugée selon la procédure au fond applicable devant lui. 
+
+A l'expiration de ce délai, si le demandeur ne s'est pas désisté de sa demande, le tribunal constate que le litige ne relève
+pas de la procédure européenne de règlement des petits litiges et invite le demandeur à faire citer le défendeur par voie de
+signification. Cette décision est une mesure d'administration judiciaire. A la diligence du greffe, elle est notifiée au
+demandeur par lettre recommandée avec demande d'avis de réception. 
+
+Le tribunal qui a renvoyé l'affaire pour qu'il soit statué selon la procédure au fond applicable devant lui peut se déclarer
+incompétent dans les conditions prévues par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1385
+
+Lorsque le tribunal rejette la demande au motif que celle-ci apparaît manifestement non fondée ou irrecevable ou que le
+demandeur n'a pas complété ou rectifié le formulaire de demande dans le délai qui lui a été fixé, la décision rendue est
+insusceptible de recours. Le demandeur peut toutefois procéder selon les voies de droit commun.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1386
+
+Lorsqu'une demande reconventionnelle ne relève pas du champ d'application de la procédure européenne de règlement des petits
+litiges, le tribunal en avise les parties par lettre recommandée avec demande d'avis de réception. Il les informe qu'à moins
+que le demandeur reconventionnel ne se désiste de sa demande dans un délai qui lui est imparti, l'affaire sera instruite et
+jugée selon la procédure au fond applicable devant lui. A l'expiration de ce délai, si le demandeur ne s'est pas désisté de
+sa demande, le tribunal constate que le litige ne relève pas de la procédure européenne de règlement des petits litiges. 
+
+Lorsque le tribunal décide, d'office ou à la demande d'une partie, que le litige ne relève pas de la procédure européenne de
+règlement des petits litiges au motif qu'une demande reconventionnelle ne relève pas du champ d'application de cette
+procédure, il ordonne le renvoi de l'affaire à une audience pour qu'il soit statué selon la procédure au fond applicable
+devant lui. A la diligence du greffe, les parties sont avisées de cette décision et sont convoquées à l'audience par lettre
+recommandée avec demande d'avis de réception. 
+
+Le tribunal qui a renvoyé l'affaire pour qu'il soit statué selon la procédure au fond applicable devant lui peut se déclarer
+incompétent dans les conditions prévues par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1387
+
+En cas de retour au greffe d'une lettre de notification dont l'avis de réception n'a pas été signé dans les conditions
+prévues à l'article 670, la notification est faite par acte d'huissier de justice, à la diligence du greffe. L'avance des
+frais de signification est à la charge du Trésor public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 670
+
+
+###### Article 1388
+
+Lorsque le tribunal décide de tenir une audience en application de la procédure européenne de règlement des petits litiges,
+il connaît du litige conformément à la procédure au fond applicable devant lui.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1389
+
+Les dispositions de l'article 1387 ne sont pas applicables à la notification aux parties de la décision rendue. Cette
+notification est faite, à la diligence du greffe, par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1390
+
+A la demande qui lui en est faite, le greffe délivre le certificat relatif à une décision rendue dans le cadre de la
+procédure européenne de règlement des petits litiges.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
 ### Chapitre I : Les procédures d'injonction
 
 #### Section I : L'injonction de payer.
@@ -30743,32 +30885,269 @@ l'opposition ou au moment où l'ordonnance est revêtue de la formule exécutoir
 	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-###### Article 1425
+#### Section II : L'injonction de faire.
 
-Devant le tribunal de commerce, les frais de l'ordonnance portant injonction de payer sont avancés par le créancier et
-consignés au greffe au plus tard dans les quinze jours de la demande prévue à l'article 1405, faute de quoi celle-ci sera
-caduque.
+### Chapitre II : Les procédures d'injonction.
 
-L'opposition est reçue sans frais par le greffier. Celui-ci invite sans délai le créancier, par lettre recommandée avec
-demande d'avis de réception, à consigner les frais de l'opposition au greffe dans le délai de quinze jours à peine de
-caducité de la demande prévue à l'article 1405.
+#### Section I : L'injonction de payer.
+
+#### Section II : L'injonction de payer européenne.
+
+###### Article 1424-1
+
+La présente section est relative à la procédure européenne d'injonction de payer prévue par le règlement (CE) n° 1896 / 2006
+du Parlement européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d'injonction de payer. 
+
+Lorsque le règlement (CE) n° 44 / 2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance
+et l'exécution des décisions en matière civile et commerciale désigne les juridictions d'un Etat membre sans autre précision,
+la juridiction territorialement compétente est celle du lieu où demeure le ou l'un des défendeurs.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-2
+
+Le formulaire de demande d'injonction de payer européenne est remis ou adressé par voie postale au greffe de la juridiction.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-3
+
+Le juge peut délivrer une injonction de payer européenne pour partie de la demande, après que le demandeur a accepté la
+proposition en ce sens qu'il lui a faite. Dans ce cas, le demandeur ne peut plus agir en justice pour réclamer le reliquat,
+sauf à ne pas signifier l'ordonnance et à procéder selon les voies de droit commun.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-4
+
+L'injonction de payer européenne ou la décision de rejet d'une demande d'injonction de payer européenne ainsi que le
+formulaire de demande sont conservés à titre de minute au greffe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-5
+
+Une copie certifiée conforme du formulaire de demande et de la décision est signifiée, à l'initiative du demandeur, à chacun
+des défendeurs. Le formulaire d'opposition à injonction de payer européenne est annexé à l'acte de signification. 
+
+A peine de nullité, l'acte de signification contient, outre les mentions prescrites pour les actes d'huissier de justice,
+l'indication du tribunal devant lequel l'opposition doit être portée, du délai imparti et des formes selon lesquelles elle
+doit être faite. 
+
+Sous la même sanction, l'acte de signification : 
+
+- avertit le défendeur qu'à défaut d'opposition dans le délai indiqué, calculé en application du règlement (CEE, EURATOM) n°
+1182/71 du Conseil du 3 juin 1971 portant détermination des règles applicables aux délais, aux dates et aux termes, il pourra
+être contraint par toutes voies de droit de payer les sommes réclamées ; 
+
+- informe le défendeur de son droit de demander le réexamen de l'injonction de payer européenne devant la juridiction qui l'a
+rendue, après l'expiration du délai d'opposition, dans les cas exceptionnels prévus à l'article 20 du règlement (CE) n°
+1896/2006 du Parlement européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d'injonction de payer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1424-6 (VD)
+
+
+###### Article 1424-6
+
+Si la signification est faite à la personne du défendeur, l'huissier de justice doit porter verbalement à sa connaissance les
+informations qualifiées d'importantes par le formulaire d'injonction de payer européenne ainsi que les indications
+mentionnées à l'article 1424-5.L'accomplissement de cette formalité est mentionné dans l'acte de signification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1405
+	  - Code de procédure civile - art. 1424-5
 
 
-#### Section II : L'injonction de faire.
+###### Article 1424-7
+
+L'huissier de justice adresse une copie de l'acte de signification à la juridiction qui a rendu l'injonction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-8
+
+L'opposition est portée devant la juridiction dont émane l'injonction de payer européenne. 
+
+Elle est formée au greffe soit par déclaration contre récépissé, soit par lettre recommandée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1424-15 (V)
+
+
+###### Article 1424-9
+
+Le tribunal statue sur la demande en recouvrement. 
+
+Il connaît, dans les limites de sa compétence d'attribution, de la demande initiale et de toutes les demandes incidentes et
+défenses au fond. 
+
+En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à
+l'article 97.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-10
+
+Le greffier convoque les parties à l'audience par lettre recommandée avec demande d'avis de réception. 
+
+La convocation est adressée à toutes les parties, même à celles qui n'ont pas formé opposition. 
+
+La convocation contient : 
+
+1° Sa date ; 
+
+2° L'indication de la juridiction devant laquelle l'opposition est portée ; 
+
+3° L'indication de la date de l'audience à laquelle les parties sont convoquées ; 
+
+4° Les conditions d'assistance et de représentation des parties. 
+
+La convocation adressée au défendeur précise en outre que, faute de comparaître, il s'expose à ce qu'un jugement soit rendu
+contre lui sur les seuls éléments fournis par son adversaire. 
+
+Ces mentions sont prescrites à peine de nullité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-11
+
+Si aucune des parties ne se présente, le tribunal constate l'extinction de l'instance. Celle-ci rend non avenue l'injonction
+de payer européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-12
+
+Le jugement du tribunal se substitue à l'injonction de payer européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-13
+
+Le tribunal statue à charge d'appel lorsque le montant de la demande excède le taux de sa compétence en dernier ressort.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-14
+
+Lorsqu'aucune opposition n'a été formée dans le délai imparti et après prise en compte d'un délai supplémentaire de dix jours
+nécessaire à l'acheminement du recours, le greffier déclare l'injonction de payer européenne exécutoire au moyen du
+formulaire prévu à cet effet et appose sur l'injonction de payer européenne la formule exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-15
+
+La procédure de réexamen dans des cas exceptionnels est régie par les articles 1424-8 à 1424-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1424-8
+
+
+#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.
+
+###### Article 1425
+
+Devant le tribunal de commerce, les frais de la procédure sont avancés par le demandeur et consignés au greffe au plus tard
+dans les quinze jours de la demande, faute de quoi celle-ci sera caduque. 
+
+L'opposition est reçue sans frais par le greffier. Celui-ci invite sans délai le demandeur, par lettre recommandée avec
+demande d'avis de réception, à consigner les frais de l'opposition au greffe dans le délai de quinze jours à peine de
+caducité de la demande. 
+
+Toutefois, la caducité n'est pas encourue en cas de procédure d'injonction de payer européenne.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1346 du 17 décembre 2008 - art. 7
+
+
+#### Section IV : L'injonction de faire.
 
 ###### Article 1425-1
 
@@ -31015,6 +31394,8 @@ droit commun. La requête et les documents produits sont restitués au requéran
 
 ### Chapitre II : Les offres de paiement et la consignation.
 
+### Chapitre III : Les offres de paiement et la consignation.
+
 ###### Article 1426
 
 Le procès-verbal d'offres réelles désigne la chose offerte ; s'il s'agit d'une somme d'argent, il en précise le montant et le
@@ -31114,6 +31495,8 @@ principal lorsqu'elles sont soulevées incidemment.
 
 ### Chapitre III : La reconstitution d'actes détruits.
 
+### Chapitre IV : La reconstitution d'actes détruits.
+
 ###### Article 1430
 
 La demande en reconstitution de l'original d'un acte authentique ou sous seing privé détruit, en tous lieux, par suite de
@@ -31193,6 +31576,8 @@ elles-mêmes, est seule rapportée.
 
 
 ### Chapitre IV : La délivrance de copies d'actes et de registres.
+
+### Chapitre V : La délivrance de copies d'actes et de registres.
 
 ###### Article 1435
 
@@ -31316,6 +31701,8 @@ L'appel est formé, instruit et jugé comme en matière gracieuse.
 
 ### Chapitre V : Le contentieux de la passation de certains contrats de travaux.
 
+### Chapitre VI : Le contentieux de la passation de certains contrats de travaux.
+
 ###### Article 1441-1
 
 Toute personne habilitée à introduire un recours dans les conditions prévues au 1° de l'article 24 et au 1° de l'article 33
@@ -31386,6 +31773,8 @@ jours de sa notification.
 
 
 ### Chapitre VI : La transaction
+
+### Chapitre VII : La transaction.
 
 ###### Article 1441-4
 
