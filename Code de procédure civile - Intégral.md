@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-03-15
+Version Consolidée au 2009-04-13
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -22364,6 +22364,39 @@ complément d'enquête ou une nouvelle enquête.
 	  - Code civil - art. 373-2-12 (V)
 
 
+###### Article 1072-1
+
+Lorsqu'il statue sur l'exercice de l'autorité parentale, le juge aux affaires familiales vérifie si une procédure
+d'assistance éducative est ouverte à l'égard du ou des mineurs. Il peut demander au juge des enfants de lui transmettre copie
+de pièces du dossier en cours, selon les modalités définies à l'article 1187-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-398 du 10 avril 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1187-1 (V)
+
+
+###### Article 1072-2
+
+Dès lors qu'une procédure d'assistance éducative est ouverte à l'égard du ou des mineurs, une copie de la décision du juge
+aux affaires familiales est transmise au juge des enfants ainsi que toute pièce que ce dernier estime utile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-398 du 10 avril 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1187-1 (V)
+
+
 ###### Article 1073
 
 Le juge aux affaires familiales est, le cas échéant, juge de la mise en état.
@@ -24971,6 +25004,35 @@ accompagné de son avis écrit sur la suite à donner ou de l'indication qu'il e
 	  - Nouveau code de procédure civile 1183
 
 
+###### Article 1187-1
+
+Le juge des enfants communique au juge aux affaires familiales ou au juge des tutelles les pièces qu'ils sollicitent quand
+les parties à la procédure devant ces derniers ont qualité pour consulter le dossier en vertu de l'article 1187. Il peut ne
+pas transmettre certaines pièces lorsque leur production ferait courir un danger physique ou moral grave au mineur, à une
+partie ou à un tiers. 
+
+Dans les conditions prévues aux articles 1072-2 et 1221-2, le juge aux affaires familiales ou le juge des tutelles
+transmettent copie de leur décision au juge des enfants ainsi que de toute pièce que ce dernier estime utile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-398 du 10 avril 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1072-1 (V)
+	  - Code de procédure civile - art. 1205-1 (V)
+	  - Code de procédure civile - art. 1221-1 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1072-2 (V)
+	  - Code de procédure civile - art. 1187 (V)
+	  - Code de procédure civile - art. 1221-2 (V)
+
+
 ###### Article 1188
 
 L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
@@ -26276,6 +26338,39 @@ peut notamment faire procéder à une enquête sociale ou à des constatations p
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1222
+
+
+###### Article 1221-1
+
+Le juge des tutelles qui connaît de la situation d'un mineur peut vérifier auprès du juge des enfants si une procédure
+d'assistance éducative est ouverte et demander à ce dernier de lui transmettre copie de pièces du dossier en cours, selon les
+modalités définies à l'article 1187-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-398 du 10 avril 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1187-1 (V)
+
+
+###### Article 1221-2
+
+Dès lors qu'il est informé qu'une procédure d'assistance éducative est ouverte à l'égard du mineur, le juge des tutelles
+transmet, à la demande du juge des enfants, copie de toute pièce que ce dernier estime utile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-398 du 10 avril 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1187-1 (V)
 
 
 ##### Paragraphe 3 : La consultation du dossier et la délivrance de copies
