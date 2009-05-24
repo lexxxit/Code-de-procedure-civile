@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-04-13
+Version Consolidée au 2009-05-25
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -5853,72 +5853,65 @@ soit demeuré en la cause, même à titre accessoire.
 
 ###### Article 338-1
 
-Lorsque le mineur demande à être entendu en application de l'article 388-1 du code civil, les dispositions suivantes sont
-applicables.
+Le mineur capable de discernement est informé par le ou les titulaires de l'exercice de l'autorité parentale, le tuteur ou,
+le cas échéant, par la personne ou le service à qui il a été confié de son droit à être entendu et à être assisté d'un avocat
+dans toutes les procédures le concernant. 
+
+Lorsque la procédure est introduite par requête, la convocation à l'audience est accompagnée d'un avis rappelant les
+dispositions de l'article 388-1 du code civil et celles du premier alinéa du présent article. 
+
+Lorsque la procédure est introduite par acte d'huissier, l'avis mentionné à l'alinéa précédent est joint à celui-ci.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°94-42 du 14 janvier 1994 - art. 22 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 388-1 (M)
+	  - Code civil - art. 388-1 (V)
 
 
 ###### Article 338-2
 
-La demande est présentée sans forme au juge par l'intéressé. Elle peut l'être en tout état de la procédure et même pour la
-première fois en cause d'appel.
+La demande d'audition est présentée sans forme au juge par le mineur lui-même ou par les parties. Elle peut l'être en tout
+état de la procédure et même pour la première fois en cause d'appel.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 
 ###### Article 338-3
-
-La décision statuant sur la demande d'audition formée par le mineur n'est susceptible d'aucun recours.
-
-La décision par laquelle l'audition est ordonnée peut toutefois être modifiée ou rapportée par une autre décision
-spécialement motivée lorsque le juge a connaissance d'un motif grave s'opposant à ce que le mineur soit entendu dans les
-conditions initialement prévues.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
-
-
-###### Article 338-4
 
 La décision ordonnant l'audition peut revêtir la forme d'une simple mention au dossier ou au registre d'audience.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
-	**Créé par**:
 
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+###### Article 338-4
+
+Lorsque la demande est formée par le mineur, le refus d'audition ne peut être fondé que sur son absence de discernement ou
+sur le fait que la procédure ne le concerne pas. 
+
+Lorsque la demande est formée par les parties, l'audition peut également être refusée si le juge ne l'estime pas nécessaire à
+la solution du litige ou si elle lui paraît contraire à l'intérêt de l'enfant mineur. 
+
+Le mineur et les parties sont avisés du refus par tout moyen. Dans tous les cas, les motifs du refus sont mentionnés dans la
+décision au fond.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 	**Cité par**:
 
@@ -5927,103 +5920,110 @@ La décision ordonnant l'audition peut revêtir la forme d'une simple mention au
 
 ###### Article 338-5
 
-Une convocation en vue de son audition est adressée au mineur par lettre recommandée avec demande d'avis de réception,
-doublée d'une lettre simple.
+La décision statuant sur la demande d'audition formée par le mineur n'est susceptible d'aucun recours. 
 
-La convocation l'informe de son droit d'être entendu seul, avec un avocat ou une autre personne de son choix.
-
-Le même jour, le secrétariat de la juridiction avise les défenseurs des parties par simple bulletin et, à défaut, les parties
-elles-mêmes par lettre recommandée avec demande d'avis de réception de la décision ordonnant l'audition. L'avis reproduit les
-dispositions de l'article 338-3.
+La décision statuant sur la demande d'audition formée par les parties est soumise aux dispositions des articles 150 et 152.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 338-3
+	  - Code de procédure civile - art. 150
 
 
 ###### Article 338-6
 
-Lorsque le juge est saisi de la demande d'audition en présence de toutes les parties et du mineur, l'audition peut avoir lieu
-sur-le-champ. S'il n'est pas procédé à celle-ci immédiatement, la convocation du mineur et l'information prévue au deuxième
-alinéa de l'article 338-5 sont données verbalement.
+Le greffe ou, le cas échéant, la personne désignée par le juge pour entendre le mineur adresse à celui-ci, par lettre simple,
+une convocation en vue de son audition. 
+
+La convocation l'informe de son droit à être entendu seul, avec un avocat ou une personne de son choix. 
+
+Le même jour, les défenseurs des parties et, à défaut, les parties elles-mêmes sont avisés des modalités de l'audition.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 338-5
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 
 ###### Article 338-7
 
-Lorsque le mineur se présente seul en vue de son audition, le juge lui donne avis de son droit d'être entendu avec un avocat
-ou une autre personne de son choix. Si le mineur exerce ce droit, l'audition est renvoyée à une date ultérieure.
-
-L'avocat choisi par le mineur doit en informer le juge.
-
-Si le mineur demande à être entendu avec un avocat et s'il ne choisit pas lui-même celui-ci, le juge requiert du bâtonnier la
-désignation d'un avocat.
+Si le mineur demande à être entendu avec un avocat et s'il ne choisit pas lui-même celui-ci, le juge requiert, par tout
+moyen, la désignation d'un avocat par le bâtonnier.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 
 ###### Article 338-8
 
-La décision refusant l'audition est adressée par le secrétariat de la juridiction au mineur, par lettre recommandée avec
-demande d'avis de réception doublée d'une lettre simple. Le cas échéant, copie de la décision est adressée à l'avocat du
-mineur par simple bulletin.
+Lorsque l'audition est ordonnée par une formation collégiale, celle-ci peut entendre elle-même le mineur ou désigner l'un de
+ses membres pour procéder à l'audition et lui en rendre compte.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 
 ###### Article 338-9
 
-La juridiction qui statue collégialement peut entendre elle-même le mineur ou désigner l'un de ses membres pour procéder à
-l'audition et lui rendre compte.
+Lorsque le juge estime que l'intérêt de l'enfant le commande, il désigne pour procéder à son audition une personne qui ne
+doit entretenir de liens ni avec le mineur ni avec une partie. 
+
+Cette personne doit exercer ou avoir exercé une activité dans le domaine social, psychologique ou médico-psychologique. 
+
+Elle est avisée de sa mission sans délai et par tout moyen par le greffe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
+
+
+###### Article 338-10
+
+Si la personne chargée d'entendre le mineur rencontre des difficultés, elle en réfère sans délai au juge.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°93-1091 du 16 septembre 1993 - art. 20 () JORF 17 septembre 1993
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
+
+
+###### Article 338-11
+
+Les modalités d'audition peuvent être modifiées en cas de motif grave s'opposant à ce que le mineur soit entendu dans les
+conditions initialement prévues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
+
+
+###### Article 338-12
+
+Dans le respect de l'intérêt de l'enfant, il est fait un compte rendu de cette audition. Ce compte rendu est soumis au
+respect du contradictoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 
 ## Titre X : L'abstention, la récusation, le renvoi et la prise à partie.
@@ -13006,7 +13006,10 @@ parties ;
 demande des juridictions dans le cadre du règlement (CE) n° 1206 / 2001 du Conseil du 28 mai 2001 relatif à la coopération
 entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale ; 
 
-10° Les enquêtes sociales ordonnées en application des articles 1072 et 1248.
+10° Les enquêtes sociales ordonnées en application des articles 1072 et 1248 ; 
+
+11° La rémunération de la personne désignée par le juge pour entendre le mineur, en application de l'article 388-1 du code
+civil.
 
 **Nota:**
 
@@ -13017,12 +13020,13 @@ par l'article 1er du décret n° 2008-1276 du 5 décembre 2008.
 
 	**Modifié par**:
 
-	  - Décret n°2009-285 du 12 mars 2009 - art. 13
+	  - Décret n°2009-572 du 20 mai 2009 - art. 2
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 1072
 	  - Code de procédure civile - art. 1248
+	  - Code civil - art. 388-1
 
 
 ###### Article 696
