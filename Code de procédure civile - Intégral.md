@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-11-11
+Version Consolidée au 2009-12-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -30727,32 +30727,29 @@ l'alinéa précédent.
 
 L'enregistrement prévu à l'article 813-3 du code civil est fait au greffe du tribunal de grande instance dans le mois qui
 suit la nomination, sur le registre mentionné à l'article 1334. La décision de nomination est publiée à la requête du
-mandataire au Bulletin officiel des annonces civiles et commerciales.
+mandataire par voie électronique au Bulletin officiel des annonces civiles et commerciales, selon des modalités définies par
+arrêté du garde des sceaux, ministre de la justice.
 
 S'il y a lieu, le président du tribunal de grande instance ou son délégué peut, par une ordonnance qui n'est pas susceptible
 de recours, ordonner que la publicité soit complétée par une insertion dans un journal d'annonces légales diffusé dans le
-ressort du tribunal.
+ressort du tribunal. 
 
 Les frais de publicité sont à la charge de la succession.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
 	**Cité par**:
 
 	  - Arrêté du 9 novembre 2009 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1366 du 9 novembre 2009 - art. 2
+
 	**Cite**:
 
-	  - Code civil - art. 813-3 (V)
-	  - Nouveau code de procédure civile 1334
+	  - Code de procédure civile - art. 1334
+	  - Code civil - art. 813-3
 
 
 ###### Article 1356
@@ -32728,67 +32725,86 @@ L'appel est formé, instruit et jugé comme en matière gracieuse.
 	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre VI : Le contentieux de la passation de certains contrats de travaux.
+### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique
 
 ###### Article 1441-1
 
-Le président de la juridiction compétente ou son délégué statue dans un délai de vingt jours sur les recours qui lui sont
-présentés en vertu du 1° de l'article 24 et du 1° de l'article 33 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux
-marchés passés par les personnes publiques ou privées non soumises au code des marchés publics.
+Les demandes présentées en vertu des articles 2 à 20 de l'ordonnance n° 2009-515 du 7 mai 2009 relative aux procédures de
+recours applicables aux contrats de la commande publique sont formées, instruites et jugées comme en matière de référés. 
+
+Le juge qui envisage de prendre d'office une des mesures prévues aux articles 3, 6 et 15 à 18 de cette ordonnance doit, au
+préalable, inviter les parties à présenter leurs observations. 
+
+Les décisions prises en application des articles 2 à 20 de cette ordonnance sont rendues en dernier ressort. Elles sont
+susceptibles de pourvoi en cassation dans les quinze jours de leur notification. 
+
+Toutefois, la décision qui liquide une astreinte est susceptible d'un appel dans les quinze jours de sa notification. L'appel
+est formé, instruit et jugé selon les règles applicables à la procédure ordinaire avec représentation obligatoire.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 24 (Ab)
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 33 (Ab)
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 2
 
 	**Modifié par**:
 
-	  - Décret n°2009-1086 du 2 septembre 2009 - art. 1
+	  - Décret n°2009-1456 du 27 novembre 2009 - art. 3
 
 
 ###### Article 1441-2
 
-L'article 1441-1 est applicable au ministère public dans le cas prévu au deuxième alinéa du 1° de l'article 24 et au deuxième
-alinéa du 1° de l'article 33 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par les personnes
-publiques ou privées non soumises au code des marchés publics.
+I. - Le juge statue dans un délai de vingt jours sur les demandes qui lui sont présentées en vertu des articles 2 et 5 de
+l'ordonnance mentionnée ci-dessus. 
+
+II. - Le juge ne peut statuer sur ces demandes avant le seizième jour suivant la date d'envoi de la décision d'attribution du
+contrat aux opérateurs économiques ayant présenté une candidature ou une offre. Ce délai est ramené au onzième jour lorsque
+le pouvoir adjudicateur ou l'entité adjudicatrice justifie que la décision d'attribution du contrat a été notifiée par voie
+électronique à l'ensemble des opérateurs économiques intéressés. 
+
+Dans le cas des demandes présentées avant la conclusion de contrats mentionnés au premier alinéa de l'article 13 de la même
+ordonnance, le juge ne peut statuer avant le onzième jour à compter de la publication de l'intention de conclure le contrat. 
+
+III. - Le procureur de la République agit d'office dans le cas prévu par l'article 9 de l'ordonnance précitée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - Nouveau code de procédure civile 1441-1
 
 	**Modifié par**:
 
-	  - Décret n°2005-1308 2005-10-20 art. 48 2° JORF 22 octobre 2005
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1441-1
-	  - Ordonnance 2005-649 2005-06-06 art. 24, art. 33
+	  - Décret n°2009-1456 du 27 novembre 2009 - art. 3
 
 
 ###### Article 1441-3
 
-La décision du président de la juridiction saisie ou de son délégué est susceptible de pourvoi en cassation dans les quinze
-jours de sa notification.
+I.-La juridiction peut être saisie du recours prévu à l'article 11 de l'ordonnance précitée au plus tard le trente et unième
+jour suivant la publication d'un avis d'attribution du contrat ou, dans le cas de contrat fondé sur un accord-cadre ou un
+système d'acquisition dynamique, suivant la notification aux titulaires de la conclusion du contrat. 
+
+En l'absence de la publication d'avis ou de la notification mentionnées à l'alinéa qui précède, la juridiction peut être
+saisie jusqu'à l'expiration d'un délai de six mois à compter du lendemain du jour de la conclusion du contrat. 
+
+II.-Le juge statue dans un délai d'un mois sur les demandes qui lui sont présentées en vertu de l'article 11 de l'ordonnance
+n° 2009-515 du 7 mai 2009 relative aux procédures de recours applicables aux contrats de la commande publique.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°92-964 du 7 septembre 1992 - art. 1 () JORF 11 septembre 1992
 
 	**Cité par**:
 
 	  - Décret n°2005-1308 du 20 octobre 2005 - art. 45-1 (VT)
 	  - Décret n°2005-1742 du 30 décembre 2005 - art. 47-2 (VT)
+
+	**Cite**:
+
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 11
+
+	**Modifié par**:
+
+	  - Décret n°2009-1456 du 27 novembre 2009 - art. 3
 
 
 ### Chapitre VII : La transaction.
