@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-12-01
+Version Consolidée au 2009-12-12
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -14219,6 +14219,24 @@ de procédure civile) au 1er juillet 2008.
 	  - Décret n°2012-366 du 15 mars 2012 - art. 24 (V)
 	  - Arrêté du 28 août 2012 - art. 5 (V)
 	  - Arrêté du 12 mars 2013 - art. 3 (Ab)
+
+
+###### Article 748-7
+
+Lorsqu'un acte doit être accompli avant l'expiration d'un délai et ne peut être transmis par voie électronique le dernier
+jour du délai pour une cause étrangère à celui qui l'accomplit, le délai est prorogé jusqu'au premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 59 (MMN)
+	  - Code des procédures civiles d'exécution - art. R162-1 (VD)
+	  - Code des procédures civiles d'exécution - art. R211-4 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 4
 
 
 ## Titre XXII : Disposition finale.
