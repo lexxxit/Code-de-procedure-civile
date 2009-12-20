@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-12-12
+Version Consolidée au 2009-12-21
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23845,31 +23845,6 @@ Si le notaire établit l'acte de partage, il en fait rapport au juge.
 	  - Code civil - art. 275 (M)
 	  - Code civil - art. 276 (M)
 	  - Code civil 255, 233 à 237, 239, 245, 264 à 267, 273, 275, 276, 278 à 280
-
-
-###### Article 1136-3
-
-Les dispositions de la section 6 du chapitre II du titre III du livre III sont applicables au partage des intérêts
-patrimoniaux des époux, sous réserve des dispositions des articles 267 et 267-1 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 4 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
-
-	**Cite**:
-
-	  - Code civil - art. 267
-	  - Code civil - art. 267-1
 
 
 #### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales
