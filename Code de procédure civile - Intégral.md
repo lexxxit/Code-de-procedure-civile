@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-12-21
+Version Consolidée au 2009-12-27
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23776,77 +23776,6 @@ Les dépens afférents à l'instance d'appel sont traités comme ceux d'une inst
 	  - Nouveau code de procédure civile 1147
 
 
-##### Sous-section VI : La liquidation et le partage des intérêts patrimoniaux des époux
-
-###### Article 1136-1
-
-Les modalités de désignation et de rémunération ainsi que le déroulement de la mission du professionnel qualifié désigné en
-application du 9° de l'article 255 du code civil sont soumis aux règles applicables en matière d'expertise.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 4 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1591 du 17 décembre 2009 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1120 (VD)
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1292 (VD)
-
-	**Cite**:
-
-	  - Code civil - art. 255 (M)
-
-
-###### Article 1136-2
-
-Les modalités de désignation ainsi que le déroulement de la mission du notaire désigné en application du 10° de l'article 255
-du code civil sont soumis aux dispositions des articles 233 à 237, 239, 245, 264 à 267, 273, 275, 276 et 278 à 280 du présent
-code, sans préjudice des règles applicables à sa profession.
-
-Si le notaire établit l'acte de partage, il en fait rapport au juge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 4 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1591 du 17 décembre 2009 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1121 (VD)
-
-	**Cite**:
-
-	  - Code civil - art. 239 (Ab)
-	  - Code civil - art. 245 (M)
-	  - Code civil - art. 255 (M)
-	  - Code civil - art. 273 (M)
-	  - Code civil - art. 275 (M)
-	  - Code civil - art. 276 (M)
-	  - Code civil 255, 233 à 237, 239, 245, 264 à 267, 273, 275, 276, 278 à 280
-
-
 #### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales
 
 ###### Article 1137
@@ -26067,13 +25996,15 @@ ordonner que l'examen de la requête donne lieu à un débat contradictoire.
 
 Dans toute instance relative à l'ouverture, la modification ou la mainlevée d'une mesure de protection, le majeur à protéger
 ou protégé peut faire le choix d'un avocat ou demander à la juridiction saisie que le bâtonnier lui en désigne un d'office.
-La désignation doit intervenir dans les huit jours de la demande.
+La désignation doit intervenir dans les huit jours de la demande. 
+
+Les intéressés sont informés de ce droit dans l'acte de convocation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 3
 
 
 ###### Article 1215
@@ -26129,19 +26060,21 @@ pas susceptible de recours.
 
 ###### Article 1217
 
-Hors les cas prévus aux articles 442 et 485 du code civil, le juge est saisi par requête remise ou adressée au greffe du
-tribunal d'instance.
+Hors les cas prévus aux articles 390, 391, 442 et 485 du code civil, le juge est saisi par requête remise ou adressée au
+greffe de la juridiction de première instance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 4
 
 	**Cite**:
 
-	  - Code civil - art. 442
-	  - Code civil - art. 485
+	  - Code civil - art. 390 (V)
+	  - Code civil - art. 391 (V)
+	  - Code civil - art. 442 (V)
+	  - Code civil - art. 485 (V)
 
 
 ###### Article 1218
@@ -26225,13 +26158,13 @@ ou du juge des tutelles.
 
 Le juge des tutelles peut, dans tous les cas où il a l'obligation ou il estime utile d'entendre la personne à protéger ou
 protégée, se déplacer dans toute l'étendue du ressort de la cour d'appel ainsi que dans les départements limitrophes de celui
-où il exerce ses fonctions. Les mêmes règles sont applicables au juge du tribunal de grande instance en cas de recours.
+où il exerce ses fonctions. Les mêmes règles sont applicables aux magistrats de la cour d'appel en cas de recours.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 5
 
 	**Cité par**:
 
@@ -26374,9 +26307,10 @@ transmet, à la demande du juge des enfants, copie de toute pièce que ce dernie
 
 ###### Article 1222
 
-Jusqu'au prononcé du jugement de mise sous protection, le dossier peut être consulté au greffe par le requérant. Il peut être
-également consulté, sur autorisation du juge des tutelles, par une des personnes énumérées à l'article 430 du code civil si
-elle justifie d'un intérêt légitime. 
+Le dossier peut être consulté au greffe par le requérant jusqu'au prononcé de la décision d'ouverture ou, lorsqu'une
+modification de la mesure de protection est sollicitée, jusqu'à ce qu'il soit statué sur celle-ci. Il peut être également
+consulté dans les mêmes conditions et sur autorisation de la juridiction saisie, par une des personnes énumérées à l'article
+430 du code civil si elle justifie d'un intérêt légitime. 
 
 Leurs avocats, si elles en ont constitué un, disposent de la même faculté.
 
@@ -26384,7 +26318,7 @@ Leurs avocats, si elles en ont constitué un, disposent de la même faculté.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 6
 
 	**Cité par**:
 
@@ -26392,7 +26326,7 @@ Leurs avocats, si elles en ont constitué un, disposent de la même faculté.
 
 	**Cite**:
 
-	  - Code civil - art. 430
+	  - Code civil - art. 430 (V)
 
 
 ###### Article 1222-1
@@ -26429,18 +26363,14 @@ peut se faire que dans les conditions prévues aux deuxième, troisième et quat
 
 ###### Article 1223
 
-L'avocat du majeur protégé peut se faire délivrer copie de tout ou partie des pièces du dossier. Il ne peut communiquer les
-copies ainsi obtenues ou leur reproduction à son client ou à un tiers.
+L'avocat du majeur à protéger ou protégé peut se faire délivrer copie de tout ou partie des pièces du dossier.  Il ne peut
+communiquer les copies ainsi obtenues ou leur reproduction à son client ou à un tiers.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1216 à 1218
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 7
 
 
 ###### Article 1223-1
@@ -26555,19 +26485,29 @@ prononcé sur celle-ci dans l'année où il en a été saisi.
 
 ###### Article 1228
 
-Lorsqu'il statue en application de l'article 442 du code civil, le juge procède conformément aux dispositions des articles
-1220 à 1221, 1225 et 1226 du présent code.
+Lorsqu'il fait application de l'article 442 du code civil, le juge statue après avoir entendu ou appelé la personne protégée
+dans les conditions prévues aux articles 1220 à 1220-2 du présent code et recueilli l'avis de la personne chargée de la
+mesure de protection. Sa décision est notifiée dans les conditions prévues aux articles 1230 à 1231 du même code. 
+
+Toutefois, lorsqu'il y a lieu de renforcer le régime de protection en application du quatrième alinéa de l'article 442 du
+code civil, il est en outre procédé conformément aux dispositions des articles 1218, 
+1220-3 à 1221, 1225 et 1226 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 8
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1220
-	  - Code civil - art. 442
+	  - Code de procédure civile - art. 1218 (V)
+	  - Code de procédure civile - art. 1220 (V)
+	  - Code de procédure civile - art. 1220-3 (V)
+	  - Code de procédure civile - art. 1225 (V)
+	  - Code de procédure civile - art. 1226 (V)
+	  - Code de procédure civile - art. 1230 (V)
+	  - Code civil - art. 442 (V)
 
 
 ###### Article 1229
@@ -26629,18 +26569,18 @@ Le jugement qui statue sur une demande d'ouverture d'une mesure de protection d'
 elle-même ; avis en est donné au procureur de la République. 
 
 Toutefois, le juge peut, par décision spécialement motivée, décider qu'il n'y a pas lieu de notifier le jugement prononçant
-l'ouverture de la tutelle au majeur protégé si cette information est de nature à porter préjudice à sa santé. Dans ce cas, la
-notification en est faite à son avocat, s'il en a constitué un, ainsi qu'à la personne que le juge estime la plus qualifiée
-pour recevoir cette notification. 
+l'ouverture de la mesure de protection au majeur protégé si cette information est de nature à porter préjudice à sa santé.
+Dans ce cas, la notification en est faite à son avocat, s'il en a constitué un, ainsi qu'à la personne que le juge estime la
+plus qualifiée pour recevoir cette notification. 
 
 Le jugement peut être notifié, si le juge l'estime utile, aux personnes qu'il désigne parmi celles que la loi habilite à
 exercer un recours.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 9
 
 	**Cité par**:
 
@@ -26670,46 +26610,18 @@ recours abusif sont portées à la connaissance de l'intéressé.
 
 ##### Paragraphe 7 : L'exécution de la décision
 
-###### Article 1232
-
-A moins que l'exécution provisoire n'ait été ordonnée, le délai de recours et le recours lui-même exercé dans le délai
-suspendent l'exécution de la décision. 
-
-Lorsque l'exécution provisoire a été ordonnée, elle ne peut être arrêtée, en cas de recours, par le président du tribunal de
-grande instance statuant en référé qu'en cas de violation manifeste des dispositions de l'article 432 du code civil ou
-lorsque l'exécution provisoire risque d'entraîner des conséquences manifestement excessives.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1628 du 23 décembre 2009 - art. 10
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1259-3 (V)
-
-	**Cite**:
-
-	  - Code civil - art. 432
-
-
 ###### Article 1233
 
-Un extrait de toute décision portant ouverture, modification ou mainlevée d'une mesure de curatelle ou de tutelle concernant
-un majeur est transmis par tout moyen au greffe du tribunal de grande instance dans le ressort duquel est née la personne
-protégée, à fin de conservation au répertoire civil et de publicité par mention en marge de l'acte de naissance selon les
-modalités prévues au chapitre III du présent titre. 
+Un extrait de toute décision portant ouverture, modification de régime ou de durée ou mainlevée d'une mesure de curatelle ou
+de tutelle concernant un majeur est transmis par tout moyen au greffe du tribunal de grande instance dans le ressort duquel
+est née la personne protégée, à fin de conservation au répertoire civil et de publicité par mention en marge de l'acte de
+naissance selon les modalités prévues au chapitre III du présent titre. 
 
 Lorsque la décision est rendue par le juge des tutelles, la transmission est faite par le greffe du tribunal d'instance dans
 les quinze jours qui suivent l'expiration des délais de recours. 
 
-Lorsque la décision est rendue par le tribunal de grande instance, la transmission est faite par le greffe de ce tribunal
-dans les quinze jours du jugement. 
+Lorsque la décision est rendue par la cour d'appel, la transmission est faite par le greffe de cette cour dans les quinze
+jours de l'arrêt. 
 
 Lorsqu'une mesure de protection a pris fin par l'expiration du délai fixé, avis en est donné par tout moyen et aux mêmes fins
 par le greffe du tribunal d'instance, saisi par tout intéressé, au greffe du tribunal de grande instance dans le ressort
@@ -26719,7 +26631,7 @@ duquel est née la personne protégée.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 11
 
 	**Cité par**:
 
@@ -26935,17 +26847,18 @@ au juge.
 Dans tous les cas, le juge, par la même ordonnance, convoque et réunit dans le délai d'un mois le conseil de famille dont il
 assure alors la présidence, afin qu'il soit à nouveau délibéré sur le même objet. 
 
-Les articles 1234-1 à 1235, 1239-3 et 1239-4 sont alors applicables.
+Les articles 1234-1 à 1235 et 1239-3 sont alors applicables.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 12
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 1234-1
+	  - Code de procédure civile - art. 1239-3 (V)
 
 
 ##### Sous-section 4 : Les voies de recours.
@@ -27296,7 +27209,8 @@ Le procureur de la République qui reçoit la déclaration aux fins de sauvegard
 code de la santé publique ou la décision du juge des tutelles prévue à l'article 1249 les mentionne sur un répertoire
 spécialement tenu à cet effet. 
 
-La déclaration aux fins de faire cesser la sauvegarde ainsi que les radiations sont portées en marge de la mention initiale. 
+La déclaration aux fins de faire cesser la sauvegarde, la décision du juge des tutelles mettant fin à celle-ci ainsi que les
+radiations sont portées en marge de la mention initiale.
 
 Les déclarations en renouvellement sont portées à leur date sur le répertoire.
 
@@ -27304,7 +27218,7 @@ Les déclarations en renouvellement sont portées à leur date sur le répertoir
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 13
 
 	**Cite**:
 
@@ -27319,7 +27233,7 @@ Les déclarations en renouvellement sont portées à leur date sur le répertoir
 ###### Article 1251-1
 
 Peuvent obtenir du procureur de la République copie de la déclaration aux fins de sauvegarde de justice mentionnée au premier
-alinéa de l'article 1251 : 
+alinéa de l'article 1251 ou de la décision du juge des tutelles prévue à l'article 1249 : 
 
 1° Les autorités judiciaires ; 
 
@@ -27330,12 +27244,13 @@ acte relevant de l'exercice de leurs fonctions.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 14
 
 	**Cite**:
 
+	  - Code de procédure civile - art. 1249 (V)
 	  - Code de procédure civile - art. 1251
 	  - Code civil - art. 430
 
@@ -27628,7 +27543,7 @@ compter de la date de sa présentation au greffe, y appose son visa et le restit
 Si le greffier estime les conditions non remplies, il restitue le mandat sans le viser au comparant ainsi que le certificat
 produit. 
 
-Dans ce cas, le bénéficiaire du mandant, le mandant ou le mandataire peut saisir le juge par requête. Celui-ci peut se
+Dans ce cas, le bénéficiaire du mandat, le mandant ou le mandataire peut saisir le juge par requête. Celui-ci peut se
 prononcer sans débat et sa décision n'est pas susceptible d'appel. Si le juge estime les conditions requises remplies, le
 greffier procède, à la demande du bénéficiaire du mandat, du mandant ou du mandataire, conformément au troisième alinéa.
 
@@ -27636,7 +27551,7 @@ greffier procède, à la demande du bénéficiaire du mandat, du mandant ou du m
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 15
 
 	**Cite**:
 
@@ -27678,15 +27593,18 @@ personne dont le placement sous sauvegarde de justice a pris fin.
 ###### Article 1259-3
 
 La saisine du juge sur le fondement des articles 479, 480, 484 ou 493 du code civil s'effectue par requête remise ou adressée
-au greffe. La requête indique les nom, prénom et adresse du mandant et du mandataire. 
+au greffe. La requête indique les nom, prénom et adresse du mandant ou du bénéficiaire du mandat lorsque celui-ci n'est pas
+le mandant et du mandataire. 
 
-Le juge territorialement compétent est celui de la résidence habituelle du mandant. 
+Le juge territorialement compétent est celui de la résidence habituelle du mandant ou du bénéficiaire du mandat lorsque
+celui-ci n'est pas le mandant. 
 
-Dans les quinze jours de la requête, le greffe adresse une convocation à l'audience au mandant et au mandataire par lettre
-recommandée avec demande d'avis de réception, à laquelle est jointe une copie de la requête. 
+Dans les quinze jours de la requête, le greffe adresse une convocation à l'audience au mandant ou au bénéficiaire du mandat
+lorsque celui-ci n'est pas le mandant et au mandataire par lettre recommandée avec demande d'avis de réception, à laquelle
+est jointe une copie de la requête. 
 
-Toutefois, lorsqu'il résulte de celle-ci que seule la dernière adresse du mandant ou du mandataire est connue, le greffe
-invite le requérant à procéder par voie de signification. 
+Toutefois, lorsqu'il résulte de celle-ci que seule la dernière adresse du mandant ou du bénéficiaire du mandat lorsque celui-
+ci n'est pas le mandant ou du mandataire est connue, le greffe invite le requérant à procéder par voie de signification. 
 
 Le greffe convoque également le requérant par lettre simple ou verbalement, contre émargement. 
 
@@ -27698,14 +27616,19 @@ Les dispositions des articles 1231, 1232 et 1239 sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 16
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1231
-	  - Code civil - art. 479
+	  - Code de procédure civile - art. 1231 (V)
+	  - Code de procédure civile - art. 1232 (Ab)
+	  - Code de procédure civile - art. 1239 (V)
+	  - Code civil - art. 479 (V)
+	  - Code civil - art. 480 (V)
+	  - Code civil - art. 484 (V)
+	  - Code civil - art. 493 (V)
 
 
 ###### Article 1259-4
@@ -27723,19 +27646,20 @@ bénéficiaire du mandat par lettre recommandée avec demande d'avis de récepti
 ###### Article 1259-5
 
 La décision du juge autorisant, en application des articles 485 et 493 du code civil, le mandataire de protection future ou
-un mandataire ad hoc à accomplir des actes non couverts par le mandat n'est susceptible de recours que par le mandant, le
-mandataire, la personne chargée du contrôle de l'exécution du mandat et ceux dont elle modifie les droits ou les charges.
+un mandataire ad hoc à accomplir des actes non couverts par le mandat n'est susceptible de recours que par le mandant ou le
+bénéficiaire du mandat lorsque celui-ci n'est pas le mandant, le mandataire, la personne chargée du contrôle de l'exécution
+du mandat et ceux dont elle modifie les droits ou les charges.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 17
 
 	**Cite**:
 
-	  - Code civil - art. 485
-	  - Code civil - art. 493
+	  - Code de procédure civile - art. 485 (V)
+	  - Code de procédure civile - art. 493 (V)
 
 
 ###### Article 1260
