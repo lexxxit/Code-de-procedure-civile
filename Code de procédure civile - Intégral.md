@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-12-27
+Version Consolidée au 2010-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -22439,20 +22439,15 @@ Il exerce aussi les fonctions de juge des référés.
 
 ###### Article 1074
 
-Les demandes sont formées, instruites et jugées en chambre du conseil.
+Les demandes sont formées, instruites et jugées en chambre du conseil, sauf disposition contraire. 
 
-Toutefois, les décisions relatives au nom, au prénom ou au divorce sont rendues publiquement.
+Les décisions relatives au nom, au prénom ou au divorce sont rendues publiquement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 4 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 2
 
 
 ###### Article 1074-1
@@ -23416,31 +23411,70 @@ selon le cas, qu'au premier président de la cour d'appel ou au conseiller de la
 	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
+###### Article 1120
+
+Les modalités de désignation et de rémunération ainsi que le déroulement de la mission du professionnel qualifié désigné en
+application du 9° de l'article 255 du code civil sont soumis aux règles applicables en matière d'expertise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 1136-1 (VT)
+
+	**Cite**:
+
+	  - Code civil - art. 255 (V)
+
+
+###### Article 1121
+
+Les modalités de désignation ainsi que le déroulement de la mission du notaire désigné en application du 10° de l'article 255
+du code civil sont soumis aux dispositions des articles 233 à 237, 239, 
+245, 264 à 267, 273, 275, 276 et 278 à 280 du présent code, sans préjudice des règles applicables à sa profession. 
+
+Si le notaire établit l'acte de partage, il en fait rapport au juge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 1136-2 (VT)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 233
+	  - Code de procédure civile - art. 239
+	  - Code de procédure civile - art. 245
+	  - Code de procédure civile - art. 264
+	  - Code de procédure civile - art. 273
+	  - Code civil - art. 255
+
+
 ##### Paragraphe 5 : Les voies de recours
 
-###### Article 1120
+###### Article 1122
 
 Un majeur protégé ne peut acquiescer au jugement de divorce, ou se désister de l'appel, qu'avec l'autorisation du juge des
 tutelles.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2009-1591 du 17 décembre 2009 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1122 (VD)
+	  - Code de procédure civile - art. 1120 (T)
 
 
 ##### Paragraphe 6 : Dispositions particulières au divorce accepté
@@ -23774,6 +23808,54 @@ Les dépens afférents à l'instance d'appel sont traités comme ceux d'une inst
 	**Anciens textes**:
 
 	  - Nouveau code de procédure civile 1147
+
+
+#### Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins
+
+###### Article 1136-1
+
+Les demandes relatives au fonctionnement des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil
+de solidarité ou entre concubins ainsi que celles relatives à la liquidation et au partage des intérêts patrimoniaux des
+époux, des personnes liées par un pacte civil de solidarité et des concubins relevant de la compétence du juge aux affaires
+familiales obéissent aux règles de la procédure en matière contentieuse applicable devant le tribunal de grande instance. Les
+débats sont publics, sous réserve de l'article 435. La décision est rendue publiquement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1292 (VD)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 435 (V)
+
+
+###### Article 1136-2
+
+Les dispositions de la section VI du chapitre II du titre III du livre III sont, sous réserve des dispositions de l'article
+267 du code civil, applicables au partage des intérêts patrimoniaux des époux, des personnes liées par un pacte civil de
+solidarité et des concubins.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code civil
+	  - Code civil - art. 239
+	  - Code civil - art. 245
+	  - Code civil - art. 255
+	  - Code civil - art. 273
+	  - Code civil - art. 275
+	  - Code civil - art. 276
 
 
 #### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales
@@ -26861,25 +26943,37 @@ Les articles 1234-1 à 1235 et 1239-3 sont alors applicables.
 	  - Code de procédure civile - art. 1239-3 (V)
 
 
-##### Sous-section 4 : Les voies de recours.
+##### Sous-section 4 : L'appel.
 
 ###### Article 1239
 
 Sauf disposition contraire, les décisions du juge des tutelles et les délibérations du conseil de famille sont susceptibles
-de recours. 
+d'appel. 
 
-Le recours est ouvert aux personnes énumérées à l'article 430 du code civil même si elles ne sont pas intervenues à
-l'instance. 
+Sans préjudice des dispositions prévues par les articles 1239-1 à 1239-3, l'appel est ouvert aux personnes énumérées à
+l'article 430 du code civil, même si elles ne sont pas intervenues à l'instance. 
 
-Le recours est porté devant le tribunal de grande instance. 
+Le délai d'appel est de quinze jours. 
 
-Le délai de recours est de quinze jours.
+Les parties ne sont pas tenues de constituer avocat ou avoué.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -26888,20 +26982,33 @@ Le délai de recours est de quinze jours.
 
 	**Cite**:
 
-	  - Code civil - art. 430
+	  - Code de procédure civile - art. 1239-1 (V)
+	  - Code civil - art. 430 (V)
 
 
 ###### Article 1239-1
 
-Dans le cadre du partage amiable prévu aux articles 389-5 et 507 du code civil, le recours contre une délibération du conseil
-de famille ou une décision du juge des tutelles est ouvert à l'administrateur légal ou au tuteur, aux membres du conseil de
+Dans le cadre du partage amiable prévu aux articles 389-5 et 507 du code civil, l'appel contre une délibération du conseil de
+famille ou une décision du juge des tutelles est ouvert à l'administrateur légal ou au tuteur, aux membres du conseil de
 famille et aux autres parties intéressées au partage.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -26910,32 +27017,55 @@ famille et aux autres parties intéressées au partage.
 
 	**Cite**:
 
-	  - Code civil - art. 389-5
-	  - Code civil - art. 507
+	  - Code civil - art. 389-5 (V)
+	  - Code civil - art. 507 (V)
 
 
 ###### Article 1239-2
 
-Le recours contre la décision qui refuse d'ouvrir une mesure de protection à l'égard d'un majeur n'est ouvert qu'au
-requérant.
+L'appel contre le jugement qui refuse d'ouvrir une mesure de protection à l'égard d'un majeur n'est ouvert qu'au requérant.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
 ###### Article 1239-3
 
-Sans préjudice des dispositions prévues par l'article 1239-1, le recours contre une délibération du conseil de famille est
+Sans préjudice des dispositions prévues par l'article 1239-1, l'appel contre une délibération du conseil de famille est
 ouvert à tous ses membres et au juge des tutelles, quel qu'ait été leur avis lors de la délibération.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -26948,58 +27078,110 @@ ouvert à tous ses membres et au juge des tutelles, quel qu'ait été leur avis 
 
 ###### Article 1240
 
-Le ministère public peut former recours jusqu'à l'expiration d'un délai de quinze jours suivant la remise de l'avis qui lui a
+Le ministère public peut former appel jusqu'à l'expiration d'un délai de quinze jours suivant la remise de l'avis qui lui a
 été donné de la délibération prise ou de la décision rendue.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
 ###### Article 1241
 
-Le délai de recours contre une décision prononçant une mesure de protection à l'égard d'un majeur court : 
+Le délai d'appel contre les jugements statuant sur une mesure de protection à l'égard d'un majeur court : 
 
-1° A l'égard du majeur protégé, à compter de la notification prévue à l'article 1230-1 ;
+1° A l'égard du majeur protégé, à compter de la notification prévue à l'article 1230-1 ; 
 
-2° A l'égard des personnes à qui la décision est notifiée, à compter de cette notification ; 
+2° A l'égard des personnes à qui le jugement doit être notifié, à compter de cette notification ; 
 
 3° A l'égard des autres personnes, à compter du jugement.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1230-1
+	  - Code de procédure civile - art. 1230-1 (V)
 
 
 ###### Article 1241-1
 
-Le délai de recours contre les ordonnances rendues par le juge des tutelles court à compter de leur notification.
+Le délai d'appel contre les ordonnances rendues par le juge des tutelles court : 
+
+1° A l'égard des personnes à qui l'ordonnance doit être notifiée, à compter de cette notification ; 
+
+2° A l'égard des autres personnes, à compter de l'ordonnance.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
 ###### Article 1241-2
 
-Le délai du recours contre une délibération du conseil de famille court à compter de cette délibération, hors le cas de
+Le délai d'appel contre une délibération du conseil de famille court à compter de cette délibération, hors le cas de
 l'article 1234-4 où il ne court contre les membres du conseil de famille que du jour où la délibération leur a été notifiée.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 	**Cite**:
 
@@ -27008,20 +27190,30 @@ l'article 1234-4 où il ne court contre les membres du conseil de famille que du
 
 ###### Article 1242
 
-Le recours est formé par une requête remise ou adressée par lettre recommandée avec demande d'avis de réception au greffe du
-tribunal de grande instance. 
+L'appel est formé par déclaration faite ou adressée par lettre recommandée avec demande d'avis de réception au greffe de la
+juridiction de première instance. 
 
-La requête contient un bref exposé des motifs du recours et est datée et signée par son auteur. 
+Le greffier enregistre l'appel à sa date ; il délivre ou adresse par lettre simple, récépissé de la déclaration. 
 
-Les parties ne sont pas tenues de constituer avocat. 
+Il transmet sans délai une copie du dossier à la cour.
 
-La juridiction saisie avise du recours le greffe du tribunal d'instance qui transmet le dossier sans délai.
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -27031,44 +27223,79 @@ La juridiction saisie avise du recours le greffe du tribunal d'instance qui tran
 
 ###### Article 1242-1
 
-Lorsque le recours est formé par le juge des tutelles, celui-ci joint au dossier une note exposant les motifs de son recours.
+Lorsque l'appel est formé par le juge des tutelles, celui-ci joint au dossier une note exposant les motifs de son recours.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
 ###### Article 1243
 
-Lorsque l'auteur du recours restreint celui-ci à l'un des chefs de la décision autre que l'ouverture de la mesure de
-protection, il le précise.
+Lorsque l'appelant restreint son appel à l'un des chefs de la décision autre que l'ouverture de la mesure de protection, il
+le précise.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
 ###### Article 1244
 
-Le greffier du tribunal de grande instance avise de la date de l'audience : 
+Le greffier de la cour convoque à l'audience prévue pour les débats : 
 
 1° S'il en a constitué un, l'avocat du requérant, par tout moyen ; 
 
-2° L'auteur du recours et les personnes auxquelles la décision ou la délibération a été notifiée, par lettre recommandée avec
-demande d'avis de réception. 
+2° L'appelant et les personnes auxquelles la décision ou la délibération a été notifiée, par lettre recommandée avec demande
+d'avis de réception, ainsi que, le cas échéant, leurs avocats. 
 
-Ces dernières ont le droit d'intervenir devant le tribunal ; celui-ci peut ordonner qu'elles soient appelées en cause par
-acte d'huissier de justice.
+Ces dernières ont le droit d'intervenir devant la cour.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -27079,60 +27306,174 @@ acte d'huissier de justice.
 	  - Code civil - art. 493-1
 
 
-###### Article 1245
+###### Article 1244-1
 
-Le recours est instruit et jugé en chambre du conseil.
+La convocation est adressée, dès la fixation de l'audience prévue pour les débats et au moins quinze jours à l'avance, par
+lettre recommandée avec demande d'avis de réception. Une copie de la convocation est adressée aux personnes concernées par
+lettre simple. 
 
-**Liens relatifs à cet article**
+La convocation vaut citation.
 
-	**Modifié par**:
+**Nota:**
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
 
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
 
-###### Article 1246
-
-Le tribunal peut, même d'office, substituer une décision nouvelle à celle du juge des tutelles ou à la délibération du
-conseil de famille. 
-
-Sa décision n'est pas susceptible d'appel. 
-
-Jusqu'à la clôture des débats devant le tribunal de grande instance, le juge des tutelles et le conseil de famille demeurent
-compétents pour prendre toute décision ou délibération nécessaire à la préservation des droits et intérêts de la personne
-protégée. Le greffe du tribunal d'instance transmet immédiatement copie de cette décision ou délibération au greffe du
-tribunal de grande instance.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
-
-
-###### Article 1246-1
-
-La décision du tribunal de grande instance est notifiée à la diligence de son greffe. 
-
-Le dossier, auquel est jointe une copie certifiée conforme du jugement, est alors renvoyé sans délai au greffe du tribunal
-d'instance.
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
-###### Article 1247
+###### Article 1245
 
-Si le recours formé contre une décision du juge des tutelles ou une délibération du conseil de famille est rejeté, celui qui
-l'a introduit, à l'exception du juge, peut être condamné aux dépens et à des dommages-intérêts.
+L'appel est instruit et jugé en chambre du conseil. 
+
+La procédure est orale. 
+
+Les prétentions des parties ou la référence qu'elles font aux prétentions qu'elles auraient formulées par écrit sont notées
+au dossier ou consignées dans un procès-verbal.
+
+A l'audience, la cour entend l'appelant, le majeur à protéger ou protégé, sauf application par la cour des dispositions du
+second alinéa de l'article 432 du code civil et, le cas échéant, le ministère public. 
+
+Les avocats des parties, lorsqu'elles en ont constitué un, sont entendus en leurs observations.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 432 (V)
+
+
+###### Article 1245-1
+
+A moins que l'affaire ne soit jugée dès la première audience, le greffier avise de la date des audiences ultérieures les
+personnes convoquées qui ne l'auraient pas été verbalement.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2005-113 du 11 février 2005 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
+
+
+###### Article 1246
+
+La cour peut, même d'office, substituer une décision nouvelle à celle du juge des tutelles ou à la délibération du conseil de
+famille. 
+
+Jusqu'à la clôture des débats devant la cour, le juge des tutelles et le conseil de famille demeurent compétents pour prendre
+toute décision ou délibération nécessaire à la préservation des droits et intérêts de la personne protégée. Le greffe de la
+juridiction de première instance transmet immédiatement copie de cette décision ou délibération au greffe de la cour.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
+
+
+###### Article 1246-1
+
+La décision de la cour est notifiée à la diligence de son greffe. 
+
+Le dossier, auquel est jointe une copie certifiée conforme de l'arrêt, est alors renvoyé sans délai au greffe de la
+juridiction de première instance.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
+
+
+###### Article 1247
+
+Si l'appel formé contre une décision du juge des tutelles ou une délibération du conseil de famille est rejeté, celui qui l'a
+introduit, à l'exception du juge, peut être condamné aux dépens et à des dommages-intérêts.
+
+**Nota:**
+
+Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
+ne s'applique pas aux recours formés avant cette date.
+
+II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
+droit au juge aux affaires familiales.
+
+Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
+procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
+2010.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
 ##### Sous-section 5 : La sauvegarde de justice.
@@ -28768,20 +29109,17 @@ Le créancier poursuivant reste tenu de sa garantie malgré la subrogation.
 ###### Article 1286
 
 Les demandes d'autorisation et d'habilitation prévues par la loi, et notamment à l'article 217, au deuxième alinéa de
-l'article 1426 et aux articles 2405, 2406 et 2446 du code civil, sont formées par requête au tribunal de grande instance.
+l'article 1426 et aux articles 2405, 2406 et 2446 du code civil, sont formées par requête devant le juge aux affaires
+familiales. 
 
 Les demandes d'autorisation et d'habilitation prévues par les articles 217 et 219 du même code, lorsque le conjoint est hors
 d'état de manifester sa volonté, sont présentées au juge des tutelles.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 4
 
 	**Cité par**:
 
@@ -28792,30 +29130,32 @@ d'état de manifester sa volonté, sont présentées au juge des tutelles.
 
 	  - Code civil - art. 217 (V)
 	  - Code civil - art. 219 (V)
-	  - Code civil - art. 2405 (V)
-	  - Code civil - art. 2406 (V)
-	  - Code civil - art. 2446 (V)
+	  - Code civil - art. 2405
 
 
 ##### Sous-section I : La procédure devant le tribunal de grande instance.
 
+##### Sous-section I : La procédure devant le juge aux affaires familiales.
+
 ###### Article 1287
 
-La demande mentionnée au premier alinéa de l'article 1286 est instruite et jugée comme en matière gracieuse.
+La demande mentionnée au premier alinéa de l'article 1286 est instruite et jugée comme en matière gracieuse et obéit aux
+règles applicables à cette procédure devant le tribunal de grande instance. 
 
 Toutefois, lorsque la demande d'autorisation tend à passer outre au refus du conjoint, les dispositions des articles 788 à
-792 sont applicables. Le tribunal entend le conjoint à moins que celui-ci, régulièrement cité, ne se présente pas. L'affaire
-est instruite et jugée en chambre du conseil.
+792 sont applicables. Le juge entend le conjoint à moins que celui-ci, régulièrement cité, ne se présente pas. L'affaire est
+instruite et jugée en chambre du conseil.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-460 du 13 mai 2005 - art. 33 () JORF 14 mai 2005
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1286
+	  - Code de procédure civile - art. 788
 
 
 ###### Article 1288
@@ -28954,28 +29294,29 @@ règles applicables aux demandes en séparation de biens.
 
 ###### Article 1292
 
-La demande en séparation de biens est portée devant le tribunal de grande instance de la résidence de la famille.
+La demande en séparation de biens est portée devant le juge aux affaires familiales de la résidence de la famille. Elle obéit
+aux règles de l'article 1136-1. 
 
 Un extrait de la demande est transmis par l'avocat du demandeur aux greffes des tribunaux de grande instance dans le ressort
 desquels sont nés l'un et l'autre des époux, à fin de conservation au répertoire civil et de publicité par mention en marge
-de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre.
+de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre. 
 
-Un extrait de la demande peut, en outre, être publié dans un journal diffusé dans le ressort du tribunal saisi.
+Un extrait de la demande peut, en outre, être publié dans un journal diffusé dans le ressort de la juridiction saisie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 6
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1060 (V)
 	  - Code de procédure civile - art. 1296 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1136-1
 
 
 ###### Article 1293
@@ -29002,29 +29343,25 @@ service central d'état civil au ministère des affaires étrangères.
 
 ###### Article 1294
 
-Le jugement prononçant la séparation est publié dans un journal diffusé dans le ressort du tribunal qui l'a rendu.
+Le jugement prononçant la séparation est publié dans un journal diffusé dans le ressort de la juridiction qui l'a rendu. 
 
 Le dispositif du jugement est notifié à l'officier de l'état civil du lieu où le mariage a été célébré à fin de mention en
 marge de l'acte de célébration. Lorsque l'union a été célébrée à l'étranger et qu'un acte de mariage a été dressé ou
-transcrit sur un registre français, le dispositif du jugement est notifié aux mêmes fins à l'autorité détenant ce registre.
+transcrit sur un registre français, le dispositif du jugement est notifié aux mêmes fins à l'autorité détenant ce registre. 
 
 Si un contrat de mariage a été passé par les époux, le dispositif de la décision est notifié par lettre recommandée avec
 demande d'avis de réception au notaire détenteur de la minute du contrat. Le notaire est tenu de faire mention de la décision
 sur la minute et ne doit plus, à peine de dommages-intérêts, en délivrer aucune copie, exécutoire ou non, sans reproduire
-cette mention.
+cette mention. 
 
 Dans les cas prévus aux deux alinéas qui précèdent, la notification est accompagnée de la justification du caractère
 exécutoire de la décision conformément à l'article 506.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°98-508 du 23 juin 1998 - art. 4 () JORF 25 juin 1998
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 6
 
 	**Cité par**:
 
@@ -29033,7 +29370,7 @@ exécutoire de la décision conformément à l'article 506.
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 506
+	  - Code de procédure civile - art. 506 (V)
 
 
 ###### Article 1295
@@ -29244,17 +29581,14 @@ résidence de la famille.
 
 ###### Article 1301
 
-L'homologation d'un changement de régime matrimonial relève de la matière gracieuse.
+L'homologation d'un changement de régime matrimonial relève de la matière gracieuse et obéit aux règles applicables à cette
+procédure devant le tribunal de grande instance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 7
 
 
 ###### Article 1302
@@ -31229,31 +31563,26 @@ forme des référés.
 
 ###### Article 1381
 
-Les demandes formées en application des articles 811, 820, 821, 821-1, 824, 832-1, 832-2, 832-3, 887, 1026 du même code sont
-portées devant le tribunal de grande instance.
+Les demandes formées en application des articles 811, 820, 821, 821-1, 824, 832-1, 832-2, 832-3, 
+887, 
+1026 du même code sont portées devant le tribunal de grande instance, sous réserve de la compétence dévolue au juge aux
+affaires familiales par le 1° de l'article L. 213-3 du code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2009-1591 du 17 décembre 2009 - art. 8
 
 	**Cite**:
 
-	  - Code civil - art. 1026 (M)
-	  - Code civil - art. 811 (M)
-	  - Code civil - art. 820 (M)
-	  - Code civil - art. 821 (Ab)
-	  - Code civil - art. 821-1 (V)
-	  - Code civil - art. 824 (M)
-	  - Code civil - art. 832-1 (M)
-	  - Code civil - art. 832-2 (M)
-	  - Code civil - art. 832-3 (M)
-	  - Code civil - art. 887 (M)
+	  - Code civil - art. 1026
+	  - Code civil - art. 811
+	  - Code civil - art. 820
+	  - Code civil - art. 824
+	  - Code civil - art. 832-1
+	  - Code civil - art. 887
+	  - Code de l'organisation judiciaire - art. L213-3
 
 
 ## Titre IV : Les obligations et les contrats.
