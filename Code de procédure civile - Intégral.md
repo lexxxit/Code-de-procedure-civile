@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-03-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -2523,6 +2523,245 @@ Il en est de même lorsque, avant toute forclusion, la personne ayant qualité p
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+## Titre V bis : La question prioritaire de constitutionnalité
+
+### Chapitre Ier : La transmission par le juge de la question prioritaire de constitutionnalité à la Cour de cassation 
+
+
+###### Article 126-1
+
+La transmission d'une question prioritaire de constitutionnalité à la Cour de cassation obéit aux règles définies par les
+articles 23-1 à 23-3 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel et
+aux dispositions prévues par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-1
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+
+###### Article 126-2
+
+A peine d'irrecevabilité, la partie qui soutient qu'une disposition législative porte atteinte aux droits et libertés
+garantis par la Constitution présente ce moyen dans un écrit distinct et motivé, y compris à l'occasion d'un recours contre
+une décision réglant tout ou partie du litige dans une instance ayant donné lieu à un refus de transmettre la question
+prioritaire de constitutionnalité. 
+
+Le juge doit relever d'office l'irrecevabilité du moyen qui n'est pas présenté dans un écrit distinct et motivé. 
+
+Les autres observations des parties sur la question prioritaire de constitutionnalité doivent, si elles sont présentées par
+écrit, être contenues dans un écrit distinct et motivé. A défaut, elles ne peuvent être jointes à la décision transmettant la
+question à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+
+###### Article 126-3
+
+Le juge qui statue sur la transmission de la question prioritaire de constitutionnalité est celui qui connaît de l'instance
+au cours de laquelle cette question est soulevée, sous réserve des alinéas qui suivent. 
+
+Le magistrat chargé de la mise en état, ainsi que le magistrat de la cour d'appel chargé d'instruire l'affaire, statue par
+ordonnance sur la transmission de la question prioritaire de constitutionnalité soulevée devant lui. Lorsque la question le
+justifie, il peut également renvoyer l'affaire devant la formation de jugement, le cas échéant sans clore l'instruction, pour
+qu'elle statue sur la transmission de la question. Cette décision de renvoi est une mesure d'administration judiciaire. 
+
+Le président de la formation de jugement du tribunal paritaire des baux ruraux, du tribunal des affaires de sécurité sociale,
+du tribunal du contentieux de l'incapacité et de la Cour nationale de l'incapacité et de la tarification de l'assurance des
+accidents du travail statuent sur la transmission de la question.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+
+###### Article 126-4
+
+Le juge statue sans délai, selon les règles de procédure qui lui sont applicables, sur la transmission de la question
+prioritaire de constitutionnalité, le ministère public avisé et les parties entendues ou appelées. 
+
+Ceux-ci sont avisés par tout moyen de la date à laquelle la décision sera rendue. Les parties sont en outre avisées qu'elles
+devront, le cas échéant, se conformer aux dispositions de l'article 126-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 126-9
+
+
+###### Article 126-5
+
+Le juge n'est pas tenu de transmettre une question prioritaire de constitutionnalité mettant en cause, par les mêmes motifs,
+une disposition législative dont la Cour de cassation ou le Conseil constitutionnel est déjà saisi. En cas d'absence de
+transmission pour cette raison, il sursoit à statuer sur le fond, jusqu'à ce qu'il soit informé de la décision de la Cour de
+cassation ou, le cas échéant, du Conseil constitutionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+
+###### Article 126-6
+
+Le refus de transmettre la question dessaisit la juridiction du moyen tiré de la question prioritaire de constitutionnalité. 
+
+Toutefois, lorsque ce refus a été exclusivement motivé par la constatation que la disposition législative contestée n'était
+pas applicable au litige ou à la procédure en cause, la juridiction peut, si elle entend à l'occasion de l'examen de
+l'affaire faire application de cette disposition, rétracter ce refus et transmettre la question.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+
+###### Article 126-7
+
+Le greffe avise les parties et le ministère public par tout moyen et sans délai de la décision statuant sur la transmission
+de la question prioritaire de constitutionnalité à la Cour de cassation. 
+
+En cas de décision de transmission, l'avis aux parties précise que celle-ci n'est susceptible d'aucun recours et que les
+parties qui entendent présenter des observations devant la Cour de cassation doivent se conformer aux dispositions de
+l'article 126-9, qui est reproduit dans l'avis, ainsi que le premier alinéa de l'article 126-11. L'avis est adressé par
+lettre recommandée avec demande d'avis de réception aux parties qui n'ont pas comparu. 
+
+En cas de décision de refus de transmission, l'avis aux parties précise que celle-ci ne peut être contestée qu'à l'occasion
+d'un recours formé contre une décision tranchant tout ou partie du litige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 126-11
+	  - Code de procédure civile - art. 126-9
+
+
+### Chapitre II : Le renvoi par la Cour de cassation de la question prioritaire de constitutionnalité au Conseil constitutionnel 
+
+
+
+###### Article 126-8
+
+Le renvoi par la Cour de cassation d'une question prioritaire de constitutionnalité au Conseil constitutionnel obéit aux
+règles définies par les articles 23-4 à 23-7 de l'ordonnance n° 58-1067 du 7 novembre 1958 précitée et aux dispositions
+prévues par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-4
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+
+###### Article 126-9
+
+Les parties disposent d'un délai d'un mois à compter de la décision de transmission pour faire connaître leurs éventuelles
+observations. Celles-ci sont signées par un avocat au Conseil d'Etat et à la Cour de cassation, dans les matières où la
+représentation est obligatoire devant la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 126-11 (V)
+	  - Code de procédure civile - art. 126-4 (VD)
+	  - Code de procédure civile - art. 126-7 (VD)
+
+
+###### Article 126-10
+
+Lorsque la question prioritaire de constitutionnalité est soulevée à l'occasion d'un pourvoi, les autres parties au pourvoi
+disposent d'un délai d'un mois pour remettre un mémoire en réponse sur la question prioritaire de constitutionnalité. Celui-
+ci est établi, remis et communiqué suivant les règles régissant le pourvoi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+
+###### Article 126-11
+
+Le premier président ou son délégué, à la demande de l'une des parties ou d'office, peut, en cas d'urgence, réduire le délai
+prévu par les articles 126-9 et 126-10.
+
+Il fixe la date de l'audience au cours de laquelle sera examinée la question prioritaire de constitutionnalité. 
+
+Le procureur général en est avisé pour lui permettre de faire connaître son avis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 126-10 (V)
+	  - Code de procédure civile - art. 126-12 (VD)
+	  - Code de procédure civile - art. 126-7 (VD)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 126-9
+
+
+###### Article 126-12
+
+Le greffe notifie aux parties la décision prise par le premier président ou son délégué en application du premier alinéa de
+l'article 126-11, ainsi que la date de l'audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-148 du 16 février 2010 - art. 3
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-1216 du 15 octobre 2010 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 126-11
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 126-13 (V)
 
 
 ## Titre VI : La conciliation.
@@ -29132,8 +29371,6 @@ d'état de manifester sa volonté, sont présentées au juge des tutelles.
 	  - Code civil - art. 219 (V)
 	  - Code civil - art. 2405
 
-
-##### Sous-section I : La procédure devant le tribunal de grande instance.
 
 ##### Sous-section I : La procédure devant le juge aux affaires familiales.
 
