@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2010-03-01
+Version Consolidée au 2010-05-03
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -31964,6 +31964,19 @@ procédure européenne de règlement des petits litiges.
 	**Créé par**:
 
 	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1391
+
+Le droit à réexamen prévu par l'article 18 du règlement (CE) n° 861/2007 du Parlement européen et du Conseil du 11 juillet
+2007 instituant une procédure européenne de règlement des petits litiges s'exerce selon la procédure de l'opposition, lorsque
+celle-ci est ouverte, ou, dans le cas contraire, selon des modalités procédurales similaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-433 du 29 avril 2010 - art. 4
 
 
 ### Chapitre II : Les procédures d'injonction.
