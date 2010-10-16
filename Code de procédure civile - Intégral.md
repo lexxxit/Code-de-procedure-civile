@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2010-10-01
+Version Consolidée au 2010-10-17
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -2703,21 +2703,29 @@ représentation est obligatoire devant la Cour de cassation.
 
 ###### Article 126-10
 
-Lorsque la question prioritaire de constitutionnalité est soulevée à l'occasion d'un pourvoi, les autres parties au pourvoi
-disposent d'un délai d'un mois pour remettre un mémoire en réponse sur la question prioritaire de constitutionnalité. Celui-
-ci est établi, remis et communiqué suivant les règles régissant le pourvoi.
+Lorsque la question prioritaire de constitutionnalité est soulevée à l'occasion d'un pourvoi, le mémoire distinct prévu à l'
+article 23-5 de l'ordonnance n° 58-1067 du 7 novembre 1958  porte la mention : " question prioritaire de constitutionnalité
+". 
+
+Les autres parties au pourvoi disposent d'un délai d'un mois pour remettre un mémoire en réponse sur la question prioritaire
+de constitutionnalité. Celui-ci est établi, remis et communiqué suivant les règles régissant le pourvoi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2010-148 du 16 février 2010 - art. 3
+	  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-5
+	  - Code de procédure civile - art. 126-11
+
+	**Modifié par**:
+
+	  - Décret n°2010-1216 du 15 octobre 2010 - art. 2
 
 
 ###### Article 126-11
 
-Le premier président ou son délégué, à la demande de l'une des parties ou d'office, peut, en cas d'urgence, réduire le délai
-prévu par les articles 126-9 et 126-10.
+Le président de la formation à laquelle l'affaire est distribuée ou son délégué, à la demande de l'une des parties ou
+d'office, peut, en cas d'urgence, réduire le délai prévu par les articles 126-9 et 126-10.
 
 Il fixe la date de l'audience au cours de laquelle sera examinée la question prioritaire de constitutionnalité. 
 
@@ -2725,9 +2733,9 @@ Le procureur général en est avisé pour lui permettre de faire connaître son 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-148 du 16 février 2010 - art. 3
+	  - Décret n°2010-1216 du 15 octobre 2010 - art. 2
 
 	**Cité par**:
 
@@ -2742,26 +2750,32 @@ Le procureur général en est avisé pour lui permettre de faire connaître son 
 
 ###### Article 126-12
 
-Le greffe notifie aux parties la décision prise par le premier président ou son délégué en application du premier alinéa de
-l'article 126-11, ainsi que la date de l'audience.
+La Cour de cassation n'est pas tenue de renvoyer au Conseil constitutionnel une question prioritaire de constitutionnalité
+mettant en cause, par les mêmes motifs, une disposition législative dont le Conseil constitutionnel est déjà saisi. En cas
+d'absence de transmission pour cette raison, elle diffère sa décision jusqu'à l'intervention de la décision du Conseil
+constitutionnel.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1216 du 15 octobre 2010 - art. 2
+
+
+###### Article 126-13
+
+Le greffe notifie aux parties la décision prise par le président de la formation ou son délégué en application du premier
+alinéa de l'article 126-11, ainsi que la date de l'audience.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2010-148 du 16 février 2010 - art. 3
+	  - Décret n°2010-1216 du 15 octobre 2010 - art. 2
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2010-1216 du 15 octobre 2010 - art. 2
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 126-11
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 126-13 (V)
+	  - Code de procédure civile - art. 126-12 (T)
 
 
 ## Titre VI : La conciliation.
