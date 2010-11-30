@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2010-10-17
+Version Consolidée au 2010-12-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -2780,30 +2780,41 @@ alinéa de l'article 126-11, ainsi que la date de l'audience.
 
 ## Titre VI : La conciliation.
 
+### Chapitre Ier : Dispositions générales
+
 ###### Article 127
 
 Les parties peuvent se concilier, d'elles-mêmes ou à l'initiative du juge, tout au long de l'instance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 128 (V)
 
 
 ###### Article 128
 
-La conciliation est tentée, sauf disposition particulière, au lieu et au moment que le juge estime favorables.
+La conciliation est tentée, sauf disposition particulière, au lieu et au moment que le juge estime favorables et selon les
+modalités qu'il fixe.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 	**Cité par**:
 
 	  - Décret n°78-381 du 20 mars 1978 - art. 1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
 
 
 ###### Article 129
@@ -2812,20 +2823,154 @@ Les parties peuvent toujours demander au juge de constater leur conciliation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 129-1 (V)
 
 
-###### Article 130
+### Chapitre II : La conciliation déléguée à un conciliateur de justice
 
-La teneur de l'accord, même partiel, est constatée dans un procès-verbal signé par le juge et les parties.
+
+
+###### Article 129-1
+
+Lorsque le juge, en vertu d'une disposition particulière, délègue sa mission de conciliation, il désigne un conciliateur de
+justice à cet effet, fixe la durée de sa mission et indique la date à laquelle l'affaire sera rappelée. La durée initiale de
+la mission ne peut excéder deux mois. Elle peut être renouvelée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 129-2 (M)
+
+
+###### Article 129-2
+
+Pour procéder à la tentative de conciliation, le conciliateur de justice convoque en tant que de besoin les parties aux lieu,
+jour et heure qu'il détermine.
+
+Les parties peuvent être assistées devant le conciliateur de justice par une personne ayant qualité pour le faire devant la
+juridiction ayant délégué la conciliation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 129-3 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 832 (M)
+
+
+###### Article 129-3
+
+Le conciliateur de justice peut, avec l'accord des parties, se rendre sur les lieux et entendre toute personne dont
+l'audition lui paraît utile, sous réserve de l'acceptation de celle-ci.
+
+Les constatations du conciliateur et les déclarations qu'il recueille ne peuvent être ni produites ni invoquées dans la suite
+de la procédure sans l'accord des parties ni, en tout état de cause, dans une autre instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 129-4 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 832 (V)
+
+
+###### Article 129-4
+
+Le conciliateur de justice tient le juge informé des difficultés qu'il rencontre dans l'accomplissement de sa mission, ainsi
+que de la réussite ou de l'échec de la conciliation.
+
+Le juge peut mettre fin à tout moment à la conciliation, à la demande d'une partie ou à l'initiative du conciliateur. Il peut
+également y mettre fin d'office lorsque le bon déroulement de la conciliation apparaît compromis. Le greffier en avise le
+conciliateur et les parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 129-5 (V)
+
+
+###### Article 129-5
+
+Les décisions prises par le juge dans le cadre de la délégation de la mission de conciliation sont des mesures
+d'administration judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 129-6, v. 0.1 (V)
+
+
+### Chapitre III : L'acte de conciliation
+
+###### Article 130
+
+La teneur de l'accord, même partiel, est consignée, selon le cas, dans un procès-verbal signé par les parties et le juge ou
+dans un constat signé par les parties et le conciliateur de justice.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
 
 	**Cité par**:
 
@@ -2834,13 +2979,16 @@ La teneur de l'accord, même partiel, est constatée dans un procès-verbal sign
 
 ###### Article 131
 
-Des extraits du procès-verbal constatant la conciliation peuvent être délivrés ; ils valent titre exécutoire.
+Des extraits du procès-verbal dressé par le juge peuvent être délivrés. Ils valent titre exécutoire.
+
+Les parties peuvent soumettre à l'homologation du juge le constat d'accord établi par le conciliateur de justice.
+L'homologation relève de la matière gracieuse.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
 
 
 ## Titre VII : L'administration judiciaire de la preuve.
@@ -3437,6 +3585,18 @@ jugée.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 171-1
+
+Le juge chargé de procéder à une mesure d'instruction ou d'en contrôler l'exécution peut constater la conciliation, même
+partielle, des parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
 
 
 ###### Article 172
@@ -7980,6 +8140,8 @@ Lorsqu'il y a eu communication, le ministère public est avisé de la date de l'
 
 ##### Sous-section I : Les débats.
 
+##### Paragraphe 1 : Dispositions générales
+
 ###### Article 430
 
 La juridiction est composée, à peine de nullité, conformément aux règles relatives à l'organisation judiciaire.
@@ -7993,9 +8155,9 @@ la profession ou les fonctions ne sont pas de celles qui l'habilitent à faire p
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 431
@@ -8008,13 +8170,9 @@ sont mises à la disposition des parties, soit oralement à l'audience.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 16 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 	**Cité par**:
 
@@ -8033,9 +8191,9 @@ En cas de changement survenu dans la composition de la juridiction après l'ouve
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 433
@@ -8046,9 +8204,9 @@ Ce qui est prévu à cet égard en première instance doit être observé en cau
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 434
@@ -8057,9 +8215,9 @@ En matière gracieuse, la demande est examinée en chambre du conseil.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 435
@@ -8070,9 +8228,9 @@ troubler la sérénité de la justice.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 	**Cité par**:
 
@@ -8087,14 +8245,14 @@ En chambre du conseil, il est procédé hors la présence du public.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 437
 
-S'il apparaît ou s'il est prétendu, soit que les débats doivent avoir lieu en chambre du conseil alors qu'ils se déroulent en
+S'il apparaît ou s'il est prétendu soit que les débats doivent avoir lieu en chambre du conseil alors qu'ils se déroulent en
 audience publique, soit l'inverse, le président se prononce sur-le-champ et il est passé outre à l'incident.
 
 Si l'audience est poursuivie sous sa forme régulière, aucune nullité fondée sur son déroulement antérieur ne pourra être
@@ -8102,9 +8260,9 @@ ultérieurement prononcée, même d'office.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 438
@@ -8115,9 +8273,9 @@ Les juges disposent des mêmes pouvoirs sur les lieux où ils exercent les fonct
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 	**Cité par**:
 
@@ -8135,9 +8293,9 @@ ou disciplinaires qui pourraient être exercées contre elle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 440
@@ -8151,9 +8309,9 @@ parties pour leur défense.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 441
@@ -8166,9 +8324,9 @@ la décence convenable ou la clarté nécessaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 442
@@ -8178,9 +8336,9 @@ nécessaires ou à préciser ce qui paraît obscur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 443
@@ -8192,9 +8350,9 @@ audience.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 444
@@ -8206,9 +8364,9 @@ En cas de changement survenu dans la composition de la juridiction, il y a lieu 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ###### Article 445
@@ -8219,9 +8377,9 @@ de répondre aux arguments développés par le ministère public, ou à la deman
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 	**Cite**:
 
@@ -8232,18 +8390,124 @@ de répondre aux arguments développés par le ministère public, ou à la deman
 
 Ce qui est prescrit par les articles 432 (alinéa 2), 433, 434, 435 et 444 (alinéa 2) doit être observé à peine de nullité.
 
-Toutefois aucune nullité ne pourra être ultérieurement soulevée pour inobservation de ces dispositions si elle n'a pas été
+Toutefois, aucune nullité ne pourra être ultérieurement soulevée pour inobservation de ces dispositions si elle n'a pas été
 invoquée avant la clôture des débats. La nullité ne peut pas être relevée d'office.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 432, 433, 434, 435 et 444
+
+
+##### Paragraphe 2 : Dispositions propres à la procédure orale
+
+
+
+###### Article 446-1
+
+Les parties présentent oralement à l'audience leurs prétentions et les moyens à leur soutien. Elles peuvent également se
+référer aux prétentions et aux moyens qu'elles auraient formulés par écrit. Les observations des parties sont notées au
+dossier ou consignées dans un procès-verbal.
+
+Lorsqu'une disposition particulière le prévoit, les parties peuvent être autorisées à formuler leurs prétentions et leurs
+moyens par écrit sans se présenter à l'audience. Le jugement rendu dans ces conditions est contradictoire. Néanmoins, le juge
+a toujours la faculté d'ordonner que les parties se présentent devant lui.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°92-755 du 31 juillet 1992 - art. 13-1 (Ab)
+	  - Décret n°92-755 du 31 juillet 1992 - art. 14 (Ab)
+	  - Décret n°2016-660 du 20 mai 2016 - art. 16
+	  - Code de la consommation - art. R331-9-2 (Ab)
+	  - Code de la consommation - art. R713-4 (V)
+	  - Code de la sécurité sociale. - art. R142-20-2 (VD)
+	  - Code de la sécurité sociale. - art. R143-10-1 (VD)
+	  - Code de la sécurité sociale. - art. R143-26 (VD)
+	  - Code de procédure civile - art. 847-1 (VD)
+	  - Code de procédure civile - art. 847-2 (V)
+	  - Code de procédure civile - art. 861-1 (VD)
+	  - Code de procédure civile - art. 861-2 (V)
+	  - Code de procédure civile - art. 946 (VD)
+	  - Code des procédures civiles d'exécution - art. R121-10 (V)
+	  - Code des procédures civiles d'exécution - art. R121-9 (V)
+	  - Code du travail - art. R1454-19-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
+
+
+###### Article 446-2
+
+Lorsque les débats sont renvoyés à une audience ultérieure, le juge peut organiser les échanges entre les parties
+comparantes. Si les parties en sont d'accord, le juge peut ainsi fixer les délais et les conditions de communication de leurs
+prétentions, moyens et pièces.
+
+Lorsque les parties formulent leurs prétentions et moyens par écrit, le juge peut, avec leur accord, prévoir qu'elles seront
+réputées avoir abandonné les prétentions et moyens non repris dans leurs dernières écritures communiquées.
+
+A défaut pour les parties de respecter les modalités de communication fixées par le juge, celui-ci peut rappeler l'affaire à
+l'audience, en vue de la juger ou de la radier.
+
+Le juge peut écarter des débats les prétentions, moyens et pièces communiqués sans motif légitime après la date fixée pour
+les échanges et dont la tardiveté porte atteinte aux droits de la défense.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 446-3 (VD)
+	  - Code de procédure civile - art. 861-3 (VD)
+	  - Code de procédure civile - art. 939 (VD)
+
+
+###### Article 446-3
+
+Le juge peut inviter, à tout moment, les parties à fournir les explications de fait et de droit qu'il estime nécessaires à la
+solution du litige et les mettre en demeure de produire dans le délai qu'il détermine tous les documents ou justifications
+propres à l'éclairer, faute de quoi il peut passer outre et statuer en tirant toute conséquence de l'abstention de la partie
+ou de son refus. 
+
+Lorsque les échanges ont lieu en dehors d'une audience en application de l'article 446-2, les parties sont avisées par tout
+moyen de la demande faite par le juge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 862 (VD)
+	  - Code de procédure civile - art. 940 (VD)
+
+
+###### Article 446-4
+
+La date des prétentions et des moyens d'une partie régulièrement présentés par écrit est celle de leur communication entre
+parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
 ##### Sous-section II : Le délibéré.
@@ -8513,7 +8777,8 @@ ce que la raison commande.
 
 Le juge est saisi par simple requête de l'une des parties, ou par requête commune ; il peut aussi se saisir d'office.
 
-Le juge statue après avoir entendu les parties ou celles-ci appelées.
+Le juge statue après avoir entendu les parties ou celles-ci appelées. Toutefois, lorsqu'il est saisi par requête, il statue
+sans audience, à moins qu'il n'estime nécessaire d'entendre les parties.
 
 La décision rectificative est mentionnée sur la minute et sur les expéditions du jugement. Elle est notifiée comme le
 jugement.
@@ -8523,13 +8788,13 @@ du recours en cassation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Cité par**:
 
 	  - Décret n°2009-1193 du 7 octobre 2009 - art. 90 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
 
 
 ###### Article 463
@@ -9392,32 +9657,41 @@ territoire de la République de la manière et dans les cas prévus par la loi.
 
 Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
 l'étranger en application du règlement (CE) du Conseil n° 44/2001 du 22 décembre 2000 concernant la compétence judiciaire, la
-reconnaissance et l'exécution des décisions en matière civile et commerciale et du règlement (CE) n° 805/2004 du Parlement
-européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire européen pour les créances incontestées sont
-présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention.
+reconnaissance et l'exécution des décisions en matière civile et commerciale, de l'article 39 du règlement (CE) n° 2201/2003
+du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière
+matrimoniale et de responsabilité parentale, du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril
+2004 portant création d'un titre exécutoire européen pour les créances incontestées et de la convention concernant la
+compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, faite à Lugano le 30
+octobre 2007, sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention.
 
 Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
-compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et de responsabilité parentale, sont
-présentées au juge qui a rendu la décision ou homologué la convention. Elles sont dispensées du ministère d'avocat.
+l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 susmentionné
+sont présentées au juge qui a rendu la décision ou homologué la convention. Elles sont dispensées du ministère d'avocat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 15
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 509-3 (V)
+
+	**Cite**:
+
+	  - article 39 du règlement (CE) n°2201/2003
+	  - articles 41 et 42 du règlement (CE) n°2201/2003
+	  - règlement (CE) n°805/2004
 
 
 ###### Article 509-2
 
 Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
 titres exécutoires étrangers, en application du règlement (CE) du Conseil n° 44/2001 du 22 décembre 2000 concernant la
-compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, sont présentées au
-greffier en chef du tribunal de grande instance.
+compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale et de la convention
+concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, faite à
+Lugano le 30 octobre 2007, sont présentées au greffier en chef du tribunal de grande instance. 
 
 Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
 titres exécutoires étrangers, en application du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
@@ -9426,29 +9700,29 @@ présentées au président du tribunal de grande instance ou à son délégué. 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-460 du 13 mai 2005 - art. 27 () JORF 14 mai 2005
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1535 (V)
 	  - Code de procédure civile - art. 509-3 (V)
 
+	**Cite**:
+
+	  - règlement (CE) n°2201/2003
+
 
 ###### Article 509-3
 
 Par dérogation aux articles 509-1 et 509-2, les requêtes aux fins de certification, de reconnaissance ou de constatation de
-la force exécutoire des actes authentiques notariés, en application du règlement précité du 22 décembre 2000, sont présentées
-au président de la chambre des notaires ou, en cas d'absence ou d'empêchement, à son suppléant désigné parmi les membres de
-la chambre. 
+la force exécutoire des actes authentiques notariés, en application du règlement précité du 22 décembre 2000 et de la
+convention précitée du 30 octobre 2007, sont présentées au président de la chambre des notaires ou, en cas d'absence ou
+d'empêchement, à son suppléant désigné parmi les membres de la chambre. 
 
-Lorsque ce règlement l'exige, l'élection de domicile est faite dans le ressort de la cour d'appel où siège la chambre des
-notaires. 
+Lorsque ce règlement ou cette convention l'exige, l'élection de domicile est faite dans le ressort de la cour d'appel où
+siège la chambre des notaires. 
 
 Par dérogation à l'article 509-1, les requêtes aux fins de certification des actes authentiques notariés en vue de leur
 exécution à l'étranger en application du règlement (CE) n° 805 / 2004 du Parlement européen et du Conseil du 21 avril 2004
@@ -9457,18 +9731,20 @@ morale titulaire de l'office notarial conservant la minute de l'acte reçu.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2008-484 du 22 mai 2008 - art. 16
-
 	**Cité par**:
 
 	  - Décret n°2010-433 du 29 avril 2010 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
+
 	**Cite**:
 
 	  - Code de procédure civile - art. 509-1
-	  - Code de procédure civile - art. 509-2
+	  - convention précitée du 30 octobre 2007
+	  - règlement (CE) n°805
+	  - règlement précité du 22 décembre 2000
 
 
 ###### Article 509-4
@@ -16142,26 +16418,17 @@ Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
 
 ###### Article 829
 
-Devant le tribunal d'instance et la juridiction de proximité, la demande en justice est formée par assignation à fin de
-conciliation et, à défaut, de jugement, sauf la faculté pour le demandeur de provoquer une tentative de conciliation avant
-d'assigner.
+La demande en justice est formée par assignation à fin de conciliation et, à défaut, de jugement, sauf la faculté pour le
+demandeur de provoquer une tentative de conciliation. 
 
-La demande peut également être formée soit par la remise au greffe d'une requête conjointe, soit par la présentation
-volontaire des parties devant le juge, soit dans le cas prévu à l'article 847-1, par une déclaration au greffe.
-
-Faute d'accord des parties pour procéder à une tentative de conciliation, le juge, par décision insusceptible de recours,
-peut leur enjoindre de rencontrer un conciliateur qu'il désigne à cet effet, chargé de les informer sur l'objet et le
-déroulement de la mesure de conciliation.
+La demande peut également être formée soit par une requête conjointe remise au greffe, soit par la présentation volontaire
+des parties devant le juge, soit, dans le cas prévu à l'article 843, par une déclaration au greffe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cité par**:
 
@@ -16170,52 +16437,52 @@ déroulement de la mesure de conciliation.
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 847-1
+	  - Code de procédure civile - art. 843
 
 
 #### Chapitre Ier : La tentative préalable de conciliation.
 
 ###### Article 830
 
-La demande aux fins de tentative préalable de conciliation est formée verbalement ou par lettre simple, au greffe. 
+La demande aux fins de tentative préalable de conciliation est formée par déclaration faite, remise ou adressée au greffe.
 
 Le demandeur indique les nom, prénoms, profession et adresse des parties, ainsi que l'objet de sa prétention.
 
+Le demandeur qui s'oppose à ce que la conciliation soit déléguée à un conciliateur de justice le signale dans sa déclaration.
+
+La prescription et les délais pour agir sont interrompus par l'enregistrement de la demande.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cité par**:
 
 	  - Décret n°2010-1165 du 1er octobre 2010 - art. 17 (VD)
 
 
+##### Section I : La conciliation déléguée à un conciliateur de justice
+
 ###### Article 831
 
-La tentative préalable de conciliation peut être menée par le juge ou par un conciliateur remplissant les conditions prévues
-par le décret n° 78-381 du 20 mars 1978 modifié relatif aux conciliateurs, désigné à cet effet.
+En l'absence d'opposition du demandeur dans sa déclaration, le juge peut déléguer à un conciliateur de justice la tentative
+préalable de conciliation.
 
-Dans tous les cas, les parties doivent se présenter en personne.
+Le greffier avise le défendeur par lettre recommandée avec demande d'avis de réception de la décision du juge et de la
+faculté qui lui est ouverte de refuser la délégation. L'avis précise les nom, prénoms, profession et adresse du demandeur et
+l'objet de la demande.
+
+Le défendeur peut refuser la délégation de la tentative de conciliation. Le refus est exprimé par déclaration faite, remise
+ou adressée au greffe dans les huit jours suivant la notification qui lui est faite de la décision du juge. En ce cas, le
+juge procède lui-même à la tentative de conciliation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Cite**:
-
-	  - Décret n°78-381 1978-03-20
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cité par**:
 
@@ -16224,247 +16491,70 @@ Dans tous les cas, les parties doivent se présenter en personne.
 
 ###### Article 832
 
-La durée initiale de la mission du conciliateur ne peut excéder un mois. Cette mission peut être renouvelée une fois, pour
-une même durée, à la demande du conciliateur.
+A défaut de refus de la délégation par le défendeur dans le délai prévu par l'article 831, le demandeur et le conciliateur de
+justice sont avisés par tout moyen de la décision du juge. Une copie de la demande est adressée au conciliateur. 
+
+Le conciliateur de justice procède à la tentative de conciliation comme il est dit aux articles 129-2 à 129-4, 130 et 131. A
+sa demande, sa mission peut être renouvelée, sans qu'il soit nécessaire de recueillir l'accord des parties. 
+
+En cas d'échec de la tentative de conciliation, le conciliateur de justice en informe le juge en précisant la date de la
+réunion à l'issue de laquelle il a constaté cet échec.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 129-2
+	  - Code de procédure civile - art. 130
+	  - Code de procédure civile - art. 831
 
 
 ###### Article 832-1
 
-Lorsque le juge envisage de désigner un conciliateur, il en avise les parties par lettre simple et les invite à lui faire
-connaître leur acceptation dans le délai de quinze jours.
+Les avis adressés aux parties par le greffier précisent que chaque partie peut se présenter devant le conciliateur avec une
+personne ayant qualité pour l'assister devant le juge. 
 
-Il les informe qu'en l'absence d'accord de leur part il procédera comme il est dit aux articles 833 et 834.
-
-La lettre précise que chaque partie peut se présenter devant le conciliateur avec une personne ayant qualité pour l'assister
-devant le juge et rappelle les dispositions de l'article 832.
-
-La lettre adressée au défendeur mentionne les nom, prénoms, profession et adresse du demandeur et l'objet de la demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-	  - Décret n°2003-542 du 23 juin 2003 - art. 19 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 833, 834, 832
-
-
-###### Article 832-2
-
-Dès réception de l'acceptation des parties, le juge désigne le conciliateur et fixe le délai qu'il lui impartit pour
-accomplir sa mission.
-
-Avis en est donné au conciliateur et aux parties. Une copie de la demande est adressée au conciliateur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-
-###### Article 832-3
-
-Le conciliateur convoque les parties, aux lieu, jour et heure qu'il détermine, pour procéder à la tentative préalable de
+Les parties sont en outre avisées qu'en application des articles 833 et 836, dont les dispositions sont reproduites, la
+juridiction peut être saisie aux fins d'homologation de leur accord ou aux fins de jugement en cas d'échec de la
 conciliation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
 
 	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
+	**Cite**:
 
-###### Article 832-4
-
-Le conciliateur peut se rendre sur les lieux.
-
-Il peut, avec l'accord des parties, entendre toute personne dont l'audition lui paraît utile, sous réserve de l'acceptation
-de ces personnes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-
-###### Article 832-5
-
-Le conciliateur tient le juge informé des difficultés qu'il rencontre dans l'accomplissement de sa mission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-
-###### Article 832-6
-
-Le juge peut mettre fin à tout moment à la conciliation, sur demande d'une partie ou à l'initiative du conciliateur.
-
-Le juge peut également y mettre fin d'office lorsque le bon déroulement de la conciliation apparaît compromis.
-
-Avis en est donné au conciliateur.
-
-Le greffe notifie aux parties la décision du juge, par lettre recommandée avec demande d'avis de réception, laquelle leur
-rappelle qu'elles ont la faculté de saisir la juridiction compétente aux fins de jugement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-
-###### Article 832-7
-
-A l'expiration de sa mission, le conciliateur informe par écrit le juge de la réussite ou de l'échec de la tentative
-préalable de conciliation.
-
-En cas de conciliation, même partielle, le conciliateur établit un constat d'accord signé par les parties.
-
-En cas d'échec, le greffe adresse aux parties une lettre recommandée avec demande d'avis de réception leur rappelant qu'elles
-ont la faculté de saisir la juridiction compétente aux fins de jugement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-
-###### Article 832-8
-
-La demande d'homologation du constat d'accord formée par les parties est transmise au juge par le conciliateur ; une copie du
-constat y est jointe.
-
-L'homologation relève de la matière gracieuse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-
-###### Article 832-9
-
-Les constatations du conciliateur et les déclarations qu'il recueille ne peuvent être ni produites ni invoquées dans la suite
-de la procédure sans l'accord des parties, ni, en tout état de cause, dans une autre instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-
-###### Article 832-10
-
-La décision ordonnant ou renouvelant la conciliation ou y mettant fin n'est pas susceptible d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+	  - Code de procédure civile - art. 833
 
 
 ###### Article 833
 
-Lorsque le juge procède lui-même à la tentative préalable de conciliation, le greffe avise le demandeur par lettre simple des
-lieu, jour et heure auxquels elle se déroulera.
+La demande d'homologation du constat d'accord formée par les parties est transmise au juge par le conciliateur. Une copie du
+constat y est jointe.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 832-1 (VD)
+
+
+##### Section II : La conciliation menée par le juge
+
+###### Article 834
+
+Lorsque le juge procède lui-même à la tentative préalable de conciliation, le greffe avise le demandeur par tout moyen des
+lieu, jour et heure auxquels l'audience de conciliation se déroulera. 
 
 Le défendeur est convoqué par lettre simple. La convocation mentionne les nom, prénoms, profession et adresse du demandeur
 ainsi que l'objet de la demande.
@@ -16473,209 +16563,186 @@ L'avis et la convocation précisent que chaque partie peut se faire assister par
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 832-1 (VD)
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 828
-
-
-###### Article 834
-
-A défaut de conciliation par le juge, l'affaire peut être immédiatement jugée si les parties y consentent. Dans ce cas, il
-est procédé selon les modalités de la présentation volontaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Code de procédure civile - art. 828
 
 
 ###### Article 835
 
-La demande aux fins de tentative préalable de conciliation n'interrompt la prescription que si l'assignation est délivrée
-dans les deux mois à compter, selon le cas, du jour de la tentative de conciliation menée par le juge, de la notification
-prévue au quatrième alinéa de l'article 832-6, de celle prévue au troisième alinéa de l'article 832-7 ou de l'expiration du
-délai accordé par le demandeur au débiteur pour exécuter son obligation.
+A défaut de conciliation, l'affaire peut être immédiatement jugée si les parties y consentent. Dans ce cas, il est procédé
+selon les modalités de la présentation volontaire. 
+
+Dans le cas contraire, les parties comparantes sont avisées que la juridiction peut être saisie aux fins de jugement de la
+demande, en application de l'article 836 dont les dispositions sont reproduites.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 832-6, 832-7
+	  - Code de procédure civile - art. 836
 
 
-#### Chapitre II : La procédure sur assignation à toutes fins.
+##### Section III : La demande aux fins de jugement  en cas d'échec de la conciliation
 
 ###### Article 836
 
-L'assignation contient, à peine de nullité, outre les mentions prescrites à l'article 56 :
+En cas d'échec total ou partiel de la tentative préalable de conciliation, le demandeur peut saisir la juridiction aux fins
+de jugement de tout ou partie de ses prétentions initiales. 
 
-1° Les lieu, jour et heure de l'audience à laquelle la conciliation sera tentée si elle ne l'a déjà été, et le cas échéant,
-l'affaire jugée ;
+La saisine de la juridiction est faite selon les modalités prévues par l'article 829. 
 
-2° Si le demandeur réside à l'étranger, les nom, prénoms et adresse de la personne chez qui il élit domicile en France.
-
-L'acte introductif d'instance mentionne en outre les conditions dans lesquelles le défendeur peut se faire assister ou
-représenter, ainsi que, s'il y a lieu, le nom du représentant du demandeur.
+La demande qui n'entre pas dans le champ d'application de l'article 843 peut également être faite par déclaration au greffe
+lorsqu'elle est formée dans le mois suivant la réunion ou l'audience à l'issue de laquelle a été constaté l'échec de la
+tentative de conciliation. Toutefois, dans ce cas, le tribunal peut renvoyer le demandeur à mieux se pourvoir, s'il lui
+apparaît que l'affaire ne relève pas de sa compétence, ou à le saisir autrement, si la déclaration est tardive ou ne
+mentionne pas son fondement juridique. Cette décision est une mesure d'administration judiciaire qui peut être prise par
+simple mention au dossier.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 829
+	  - Code de procédure civile - art. 843
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 835 (VD)
 
-	**Cite**:
 
-	  - Nouveau code de procédure civile 56
+#### Chapitre II : La procédure aux fins de jugement
 
+##### Section I : L'introduction de l'instance
+
+##### Sous-section I : La saisine par assignation à toutes fins
 
 ###### Article 837
+
+L'assignation contient, à peine de nullité, outre les mentions prescrites à l'article 56 : 
+
+1° Les lieu, jour et heure de l'audience à laquelle la conciliation sera tentée si elle ne l'a déjà été, et, le cas échéant,
+l'affaire jugée ; 
+
+2° Si le demandeur réside à l'étranger, les nom, prénoms et adresse de la personne chez qui il élit domicile en France.
+
+L'acte introductif d'instance rappelle en outre les dispositions de l'article 847-2 et mentionne les conditions dans
+lesquelles le défendeur peut se faire assister ou représenter, ainsi que, s'il y a lieu, le nom du représentant du demandeur.
+
+L'assignation est accompagnée des pièces énumérées dans le bordereau annexé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 56
+	  - Code de procédure civile - art. 847-2
+
+
+###### Article 838
 
 L'assignation doit être délivrée quinze jours au moins avant la date de l'audience.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
-###### Article 838
+###### Article 839
 
-Le juge est saisi, à la diligence de l'une ou l'autre partie, par la remise au greffe, d'une copie de l'assignation.
+Le juge est saisi, à la diligence de l'une ou l'autre partie, par la remise au greffe d'une copie de l'assignation.
 
 Cette remise doit avoir lieu au plus tard huit jours avant la date de l'audience, sous peine de caducité de l'assignation
 constatée d'office par ordonnance du juge, ou, à défaut, à la requête d'une partie.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 20 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
-###### Article 839
+###### Article 840
 
 En cas d'urgence, les délais de comparution et de remise de l'assignation peuvent être réduits par autorisation du juge.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
-###### Article 840
-
-Le juge s'efforce de concilier les parties. La tentative de conciliation peut avoir lieu dans son cabinet.
-
-Elle peut également être conduite par un conciliateur de justice désigné sans formalité particulière par le juge avec
-l'accord des parties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
+##### Sous-section II : La requête conjointe et la présentation volontaire des parties
 
 ###### Article 841
 
-A défaut de conciliation, l'affaire est immédiatement jugée ou, si elle n'est pas en état de l'être, renvoyée à une audience
-ultérieure. Dans ce dernier cas, le greffier avise par lettre simple les parties qui ne l'auraient pas été verbalement, de la
-date de l'audience.
+Les parties peuvent exposer leurs prétentions par requête conjointe. Elles peuvent aussi se présenter volontairement devant
+le juge pour les faire juger.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 842
 
-La poursuite de l'instance après l'exécution d'une mesure d'instruction ou l'expiration d'un délai de sursis à statuer a lieu
-sur l'avis qui en est donné aux parties verbalement ou par lettre simple du greffier.
+Le juge est saisi soit par la remise de la requête conjointe, soit par la signature d'un procès-verbal constatant que les
+parties se présentent volontairement pour faire juger leurs prétentions. 
+
+Le procès-verbal contient les mentions prévues à l'article 57. 
+
+Lorsque les parties ont soumis leur différend à un conciliateur de justice sans parvenir à un accord, leur requête conjointe
+peut également être transmise au greffe à leur demande par le conciliateur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 57
+
+
+##### Sous-section III : La déclaration au greffe
 
 ###### Article 843
 
-La procédure est orale.
+Lorsque le montant de la demande n'excède pas 4 000 euros, la juridiction peut être saisie par une déclaration faite, remise
+ou adressée au greffe, où elle est enregistrée. La prescription et les délais pour agir sont interrompus par l'enregistrement
+de la déclaration.
 
-Les prétentions des parties ou la référence qu'elles font aux prétentions qu'elles auraient formulées par écrit sont notées
-au dossier ou consignées dans un procès-verbal.
+Outre les mentions prescrites par l'article 58, la déclaration doit contenir, à peine de nullité, un exposé sommaire des
+motifs de la demande. Les pièces que le demandeur souhaite invoquer à l'appui de ses prétentions sont jointes à sa
+déclaration en autant de copies que de personnes dont la convocation est demandée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Liens**:
 
@@ -16691,19 +16758,18 @@ au dossier ou consignées dans un procès-verbal.
 
 ###### Article 844
 
-Le juge peut inviter les parties à fournir les explications qu'il estime nécessaires à la solution du litige et les mettre en
-demeure de produire dans le délai qu'il détermine tous les documents ou justifications propres à l'éclairer faute de quoi, il
-peut passer outre et statuer, sauf à tirer toute conséquence de l'abstention de la partie ou de son refus.
+Le greffier convoque les parties à l'audience par lettre recommandée avec demande d'avis de réception. Il adresse le même
+jour copie de cette convocation par lettre simple. Le demandeur peut aussi être convoqué verbalement contre émargement. 
+
+Outre les mentions prescrites par l'article 665-1, la convocation adressée au défendeur rappelle les dispositions de
+l'article 847-2 et comprend en annexe une copie de la déclaration et des pièces qui y sont jointes. Cette convocation vaut
+citation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cité par**:
 
@@ -16714,23 +16780,30 @@ peut passer outre et statuer, sauf à tirer toute conséquence de l'abstention d
 
 	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (Ab)
 
+	**Cite**:
 
-#### Chapitre III : La requête conjointe et la présentation volontaire des parties.
+	  - Code de procédure civile - art. 665-1
+	  - Code de procédure civile - art. 847-2
+
+
+##### Section II : Le déroulement de l'instance
+
+##### Sous-section I : La conciliation
 
 ###### Article 845
 
-Les parties peuvent exposer leurs prétentions par requête conjointe ; elles peuvent aussi se présenter volontairement devant
-le juge pour les faire juger.
+Le juge s'efforce de concilier les parties.
+
+Le juge peut également, à tout moment de la procédure, inviter les parties à rencontrer un conciliateur de justice aux lieu,
+jour et heure qu'il détermine. Les parties en sont avisées, selon le cas, dans l'acte de convocation à l'audience ou par une
+lettre simple. L'avis indique la date de l'audience à laquelle l'affaire sera examinée afin que le juge constate la
+conciliation ou tranche le litige. L'invitation peut également être faite par le juge à l'audience.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cité par**:
 
@@ -16738,93 +16811,71 @@ le juge pour les faire juger.
 	  - Code de procédure civile - art. 852-1 (V)
 
 
+##### Sous-section II : Les débats
+
 ###### Article 846
 
-Le juge est saisi, soit par la remise de la requête conjointe, soit par la signature d'un procès-verbal constatant que les
-parties se présentent volontairement pour faire juger leurs prétentions.
-
-Le procès-verbal contient les mentions prévues pour la requête conjointe à l'article 57.
+La procédure est orale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 2003-06-23 art. 17, art. 19 I, II JORF 25 juin 2003 en vigueur le 15 septembre 2003
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-	  - Décret n°2003-542 du 23 juin 2003 - art. 19 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 57
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
 ###### Article 847
 
-Le juge s'efforce de concilier les parties.
-
-Il peut avec leur accord et sans formalité particulière désigner un conciliateur de justice pour procéder à la tentative de
-conciliation.
-
-Si les parties ne parviennent pas à se concilier, le juge tranche leur différend.
+A défaut de conciliation constatée à l'audience, l'affaire est immédiatement jugée ou, si elle n'est pas en état de l'être,
+renvoyée à une audience ultérieure. Dans ce cas, le greffier avise par lettre simple les parties qui ne l'auraient pas été
+verbalement de la date de l'audience.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
-
-#### Chapitre IV : La déclaration au greffe.
 
 ###### Article 847-1
 
-Lorsque le montant de la demande n'excède pas 4 000 euros, la juridiction peut être saisie par une déclaration faite, remise
-ou adressée au greffe, où elle est enregistrée.
-
-Outre les mentions prescrites par l'article 58, la déclaration doit contenir un exposé sommaire des motifs de la demande.
-
-La prescription et les délais pour agir sont interrompus par l'enregistrement de la déclaration.
+Le juge qui organise les échanges entre les parties comparantes peut, conformément au second alinéa de l'article 446-1,
+dispenser une partie qui en fait la demande de se présenter à une audience ultérieure. Dans ce cas, la communication entre
+les parties est faite par lettre recommandée avec demande d'avis de réception ou par notification entre avocats et il en est
+justifié auprès du tribunal dans les délais que le juge impartit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 4 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (V)
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-1
+
 
 ###### Article 847-2
 
-Les parties sont convoquées à l'audience par le greffier par lettre recommandée avec demande d'avis de réception. Il adresse
-le même jour copie de cette convocation par lettre simple. Le demandeur peut aussi être convoqué verbalement contre
-émargement.
+Sans préjudice des dispositions de l'article 68, la demande incidente tendant à l'octroi d'un délai de paiement en
+application de l'article 1244-1 du code civil peut être formée par courrier remis ou adressé au greffe. Les pièces que la
+partie souhaite invoquer à l'appui de sa demande sont jointes à son courrier. La demande est communiquée aux autres parties,
+à l'audience, par le juge, sauf la faculté pour ce dernier de la leur faire notifier par le greffier, accompagnée des pièces
+jointes, par lettre recommandée avec demande d'avis de réception.
 
-La convocation adressée au défendeur vaut citation. Elle comprend en annexe une copie de la déclaration.
+L'auteur de cette demande incidente peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1.
+Dans ce cas, le juge ne fait droit aux demandes présentées contre cette partie que s'il les estime régulières, recevables et
+bien fondées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 68 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cité par**:
 
@@ -16836,28 +16887,26 @@ La convocation adressée au défendeur vaut citation. Elle comprend en annexe un
 
 	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (V)
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-1
+	  - Code de procédure civile - art. 68
+	  - Code civil - art. 1244-1
+
 
 ###### Article 847-3
 
-Le juge s'efforce de concilier les parties.
-
-Il peut avec leur accord et sans formalité particulière désigner un conciliateur de justice pour procéder à la tentative de
-conciliation.
-
-Si les parties ne parviennent pas à se concilier, le juge tranche leur différend.
+La reprise de l'instance, après une suspension, a lieu sur l'avis qui en est donné aux parties par le greffier, par tout
+moyen.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
-#### Chapitre V : Des renvois de compétence.
+##### Sous-section III : Des renvois de compétence
 
 ###### Article 847-4
 
@@ -16872,17 +16921,17 @@ ont déjà plaidé.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 70-4 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 20 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2017-683 du 28 avril 2017 - art. 2
 
 
 ###### Article 847-5
@@ -16900,18 +16949,14 @@ Les articles 96 et 97 sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 20 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R142-2 (Ab)
-	  - Code de procédure civile - art. 1425-1 (V)
+	  - Code de procédure civile - art. 1425-1 (VD)
 
 	**Cite**:
 
@@ -17115,28 +17160,28 @@ volontaire des parties devant le tribunal.
 
 ###### Article 855
 
-L'assignation contient, à peine de nullité, outre les mentions prescrites par l'article 56 :
+L'assignation contient, à peine de nullité, outre les mentions prescrites par l'article 56 : 
 
-1° Les lieu, jour et heure de l'audience à laquelle l'affaire sera appelée ;
+1° Les lieu, jour et heure de l'audience à laquelle l'affaire sera appelée ; 
 
 2° Si le demandeur réside à l'étranger, les nom, prénoms et adresse de la personne chez qui il élit domicile en France.
 
 L'acte introductif d'instance mentionne en outre les conditions dans lesquelles le défendeur peut se faire assister ou
-représenter ainsi que, s'il y a lieu, le nom du représentant du demandeur.
+représenter, s'il y a lieu, le nom du représentant du demandeur ainsi que les dispositions de l'article 861-2.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 56
 
 	**Cité par**:
 
 	  - Code électoral - art. R14 (V)
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 56
 
 
 ###### Article 856
@@ -17221,45 +17266,153 @@ Le procès-verbal contient les mentions prévues pour la requête conjointe à l
 
 #### Section II : L'instance.
 
-###### Article 861
+##### Sous-section I : Dispositions générales
 
-Si l'affaire n'est pas en état d'être jugée, la formation de jugement la renvoie à une prochaine audience ou confie à l'un de
-ses membres le soin de l'instruire en qualité de juge rapporteur.
+
+
+
+###### Article 860-1
+
+La procédure est orale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+
+###### Article 860-2
+
+Si une conciliation entre les parties apparaît envisageable, la formation de jugement peut, avec l'accord des parties,
+désigner un conciliateur de justice à cette fin. Cette désignation peut revêtir la forme d'une simple mention au dossier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+
+###### Article 861
+
+En l'absence de conciliation, si l'affaire n'est pas en état d'être jugée, la formation de jugement la renvoie à une
+prochaine audience ou confie à l'un de ses membres le soin de l'instruire en qualité de juge rapporteur.
+
+A moins que l'affaire ne soit jugée dès la première audience, le greffier avise par lettre simple les parties qui ne
+l'auraient pas été verbalement de la date des audiences ultérieures.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+
+###### Article 861-1
+
+La formation de jugement qui organise les échanges entre les parties comparantes peut, conformément au second alinéa de
+l'article 446-1, dispenser une partie qui en fait la demande de se présenter à une audience ultérieure. Dans ce cas, la
+communication entre les parties est faite par lettre recommandée avec demande d'avis de réception ou par notification entre
+avocats et il en est justifié auprès du tribunal dans les délais qu'il impartit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Arrêté du 28 août 2012 - art. 9 (V)
+	  - Arrêté du 21 juin 2013 - art. 12 (V)
+	  - Code de procédure civile - art. 861-3 (VD)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-1
+
+
+###### Article 861-2
+
+Sans préjudice des dispositions de l'article 68, la demande incidente tendant à l'octroi d'un délai de paiement en
+application de l'article 1244-1 du code civil peut être formée par déclaration faite, remise ou adressée au greffe, où elle
+est enregistrée. L'auteur de cette demande doit justifier avant l'audience que l'adversaire en a eu connaissance par lettre
+recommandée avec demande d'avis de réception. Les pièces que la partie invoque à l'appui de sa demande de délai de paiement
+sont jointes à la déclaration.
+
+L'auteur de cette demande incidente peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1.
+Dans ce cas, le juge ne fait droit aux demandes présentées contre cette partie que s'il les estime régulières, recevables et
+bien fondées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-1
+	  - Code de procédure civile - art. 68
+	  - Code civil - art. 1244-1
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 855 (V)
 
 
 ##### Sous-section I : Le juge rapporteur.
 
-###### Article 862
+##### Sous-section II : Le juge rapporteur.
 
-Le juge rapporteur peut entendre les parties.
+###### Article 861-3
 
-Il peut les inviter à fournir les explications qu'il estime nécessaires à la solution du litige et les mettre en demeure de
-produire, dans le délai qu'il détermine, tous documents ou justifications propres à éclairer le tribunal, faute de quoi il
-peut passer outre et renvoyer l'affaire devant la formation de jugement qui tirera toute conséquence de l'abstention de la
-partie ou de son refus.
+Le juge rapporteur organise le cas échéant les échanges entre les parties comparantes dans les conditions et sous les
+sanctions prévues à l'article 446-2. 
+
+Il peut dispenser une partie de se présenter à une audience ultérieure dans les conditions prévues à l'article 861-1.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-2
+	  - Code de procédure civile - art. 861-1
+
+
+###### Article 862
+
+Le juge rapporteur peut entendre les parties. 
+
+Il dispose des pouvoirs de mise en état prévus à l'article 446-3.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-3
 
 
 ###### Article 863
 
 Le juge rapporteur constate la conciliation, même partielle, des parties.
 
+Il peut également désigner un conciliateur de justice dans les conditions prévues à l'article 860-2.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
 
 
 ###### Article 864
@@ -17279,17 +17432,22 @@ Le juge rapporteur procède aux jonctions et disjonctions d'instance.
 
 ###### Article 865
 
-Le juge rapporteur peut ordonner, même d'office, toute mesure d'instruction.
+Le juge rapporteur peut ordonner, même d'office, toute mesure d'instruction. 
 
-Il tranche les difficultés relatives à la communication des pièces.
+Il tranche les difficultés relatives à la communication des pièces. 
 
-Il constate l'extinction de l'instance. En ce cas, il statue, s'il y a lieu, sur les dépens.
+Il constate l'extinction de l'instance. En ce cas, il statue, s'il y a lieu, sur les dépens et les demandes formées en
+application de l'article 700.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 700
 
 
 ###### Article 866
@@ -18344,15 +18502,16 @@ dispositions ci-dessous.
 
 ###### Article 883
 
-Les parties sont tenues de comparaître en personne, sauf à se faire représenter en cas de motif légitime.
+Les parties ont la faculté de se faire assister ou représenter.
 
-Elles peuvent se faire assister.
+Toutefois, lors de la tentative préalable de conciliation, elles sont tenues de comparaître en personne, sauf à se faire
+représenter en cas de motif légitime.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 8
 
 
 ###### Article 884
@@ -18384,29 +18543,24 @@ professionnelle agricole.
 
 ###### Article 885
 
-La demande est formée et le tribunal saisi par lettre recommandée avec demande d'avis de réception ou par acte d'huissier de
-justice adressé au greffe du tribunal.
+La demande est formée et le tribunal saisi par déclaration faite, remise ou adressée au greffe du tribunal ou par acte
+d'huissier de justice adressé à ce greffe. 
 
-Lorsqu'elle est formée par lettre recommandée avec demande d'avis de réception, la demande comporte les mentions prescrites
-par l'article 58.
+Lorsqu'elle est formée par déclaration au greffe, la demande comporte les mentions prescrites par l'article 58. 
 
-Dans tous les cas, la demande doit indiquer, même de façon sommaire, les motifs sur lesquels elle repose.
+Dans tous les cas, la demande doit indiquer, même de façon sommaire, les motifs sur lesquels elle repose. 
 
 Les demandes soumises à publication au fichier immobilier sont faites par acte d'huissier de justice.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 5 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 8
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 58
+	  - Code de procédure civile - art. 58
 
 
 ###### Article 886
@@ -18433,38 +18587,36 @@ avant la date fixée par le président du tribunal. Il leur adresse le même jou
 
 Au jour indiqué, il est procédé, devant le tribunal, à une tentative de conciliation dont il est dressé procès-verbal.
 
-En cas de non-conciliation, le procès-verbal doit mentionner les modalités du règlement du litige proposé à la majorité des
-voix.
+Le tribunal peut, avec l'accord des parties, déléguer la mission de conciliation à un conciliateur de justice désigné à cette
+fin. 
 
 En cas de non-comparution de l'une des parties, son absence est constatée dans le procès-verbal.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 8
 
 
 ###### Article 888
 
 A défaut de conciliation, ou en cas de non-comparution de l'une des parties, l'affaire est renvoyée pour être jugée à une
-audience dont le président indique la date aux parties présentes.
+audience dont le président indique la date aux parties présentes. 
 
 Les parties qui n'ont pas été avisées verbalement seront convoquées dans les formes et délais prévus à l'article 886. La
 convocation indique que faute pour elles de comparaître, elles s'exposent à ce qu'un jugement soit rendu contre elles sur les
 seuls éléments fournis par leur adversaire.
 
-Le tribunal dispose des pouvoirs prévus à l'article 844.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 8
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 844 et 886
+	  - Code de procédure civile - art. 886
 
 
 ###### Article 889
@@ -18496,36 +18648,26 @@ dans l'ordre de voix obtenues lors de l'élection.
 
 ###### Article 891
 
-Les décisions du tribunal paritaire sont intégralement notifiées aux parties dans les trois jours par le greffe du tribunal,
-par lettre recommandée avec demande d'avis de réception.
+Les décisions du tribunal paritaire sont notifiées aux parties elles-mêmes par le greffier au moyen d'une lettre recommandée
+avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-460 du 13 mai 2005 - art. 29 () JORF 14 mai 2005
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 8
 
 
 ###### Article 892
 
-Les décisions du tribunal paritaire ne sont pas susceptibles d'opposition.
-
-Lorsqu'elles sont susceptibles d'appel, celui-ci est formé, instruit et jugé suivant la procédure sans représentation
-obligatoire.
+Lorsque les décisions du tribunal paritaire sont susceptibles d'appel, celui-ci est formé, instruit et jugé suivant la
+procédure sans représentation obligatoire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 32 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 8
 
 
 ### Chapitre II : Les ordonnances de référé.
@@ -19370,33 +19512,37 @@ la nouvelle convocation sera faite par acte d'huissier de justice.
 ###### Article 939
 
 Lorsque l'affaire n'est pas en état d'être jugée, son instruction peut être confiée à un des membres de la chambre. Celui-ci
-peut être désigné avant l'audience prévue pour les débats.
+peut être désigné avant l'audience prévue pour les débats. 
+
+Le magistrat chargé d'instruire l'affaire organise les échanges entre les parties comparantes dans les conditions et sous les
+sanctions prévues à l'article 446-2.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°84-618 1984-07-13 art. 16 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 9
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-2
 
 
 ###### Article 940
 
-Le magistrat chargé d'instruire l'affaire peut entendre les parties.
+Le magistrat chargé d'instruire l'affaire peut entendre les parties. 
 
-Il peut les inviter à fournir les explications qu'il estime nécessaires à la solution du litige, et les mettre en demeure de
-produire dans un délai qu'il détermine tous documents ou justifications propres à éclairer la cour faute de quoi il peut
-passer outre et renvoyer l'affaire devant la chambre qui tirera toute conséquence de l'abstention de la partie ou de son
-refus.
+Il dispose des pouvoirs de mise en état prévus à l'article 446-3.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 9
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-3
 
 
 ###### Article 941
@@ -19492,16 +19638,22 @@ plaidoiries. Il en rend compte à la cour dans son délibéré.
 
 ###### Article 946
 
-La procédure est orale.
+La procédure est orale. 
 
-Les prétentions des parties ou la référence qu'elles font aux prétentions qu'elles auraient formulées par écrit sont notées
-au dossier ou consignées dans un procès-verbal.
+La cour ou le magistrat chargé d'instruire l'affaire qui organise les échanges entre les parties comparantes peut dispenser
+une partie qui en fait la demande de se présenter à une audience, conformément au second alinéa de l'article 446-1. Dans ce
+cas, la communication entre les parties est faite par lettre recommandée avec demande d'avis de réception ou par notification
+entre avocats et il en est justifié auprès de la cour dans les délais qu'elle impartit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 9
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 446-1
 
 
 ###### Article 947
@@ -21368,9 +21520,9 @@ Les dispositions des articles 396, 399, 400 et 403 s'appliquent au désistement 
 
 ###### Article 1026
 
-Le désistement est constaté par ordonnance du premier président ou du président de la chambre à laquelle l'affaire a été
-distribuée. Le premier président ou le président de la formation compétente statue, le cas échéant, sur les demandes fondées
-sur l'article 700.
+Le désistement est constaté par ordonnance du premier président, de son délégué ou du président de la chambre à laquelle
+l'affaire a été distribuée. Le magistrat qui constate le désistement statue, le cas échéant, sur les demandes fondées sur
+l'article 700. 
 
 Toutefois, le désistement est constaté par arrêt s'il intervient après le dépôt du rapport ou si l'acceptation du défendeur,
 lorsqu'elle est nécessaire, n'est donnée qu'après ce dépôt. Cet arrêt équivaut à un arrêt de rejet et entraîne l'application
@@ -21378,17 +21530,14 @@ des articles 628 et 630.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°99-131 du 26 février 1999 - art. 13 () JORF 27 février 1999 en vigueur le 1er mars 1999
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 628, 630, 700
+	  - Code de procédure civile - art. 628
+	  - Code de procédure civile - art. 700
 
 
 #### Section III : La récusation.
@@ -36440,22 +36589,22 @@ Dans les cas prévus au présent chapitre, les articles 751 et 753 du code de pr
 
 ###### Article ANNEXE, art. 36
 
-Le tribunal d'instance peut être saisi soit selon les dispositions des chapitres Ier, II et III du sous-titre I du titre II
-du livre II du code de procédure civile, soit, tant en matière contentieuse que gracieuse, par déclaration faite, remise ou
-adressée au greffe, où elle est enregistrée.
+Le tribunal d'instance peut être saisi soit selon les dispositions des chapitres Ier et II du sous-titre Ier du titre II du
+livre II du code de procédure civile, soit, tant en matière contentieuse que gracieuse, par déclaration faite, remise ou
+adressée au greffe, où elle est enregistrée. 
 
-Dans le second cas, les dispositions de l'article 847-1, 2e et 3e alinéa, et de l'article 847-2 du code de procédure civile
-sont applicables.
+Dans le second cas, les dispositions du second alinéa de l'article 843 et de l'article 844 du code de procédure civile sont
+applicables.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2003-542 du 23 juin 2003 - art. 26 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 843
 
 
 ###### Article ANNEXE, art. 36-1
