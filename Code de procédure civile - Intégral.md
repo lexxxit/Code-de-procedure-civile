@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2010-12-30
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -12300,16 +12300,16 @@ personne en un lieu où ceux qui y demeurent n'en bénéficieraient point, cette
 
 ###### Article 647-1
 
-La date de notification d'un acte judiciaire ou extrajudiciaire, en Polynésie française, dans les îles Wallis et Futuna, en
-Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises ainsi qu'à l'étranger est, à l'égard de celui qui
-y procède, la date d'expédition de l'acte par l'huissier de justice ou le greffe, ou, à défaut, la date de réception par le
-parquet compétent.
+La date de notification, y compris lorsqu'elle doit être faite dans un délai déterminé, d'un acte judiciaire ou
+extrajudiciaire en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et
+antarctiques françaises ainsi qu'à l'étranger est, à l'égard de celui qui y procède, la date d'expédition de l'acte par
+l'huissier de justice ou le greffe ou, à défaut, la date de réception par le parquet compétent.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 24
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 15
 
 	**Cité par**:
 
@@ -17362,8 +17362,6 @@ bien fondées.
 	  - Code de procédure civile - art. 855 (V)
 
 
-##### Sous-section I : Le juge rapporteur.
-
 ##### Sous-section II : Le juge rapporteur.
 
 ###### Article 861-3
@@ -17505,42 +17503,6 @@ Dans les autres cas, il renvoie l'affaire devant le tribunal dès que l'état de
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-##### Sous-section II : Dispositions générales.
-
-###### Article 870
-
-A moins que l'affaire ne soit jugée dès la première audience, le greffier avise par lettre simple les parties qui ne
-l'auraient pas été verbalement de la date des audiences ultérieures.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
-
-
-###### Article 871
-
-La procédure est orale.
-
-Les prétentions des parties ou la référence qu'elles font aux prétentions qu'elles auraient formulées par écrit sont notées
-au dossier ou consignées dans un procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
 
 
 ### Chapitre II : Les pouvoirs du président.
@@ -20322,9 +20284,10 @@ A peine de déchéance constatée par ordonnance du premier président ou de son
 tard dans le délai de quatre mois à compter du pourvoi, remettre au greffe de la Cour de cassation un mémoire contenant les
 moyens de droit invoqués contre la décision attaquée. Le mémoire doit, sous la même sanction, être notifié dans le même délai
 aux avocats des autres parties. Si le défendeur n'a pas constitué avocat, le mémoire doit lui être signifié au plus tard dans
-le mois suivant l'expiration de ce délai.
+le mois suivant l'expiration de ce délai ; cependant, si, entre-temps, le défendeur constitue avocat avant la signification
+du mémoire, il est procédé par voie de notification à son avocat.
 
-A peine d'être déclaré d'office irrecevable un moyen ou un élément de moyen ne doit mettre en oeuvre qu'un seul cas
+A peine d'être déclaré d'office irrecevable un moyen ou un élément de moyen ne doit mettre en œuvre qu'un seul cas
 d'ouverture. Chaque moyen ou chaque élément de moyen doit préciser, sous la même sanction : 
 
 - le cas d'ouverture invoqué ; 
@@ -20337,7 +20300,7 @@ d'ouverture. Chaque moyen ou chaque élément de moyen doit préciser, sous la m
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 5
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 15
 
 	**Cité par**:
 
@@ -21184,7 +21147,8 @@ Le mémoire doit, sous la même sanction :
 
 - être notifié dans le même délai aux avocats des autres parties au pourvoi incident. Si, dans les matières où la
 représentation est obligatoire, le défendeur n'a pas constitué avocat, le mémoire doit lui être signifié au plus tard dans le
-mois suivant l'expiration de ce délai.
+mois suivant l'expiration de ce délai ; cependant, si, entre-temps, le défendeur constitue avocat avant la signification du
+mémoire, il est procédé par voie de notification à son avocat.
 
 Le défendeur à un tel pourvoi dispose d'un délai d'un mois à compter de la notification pour remettre, et s'il y a lieu
 notifier, son mémoire en réponse.
@@ -21193,11 +21157,11 @@ notifier, son mémoire en réponse.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 15
 
 	**Cité par**:
 
@@ -28606,23 +28570,22 @@ Les parties se défendent elles-mêmes ; elles ont la faculté de se faire assis
 
 La procédure est orale. 
 
-Les dispositions des articles 1231, 1232 et 1239 sont applicables.
+Les dispositions des articles 1231 et 1239 sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1628 du 23 décembre 2009 - art. 16
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 15
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1231 (V)
-	  - Code de procédure civile - art. 1232 (Ab)
-	  - Code de procédure civile - art. 1239 (V)
-	  - Code civil - art. 479 (V)
-	  - Code civil - art. 480 (V)
-	  - Code civil - art. 484 (V)
-	  - Code civil - art. 493 (V)
+	  - Code de procédure civile - art. 1231
+	  - Code de procédure civile - art. 1239
+	  - Code civil - art. 479
+	  - Code civil - art. 480
+	  - Code civil - art. 484
+	  - Code civil - art. 493
 
 
 ###### Article 1259-4
@@ -36697,18 +36660,19 @@ procédure civile.
 La déclaration d'appel prévue à l'article 901 du code de procédure civile doit mentionner le nom des représentants des
 intimés en première instance.
 
-L'appelant remet au greffe, en plus de ceux que prévoit l'article 902 dudit code, autant d'exemplaires de la déclaration
-qu'il y a de représentants. Le greffier adresse aussitôt un exemplaire à chacun de ces représentants par lettre simple.
+Dans le cas prévu au deuxième alinéa de l'article 930-1, l'appelant remet au greffe autant d'exemplaires de la déclaration
+qu'il y a d'intimés et de représentants, plus deux. Le greffier adresse aussitôt un exemplaire à chacun de ces représentants
+par lettre simple.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 13
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 901
 
 
 ### Chapitre VII : Dispositions diverses.
