@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2010-12-30
+Version Consolidée au 2011-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -3003,14 +3003,16 @@ La partie qui fait état d'une pièce s'oblige à la communiquer à toute autre 
 
 La communication des pièces doit être spontanée.
 
-En cause d'appel, une nouvelle communication des pièces déjà versées aux débats de première instance n'est pas exigée. Toute
-partie peut néanmoins la demander.
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 8
 
 
 ###### Article 133
@@ -10573,18 +10575,27 @@ intimée, ayant été partie en première instance.
 
 ###### Article 550
 
-L'appel incident ou l'appel provoqué peut être formé en tout état de cause, alors même que celui qui l'interjetterait serait
-forclos pour agir à titre principal. Dans ce dernier cas, il ne sera toutefois pas reçu si l'appel principal n'est pas lui-
-même recevable.
+Sous réserve des articles 909 et 910, l'appel incident ou l'appel provoqué peut être formé, en tout état de cause, alors même
+que celui qui l'interjetterait serait forclos pour agir à titre principal. Dans ce dernier cas, il ne sera toutefois pas reçu
+si l'appel principal n'est pas lui-même recevable. 
 
 La cour peut condamner à des dommages-intérêts ceux qui se seraient abstenus, dans une intention dilatoire, de former
 suffisamment tôt leur appel incident ou provoqué.
 
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 9
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 909
 
 
 ###### Article 551
@@ -10773,19 +10784,15 @@ nouveaux, produire de nouvelles pièces ou proposer de nouvelles preuves.
 
 ###### Article 564
 
-Les parties ne peuvent soumettre à la cour de nouvelles prétentions si ce n'est pour opposer compensation, faire écarter les
-prétentions adverses ou faire juger les questions nées de l'intervention d'un tiers, ou de la survenance ou de la révélation
-d'un fait.
+A peine d'irrecevabilité relevée d'office, les parties ne peuvent soumettre à la cour de nouvelles prétentions si ce n'est
+pour opposer compensation, faire écarter les prétentions adverses ou faire juger les questions nées de l'intervention d'un
+tiers, ou de la survenance ou de la révélation d'un fait.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 25 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 10
 
 
 ###### Article 565
@@ -14518,33 +14525,15 @@ l'application d'une forme particulière de procéder à la demande de la juridic
 
 Les envois, remises et notifications des actes de procédure, des pièces, avis, avertissements ou convocations, des rapports,
 des procès-verbaux ainsi que des copies et expéditions revêtues de la formule exécutoire des décisions juridictionnelles
-peuvent être effectués par voie électronique dans les conditions et selon les modalités fixées par le présent titre.
+peuvent être effectués par voie électronique dans les conditions et selon les modalités fixées par le présent titre, sans
+préjudice des dispositions spéciales imposant l'usage de ce mode de communication.
 
 **Nota:**
 
-Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
-décret entre en vigueur le 1er janvier 2009.
-
-Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
-le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
-président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
-communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
-du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
-de procédure civile) au 1er juillet 2008.
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-1678 2005-12-28 art. 88 : Champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 73 () JORF 29 décembre 2005 en vigueur le 1er janvier 2009 sous réserve art. 88
 
 	**Cité par**:
 
@@ -14563,37 +14552,26 @@ de procédure civile) au 1er juillet 2008.
 	  - Code de procédure civile - art. 748-2 (V)
 	  - Code de procédure civile - art. 748-3 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 3
+
 
 ###### Article 748-2
 
 Le destinataire des envois, remises et notifications mentionnés à l'article 748-1 doit consentir expressément à l'utilisation
-de la voie électronique.
+de la voie électronique, à moins que des dispositions spéciales n'imposent l'usage de ce mode de communication.
 
 **Nota:**
 
-Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
-décret entre en vigueur le 1er janvier 2009.
-
-Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
-le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
-président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
-communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
-du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
-de procédure civile) au 1er juillet 2008.
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2005-1678 2005-12-28 art. 88 : Champ d'application
-
-	**Créé par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 73 () JORF 29 décembre 2005 en vigueur le 1er janvier 2009 sous réserve art. 88
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -14602,7 +14580,7 @@ de procédure civile) au 1er juillet 2008.
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 748-1 (VT)
+	  - Code de procédure civile - art. 748-1
 
 
 ###### Article 748-3
@@ -18778,28 +18756,30 @@ L'appel est formé par déclaration unilatérale ou par requête conjointe.
 
 ###### Article 901
 
-La déclaration d'appel est faite par acte contenant, outre les mentions prescrites par l'article 58, et à peine de nullité :
+La déclaration d'appel est faite par acte contenant, outre les mentions prescrites par l'article 58, et à peine de nullité : 
 
-1° La constitution de l'avoué de l'appelant ;
+1° La constitution de l'avoué de l'appelant ; 
 
-2° L'indication du jugement ;
+2° L'indication de la décision attaquée ; 
 
-3° L'indication de la cour devant laquelle l'appel est porté.
+3° L'indication de la cour devant laquelle l'appel est porté. 
 
 La déclaration indique, le cas échéant, les chefs du jugement auxquels l'appel est limité et le nom de l'avocat chargé
-d'assister l'appelant devant la cour.
+d'assister l'appelant devant la cour. 
 
-Elle est signée par l'avoué. Elle est accompagnée d'une copie de la décision. Elle vaut demande d'inscription au rôle.
+Elle est signée par l'avoué. Elle est accompagnée d'une copie de la décision. Elle est remise au greffe et vaut demande
+d'inscription au rôle.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 6 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -18808,19 +18788,33 @@ Elle est signée par l'avoué. Elle est accompagnée d'une copie de la décision
 	  - Code de procédure civile - art. 85 (V)
 	  - Code de procédure civile - art. ANNEXE, art. 42 (VD)
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 58
+
 
 ###### Article 902
 
-La déclaration est remise au greffe de la cour en autant d'exemplaires qu'il y a d'intimés, plus deux.
+Le greffier adresse aussitôt à chacun des intimés, par lettre simple, un exemplaire de la déclaration avec l'indication de
+l'obligation de constituer avoué. 
 
-La remise est constatée par la mention de sa date et le visa du greffier sur chaque exemplaire dont l'un est immédiatement
-restitué.
+En cas de retour au greffe de la lettre de notification ou lorsque l'intimé n'a pas constitué avoué dans un délai d'un mois à
+compter de l'envoi de la lettre de notification, le greffier en avise l'avoué de l'appelant afin que celui-ci procède par
+voie de signification de la déclaration d'appel.
+
+A peine de  caducité de la déclaration d'appel, la signification doit être effectuée dans le mois de l'avis adressé par le
+greffe.
+
+A peine de nullité, l'acte de signification indique à l'intimé que, faute pour lui de constituer avoué dans un délai de
+quinze jours à compter de celle-ci, il s'expose à ce qu'un arrêt soit rendu contre lui sur les seuls éléments fournis par son
+adversaire et que, faute de conclure dans le délai mentionné à l'article 909, il s'expose à ce que ses écritures soient
+déclarées d'office irrecevables.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 	**Cité par**:
 
@@ -18830,82 +18824,137 @@ restitué.
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 909
 
 
 ###### Article 903
 
-Le greffier adresse aussitôt, par lettre simple, à chacun des intimés, un exemplaire de la déclaration avec l'indication de
-l'obligation de constituer avoué.
-
-Au cas où cet exemplaire lui serait renvoyé par l'administration des postes, le greffier le transmet aussitôt à l'avoué de
-l'appelant, lequel procède comme il est dit à l'article 908.
+Dès qu'il est constitué, l'avoué de l'intimé en informe celui de l'appelant et remet une copie de son acte de constitution au
+greffe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 3
 
 	**Cité par**:
 
 	  - Arrêté du 30 mars 2011 - art. 2 (V)
 
-	**Cite**:
-
-	  - Nouveau Code de procédure civile 908
-
 
 ###### Article 904
 
-Dès qu'il est constitué, l'avoué de l'intimé en informe celui de l'appelant ; copie de l'acte de constitution est remise au
-greffe.
+Le premier président désigne la chambre à laquelle l'affaire est distribuée. 
+
+Le greffe en avise les avoués constitués.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+
+
+###### Article 905
+
+Lorsque l'affaire semble présenter un caractère d'urgence ou être en état d'être jugée ou lorsque l'appel est relatif à une
+ordonnance de référé ou à une des ordonnances du juge de la mise en état énumérées aux 1° à 4° de l'article 776, le président
+de la chambre saisie, d'office ou à la demande d'une partie, fixe à bref délai l'audience à laquelle elle sera appelée ; au
+jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 8 (Ab)
+	  - Décret n°2016-1026 du 26 juillet 2016 - art. 73
+	  - Décret n°2017-891 du 6 mai 2017 - art. 42
+	  - Code de commerce - art. R661-6 (VD)
+	  - Code de commerce - art. R823-5 (V)
+	  - Code de la consommation - art. R423-4 (Ab)
+	  - Code de la consommation - art. R623-4 (V)
+	  - Code de procédure civile - art. 1037-1 (VD)
+	  - Code de procédure civile - art. 907 (VD)
+	  - Code des procédures civiles d'exécution - art. R121-20 (VD)
+	  - Code des procédures civiles d'exécution - art. R311-7 (VD)
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 760
+	  - Code de procédure civile - art. 776
+
+
+###### Article 906
+
+Les conclusions sont notifiées et les pièces communiquées simultanément par l'avoué de chacune des parties à celui de l'autre
+partie ; en cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avoués constitués.
+
+Copie des conclusions est remise au greffe avec la justification de leur notification.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 30 mars 2011 - art. 5 (V)
 
 
 ###### Article 907
 
-Le premier président désigne la chambre à laquelle l'affaire est distribuée.
+A moins qu'il ne soit fait application de l'article 905, l'affaire est instruite sous le contrôle d'un magistrat de la
+chambre à laquelle elle est distribuée, dans les conditions prévues par les articles 763 à 787 et sous réserve des
+dispositions qui suivent.
 
-Avis en est donné par le greffe aux avoués constitués.
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 763
+	  - Code de procédure civile - art. 905
 
 
 ###### Article 908
 
-Lorsqu'une partie, sur la lettre adressée par le greffe, n'a pas constitué avoué, l'appelant l'assigne en lui signifiant la
-déclaration d'appel.
-
-L'assignation indique, à peine de nullité, que faute pour le défendeur de constituer avoué dans le délai de quinze jours, il
-s'expose à ce qu'un arrêt soit rendu contre lui sur les seuls éléments fournis par son adversaire.
+A peine de caducité de la déclaration d'appel, relevée d'office, l'appelant dispose d'un délai de trois mois à compter de la
+déclaration d'appel pour conclure.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 	**Cité par**:
 
@@ -18920,21 +18969,15 @@ s'expose à ce qu'un arrêt soit rendu contre lui sur les seuls éléments fourn
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 4
 
 
 ###### Article 909
 
-Les conclusions sont notifiées et les pièces communiquées par l'avoué de chacune des parties à celui de l'autre partie ; en
-cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avoués constitués. 
-
-Copie des conclusions est remise au greffe avec la justification de leur notification.
+L'intimé dispose, à peine d'irrecevabilité relevée d'office, d'un délai de deux mois à compter de la notification des
+conclusions de l'appelant prévues à l'article 908 pour conclure et former, le cas échéant, appel incident.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 	**Cité par**:
 
@@ -18949,24 +18992,23 @@ Copie des conclusions est remise au greffe avec la justification de leur notific
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 5
 
 
 ###### Article 910
 
-L'affaire est instruite sous le contrôle d'un magistrat de la chambre à laquelle elle est distribuée, dans les conditions
-prévues par les articles 763 à 787 et par les dispositions qui suivent.
+L'intimé à un appel incident ou à un appel provoqué dispose, à peine d'irrecevabilité relevée d'office, d'un délai de deux
+mois à compter de la notification qui lui en est faite pour conclure. 
 
-Lorsque l'affaire semble présenter un caractère d'urgence ou être en état d'être jugée, ou lorsque l'appel est relatif à une
-ordonnance de référé ou à une des ordonnances du juge de la mise en état énumérées aux 1° à 4° de l'article 776, le président
-de la chambre saisie, d'office ou à la demande d'une partie, fixe à bref délai l'audience à laquelle elle sera appelée ; au
-jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
+L'intervenant forcé à l'instance d'appel dispose, à peine d'irrecevabilité relevée d'office, d'un délai de trois mois à
+compter de la date à laquelle la demande d'intervention formée à son encontre lui a été notifiée pour conclure.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 	**Cité par**:
 
@@ -18976,111 +19018,189 @@ jour indiqué, il est procédé selon les modalités prévues aux articles 760 �
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 33 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 763 à 787, 760 à 762
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
 
 
 ###### Article 911
 
-Le conseiller de la mise en état est compétent pour déclarer l'appel irrecevable et trancher à cette occasion toute question
-ayant trait à la recevabilité de l'appel.
+Sous les sanctions prévues aux articles 908 à 910, les conclusions sont notifiées aux avoués des parties dans le délai de
+leur remise au greffe de la cour. Sous les mêmes sanctions, elles sont signifiées dans le mois suivant l'expiration de ce
+délai aux parties qui n'ont pas constitué avoué ; cependant, si, entre-temps, celles-ci ont constitué avoué avant la
+signification des conclusions, il est procédé par voie de notification à leur avoué.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°84-618 1984-07-13 art. 15 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
 
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
 	  - Code de procédure civile - art. 1037-1 (VD)
 
+	**Modifié par**:
 
-###### Article 912
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 6
 
-Le conseiller de la mise en état, lorsqu'il est saisi, est seul compétent pour suspendre l'exécution des jugements
-improprement qualifiés en dernier ressort, ou exercer les pouvoirs qui lui sont conférés en matière d'exécution provisoire.
+	**Cite**:
+
+	  - Code de procédure civile - art. 908
+
+
+###### Article 911-1
+
+Le conseiller de la mise en état peut d'office, par ordonnance et en raison de la nature de l'affaire, impartir des délais
+plus courts que ceux prévus aux articles 908 à 910. 
+
+La caducité de la déclaration d'appel en application des articles 902 et 908 ou l'irrecevabilité des conclusions en
+application des articles 909 et 910 sont prononcées par ordonnance du conseiller de la mise en état qui statue après avoir
+sollicité les observations écrites des parties. L'ordonnance qui prononce la caducité ne peut être rapportée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 902
+	  - Code de procédure civile - art. 908
+	  - Code de procédure civile - art. 909
+
+
+###### Article 911-2
+
+Les délais prévus au troisième alinéa de l'article 902 et à l'article 908 sont augmentés : 
+
+― d'un mois, lorsque la demande est portée soit devant une juridiction qui a son siège en France métropolitaine, pour les
+parties qui demeurent en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin,
+à Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie ou dans les Terres
+australes et antarctiques françaises, soit devant une juridiction qui a son siège en Guadeloupe, en Guyane, à la Martinique,
+à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon ou dans les îles Wallis et Futuna,
+pour les parties qui ne demeurent pas dans cette collectivité ; 
+
+― de deux mois si l'appelant demeure à l'étranger. 
+
+Les délais prescrits aux intimés et intervenants forcés par les articles 909 et 910 sont augmentés dans les mêmes conditions
+et selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 8
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1037-1 (VD)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 909
+
+
+###### Article 912
+
+Le conseiller de la mise en état examine l'affaire dans les quinze jours suivant l'expiration des délais pour conclure et
+communiquer les pièces. 
+
+Il fixe la date de la clôture et celle des plaidoiries. Toutefois, si l'affaire nécessite de nouveaux échanges de
+conclusions, il en fixe le calendrier, après avoir recueilli l'avis des avoués. 
+
+Dans tous les cas, les dossiers, comprenant les copies des pièces visées dans les conclusions et numérotées dans l'ordre du
+bordereau récapitulatif, sont déposés à la cour quinze jours avant la date fixée pour l'audience de plaidoiries.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
+du 1er janvier 2011.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
 
 
 ###### Article 913
 
-Les avoués ont seuls qualité pour représenter les parties et conclure en leur nom.
-
-Les avis ou injonctions sont valablement adressés aux seuls avoués.
-
-Les avocats sont entendus sur leur demande.
+Le conseiller de la mise en état peut enjoindre aux avoués de mettre leurs conclusions en conformité avec les dispositions de
+l'article 954.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°76-714 1976-07-29 art. 8 JORF 30 juillet 1976
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 9
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 913-1 (MMN)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 954
 
 
 ###### Article 914
 
-Les ordonnances du conseiller de la mise en état ne sont susceptibles d'aucun recours indépendamment de l'arrêt sur le fond.
+Le conseiller de la mise en état est, lorsqu'il est désigné et jusqu'à son dessaisissement, seul compétent pour prononcer la
+caducité de l'appel, pour déclarer l'appel irrecevable et trancher à cette occasion toute question ayant trait à la
+recevabilité de l'appel ou pour déclarer les conclusions irrecevables en application des articles 909 et 910. Les parties ne
+sont plus recevables à invoquer la caducité ou l'irrecevabilité après son dessaisissement, à moins que leur cause ne
+survienne ou ne soit révélée postérieurement. 
 
-Toutefois, elles peuvent être déférées par simple requête à la cour dans les quinze jours de leur date lorsqu'elles ont pour
-effet de mettre fin à l'instance, lorsqu'elles constatent son extinction, lorsqu'elles ont trait à des mesures provisoires en
-matière de divorce ou de séparation de corps ou lorsqu'elles statuent sur une exception de procédure ou un incident mettant
-fin à l'instance.
+Les ordonnances du conseiller de la mise en état statuant sur la fin de non-recevoir tirée de l'irrecevabilité de l'appel,
+sur la caducité de celui-ci ou sur l'irrecevabilité des conclusions en application des articles 909 et 910 ont autorité de la
+chose jugée au principal.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 34 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 10
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 909
 
 
 ###### Article 915
 
-L'avoué de l'appelant doit, dans les quatre mois de la déclaration d'appel, déposer au greffe ses conclusions, à moins que le
-conseiller de la mise en état ne lui ait imparti un délai plus court.
-
-A défaut, l'affaire est radiée du rôle par une décision non susceptible de recours dont une copie est envoyée à l'appelant
-par lettre simple adressée à son domicile réel ou à sa résidence. Cette radiation prive l'appel de tout effet suspensif, hors
-les cas où l'exécution provisoire est interdite par la loi.
-
-L'affaire est rétablie soit sur justification du dépôt des conclusions de l'appelant, l'appel restant privé de tout effet
-suspensif, soit sur l'initiative de l'intimé qui peut demander que la clôture soit ordonnée et l'affaire renvoyée à
-l'audience pour être jugée au vu des conclusions de première instance.
-
-Par dérogation aux dispositions qui précèdent, le délai de quatre mois imparti pour conclure peut être prorogé par le
-conseiller de la mise en état dans le cas où l'avoué a été désigné au titre de l'aide juridictionnelle ou constitué par un
-appelant à qui l'aide juridictionnelle a été refusée.
+Le conseiller de la mise en état, lorsqu'il est saisi, est seul compétent pour suspendre l'exécution des jugements
+improprement qualifiés en dernier ressort et pour exercer les pouvoirs qui lui sont conférés en matière d'exécution
+provisoire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 11
+
+
+###### Article 916
+
+Les ordonnances du conseiller de la mise en état ne sont susceptibles d'aucun recours indépendamment de l'arrêt sur le fond. 
+
+Toutefois, elles peuvent être déférées par simple requête à la cour dans les quinze jours de leur date lorsqu'elles ont pour
+effet de mettre fin à l'instance, lorsqu'elles constatent son extinction, lorsqu'elles ont trait à des mesures provisoires en
+matière de divorce ou de séparation de corps, lorsqu'elles statuent sur une exception de procédure, un incident mettant fin à
+l'instance, la fin de non-recevoir tirée de l'irrecevabilité de l'appel ou la caducité de celui-ci ou lorsqu'elles prononcent
+l'irrecevabilité des conclusions en application des articles 909 et 910.
+
+**Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°91-1266 1991-12-19 art. 159 JORF 20 décembre 1991
+	  - Décret n°2010-1647 du 28 décembre 2010 - art. 12
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1037-1 (VD)
+	  - Code de procédure civile - art. 963 (VD)
+	  - Code de procédure civile - art. 964 (VD)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 909
 
 
 ##### Sous-section II : La procédure à jour fixe.
@@ -19323,6 +19443,48 @@ L'affaire est instruite et jugée comme en matière de procédure abrégée.
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+
+##### Sous-section IV : Dispositions communes. 
+
+###### Article 930-1
+
+A peine d'irrecevabilité relevée d'office, les actes de procédure sont remis à la juridiction par voie électronique.
+
+Lorsqu'un acte ne peut être transmis par voie électronique pour une cause étrangère à celui qui l'accomplit, il est établi
+sur support papier et remis au greffe. En ce cas, la déclaration d'appel est remise au greffe en autant d'exemplaires qu'il y
+a de parties destinataires, plus deux. La remise est constatée par la mention de sa date et le visa du greffier sur chaque
+exemplaire, dont l'un est immédiatement restitué.
+
+Les avis, avertissements ou convocations sont remis aux avoués des parties par voie électronique, sauf impossibilité pour
+cause étrangère à l'expéditeur.
+
+Un arrêté du garde des sceaux définit les modalités des échanges par voie électronique.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions de l'article 5 instituant l'article 930-1 du code de
+procédure civile ne sont applicables qu'aux déclarations d'appel et aux constitutions d'avoué afférentes aux appels formés à
+compter du 1er janvier 2011.
+
+Les dispositions de l'article 5 sont applicables aux autres actes mentionnés à l'article 930-1 du code de procédure civile à
+compter de la date fixée par l'arrêté prévu à cet article et au plus tard au 1er janvier 2013.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 15 (V)
+	  - Décret n°2010-434 du 29 avril 2010 (VT)
+	  - Code de procédure civile - art. 905-2 (VD)
+	  - Code de procédure civile - art. 916 (VD)
+	  - Code de procédure civile - art. 955-1 (V)
+	  - Code de procédure civile - art. 955-2 (Ab)
+	  - Code de procédure civile - art. 959 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 5
 
 
 ##### Section II : La procédure sans représentation obligatoire.
@@ -19751,8 +19913,11 @@ L'appel est instruit et jugé selon les règles applicables en matière gracieus
 ###### Article 954
 
 Les conclusions d'appel doivent formuler expressément les prétentions des parties et les moyens de fait et de droit sur
-lesquels chacune de ses prétentions est fondée. Elles comprennent en outre l'indication des pièces invoquées. A cet effet, un
-bordereau récapitulatif leur est annexé.
+lesquels chacune de ses prétentions est fondée avec indication pour chaque prétention des pièces invoquées. Un bordereau
+récapitulatif des pièces est annexé.
+
+Les prétentions sont récapitulées sous forme de dispositif. La cour ne statue que sur les prétentions énoncées au
+dispositif. 
 
 Les parties doivent reprendre, dans leurs dernières écritures, les prétentions et moyens précédemment présentés ou invoqués
 dans leurs conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et la cour ne statue que sur les
@@ -19765,13 +19930,9 @@ La partie qui, sans énoncer de nouveaux moyens, demande la confirmation du juge
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 29 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 11
 
 	**Cité par**:
 
@@ -19797,18 +19958,23 @@ siens.
 
 ###### Article 955-1
 
-Lorsque la cour est saisie par requête, les parties sont avisées de la date de l'audience par le greffier.
+Lorsque la cour est saisie par requête, les parties sont avisées de la date de l'audience par le greffier dans les conditions
+prévues à l'article 930-1.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions de l'article 6 ne sont applicables qu'aux déclarations
+d'appel et aux constitutions d'avoué afférentes aux appels formés à compter du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 12 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 930-1
 
 
 ###### Article 955-2
@@ -19882,13 +20048,23 @@ contradictoirement.
 
 ###### Article 959
 
-La requête est présentée par un avoué dans le cas où l'instance devant la cour implique constitution d'avoué.
+La requête est présentée par un avoué dans le cas où l'instance devant la cour implique constitution d'avoué dans les
+conditions prévues à l'article 930-1.
+
+**Nota:**
+
+Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions de l'article 6 ne sont applicables qu'aux déclarations
+d'appel et aux constitutions d'avoué afférentes aux appels formés à compter du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°2009-1524 du 9 décembre 2009 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 930-1
 
 
 ### Sous-titre III : Dispositions diverses.
