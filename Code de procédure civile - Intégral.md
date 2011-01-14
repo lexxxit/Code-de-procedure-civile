@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-15
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -33987,6 +33987,28 @@ Lorsqu'elle est nulle, la clause compromissoire est réputée non écrite.
 	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
+###### Article 1449
+
+L'existence d'une convention d'arbitrage ne fait pas obstacle, tant que le tribunal arbitral n'est pas constitué, à ce qu'une
+partie saisisse une juridiction de l'Etat aux fins d'obtenir une mesure d'instruction ou une mesure provisoire ou
+conservatoire. 
+
+Sous réserve des dispositions régissant les saisies conservatoires et les sûretés judiciaires, la demande est portée devant
+le président du tribunal de grande instance ou de commerce, qui statue sur les mesures d'instruction dans les conditions
+prévues à l'article 145 et, en cas d'urgence, sur les mesures provisoires ou conservatoires sollicitées par les parties à la
+convention d'arbitrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
 ### Chapitre II : Le compromis.
 
 ###### Article 1447
@@ -34026,25 +34048,6 @@ Le compromis est caduc lorsqu'un arbitre qu'il désigne n'accepte pas la mission
 	**Anciens textes**:
 
 	  - Décret n°80-354 du 14 mai 1980 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-
-###### Article 1449
-
-Le compromis est constaté par écrit. Il peut l'être dans un procès-verbal signé par l'arbitre et les parties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Anciens textes**:
-
-	  - Décret n°80-354 du 14 mai 1980 - art. 9 (Ab)
 
 	**Créé par**:
 
