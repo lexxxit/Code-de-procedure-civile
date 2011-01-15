@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-01-15
+Version Consolidée au 2011-01-16
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13539,28 +13539,25 @@ parties ;
 8° Les frais occasionnés par la notification d'un acte à l'étranger ; 
 
 9° Les frais d'interprétariat et de traduction rendus nécessaires par les mesures d'instruction effectuées à l'étranger à la
-demande des juridictions dans le cadre du règlement (CE) n° 1206 / 2001 du Conseil du 28 mai 2001 relatif à la coopération
+demande des juridictions dans le cadre du règlement (CE) n° 1206/2001 du Conseil du 28 mai 2001 relatif à la coopération
 entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale ; 
 
-10° Les enquêtes sociales ordonnées en application des articles 1072 et 1248 ; 
+10° Les enquêtes sociales ordonnées en application des articles 1072,1171 et 1221 ; 
 
 11° La rémunération de la personne désignée par le juge pour entendre le mineur, en application de l'article 388-1 du code
 civil.
-
-**Nota:**
-
-Les dispositions contenues dans l'article 1248 du code de procédure civile ont été intégrées dans l'article 1221 du même code
-par l'article 1er du décret n° 2008-1276 du 5 décembre 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-572 du 20 mai 2009 - art. 2
+	  - Décret n°2011-54 du 13 janvier 2011 - art. 3
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 1072
+	  - Code de procédure civile - art. 1171 (V)
+	  - Code de procédure civile - art. 1221 (V)
 	  - Code de procédure civile - art. 1248
 	  - Code civil - art. 388-1
 
