@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-05-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -33897,94 +33897,163 @@ abrogé sauf pour son application à Wallis et Futuna.
 
 ### Chapitre Ier : La clause compromissoire.
 
-###### Article 1442
+### Chapitre V : L'exequatur
 
-La clause compromissoire est la convention par laquelle les parties à un contrat s'engagent à soumettre à l'arbitrage les
-litiges qui pourraient naître relativement à ce contrat.
+###### Article 1487
+
+La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal de
+grande instance dans le ressort duquel cette sentence a été rendue. 
+
+La procédure relative à la demande d'exequatur n'est pas contradictoire. 
+
+La requête est déposée par la partie la plus diligente au greffe de la juridiction accompagnée de l'original de la sentence
+et d'un exemplaire de la convention d'arbitrage ou de leurs copies réunissant les conditions requises pour leur
+authenticité. 
+
+L'exequatur est apposé sur l'original ou, si celui-ci n'est pas produit, sur la copie de la sentence arbitrale répondant aux
+conditions prévues à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 2 (Ab)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+###### Article 1488
+
+L'exequatur ne peut être accordé si la sentence est manifestement contraire à l'ordre public. 
+
+L'ordonnance qui refuse l'exequatur est motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+## Titre Ier : L'arbitrage interne.
+
+### Chapitre Ier : La convention d'arbitrage.
+
+###### Article 1442
+
+La convention d'arbitrage prend la forme d'une clause compromissoire ou d'un compromis. 
+
+La clause compromissoire est la convention par laquelle les parties à un ou plusieurs contrats s'engagent à soumettre à
+l'arbitrage les litiges qui pourraient naître relativement à ce ou à ces contrats. 
+
+Le compromis est la convention par laquelle les parties à un litige né soumettent celui-ci à l'arbitrage.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Ces dispositions s'appliquent lorsque la convention d'arbitrage a été
+conclue après le 1
+  <sup>er</sup> mai 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1443
 
-La clause compromissoire doit, à peine de nullité, être stipulée par écrit dans la convention principale ou dans un document
-auquel celle-ci se réfère.
+A peine de nullité, la convention d'arbitrage est écrite. Elle peut résulter d'un échange d'écrits ou d'un document auquel il
+est fait référence dans la convention principale.
 
-Sous la même sanction, la clause compromissoire doit, soit désigner le ou les arbitres, soit prévoir les modalités de leur
-désignation.
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Ces dispositions s'appliquent lorsque la convention d'arbitrage a été
+conclue après le 1er mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1444
 
-Si, le litige né, la constitution du tribunal arbitral se heurte à une difficulté du fait de l'une des parties ou dans la
-mise en oeuvre des modalités de désignation, le président du tribunal de grande instance désigne le ou les arbitres.
+La convention d'arbitrage désigne, le cas échéant par référence à un règlement d'arbitrage, le ou les arbitres, ou prévoit
+les modalités de leur désignation. A défaut, il est procédé conformément aux dispositions des articles 1451 à 1454.
 
-Toutefois, cette désignation est faite par le président du tribunal de commerce si la convention l'a expressément prévu.
+**Nota:**
 
-Si la clause compromissoire est soit manifestement nulle, soit insuffisante pour permettre de constituer le tribunal
-arbitral, le président le constate et déclare n'y avoir lieu à désignation.
+Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Ces dispositions s'appliquent lorsque la convention d'arbitrage a été
+conclue après le 1
+  <sup>er</sup> mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1445
 
-Le litige est soumis au tribunal arbitral soit conjointement par les parties, soit par la partie la plus diligente.
+A peine de nullité, le compromis détermine l'objet du litige.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Ces dispositions s'appliquent lorsque la convention d'arbitrage a été
+conclue après le 1
+  <sup>er</sup> mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1446
+
+Les parties peuvent compromettre même au cours d'une instance déjà engagée devant une juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1447
+
+La convention d'arbitrage est indépendante du contrat auquel elle se rapporte. Elle n'est pas affectée par l'inefficacité de
+celui-ci. 
 
 Lorsqu'elle est nulle, la clause compromissoire est réputée non écrite.
 
@@ -33992,15 +34061,32 @@ Lorsqu'elle est nulle, la clause compromissoire est réputée non écrite.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 6 (Ab)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+###### Article 1448
+
+Lorsqu'un litige relevant d'une convention d'arbitrage est porté devant une juridiction de l'Etat, celle-ci se déclare
+incompétente sauf si le tribunal arbitral n'est pas encore saisi et si la convention d'arbitrage est manifestement nulle ou
+manifestement inapplicable. 
+
+La juridiction de l'Etat ne peut relever d'office son incompétence. 
+
+Toute stipulation contraire au présent article est réputée non écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1449
@@ -34025,76 +34111,11 @@ convention d'arbitrage.
 	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre II : Le compromis.
-
-###### Article 1447
-
-Le compromis est la convention par laquelle les parties à un litige né soumettent celui-ci à l'arbitrage d'une ou plusieurs
-personnes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Anciens textes**:
-
-	  - Décret n°80-354 du 14 mai 1980 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-
-###### Article 1448
-
-Le compromis doit, à peine de nullité, déterminer l'objet du litige.
-
-Sous la même sanction, il doit soit désigner le ou les arbitres, soit prévoir les modalités de leur désignation.
-
-Le compromis est caduc lorsqu'un arbitre qu'il désigne n'accepte pas la mission qui lui est confiée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Anciens textes**:
-
-	  - Décret n°80-354 du 14 mai 1980 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
+### Chapitre II : Le tribunal arbitral
 
 ###### Article 1450
 
-Les parties ont la faculté de compromettre même au cours d'une instance déjà engagée devant une autre juridiction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Anciens textes**:
-
-	  - Décret n°80-354 du 14 mai 1980 - art. 10 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-
-### Chapitre III : Règles communes.
-
-###### Article 1451
-
-La mission d'arbitre ne peut être confiée qu'à une personne physique ; celle-ci doit avoir le plein exercice de ses droits
-civils.
+La mission d'arbitre ne peut être exercée que par une personne physique jouissant du plein exercice de ses droits. 
 
 Si la convention d'arbitrage désigne une personne morale, celle-ci ne dispose que du pouvoir d'organiser l'arbitrage.
 
@@ -34102,15 +34123,32 @@ Si la convention d'arbitrage désigne une personne morale, celle-ci ne dispose q
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 11 (Ab)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+###### Article 1451
+
+Le tribunal arbitral est composé d'un ou de plusieurs arbitres en nombre impair. 
+
+Il est complété si la convention d'arbitrage prévoit la désignation d'arbitres en nombre pair. 
+
+Si les parties ne s'accordent pas sur la désignation d'un arbitre complémentaire, le tribunal arbitral est complété dans un
+délai d'un mois à compter de l'acceptation de leur désignation par les arbitres choisis ou, à défaut, par le juge d'appui
+mentionné à l'article 1459.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cité par**:
 
@@ -34120,119 +34158,102 @@ Si la convention d'arbitrage désigne une personne morale, celle-ci ne dispose q
 
 ###### Article 1452
 
-La constitution du tribunal arbitral n'est parfaite que si le ou les arbitres acceptent la mission qui leur est confiée.
+En l'absence d'accord des parties sur les modalités de désignation du ou des arbitres : 
 
-L'arbitre qui suppose en sa personne une cause de récusation doit en informer les parties. En ce cas, il ne peut accepter sa
-mission qu'avec l'accord de ces parties.
+1° En cas d'arbitrage par un arbitre unique, si les parties ne s'accordent pas sur le choix de l'arbitre, celui-ci est
+désigné par la personne chargée d'organiser l'arbitrage ou, à défaut, par le juge d'appui ; 
+
+2° En cas d'arbitrage par trois arbitres, chaque partie en choisit un et les deux arbitres ainsi choisis désignent le
+troisième ; si une partie ne choisit pas d'arbitre dans un délai d'un mois à compter de la réception de la demande qui lui en
+est faite par l'autre partie ou si les deux arbitres ne s'accordent pas sur le choix du troisième dans un délai d'un mois à
+compter de l'acceptation de leur désignation, la personne chargée d'organiser l'arbitrage ou, à défaut, le juge d'appui
+procède à cette désignation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 1980-05-04 ART. 12
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1453
 
-Le tribunal arbitral est constitué d'un seul arbitre ou de plusieurs en nombre impair.
+Lorsque le litige oppose plus de deux parties et que celles-ci ne s'accordent pas sur les modalités de constitution du
+tribunal arbitral, la personne chargée d'organiser l'arbitrage ou, à défaut, le juge d'appui, désigne le ou les arbitres.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 13 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1454
 
-Lorsque les parties désignent les arbitres en nombre pair, le tribunal arbitral est complété par un arbitre choisi, soit
-conformément aux prévisions des parties, soit, en l'absence de telles prévisions, par les arbitres désignés, soit à défaut
-d'accord entre ces derniers, par le président du tribunal de grande instance.
+Tout autre différend lié à la constitution du tribunal arbitral est réglé, faute d'accord des parties, par la personne
+chargée d'organiser l'arbitrage ou, à défaut, tranché par le juge d'appui.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1455
 
-Lorsqu'une personne physique ou morale est chargée d'organiser l'arbitrage, la mission d'arbitrage est confiée à un ou
-plusieurs arbitres acceptés par toutes les parties.
-
-A défaut d'acceptation, la personne chargée d'organiser l'arbitrage invite chaque partie à désigner un arbitre et procède, le
-cas échéant, à la désignation de l'arbitre nécessaire pour compléter le tribunal arbitral. Faute pour les parties de désigner
-un arbitre, celui-ci est désigné par la personne chargée d'organiser l'arbitrage.
-
-Le tribunal arbitral peut aussi être directement constitué selon les modalités prévues à l'alinéa précédent.
-
-La personne chargée d'organiser l'arbitrage peut prévoir que le tribunal arbitral ne rendra qu'un projet de sentence et que
-si ce projet est contesté par l'une des parties, l'affaire sera soumise à un deuxième tribunal arbitral. Dans ce cas, les
-membres du deuxième tribunal sont désignés par la personne chargée d'organiser l'arbitrage, chacune des parties ayant la
-faculté d'obtenir le remplacement d'un des arbitres ainsi désignés.
+Si la convention d'arbitrage est manifestement nulle ou manifestement inapplicable, le juge d'appui déclare n'y avoir lieu à
+désignation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 15 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1456
 
-Si la convention d'arbitrage ne fixe pas de délai, la mission des arbitres ne dure que six mois à compter du jour où le
-dernier d'entre eux l'a acceptée.
+Le tribunal arbitral est constitué lorsque le ou les arbitres ont accepté la mission qui leur est confiée. A cette date, il
+est saisi du litige. 
 
-Le délai légal ou conventionnel peut être prorogé soit par accord des parties, soit, à la demande de l'une d'elles ou du
-tribunal arbitral, par le président du tribunal de grande instance ou, dans le cas visé à l'article 1444, alinéa 2, par le
-président du tribunal de commerce.
+Il appartient à l'arbitre, avant d'accepter sa mission, de révéler toute circonstance susceptible d'affecter son indépendance
+ou son impartialité. Il lui est également fait obligation de révéler sans délai toute circonstance de même nature qui
+pourrait naître après l'acceptation de sa mission. 
+
+En cas de différend sur le maintien de l'arbitre, la difficulté est réglée par la personne chargée d'organiser l'arbitrage
+ou, à défaut, tranchée par le juge d'appui, saisi dans le mois qui suit la révélation ou la découverte du fait litigieux.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 2°: Ces dispositions s'appliquent lorsque le tribunal a été constitué
+postérieurement au 1er mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 16 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34241,30 +34262,26 @@ président du tribunal de commerce.
 
 ###### Article 1457
 
-Dans les cas prévus aux articles 1444, 1454, 1456 et 1463, le président du tribunal, saisi comme en matière de référé par une
-partie ou par le tribunal arbitral, statue par ordonnance non susceptible de recours.
+Il appartient à l'arbitre de poursuivre sa mission jusqu'au terme de celle-ci à moins qu'il justifie d'un empêchement ou
+d'une cause légitime d'abstention ou de démission. 
 
-Toutefois, cette ordonnance peut être frappée d'appel lorsque le président déclare n'y avoir lieu à désignation pour une des
-causes prévues à l'article 1444 (alinéa 3). L'appel est formé, instruit et jugé comme en matière de contredit de compétence.
+En cas de différend sur la réalité du motif invoqué, la difficulté est réglée par la personne chargée d'organiser l'arbitrage
+ou, à défaut, tranchée par le juge d'appui saisi dans le mois qui suit l'empêchement, l'abstention ou la démission.
 
-Le président compétent est celui du tribunal qui a été désigné par la convention d'arbitrage ou, à défaut, celui dans le
-ressort duquel cette convention a situé les opérations d'arbitrage. Dans le silence de la convention, le président compétent
-est celui du tribunal du lieu où demeure le ou l'un des défendeurs à l'incident ou, si le défendeur ne demeure pas en France,
-celui du tribunal du lieu où demeure le demandeur.
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 2°: Ces dispositions s'appliquent lorsque le tribunal a été constitué
+postérieurement au 1er mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 17 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34273,73 +34290,67 @@ celui du tribunal du lieu où demeure le demandeur.
 
 ###### Article 1458
 
-Lorsqu'un litige dont un tribunal arbitral est saisi en vertu d'une convention d'arbitrage est porté devant une juridiction
-de l'Etat, celle-ci doit se déclarer incompétente.
+L'arbitre ne peut être révoqué que du consentement unanime des parties. A défaut d'unanimité, il est procédé conformément aux
+dispositions du dernier alinéa de l'article 1456.
 
-Si le tribunal arbitral n'est pas encore saisi, la juridiction doit également se déclarer incompétente à moins que la
-convention d'arbitrage ne soit manifestement nulle.
+**Nota:**
 
-Dans les deux cas, la juridiction ne peut relever d'office son incompétence.
+Décret n° 2011-48 du 13 janvier 2011 article 3 2°: Ces dispositions s'appliquent lorsque le tribunal a été constitué
+postérieurement au 1er mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 18 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1459
 
-Toute disposition ou convention contraire aux règles édictées par le présent chapitre est réputée non écrite.
+Le juge d'appui compétent est le président du tribunal de grande instance. 
+
+Toutefois, si la convention d'arbitrage le prévoit expressément, le président du tribunal de commerce est compétent pour
+connaître des demandes formées en application des articles 1451 à 1454. Dans ce cas, il peut faire application de l'article
+1455. 
+
+Le juge territorialement compétent est celui désigné par la convention d'arbitrage ou, à défaut, celui dans le ressort duquel
+le siège du tribunal arbitral a été fixé. En l'absence de toute stipulation de la convention d'arbitrage, le juge
+territorialement compétent est celui du lieu où demeure le ou l'un des défendeurs à l'incident ou, si le défendeur ne demeure
+pas en France, du lieu où demeure le demandeur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 19 (Ab)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-
-## Titre II : L'instance arbitrale.
 
 ###### Article 1460
 
-Les arbitres règlent la procédure arbitrale sans être tenus de suivre les règles établies pour les tribunaux, sauf si les
-parties en ont autrement décidé dans la convention d'arbitrage.
+Le juge d'appui est saisi soit par une partie, soit par le tribunal arbitral ou l'un de ses membres. 
 
-Toutefois, les principes directeurs du procès énoncés aux articles 4 à 10, 11 (alinéa 1) et 13 à 21 sont toujours applicables
-à l'instance arbitrale.
+La demande est formée, instruite et jugée comme en matière de référé. 
 
-Si une partie détient un élément de preuve, l'arbitre peut aussi lui enjoindre de le produire.
+Le juge d'appui statue par ordonnance non susceptible de recours. Toutefois, cette ordonnance peut être frappée d'appel
+lorsque le juge déclare n'y avoir lieu à désignation pour une des causes prévues à l'article 1455.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 20 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34348,111 +34359,92 @@ Si une partie détient un élément de preuve, l'arbitre peut aussi lui enjoindr
 
 ###### Article 1461
 
-Les actes de l'instruction et les procès-verbaux sont faits par tous les arbitres si le compromis ne les autorise à commettre
-l'un d'eux.
-
-Les tiers sont entendus sans prestation de serment.
+Sous réserve des dispositions du premier alinéa de l'article 1456, toute stipulation contraire aux règles édictées au présent
+chapitre est réputée non écrite.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 21 (Ab)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
+### Chapitre III : L'instance arbitrale
 
 ###### Article 1462
 
-Tout arbitre doit poursuivre sa mission jusqu'au terme de celle-ci.
-
-Un arbitre ne peut être révoqué que du consentement unanime des parties.
+Le litige est soumis au tribunal arbitral soit conjointement par les parties, soit par la partie la plus diligente.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 22 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1463
 
-Un arbitre ne peut s'abstenir ni être récusé que pour une cause de récusation qui se serait révélée ou serait survenue depuis
-sa désignation.
+Si la convention d'arbitrage ne fixe pas de délai, la durée de la mission du tribunal arbitral est limitée à six mois à
+compter de sa saisine. 
 
-Les difficultés relatives à l'application du présent article sont portées devant le président du tribunal compétent.
+Le délai légal ou conventionnel peut être prorogé par accord des parties ou, à défaut, par le juge d'appui.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 23 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1464
 
-L'instance arbitrale prend fin, sous réserve des conventions particulières des parties :
+A moins que les parties n'en soient convenues autrement, le tribunal arbitral détermine la procédure arbitrale sans être tenu
+de suivre les règles établies pour les tribunaux étatiques. 
 
-1° Par la révocation, le décès ou l'empêchement d'un arbitre ainsi que par la perte du plein exercice des ses droits civils ;
+Toutefois, sont toujours applicables les principes directeurs du procès énoncés aux articles 4 à 10, au premier alinéa de
+l'article 11, aux deuxième et troisième alinéas de l'article 12 et aux articles 13 à 21, 23 et 23-1. 
 
-2° Par l'abstention ou la récusation d'un arbitre ;
+Les parties et les arbitres agissent avec célérité et loyauté dans la conduite de la procédure. 
 
-3° Par l'expiration du délai d'arbitrage.
+Sous réserve des obligations légales et à moins que les parties n'en disposent autrement, la procédure arbitrale est soumise
+au principe de confidentialité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 24 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1465
 
-L'interruption de l'instance arbitrale est régie par les dispositions des articles 369 à 376.
+Le tribunal arbitral est seul compétent pour statuer sur les contestations relatives à son pouvoir juridictionnel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 25 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34461,45 +34453,39 @@ L'interruption de l'instance arbitrale est régie par les dispositions des artic
 
 ###### Article 1466
 
-Si, devant l'arbitre, l'une des parties conteste dans son principe ou son étendue le pouvoir juridictionnel de l'arbitre, il
-appartient à celui-ci de statuer sur la validité ou les limites de son investiture.
+La partie qui, en connaissance de cause et sans motif légitime, s'abstient d'invoquer en temps utile une irrégularité devant
+le tribunal arbitral est réputée avoir renoncé à s'en prévaloir.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 26 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1467
 
-Sauf convention contraire, l'arbitre a le pouvoir de trancher l'incident de vérification d'écriture ou de faux conformément
-aux dispositions des articles 287 à 294 et de l'article 299.
+Le tribunal arbitral procède aux actes d'instruction nécessaires à moins que les parties ne l'autorisent à commettre l'un de
+ses membres. 
 
-En cas d'inscription de faux incidente, l'article 313 est applicable devant l'arbitre. Le délai d'arbitrage continue à courir
-du jour où il a été statué sur l'incident.
+Le tribunal arbitral peut entendre toute personne. Cette audition a lieu sans prestation de serment. 
+
+Si une partie détient un élément de preuve, le tribunal arbitral peut lui enjoindre de le produire selon les modalités qu'il
+détermine et au besoin à peine d'astreinte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 27 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34508,114 +34494,101 @@ du jour où il a été statué sur l'incident.
 
 ###### Article 1468
 
-L'arbitre fixe la date à laquelle l'affaire sera mise en délibéré.
+Le tribunal arbitral peut ordonner aux parties, dans les conditions qu'il détermine et au besoin à peine d'astreinte, toute
+mesure conservatoire ou provisoire qu'il juge opportune. Toutefois, la juridiction de l'Etat est seule compétente pour
+ordonner des saisies conservatoires et sûretés judiciaires. 
 
-Après cette date, aucune demande ne peut être formée ni aucun moyen soulevé. Aucune observation ne peut être présentée ni
-aucune pièce produite, si ce n'est à la demande de l'arbitre.
+Le tribunal arbitral peut modifier ou compléter la mesure provisoire ou conservatoire qu'il a ordonnée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 28 (Ab)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-
-## Titre III : La sentence arbitrale.
 
 ###### Article 1469
 
-Les délibérations des arbitres sont secrètes.
+Si une partie à l'instance arbitrale entend faire état d'un acte authentique ou sous seing privé auquel elle n'a pas été
+partie ou d'une pièce détenue par un tiers, elle peut, sur invitation du tribunal arbitral, faire assigner ce tiers devant le
+président du tribunal de grande instance aux fins d'obtenir la délivrance d'une expédition ou la production de l'acte ou de
+la pièce. 
+
+La compétence territoriale du président du tribunal de grande instance est déterminée conformément aux articles 42 à 48. 
+
+La demande est formée, instruite et jugée comme en matière de référé. 
+
+Le président, s'il estime la demande fondée, ordonne la délivrance ou la production de l'acte ou de la pièce, en original, en
+copie ou en extrait, selon le cas, dans les conditions et sous les garanties qu'il fixe, au besoin à peine d'astreinte. 
+
+Cette décision n'est pas exécutoire de plein droit. 
+
+Elle est susceptible d'appel dans un délai de quinze jours suivant la signification de la décision.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 29 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1470
 
-La sentence arbitrale est rendue à la majorité des voix.
+Sauf stipulation contraire, le tribunal arbitral a le pouvoir de trancher l'incident de vérification d'écriture ou de faux
+conformément aux dispositions des articles 287 à 294 et de l'article 299. 
+
+En cas d'inscription de faux incident, il est fait application de l'article 313.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 30 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1471
 
-La sentence arbitrale doit exposer succinctement les prétentions respectives des parties et leurs moyens.
-
-La décision doit être motivée.
+L'interruption de l'instance est régie par les dispositions des articles 369 à 372.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 31 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1472
 
-La sentence arbitrale contient l'indication :
+Le tribunal arbitral peut, s'il y a lieu, surseoir à statuer. Cette décision suspend le cours de l'instance pour le temps ou
+jusqu'à la survenance de l'événement qu'elle détermine. 
 
-- du nom des arbitres qui l'ont rendue ;
-
-- de sa date ;
-
-- du lieu où elle est rendue ;
-
-- des nom, prénoms ou dénomination des parties, ainsi que de leur domicile ou siège social ;
-
-- le cas échéant, du nom des avocats ou de toute personne ayant représenté ou assisté les parties.
+Le tribunal arbitral peut, suivant les circonstances, révoquer le sursis ou en abréger le délai.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 32 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cité par**:
 
@@ -34624,68 +34597,59 @@ La sentence arbitrale contient l'indication :
 
 ###### Article 1473
 
-La sentence arbitrale est signée par tous les arbitres.
+Sauf stipulation contraire, l'instance arbitrale est également suspendue en cas de décès, d'empêchement, d'abstention, de
+démission, de récusation ou de révocation d'un arbitre jusqu'à l'acceptation de sa mission par l'arbitre désigné en
+remplacement. 
 
-Toutefois, si une minorité d'entre eux refuse de la signer, les autres en font mention et la sentence a le même effet que si
-elle avait été signée par tous les arbitres.
+Le nouvel arbitre est désigné suivant les modalités convenues entre les parties ou, à défaut, suivant celles qui ont présidé
+à la désignation de l'arbitre qu'il remplace.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 33 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1474
 
-L'arbitre tranche le litige conformément aux règles de droit, à moins que, dans la convention d'arbitrage, les parties ne lui
-aient conféré mission de statuer comme amiable compositeur.
+L'interruption ou la suspension de l'instance ne dessaisit pas le tribunal arbitral. 
+
+Le tribunal arbitral peut inviter les parties à lui faire part de leurs initiatives en vue de reprendre l'instance ou de
+mettre un terme aux causes d'interruption ou de suspension. En cas de carence des parties, il peut mettre fin à l'instance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 34 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1475
 
-La sentence dessaisit l'arbitre de la contestation qu'elle tranche.
+L'instance reprend son cours en l'état où elle se trouvait au moment où elle a été interrompue ou suspendue lorsque les
+causes de son interruption ou de sa suspension cessent d'exister. 
 
-L'arbitre a néanmoins le pouvoir d'interpréter la sentence, de réparer les erreurs et omissions matérielles qui l'affectent
-et de la compléter lorsqu'il a omis de statuer sur un chef de demande. Les articles 461 à 463 sont applicables. Si le
-tribunal arbitral ne peut être à nouveau réuni, ce pouvoir appartient à la juridiction qui eût été compétente à défaut
-d'arbitrage.
+Au moment de la reprise de l'instance et par exception à l'article 1463, le tribunal arbitral peut décider que le délai de
+l'instance sera prorogé pour une durée qui n'excède pas six mois.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 35 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34694,140 +34658,121 @@ d'arbitrage.
 
 ###### Article 1476
 
-La sentence arbitrale a, dès qu'elle est rendue, l'autorité de la chose jugée relativement à la contestation qu'elle tranche.
+Le tribunal arbitral fixe la date à laquelle le délibéré sera prononcé. 
+
+Au cours du délibéré, aucune demande ne peut être formée, aucun moyen soulevé et aucune pièce produite, si ce n'est à la
+demande du tribunal arbitral.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 36 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1477
 
-La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une décision d'exequatur émanant du tribunal de
-grande instance dans le ressort duquel la sentence a été rendue.
-
-A cet effet, la minute de la sentence accompagnée d'un exemplaire de la convention d'arbitrage est déposée par l'un des
-arbitres ou par la partie la plus diligente au secrétariat de la juridiction.
+L'expiration du délai d'arbitrage entraîne la fin de l'instance arbitrale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Anciens textes**:
-
-	  - Décret n°80-354 du 14 mai 1980 - art. 37 (Ab)
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
+
+### Chapitre IV : La sentence arbitrale
 
 ###### Article 1478
 
-L'exequatur est apposé sur la minute de la sentence arbitrale.
-
-L'ordonnance qui refuse l'exequatur doit être motivée.
+Le tribunal arbitral tranche le litige conformément aux règles de droit, à moins que les parties lui aient confié la mission
+de statuer en amiable composition.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 38 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1479
 
-Les règles sur l'exécution provisoire des jugements sont applicables aux sentences arbitrales.
-
-En cas d'appel ou de recours en annulation, le premier président ou le magistrat chargé de la mise en état dès lors qu'il est
-saisi, peut accorder l'exequatur à la sentence arbitrale assortie de l'exécution provisoire. Il peut aussi ordonner
-l'exécution provisoire dans les conditions prévues aux articles 525 et 526 ; sa décision vaut exequatur.
+Les délibérations du tribunal arbitral sont secrètes.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 39 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
-	  - Code de procédure civile 525 et 526
+	  - Code de procédure civile (1807)
 
 
 ###### Article 1480
 
-Les dispositions des articles 1471 (alinéa 2), 1472, en ce qui concerne le nom des arbitres et la date de la sentence, et
-1473 sont prescrites à peine de nullité.
+La sentence arbitrale est rendue à la majorité des voix. 
+
+Elle est signée par tous les arbitres. 
+
+Si une minorité d'entre eux refuse de la signer, la sentence en fait mention et celle-ci produit le même effet que si elle
+avait été signée par tous les arbitres.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 40 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1471, 1472, 1473
 
 
-## Titre IV : Les voies de recours.
-
 ###### Article 1481
 
-La sentence arbitrale n'est pas susceptible d'opposition ni de pourvoi en cassation.
+La sentence arbitrale contient l'indication : 
 
-Elle peut être frappée de tierce opposition devant la juridiction qui eût été compétente à défaut d'arbitrage, sous réserve
-des dispositions de l'article 588 (alinéa 1).
+1° Des nom, prénoms ou dénomination des parties ainsi que de leur domicile ou siège social ; 
+
+2° Le cas échéant, du nom des avocats ou de toute personne ayant représenté ou assisté les parties ; 
+
+3° Du nom des arbitres qui l'ont rendue ; 
+
+4° De sa date ; 
+
+5° Du lieu où la sentence a été rendue.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 41 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34836,45 +34781,39 @@ des dispositions de l'article 588 (alinéa 1).
 
 ###### Article 1482
 
-La sentence arbitrale est susceptible d'appel à moins que les parties n'aient renoncé à l'appel dans la convention
-d'arbitrage. Toutefois, elle n'est pas susceptible d'appel lorsque l'arbitre a reçu mission de statuer comme amiable
-compositeur, à moins que les parties n'aient expressément réservé cette faculté dans la convention d'arbitrage.
+La sentence arbitrale expose succinctement les prétentions respectives des parties et leurs moyens. 
+
+Elle est motivée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 42 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1483
 
-Lorsque, suivant les distinctions faites à l'article 1482, les parties n'ont pas renoncé à l'appel, ou qu'elles se sont
-réservées expressément cette faculté dans la convention d'arbitrage, la voie de l'appel est seule ouverte, qu'elle tende à la
-réformation de la sentence arbitrale ou à son annulation. Le juge d'appel statue comme amiable compositeur lorsque l'arbitre
-avait cette mission.
+Les dispositions de l'article 1480, celles de l'article 1481 relatives au nom des arbitres et à la date de la sentence et
+celles de l'article 1482 concernant la motivation de la sentence sont prescrites à peine de nullité de celle-ci. 
+
+Toutefois, l'omission ou l'inexactitude d'une mention destinée à établir la régularité de la sentence ne peut entraîner la
+nullité de celle-ci s'il est établi, par les pièces de la procédure ou par tout autre moyen, que les prescriptions légales
+ont été, en fait, observées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 43 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34883,37 +34822,22 @@ avait cette mission.
 
 ###### Article 1484
 
-Lorsque, suivant les distinctions faites à l'article 1482, les parties ont renoncé à l'appel, ou qu'elles ne se sont pas
-expressément réservées cette faculté dans la convention d'arbitrage, un recours en annulation de l'acte qualifié sentence
-arbitrale peut néanmoins être formé malgré toute stipulation contraire.
+La sentence arbitrale a, dès qu'elle est rendue, l'autorité de la chose jugée relativement à la contestation qu'elle
+tranche. 
 
-Il n'est ouvert que dans les cas suivants :
+Elle peut être assortie de l'exécution provisoire. 
 
-1° Si l'arbitre a statué sans convention d'arbitrage ou sur convention nulle ou expirée ;
-
-2° Si le tribunal arbitral a été irrégulièrement composé ou l'arbitre unique irrégulièrement désigné ;
-
-3° Si l'arbitre a statué sans se conformer à la mission qui lui avait été conférée ;
-
-4° Lorsque le principe de la contradiction n'a pas été respecté ;
-
-5° Dans tous les cas de nullité prévus à l'article 1480 ;
-
-6° Si l'arbitre a violé une règle d'ordre public.
+Elle est notifiée par voie de signification à moins que les parties en conviennent autrement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 44 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -34922,228 +34846,197 @@ Il n'est ouvert que dans les cas suivants :
 
 ###### Article 1485
 
-Lorsque la juridiction saisie d'un recours en annulation annule la sentence arbitrale, elle statue sur le fond dans les
-limites de la mission de l'arbitre, sauf volonté contraire de toutes les parties.
+La sentence dessaisit le tribunal arbitral de la contestation qu'elle tranche. 
+
+Toutefois, à la demande d'une partie, le tribunal arbitral peut interpréter la sentence, réparer les erreurs et omissions
+matérielles qui l'affectent ou la compléter lorsqu'il a omis de statuer sur un chef de demande. Il statue après avoir entendu
+les parties ou celles-ci appelées. 
+
+Si le tribunal arbitral ne peut être à nouveau réuni et si les parties ne peuvent s'accorder pour le reconstituer, ce pouvoir
+appartient à la juridiction qui eût été compétente à défaut d'arbitrage.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 45 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1486
 
-L'appel et le recours en annulation sont portés devant la cour d'appel dans le ressort de laquelle la sentence arbitrale a
-été rendue.
+Les demandes formées en application du deuxième alinéa de l'article 1485 sont présentées dans un délai de trois mois à
+compter de la notification de la sentence. 
 
-Ces recours sont recevables dès le prononcé de la sentence ; ils cessent de l'être s'ils n'ont pas été exercés dans le mois
-de la signification de la sentence revêtue de l'exequatur.
+Sauf convention contraire, la sentence rectificative ou complétée est rendue dans un délai de trois mois à compter de la
+saisine du tribunal arbitral. Ce délai peut être prorogé conformément au second alinéa de l'article 1463. 
 
-Le délai pour exercer ces recours suspend l'exécution de la sentence arbitrale. Le recours exercé dans le délai est également
-suspensif.
+La sentence rectificative ou complétée est notifiée dans les mêmes formes que la sentence initiale.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Anciens textes**:
-
-	  - Décret n°80-354 du 14 mai 1980 - art. 46 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-
-###### Article 1487
-
-L'appel et le recours en annulation sont formés, instruits et jugés selon les règles relatives à la procédure en matière
-contentieuse devant la cour d'appel.
+Décret n° 2011-48 du 13 janvier 2011 article 3 2°: Ces dispositions s'appliquent lorsque le tribunal a été constitué
+postérieurement au 1er mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Anciens textes**:
-
-	  - Décret n°80-354 du 14 mai 1980 - art. 47 (Ab)
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-1420 du 23 décembre 2004 - art. 1 () JORF 29 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-###### Article 1488
+### Chapitre V : L'exequatur
 
-L'ordonnance qui accorde l'exequatur n'est susceptible d'aucun recours.
+### Chapitre VI : Les voies de recours
 
-Toutefois, l'appel ou le recours en annulation de la sentence emportent de plein droit, dans les limites de la saisine de la
-cour, recours contre l'ordonnance du juge de l'exequatur ou dessaisissement de ce juge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Anciens textes**:
-
-	  - Décret n°80-354 du 14 mai 1980 - art. 48 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
+#### Section 1 : L'appel
 
 ###### Article 1489
 
-L'ordonnance qui refuse l'exequatur peut être frappée d'appel jusqu'à l'expiration du délai d'un mois à compter de sa
-signification. En ce cas, la cour d'appel connaît, à la demande des parties, des moyens que celles-ci auraient pu faire
-valoir contre la sentence arbitrale, par la voie de l'appel ou du recours en annulation selon le cas.
+La sentence n'est pas susceptible d'appel sauf volonté contraire des parties.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Ces dispositions s'appliquent lorsque la convention d'arbitrage a été
+conclue après le 1er mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 49 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1490
 
-Le rejet de l'appel ou du recours en annulation confère l'exequatur à la sentence arbitrale ou à celles de ses dispositions
-qui ne sont pas atteintes par la censure de la cour.
+L'appel tend à la réformation ou à l'annulation de la sentence. 
+
+La cour statue en droit ou en amiable composition dans les limites de la mission du tribunal arbitral.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 50 (Ab)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
+#### Section 2 : Le recours en annulation
 
 ###### Article 1491
 
-Le recours en révision est ouvert contre la sentence arbitrale dans les cas et sous les conditions prévus pour les jugements.
+La sentence peut toujours faire l'objet d'un recours en annulation à moins que la voie de l'appel soit ouverte conformément à
+l'accord des parties. 
 
-Il est porté devant la cour d'appel qui eût été compétente pour connaître des autres recours contre la sentence.
+Toute stipulation contraire est réputée non écrite.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°80-354 du 14 mai 1980 - art. 51 (Ab)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-
-## Titre V : L'arbitrage international.
 
 ###### Article 1492
 
-Est international l'arbitrage qui met en cause des intérêts du commerce international.
+Le recours en annulation n'est ouvert que si : 
+
+1° Le tribunal arbitral s'est déclaré à tort compétent ou incompétent ; ou 
+
+2° Le tribunal arbitral a été irrégulièrement constitué ; ou 
+
+3° Le tribunal arbitral a statué sans se conformer à la mission qui lui avait été confiée ; ou 
+
+4° Le principe de la contradiction n'a pas été respecté ; ou 
+
+5° La sentence est contraire à l'ordre public ; ou 
+
+6° La sentence n'est pas motivée ou n'indique pas la date à laquelle elle a été rendue ou le nom du ou des arbitres qui l'ont
+rendue ou ne comporte pas la ou les signatures requises ou n'a pas été rendue à la majorité des voix.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1493
 
-Directement ou par référence à un règlement d'arbitrage, la convention d'arbitrage peut désigner le ou les arbitres ou
-prévoir les modalités de leur désignation.
-
-Si pour les arbitrages se déroulant en France ou pour ceux à l'égard desquels les parties ont prévu l'application de la loi
-de procédure française, la constitution du tribunal arbitral se heurte à une difficulté, la partie la plus diligente peut,
-sauf clause contraire, saisir le président du tribunal de grande instance de Paris selon les modalités de l'article 1457.
+Lorsque la juridiction annule la sentence arbitrale, elle statue sur le fond dans les limites de la mission de l'arbitre,
+sauf volonté contraire des parties.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1457
 
 
+#### Section 3 : Dispositions communes à l'appel   et au recours en annulation
+
 ###### Article 1494
 
-La convention d'arbitrage peut, directement ou par référence à un règlement d'arbitrage, régler la procédure à suivre dans
-l'instance arbitrale ; elle peut aussi soumettre celle-ci à la loi de procédure qu'elle détermine.
+L'appel et le recours en annulation sont portés devant la cour d'appel dans le ressort de laquelle la sentence a été rendue. 
 
-Dans le silence de la convention, l'arbitre règle la procédure, autant qu'il est besoin, soit directement, soit par référence
-à une loi ou à un règlement d'arbitrage.
+Ces recours sont recevables dès le prononcé de la sentence. Ils cessent de l'être s'ils n'ont pas été exercés dans le mois de
+la notification de la sentence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1495
 
-Lorsque l'arbitrage international est soumis à la loi française, les dispositions des titres I, II et III du présent livre ne
-s'appliquent qu'à défaut de convention particulière et sous réserve des articles 1493 et 1494.
+L'appel et le recours en annulation sont formés, instruits et jugés selon les règles relatives à la procédure en matière
+contentieuse prévues aux articles 900 à 930-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -35152,177 +35045,538 @@ s'appliquent qu'à défaut de convention particulière et sous réserve des arti
 
 ###### Article 1496
 
-L'arbitre tranche le litige conformément aux règles de droit que les parties ont choisies ; à défaut d'un tel choix,
-conformément à celles qu'il estime appropriées.
-
-Il tient compte dans tous les cas des usages du commerce.
+Le délai pour exercer l'appel ou le recours en annulation ainsi que l'appel ou le recours exercé dans ce délai suspendent
+l'exécution de la sentence arbitrale à moins qu'elle soit assortie de l'exécution provisoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1497
 
-L'arbitre statue comme amiable compositeur si la convention des parties lui a conféré cette mission.
+Le premier président statuant en référé ou, dès qu'il est saisi, le conseiller de la mise en état peut : 
+
+1° Lorsque la sentence est assortie de l'exécution provisoire, arrêter ou aménager son exécution lorsqu'elle risque
+d'entraîner des conséquences manifestement excessives ; ou 
+
+2° Lorsque la sentence n'est pas assortie de l'exécution provisoire, ordonner l'exécution provisoire de tout ou partie de
+cette sentence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-
-## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.
-
-### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.
 
 ###### Article 1498
 
-Les sentences arbitrales sont reconnues en France si leur existence est établie par celui qui s'en prévaut et si cette
-reconnaissance n'est pas manifestement contraire à l'ordre public international.
+Lorsque la sentence est assortie de l'exécution provisoire ou qu'il est fait application du 2° de l'article 1497, le premier
+président ou, dès qu'il est saisi, le conseiller de la mise en état peut conférer l'exequatur à la sentence arbitrale. 
 
-Sous les mêmes conditions, elles sont déclarées exécutoires en France par le juge de l'exécution.
+Le rejet de l'appel ou du recours en annulation confère l'exequatur à la sentence arbitrale ou à celles de ses dispositions
+qui ne sont pas atteintes par la censure de la cour.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
+
+#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur
 
 ###### Article 1499
 
-L'existence d'une sentence arbitrale est établie par la production de l'original accompagné de la convention d'arbitrage ou
-des copies de ces documents réunissant les conditions requises pour leur authenticité.
+L'ordonnance qui accorde l'exequatur n'est susceptible d'aucun recours. 
 
-Si ces pièces ne sont pas rédigées en langue française, la partie en produit une traduction certifiée par un traducteur
-inscrit sur la liste des experts.
+Toutefois, l'appel ou le recours en annulation de la sentence emporte de plein droit, dans les limites de la saisine de la
+cour, recours contre l'ordonnance du juge ayant statué sur l'exequatur ou dessaisissement de ce juge.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1500
 
-Les dispositions des articles 1476 à 1479 sont applicables.
+L'ordonnance qui refuse l'exequatur peut être frappée d'appel dans le délai d'un mois à compter de sa signification. 
+
+Dans ce cas, la cour d'appel connaît, à la demande d'une partie, de l'appel ou du recours en annulation formé à l'encontre de
+la sentence arbitrale, si le délai pour l'exercer n'est pas expiré.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1476 à 1479
 
 
-### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.
+#### Section 5 : Autres voies de recours
 
 ###### Article 1501
 
-La décision qui refuse la reconnaissance ou l'exécution est susceptible d'appel.
+La sentence arbitrale peut être frappée de tierce opposition devant la juridiction qui eût été compétente à défaut
+d'arbitrage, sous réserve des dispositions du premier alinéa de l'article 588.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1502
 
-L'appel de la décision qui accorde la reconnaissance ou l'exécution n'est ouvert que dans les cas suivants :
+Le recours en révision est ouvert contre la sentence arbitrale dans les cas prévus pour les jugements à l'article 595 et sous
+les conditions prévues aux articles 594, 596, 597 et 601 à 603. 
 
-1° Si l'arbitre a statué sans convention d'arbitrage ou sur convention nulle ou expirée ;
+Le recours est porté devant le tribunal arbitral. 
 
-2° Si le tribunal arbitral a été irrégulièrement composé ou l'arbitre unique irrégulièrement désigné ;
+Toutefois, si le tribunal arbitral ne peut à nouveau être réuni, le recours est porté devant la cour d'appel qui eût été
+compétente pour connaître des autres recours contre la sentence.
 
-3° Si l'arbitre a statué sans se conformer à la mission qui lui avait été conférée ;
+**Nota:**
 
-4° Lorsque le principe de la contradiction n'a pas été respecté ;
-
-5° Si la reconnaissance ou l'exécution sont contraires à l'ordre public international.
+Décret n° 2011-48 du 13 janvier 2011 article 3 2°: Ces dispositions s'appliquent lorsque le tribunal a été constitué
+postérieurement au 1er mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1503
 
-L'appel prévu aux articles 1501 et 1502 est porté devant la cour d'appel dont relève le juge qui a statué. Il peut être formé
-jusqu'à l'expiration du délai d'un mois à compter de la signification de la décision du juge.
+La sentence arbitrale n'est pas susceptible d'opposition et de pourvoi en cassation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1501 et 1502
 
 
-###### Article 1504
+## Titre II : L'instance arbitrale.
 
-La sentence arbitrale rendue en France en matière d'arbitrage international peut faire l'objet d'un recours en annulation
-dans les cas prévus à l'article 1502.
+### Chapitre II : L'instance et la sentence arbitrales
 
-L'ordonnance qui accorde l'exécution de cette sentence n'est susceptible d'aucun recours. Toutefois, le recours en annulation
-emporte  de plein droit, dans les limites de la saisine de la cour, recours contre l'ordonnance du juge de l'exécution ou
-dessaisissement de ce juge.
+###### Article 1509
+
+La convention d'arbitrage peut, directement ou par référence à un règlement d'arbitrage ou à des règles de procédure, régler
+la procédure à suivre dans l'instance arbitrale. 
+
+Dans le silence de la convention d'arbitrage, le tribunal arbitral règle la procédure autant qu'il est besoin, soit
+directement, soit par référence à un règlement d'arbitrage ou à des règles de procédure.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1510
+
+Quelle que soit la procédure choisie, le tribunal arbitral garantit l'égalité des parties et respecte le principe de la
+contradiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art. 18 (V)
+
+
+###### Article 1511
+
+Le tribunal arbitral tranche le litige conformément aux règles de droit que les parties ont choisies ou, à défaut,
+conformément à celles qu'il estime appropriées. 
+
+Il tient compte, dans tous les cas, des usages du commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1512
+
+Le tribunal arbitral statue en amiable composition si les parties lui ont confié cette mission.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1513
+
+Dans le silence de la convention d'arbitrage, la sentence est rendue à la majorité des voix. Elle est signée par tous les
+arbitres. 
+
+Toutefois, si une minorité d'entre eux refuse de la signer, les autres en font mention dans la sentence. 
+
+A défaut de majorité, le président du tribunal arbitral statue seul. En cas de refus de signature des autres arbitres, le
+président en fait mention dans la sentence qu'il signe alors seul. 
+
+La sentence rendue dans les conditions prévues à l'un ou l'autre des deux alinéas précédents produit les mêmes effets que si
+elle avait été signée par tous les arbitres ou rendue à la majorité des voix.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 2° : Ces dispositions s'appliquent lorsque le tribunal a été constitué
+postérieurement au 1er mai 2011.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international
+
+###### Article 1514
+
+Les sentences arbitrales sont reconnues ou exécutées en France si leur existence est établie par celui qui s'en prévaut et si
+cette reconnaissance ou cette exécution n'est pas manifestement contraire à l'ordre public international.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1515
+
+L'existence d'une sentence arbitrale est établie par la production de l'original accompagné de la convention d'arbitrage ou
+des copies de ces documents réunissant les conditions requises pour leur authenticité. 
+
+Si ces documents ne sont pas rédigés en langue française, la partie requérante en produit une traduction. Elle peut être
+invitée à produire une traduction établie par un traducteur inscrit sur une liste d'experts judiciaires ou par un traducteur
+habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, d'un
+Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1516
+
+La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal de
+grande instance dans le ressort duquel elle été rendue ou du tribunal de grande instance de Paris lorsqu'elle a été rendue à
+l'étranger. 
+
+La procédure relative à la demande d'exequatur n'est pas contradictoire. 
+
+La requête est déposée par la partie la plus diligente au greffe de la juridiction accompagnée de l'original de la sentence
+et d'un exemplaire de la convention d'arbitrage ou de leurs copies réunissant les conditions requises pour leur authenticité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1517
+
+L'exequatur est apposé sur l'original ou, si celui-ci n'est pas produit, sur la copie de la sentence arbitrale répondant aux
+conditions prévues au dernier alinéa de l'article 1516. 
+
+Lorsque la sentence arbitrale n'est pas rédigée en langue française, l'exequatur est également apposé sur la traduction
+opérée dans les conditions prévues à l'article 1515. 
+
+L'ordonnance qui refuse d'accorder l'exequatur à la sentence arbitrale est motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+### Chapitre IV : Les voies de recours
+
+#### Section 1 : Sentences rendues en France
+
+###### Article 1518
+
+La sentence rendue en France en matière d'arbitrage international ne peut faire l'objet que d'un recours en annulation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1519
+
+Le recours en annulation est porté devant la cour d'appel dans le ressort de laquelle la sentence a été rendue. 
+
+Ce recours est recevable dès le prononcé de la sentence. Il cesse de l'être s'il n'a pas été exercé dans le mois de la
+notification de la sentence. 
+
+La notification est faite par voie de signification à moins que les parties en conviennent autrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1520
+
+Le recours en annulation n'est ouvert que si : 
+
+1° Le tribunal arbitral s'est déclaré à tort compétent ou incompétent ; ou 
+
+2° Le tribunal arbitral a été irrégulièrement constitué ; ou 
+
+3° Le tribunal arbitral a statué sans se conformer à la mission qui lui avait été confiée ; ou 
+
+4° Le principe de la contradiction n'a pas été respecté ; ou 
+
+5° La reconnaissance ou l'exécution de la sentence est contraire à l'ordre public international.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1521
+
+Le premier président ou, dès qu'il est saisi, le conseiller de la mise en état peut conférer l'exequatur à la sentence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1522
+
+Par convention spéciale, les parties peuvent à tout moment renoncer expressément au recours en annulation. 
+
+Dans ce cas, elles peuvent toujours faire appel de l'ordonnance d'exequatur pour l'un des motifs prévus à l'article 1520. 
+
+L'appel est formé dans le délai d'un mois à compter de la notification de la sentence revêtue de l'exequatur. La notification
+est faite par voie de signification à moins que les parties en conviennent autrement.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 2°: Ces dispositions s'appliquent lorsque le tribunal a été constitué
+postérieurement au 1er mai 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1523
+
+La décision qui refuse la reconnaissance ou l'exequatur d'une sentence arbitrale internationale rendue en France est
+susceptible d'appel. 
+
+L'appel est formé dans le délai d'un mois à compter de la signification de la décision. 
+
+Dans ce cas, la cour d'appel connaît, à la demande d'une partie, du recours en annulation à l'encontre de la sentence à moins
+qu'elle ait renoncé à celui-ci ou que le délai pour l'exercer soit expiré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1524
+
+L'ordonnance qui accorde l'exequatur n'est susceptible d'aucun recours sauf dans le cas prévu au deuxième alinéa de l'article
+1522. 
+
+Toutefois, le recours en annulation de la sentence emporte de plein droit, dans les limites de la saisine de la cour, recours
+contre l'ordonnance du juge ayant statué sur l'exequatur ou dessaisissement de ce juge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+#### Section 2 : Sentences rendues à l'étranger
+
+###### Article 1525
+
+La décision qui statue sur une demande de reconnaissance ou d'exequatur d'une sentence arbitrale rendue à l'étranger est
+susceptible d'appel. 
+
+L'appel est formé dans le délai d'un mois à compter de la signification de la décision. 
+
+Les parties peuvent toutefois convenir d'un autre mode de notification lorsque l'appel est formé à l'encontre de la sentence
+revêtue de l'exequatur. 
+
+La cour d'appel ne peut refuser la reconnaissance ou l'exequatur de la sentence arbitrale que dans les cas prévus à l'article
+1520.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger
+
+###### Article 1526
+
+Le recours en annulation formé contre la sentence et l'appel de l'ordonnance ayant accordé l'exequatur ne sont pas
+suspensifs. 
+
+Toutefois, le premier président statuant en référé ou, dès qu'il est saisi, le conseiller de la mise en état peut arrêter ou
+aménager l'exécution de la sentence si cette exécution est susceptible de léser gravement les droits de l'une des parties.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 3° : Ces dispositions s'appliquent aux sentences arbitrales rendues après 1er
+mai 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1527
+
+L'appel de l'ordonnance ayant statué sur l'exequatur et le recours en annulation de la sentence sont formés, instruits et
+jugés selon les règles relatives à la procédure contentieuse prévues aux articles 900 à 930-1. 
+
+Le rejet de l'appel ou du recours en annulation confère l'exequatur à la sentence arbitrale ou à celles de ses dispositions
+qui ne sont pas atteintes par la censure de la cour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+## Titre II : L'arbitrage international
+
+###### Article 1504
+
+Est international l'arbitrage qui met en cause des intérêts du commerce international.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -35331,19 +35585,32 @@ dessaisissement de ce juge.
 
 ###### Article 1505
 
-Le recours en annulation prévu à l'article 1504 est porté devant la cour d'appel dans le ressort de laquelle la sentence a
-été rendue. Ce recours est recevable dès le prononcé de la sentence ; il cesse de l'être s'il n'a pas été exercé dans le mois
-de la signification de la sentence déclarée exécutoire.
+En matière d'arbitrage international, le juge d'appui de la procédure arbitrale est, sauf clause contraire, le président du
+tribunal de grande instance de Paris lorsque : 
+
+1° L'arbitrage se déroule en France ; ou 
+
+2° Les parties sont convenues de soumettre l'arbitrage à la loi de procédure française ; ou 
+
+3° Les parties ont expressément donné compétence aux juridictions étatiques françaises pour connaître des différends relatifs
+à la procédure arbitrale ; ou 
+
+4° L'une des parties est exposée à un risque de déni de justice.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Les dispositions du 2° et du 3° s'appliquent lorsque la convention
+d'arbitrage a été conclue après le 1er mai 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
@@ -35352,49 +35619,83 @@ de la signification de la sentence déclarée exécutoire.
 
 ###### Article 1506
 
-Le délai pour exercer les recours prévus aux articles 1501, 1502 et 1504 suspend l'exécution de la sentence arbitrale. Le
-recours exercé dans le délai est également suspensif.
+A moins que les parties en soient convenues autrement et sous réserve des dispositions du présent titre, s'appliquent à
+l'arbitrage international les articles : 
+
+1° 1446, 1447, 1448 (alinéas 1 et 2) et 1449, relatifs à la convention d'arbitrage ; 
+
+2° 1452 à 1458 et 1460, relatifs à la constitution du tribunal arbitral et à la procédure applicable devant le juge
+d'appui ; 
+
+3° 1462, 1463 (alinéa 2), 1464 (alinéa 3), 1465 à 1470 et 1472 relatifs à l'instance arbitrale ; 
+
+4° 1479, 1481, 1482, 1484 (alinéas 1 et 2), 1485 (alinéas 1 et 2) et 1486 relatifs à la sentence arbitrale ; 
+
+5° 1502 (alinéas 1 et 2) et 1503 relatifs aux voies de recours autres que l'appel et le recours en annulation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1501, 1502 et 1504
 
 
+### Chapitre Ier : La convention d'arbitrage international
+
 ###### Article 1507
 
-Les dispositions du titre IV du présent livre, à l'exception de celles de l'alinéa 1er de l'article 1487 et de l'article
-1490, ne sont pas applicables aux voies de recours.
+La convention d'arbitrage n'est soumise à aucune condition de forme.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
 	  - Nouveau code de procédure civile 1487 et 1490
 
 
+###### Article 1508
+
+La convention d'arbitrage peut, directement ou par référence à un règlement d'arbitrage ou à des règles de procédure,
+désigner le ou les arbitres ou prévoir les modalités de leur désignation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+### Chapitre II : L'instance et la sentence arbitrales
+
+### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international
+
+### Chapitre IV : Les voies de recours
+
 # Livre VI : Dispositions relatives à l'outre-mer.
 
 ## Titre II : Dispositions applicables aux îles Wallis et Futuna.
 
-###### Article 1512
+###### Article 1575
 
 Le présent code est applicable aux îles Wallis et Futuna, à l'exception des dispositions des titres IV et V du livre II, du
 chapitre IV du titre II du livre III et de la section II bis du chapitre IX du titre Ier du livre III, dans les conditions
@@ -35402,30 +35703,27 @@ définies au présent livre.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2008-1486 du 30 décembre 2008 - art. 6
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
 
-	**Liens**:
+	**Cité par**:
 
-	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
+	  - Décret n°2017-683 du 28 avril 2017 - art. 4
+	  - Décret n°2017-892 du 6 mai 2017 - art. 72 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de procédure civile - art. 1575 (V)
+	  - Code de procédure civile - art. 1512 (M)
 
 
-###### Article 1513
+###### Article 1576
 
 Pour l'application du présent code à Wallis et Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
-1° "tribunal de grande instance" ou "tribunal d'instance" par :
+1° "tribunal de grande instance" ou "tribunal d'instance" par : "tribunal de première instance" ;
 
-"tribunal de première instance" ;
-
-2° "tribunal de commerce" ou "justice consulaire" par :
-
-"tribunal de première instance statuant en matière commerciale" ;
+2° "tribunal de commerce" ou "justice consulaire" par : "tribunal de première instance statuant en matière commerciale" ;
 
 3° "juge d'instance" par : "président du tribunal de première instance" ;
 
@@ -35441,48 +35739,36 @@ Pour l'application du présent code à Wallis et Futuna, les termes énumérés 
 
 9° "Caisse des dépôts et consignations" par : "Trésor public" ;
 
-10° " président du conseil général " ou " maire " par : " chef du territoire " .
+10° " président du conseil général " ou " maire " par : " chef du territoire ".
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 4 (V)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1576 (M)
+	  - Code de procédure civile - art. 1513 (M)
 
 
-###### Article 1514
+###### Article 1577
 
 Les parties ne sont jamais tenues de se faire représenter et peuvent en toute circonstance se défendre elles-mêmes ou être
 représentées par un mandataire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Créé par**:
 
-	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1577 (V)
+	  - Code de procédure civile - art. 1514 (M)
 
 
-###### Article 1515
+###### Article 1578
 
 La compétence dévolue aux huissiers de justice pour la délivrance des actes prévus au présent code peut être exercée dans les
 îles Wallis et Futuna par un représentant de l'autorité administrative ou militaire ; celle dévolue aux commissaires-priseurs
@@ -35490,48 +35776,32 @@ pour les ventes aux enchères peut être exercée par le greffier du tribunal de
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Créé par**:
 
-	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1578 (V)
+	  - Code de procédure civile - art. 1515 (M)
 
 
-###### Article 1516
+###### Article 1579
 
 Dans les îles Wallis et Futuna, les assignations, convocations, significations, notifications et remises d'actes prévues au
 présent code peuvent se faire par lettre simple contre émargement de la personne intéressée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Créé par**:
 
-	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1579 (V)
+	  - Code de procédure civile - art. 1516 (M)
 
 
-###### Article 1517
+###### Article 1580
 
 Sous réserve des dispositions prévues à l'article 1514 et au chapitre IV du titre III du livre IX du code de l'organisation
 judiciaire, le tribunal de première instance statue selon les dispositions particulières de procédure applicables à chaque
@@ -35539,24 +35809,16 @@ juridiction de métropole dans le domaine de compétence que le code de l'organi
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Créé par**:
 
-	  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1580 (V)
+	  - Code de procédure civile - art. 1517 (M)
 
 
-###### Article 1518
+###### Article 1581
 
 En l'absence d'adaptations prévues par le présent code, les références opérées par lui à des dispositions qui ne sont pas
 applicables dans les îles Wallis et Futuna sont remplacées par les références aux dispositions ayant le même objet
@@ -35564,41 +35826,29 @@ applicables localement.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 4 (V)
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1581 (V)
+	  - Code de procédure civile - art. 1518 (M)
 
 
-###### Article 1519
+###### Article 1582
 
 Pour son application aux îles Wallis et Futuna, le montant des amendes civiles prévues au présent code est remplacé par sa
 contrepartie en monnaie locale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Créé par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 86 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1582 (V)
+	  - Code de procédure civile - art. 1519 (M)
 
 
 # Annexes
