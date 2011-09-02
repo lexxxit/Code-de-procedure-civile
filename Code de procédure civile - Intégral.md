@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-05-01
+Version Consolidée au 2011-09-03
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -9358,6 +9358,30 @@ Les minutes des ordonnances de référé sont conservées au secrétariat de la 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 492-1
+
+A moins qu'il en soit disposé autrement, lorsqu'il est prévu que le juge statue comme en matière de référé ou en la forme des
+référés, la demande est formée, instruite et jugée dans les conditions suivantes : 
+
+1° Il est fait application des articles 485 à 487 et 490 ; 
+
+2° Le juge exerce les pouvoirs dont dispose la juridiction au fond et statue par une ordonnance ayant l'autorité de la chose
+jugée relativement aux contestations qu'elle tranche ; 
+
+3° L'ordonnance est exécutoire à titre provisoire, à moins que le juge en décide autrement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 485
+	  - Code de procédure civile - art. 490
+
+
 ##### Sous-section III : Les ordonnances sur requête.
 
 ###### Article 493
@@ -9667,14 +9691,17 @@ compétence judiciaire, la reconnaissance et l'exécution des décisions en mati
 octobre 2007, sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention.
 
 Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 susmentionné
-sont présentées au juge qui a rendu la décision ou homologué la convention. Elles sont dispensées du ministère d'avocat.
+l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 susmentionné,
+ainsi que les requêtes aux fins d'obtention d'un extrait d'une décision présentées en application de l'article 20, paragraphe
+1, du règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance
+et l'exécution des décisions et la coopération en matière d'obligations alimentaires sont présentées au juge qui a rendu la
+décision ou homologué la convention. Elles sont dispensées du ministère d'avocat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
 
 	**Cité par**:
 
@@ -9697,14 +9724,16 @@ Lugano le 30 octobre 2007, sont présentées au greffier en chef du tribunal de 
 
 Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
 titres exécutoires étrangers, en application du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
-compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et de responsabilité parentale, sont
+compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et de responsabilité parentale et en
+application des articles 26 et 27 du règlement (CE) du Conseil n° 4/2009 du 18 décembre 2008 relatif à la compétence, la loi
+applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires, sont
 présentées au président du tribunal de grande instance ou à son délégué. Elles sont dispensées du ministère d'avocat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
 
 	**Cité par**:
 
@@ -9719,12 +9748,12 @@ présentées au président du tribunal de grande instance ou à son délégué. 
 ###### Article 509-3
 
 Par dérogation aux articles 509-1 et 509-2, les requêtes aux fins de certification, de reconnaissance ou de constatation de
-la force exécutoire des actes authentiques notariés, en application du règlement précité du 22 décembre 2000 et de la
-convention précitée du 30 octobre 2007, sont présentées au président de la chambre des notaires ou, en cas d'absence ou
-d'empêchement, à son suppléant désigné parmi les membres de la chambre. 
+la force exécutoire des actes authentiques notariés, en application des règlements précités des 22 décembre 2000 et 18
+décembre 2008, ainsi que de la convention précitée du 30 octobre 2007, sont présentées au président de la chambre des
+notaires ou, en cas d'absence ou d'empêchement, à son suppléant désigné parmi les membres de la chambre. 
 
-Lorsque ce règlement ou cette convention l'exige, l'élection de domicile est faite dans le ressort de la cour d'appel où
-siège la chambre des notaires. 
+Pour l'application du règlement précité du 22 décembre 2000, ainsi que de la convention précitée du 30 octobre 2007,
+l'élection de domicile est faite dans le ressort de la cour d'appel où siège la chambre des notaires. 
 
 Par dérogation à l'article 509-1, les requêtes aux fins de certification des actes authentiques notariés en vue de leur
 exécution à l'étranger en application du règlement (CE) n° 805 / 2004 du Parlement européen et du Conseil du 21 avril 2004
@@ -9739,14 +9768,13 @@ morale titulaire de l'office notarial conservant la minute de l'acte reçu.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 509-1
 	  - convention précitée du 30 octobre 2007
 	  - règlement (CE) n°805
-	  - règlement précité du 22 décembre 2000
 
 
 ###### Article 509-4
@@ -10433,20 +10461,24 @@ Le président se prononce sans recours.
 S'il fait droit à la requête, le délai d'opposition ou d'appel court à compter de la date de sa décision, sauf au président à
 réduire le délai ou à ordonner que la citation sera faite pour le jour qu'il fixe.
 
+Par exception aux dispositions qui précèdent, le droit au réexamen prévu à l'article 19 du règlement (CE) du Conseil n°
+4/2009 du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions et la
+coopération en matière d'obligations alimentaires s'exerce par la voie de l'appel.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 48 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2011-945 du 10 août 2011 - art. 8 (V)
 	  - Code du patrimoine. - art. R222-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
 
 
 ###### Article 541
@@ -16626,8 +16658,9 @@ l'affaire jugée ;
 
 2° Si le demandeur réside à l'étranger, les nom, prénoms et adresse de la personne chez qui il élit domicile en France.
 
-L'acte introductif d'instance rappelle en outre les dispositions de l'article 847-2 et mentionne les conditions dans
-lesquelles le défendeur peut se faire assister ou représenter, ainsi que, s'il y a lieu, le nom du représentant du demandeur.
+L'acte introductif d'instance rappelle en outre les dispositions de l'article 847-2, lorsqu'il contient une demande en
+paiement, et mentionne les conditions dans lesquelles le défendeur peut se faire assister ou représenter, ainsi que, s'il y a
+lieu, le nom du représentant du demandeur.
 
 L'assignation est accompagnée des pièces énumérées dans le bordereau annexé.
 
@@ -16635,7 +16668,7 @@ L'assignation est accompagnée des pièces énumérées dans le bordereau annex�
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
 
 	**Cite**:
 
@@ -17152,20 +17185,22 @@ L'assignation contient, à peine de nullité, outre les mentions prescrites par 
 
 1° Les lieu, jour et heure de l'audience à laquelle l'affaire sera appelée ; 
 
-2° Si le demandeur réside à l'étranger, les nom, prénoms et adresse de la personne chez qui il élit domicile en France.
+2° Si le demandeur réside à l'étranger, les nom, prénoms et adresse de la personne chez qui il élit domicile en France. 
 
 L'acte introductif d'instance mentionne en outre les conditions dans lesquelles le défendeur peut se faire assister ou
-représenter, s'il y a lieu, le nom du représentant du demandeur ainsi que les dispositions de l'article 861-2.
+représenter, s'il y a lieu, le nom du représentant du demandeur ainsi que, lorsqu'il contient une demande en paiement, les
+dispositions de l'article 861-2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 56
+	  - Code de procédure civile - art. 861-2
 
 	**Cité par**:
 
@@ -24017,6 +24052,22 @@ Si le notaire établit l'acte de partage, il en fait rapport au juge.
 	  - Code civil - art. 255
 
 
+###### Article 1121-1
+
+Pour l'application des dispositions de l'article 257, alinéa 3, du code civil, le juge aux affaires familiales connaît de la
+procédure d'apposition de scellés et d'état descriptif définie par la section I du chapitre II du titre III du livre III.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 257
+
+
 ##### Paragraphe 5 : Les voies de recours
 
 ###### Article 1122
@@ -24397,23 +24448,20 @@ débats sont publics, sous réserve de l'article 435. La décision est rendue pu
 
 Les dispositions de la section VI du chapitre II du titre III du livre III sont, sous réserve des dispositions de l'article
 267 du code civil, applicables au partage des intérêts patrimoniaux des époux, des personnes liées par un pacte civil de
-solidarité et des concubins.
+solidarité et des concubins. 
+
+Pour les besoins du partage de la communauté, le juge aux affaires familiales connaît de la procédure d'apposition de scellés
+et d'état descriptif définie par la section I du chapitre II du titre III du livre III.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 2
 
 	**Cite**:
 
-	  - Code civil
-	  - Code civil - art. 239
-	  - Code civil - art. 245
-	  - Code civil - art. 255
-	  - Code civil - art. 273
-	  - Code civil - art. 275
-	  - Code civil - art. 276
+	  - Code civil - art. 267
 
 
 #### Section II ter : La procédure aux fins de mesures de protection des victimes de violences 
@@ -28409,7 +28457,7 @@ acte relevant de l'exercice de leurs fonctions.
 
 Lorsque les biens d'un majeur placé sous sauvegarde de justice risquent d'être mis en péril, le procureur de la République ou
 le juge des tutelles peuvent prendre toutes mesures conservatoires et, notamment, requérir ou ordonner l'apposition des
-scellés. 
+scellés. En cas de difficulté, l'huissier de justice en informe le juge des tutelles ou le procureur de la République.
 
 Les frais occasionnés par ces mesures sont assimilés aux frais de justice prévus au 3° de l'article R. 93 du code de
 procédure pénale.
@@ -28418,7 +28466,7 @@ procédure pénale.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 2
 
 	**Cite**:
 
@@ -28428,18 +28476,18 @@ procédure pénale.
 ###### Article 1252-1
 
 S'il apparaît que la consistance des biens ne justifie pas l'apposition des scellés, le procureur de la République ou le juge
-des tutelles peuvent requérir du greffier en chef du tribunal d'instance, du commissaire de police, du commandant de la
-brigade de gendarmerie ou du maire, de dresser un état descriptif du mobilier et, si les lieux sont inoccupés, d'en assurer
-la clôture et d'en conserver les clés. 
+des tutelles peuvent requérir        de tout huissier de justice, du commissaire de police, du commandant de la brigade de
+gendarmerie ou du maire, de dresser un état descriptif du mobilier et, si les lieux sont inoccupés, d'en assurer la clôture
+et d'en conserver les clés. 
 
 Les clés sont restituées, contre récépissé, au majeur protégé dès son retour dans les lieux. Elles ne peuvent être remises à
 d'autres personnes qu'en vertu d'une autorisation du procureur de la République ou du juge des tutelles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 2
 
 
 ##### Sous-section 6 : La curatelle et la tutelle.
@@ -30576,39 +30624,26 @@ Les mesures de publicité prévues au paragraphe 2 s'appliquent également en ca
 
 #### Section I : Les mesures conservatoires prises après l'ouverture d'une succession
 
-##### Sous-section I : Les scellés
-
-##### Paragraphe 1 : L'apposition des scellés.
-
 ###### Article 1304
 
-L'apposition des scellés peut être demandée :
+Un huissier de justice peut accomplir les mesures conservatoires qui s'imposent après le décès d'une personne. Ces mesures
+conservatoires sont, selon la valeur des biens trouvés sur place, l'apposition des scellés ou l'état descriptif. 
 
-1° Par le conjoint ou le partenaire d'un pacte civil de solidarité ;
+Si les meubles sur place sont manifestement dénués de valeur marchande, l'huissier de justice dresse un procès-verbal de
+carence. 
 
-2° Par tous ceux qui prétendent avoir une vocation successorale ;
-
-3° Par l'exécuteur testamentaire ou le mandataire désigné pour l'administration de la succession ;
-
-4° Par le ministère public ;
-
-5° Par le propriétaire des lieux ;
-
-6° Par tout créancier muni d'un titre exécutoire ou d'une permission du juge ;
-
-7° En cas d'absence du conjoint ou des héritiers, ou s'il y a parmi les héritiers des mineurs non pourvus d'un représentant
-légal, par les personnes qui demeuraient avec le défunt, par le maire, le commissaire de police ou le commandant de la
-brigade de gendarmerie.
+Lorsqu'un inventaire a été dressé, aucune mesure conservatoire prévue par la présente section ne peut être ordonnée, à moins
+que celui-ci ne soit attaqué.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -30618,72 +30653,93 @@ brigade de gendarmerie.
 
 ###### Article 1305
 
-La décision est prise par le greffier en chef du tribunal d'instance du lieu où se trouvent les biens qui sont l'objet de la
-mesure sollicitée.
+Les mesures conservatoires peuvent être demandées : 
+
+1° Par le conjoint ou le partenaire d'un pacte civil de solidarité ; 
+
+2° Par tous ceux qui prétendent avoir une vocation successorale ; 
+
+3° Par l'exécuteur testamentaire ou le mandataire désigné pour l'administration de la succession ; 
+
+4° Par le ministère public ; 
+
+5° Par le propriétaire des lieux ; 
+
+6° Par tout créancier muni d'un titre exécutoire ou justifiant d'une créance apparaissant fondée en son principe ; 
+
+7° En cas d'absence du conjoint ou des héritiers, ou s'il y a parmi les héritiers des mineurs non pourvus d'un représentant
+légal, par les personnes qui demeuraient avec le défunt, par le maire, le commissaire de police ou le commandant de la
+brigade de gendarmerie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
 ###### Article 1306
 
-Le greffier en chef appose les scellés au moyen d'un sceau particulier qui reste entre ses mains et dont l'empreinte est
-déposée au greffe.
+La demande est portée devant le président du tribunal de grande instance dans le ressort duquel est ouverte la succession qui
+statue par ordonnance sur requête. Le ministère d'avocat n'est pas obligatoire. 
+
+La décision qui fait droit à la demande désigne un huissier de justice pour accomplir les diligences prévues à la présente
+section. Sous réserve des dispositions particulières en matière de frais de justice, le coût de la mesure est avancé par le
+demandeur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. R218 (V)
 
 
+##### Sous-section I : Les scellés
+
+##### Paragraphe 1 : L'apposition des scellés.
+
 ###### Article 1307
 
-L'apposition ne peut être pratiquée après achèvement de l'inventaire, à moins que celui-ci ne soit attaqué et qu'il n'en soit
-ainsi ordonné par le juge du tribunal d'instance.
+Le demandeur à la mesure est invité par l'huissier de justice à assister à l'apposition des scellés ou, s'il n'entend pas s'y
+rendre, à lui remettre les clés s'il les détient.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
 ###### Article 1308
 
-Le greffier en chef peut prendre toutes les dispositions nécessaires à l'apposition des scellés.
-
-Lorsque les locaux sont fermés, il peut y pénétrer par tous moyens ou apposer les scellés sur la porte si le requérant n'en
-demande pas l'ouverture.
+L'huissier de justice peut prendre toutes les dispositions nécessaires à l'apposition des scellés. Il appose les scellés au
+moyen de son sceau.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -30692,21 +30748,19 @@ demande pas l'ouverture.
 
 ###### Article 1309
 
-Le greffier en chef désigne un gardien des scellés si la consistance et la valeur apparente des biens le justifient.
+Lorsque les locaux sont fermés, l'huissier de justice peut apposer les scellés sur la porte si le requérant n'en demande pas
+l'ouverture. 
 
-Lorsque des personnes demeurent dans les lieux où est faite l'apposition, le gardien est choisi parmi ces personnes. 
-
-Le gardien ne peut être choisi parmi les membres du personnel du greffe.
+Dans le cas contraire, il peut y pénétrer par tous moyens, en présence du maire de la commune, d'un conseiller municipal ou
+d'un fonctionnaire municipal délégué par le maire à cette fin, d'une autorité de police ou de gendarmerie, requis pour
+assister au déroulement des opérations ou, à défaut, de deux témoins majeurs qui ne sont pas au service de l'huissier de
+justice et qui déclarent ne pas avoir de lien avec les personnes ayant une vocation successorale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -30714,36 +30768,45 @@ Le gardien ne peut être choisi parmi les membres du personnel du greffe.
 	  - Décret n°2016-230 du 26 février 2016 - art.
 	  - Code de procédure civile - art. 1323 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
+
 
 ###### Article 1310
 
-S'il est trouvé des papiers ou paquets fermés, ils sont placés dans un meuble sur lequel les scellés sont apposés.
+L'huissier de justice désigne un gardien des scellés si la consistance et la valeur apparente des biens le justifient. 
+
+Lorsque des personnes demeurent dans les lieux où est faite l'apposition, l'huissier de justice désigne le gardien parmi ces
+personnes. 
+
+L'huissier de justice doit recueillir l'acceptation de la personne qu'il établit gardien.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
 ###### Article 1311
 
-S'il est découvert un testament, le greffier en chef le paraphe avec les personnes présentes. Il le dépose ensuite entre les
-mains d'un notaire.
+S'il est découvert un testament, l'huissier de justice le paraphe avec les personnes présentes. Il le dépose ensuite entre
+les mains d'un notaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -30754,19 +30817,17 @@ mains d'un notaire.
 
 ###### Article 1312
 
-Le greffier en chef dépose soit au greffe, soit entre les mains d'un notaire ou d'un établissement bancaire les titres,
-sommes, valeurs, bijoux ou autres objets précieux pour lesquels l'apposition des scellés ne paraîtrait pas une précaution
-suffisante.
+S'il est trouvé des documents, ils sont placés, si nécessaire, dans un meuble sur lequel les scellés sont apposés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -30775,25 +30836,20 @@ suffisante.
 
 ###### Article 1313
 
-Si des papiers ou paquets fermés paraissent, par leur suscription ou quelque autre preuve écrite, appartenir à des tiers, le
-greffier en chef les dépose au greffe.
-
-Le juge du tribunal d'instance appelle ces tiers devant lui dans un délai qu'il fixe pour qu'ils puissent assister à
-l'ouverture.
-
-Si, lors de l'ouverture, il se révèle que les papiers ou paquets sont étrangers à la succession, il les remet aux intéressés.
-Si ceux-ci ne se présentent pas ou si les papiers ou paquets se rapportent à la succession, le juge en ordonne le dépôt, soit
-à son greffe, soit entre les mains d'un notaire.
+L'huissier de justice dépose entre les mains du notaire chargé du règlement de la succession, ou, s'il n'y en a pas, soit en
+son étude, soit entre les mains d'un établissement bancaire, les titres, sommes, valeurs, bijoux ou autres objets précieux
+pour lesquels l'apposition des scellés ne paraîtrait pas être une précaution suffisante. Il peut également consigner auprès
+de la Caisse des dépôts et consignations les valeurs en numéraire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -30802,34 +30858,23 @@ Si ceux-ci ne se présentent pas ou si les papiers ou paquets se rapportent à l
 
 ###### Article 1314
 
-Le procès-verbal d'apposition est signé et daté par le greffier en chef. Il comprend :
+Si des documents ou paquets fermés paraissent, par leur suscription ou quelque autre preuve écrite, appartenir à des tiers,
+l'huissier de justice les dépose en son étude et convoque ces tiers dans un délai qu'il fixe pour qu'ils puissent assister à
+l'ouverture. 
 
-1° Les motifs de l'apposition ;
-
-2° Les nom et adresse du ou des requérants et la qualité en laquelle ils ont demandé l'apposition ;
-
-3° Une relation sommaire des déclarations des personnes présentes et des suites qui, le cas échéant, leur ont été réservées ;
-
-4° La désignation des lieux et des meubles meublants sur lesquels les scellés ont été apposés ;
-
-5° Une description sommaire des objets qui ne sont pas mis sous scellés ;
-
-6° L'indication des dispositions prises pour assurer la conservation des locaux et des biens et la sauvegarde des animaux
-domestiques ;
-
-7° La mention des formalités accomplies, s'il y a lieu, en application des articles 1310 à 1313 ;
-
-8° Le cas échéant, la désignation du gardien établi.
+Si, lors de l'ouverture, il se révèle que les documents ou paquets sont étrangers à la succession, l'huissier les remet aux
+intéressés. Si ceux-ci ne se présentent pas ou si les documents ou paquets se rapportent à la succession, l'huissier de
+justice les dépose entre les mains du notaire chargé du règlement de la succession, ou, s'il n'y en a pas, les conserve.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cite**:
 
@@ -30838,38 +30883,58 @@ domestiques ;
 
 ###### Article 1315
 
-S'il n'y a aucun effet mobilier, le greffier en chef dresse un procès-verbal de carence.
+Le procès-verbal d'apposition des scellés est signé et daté par l'huissier de justice. Il comprend : 
 
-S'il y a des effets nécessaires à l'usage des personnes qui restent dans les lieux, ou sur lesquels les scellés ne peuvent
-être mis, le greffier en dresse un état descriptif.
+1° Le rappel de la décision en vertu de laquelle l'huissier de justice opère ; 
+
+2° Une relation sommaire des déclarations des personnes présentes et des suites qui, le cas échéant, leur ont été
+réservées ; 
+
+3° La désignation des lieux et des meubles meublants sur lesquels les scellés ont été apposés ; 
+
+4° Une description sommaire des objets qui ne sont pas mis sous scellés ; 
+
+5° L'indication des dispositions prises pour assurer la conservation des locaux et des biens et la sauvegarde des animaux
+domestiques ; 
+
+6° La mention des formalités accomplies, s'il y a lieu, en application des articles 1311 à 1314 ; 
+
+7° L'indication des nom, prénom et qualité des personnes qui ont assisté aux opérations, lesquelles doivent apposer leur
+signature sur l'original ; en cas de refus, il en est fait mention dans l'acte ; 
+
+8° Le cas échéant, la désignation du gardien établi et la mention de son acceptation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1311
 
 
 ##### Paragraphe 2 : La levée des scellés.
 
 ###### Article 1316
 
-La levée des scellés peut être requise par les personnes ayant qualité pour en demander l'apposition, et par le service des
-domaines lorsqu'il a été chargé de gérer la succession.
+La levée des scellés peut être requise par les personnes ayant qualité pour en demander l'apposition, et par l'administration
+chargée des domaines lorsqu'elle a été chargée de gérer la succession.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -30878,87 +30943,91 @@ domaines lorsqu'il a été chargé de gérer la succession.
 
 ###### Article 1317
 
-Le requérant présente au greffier en chef une liste des personnes qui doivent être appelées à la levée des scellés,
-comprenant celles qui avaient requis l'apposition, les successibles connus ou le service des domaines désigné pour gérer la
-succession, et le cas échéant, l'exécuteur testamentaire.
+Le requérant présente à l'huissier de justice une liste des personnes qui doivent être appelées à la levée des scellés,
+comprenant celles qui avaient requis l'apposition et les personnes devant être appelées à l'inventaire en application de
+l'article 1329, ainsi que, le cas échéant, l'administration chargée des domaines. 
 
-Le greffier en chef fixe le jour et l'heure où il sera procédé à la levée des scellés.
+L'huissier de justice fixe le jour et l'heure où il sera procédé à la levée des scellés. 
 
-A moins que les personnes devant assister à la levée des scellés ne l'en aient expressément dispensé, le requérant les somme,
-par lettre recommandée avec demande d'avis de réception ou par acte d'huissier de justice, d'assister aux opérations de levée
-des scellés. Dans ce cas, il ne peut être procédé à ces opérations que s'il est justifié que les sommations ont été reçues
-huit jours avant la date fixée pour la levée des scellés.
+Les personnes concernées sont appelées à assister à la levée des scellés par l'huissier de justice, dans les conditions
+prévues au dernier alinéa de l'article 1329.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 1329
+
 
 ###### Article 1318
 
-Le greffier en chef donne avis de la levée des scellés aux personnes qui par déclaration écrite et motivée au greffe ont
-demandé à y assister.
+L'huissier de justice donne avis de la levée des scellés aux personnes qui par déclaration écrite et motivée en son étude ou
+au greffe ont demandé à y assister.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
 ###### Article 1319
 
 Les scellés peuvent être levés sans inventaire lorsque toutes les parties appelées sont présentes ou représentées et ne
-s'opposent pas à ce qu'il soit ainsi procédé.
+s'opposent pas à ce qu'il soit ainsi procédé. 
 
-Dans le cas contraire, il est dressé un inventaire qui peut être établi même si certaines parties ne comparaissent pas, dès
-lors qu'elles ont été dûment appelées. Le conjoint commun en biens, les héritiers, l'exécuteur testamentaire et les
-légataires universels ou à titre universel peuvent convenir du choix d'un ou deux notaires, commissaires-priseurs judiciaires
-ou experts. S'ils n'en conviennent pas, ou ne sont pas présents ni représentés, il est procédé par un ou deux notaires,
-commissaires-priseurs judiciaires ou experts nommés par le juge du tribunal d'instance.
+Dans le cas contraire, il est dressé un inventaire par l'huissier de justice, dans les conditions prévues à la section 2, à
+moins que les personnes ayant qualité pour être appelées à l'inventaire conviennent de choisir un autre officier public et
+ministériel ou que la désignation en soit faite conformément à l'article 1333.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2001-650 du 19 juillet 2001 - art. 76 (Ab) JORF 21 juillet 2001 en vigueur le 1er octobre 2001
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 1333
+
 
 ###### Article 1320
 
-Le procès-verbal de levée des scellés est daté et signé par le greffier en chef. Il comprend :
+Le procès-verbal de levée des scellés est daté et signé par l'huissier de justice. Il comprend : 
 
-1° La mention de la demande de levée et de la décision du greffier en chef fixant le jour et l'heure de la levée ;
+1° La mention de la demande de levée et de la fixation par l'huissier de justice du jour et de l'heure de la levée ; 
 
-2° Les nom et adresse du ou des requérants ;
+2° Les nom et adresse du ou des requérants ; 
 
-3° Les nom et adresse des parties présentes, représentées ou appelées ;
+3° Les nom et adresse des parties présentes, représentées ou appelées ; 
 
-4° La reconnaissance des scellés s'ils sont sains et entiers, ou s'ils ne le sont pas, l'état des altérations ;
+4° La reconnaissance des scellés s'ils sont sains et entiers ou, s'ils ne le sont pas, l'état des altérations ; 
 
-5° Les observations des requérants et des comparants et les suites qui, le cas échéant, leur ont été réservées ;
+5° Les observations des requérants et des comparants et les suites qui, le cas échéant, leur ont été réservées ; 
 
 6° L'indication de l'auteur de l'inventaire.
 
@@ -30966,11 +31035,11 @@ Le procès-verbal de levée des scellés est daté et signé par le greffier en 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -30986,19 +31055,19 @@ chaque vacation.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
 ###### Article 1322
 
-En cas de nécessité, le greffier en chef peut procéder à une levée provisoire des scellés, lesquels devront être ensuite
-réapposés aussitôt qu'aura été accomplie l'opération qui avait rendu cette levée nécessaire.
+En cas de nécessité, l'huissier de justice peut procéder à une levée provisoire des scellés, lesquels devront être ensuite
+réapposés aussitôt qu'aura été accomplie l'opération qui avait rendu cette levée nécessaire. 
 
-Le greffier dresse procès-verbal de ses diligences.
+L'huissier de justice dresse procès-verbal de ses diligences. 
 
 La levée provisoire suivie de réapposition immédiate n'est pas soumise aux dispositions des articles 1316 à 1321.
 
@@ -31006,143 +31075,134 @@ La levée provisoire suivie de réapposition immédiate n'est pas soumise aux di
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1316
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1324 (V)
 
-	**Cite**:
 
-	  - Nouveau code de procédure civile 1316 à 1321
-
-
-##### Sous-section II : Autres mesures conservatoires.
+##### Sous-section II :  L'état descriptif
 
 ###### Article 1323
 
-Lorsqu'il apparaît que la consistance des biens ne justifie pas une apposition des scellés, le greffier en chef compétent
-pour celle-ci dresse un état descriptif du mobilier ; à défaut d'héritier présent, il assure la clôture des lieux si ceux-ci
-sont inoccupés et dépose les clés au greffe.
+Lorsqu'il apparaît que la consistance des biens laissés sur place après distraction des objets précieux en application des
+dispositions de l'article 1313 ne justifie pas une apposition des scellés, l'huissier de justice compétent pour celle-ci
+dresse un état descriptif du mobilier ; à défaut d'héritier présent, il assure la clôture des lieux si ceux-ci sont inoccupés
+et conserve les clés. Les dispositions des articles 1309, 1311, 1313 et 1314 sont applicables. 
+
+S'il y a des effets nécessaires à l'usage des personnes qui restent dans les lieux, ou sur lesquels les scellés ne peuvent
+être apposés, l'huissier de justice en dresse un état descriptif. 
 
 Tout héritier peut obtenir la remise des clés en donnant décharge des meubles sur l'état descriptif, après en avoir reconnu
-la consistance en présence du greffier en chef. Dans les mêmes conditions, les clés peuvent être remises, sur permission du
-juge du tribunal d'instance, à un légataire universel ayant la saisine et la possession de la succession.
+la consistance en présence de l'huissier de justice. Dans les mêmes conditions, les clés peuvent être remises, sur permission
+du président du tribunal de grande instance, à un légataire universel ayant la saisine et la possession de la succession. 
 
-Le service des domaines peut également demander la remise des clés, dans les cas où il a été désigné pour gérer la
-succession.
+L'administration chargée des domaines peut également demander la remise des clés, dans les cas où elle a été désignée pour
+administrer la succession.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 1309
+	  - Code de procédure civile - art. 1311
+	  - Code de procédure civile - art. 1313
+
+
+##### Sous-section III : Dispositions communes.
 
 ###### Article 1324
 
-Un mois après le décès, lorsqu'il n'y a pas de successible connu et si le contrat de location a pris fin, le juge du tribunal
-d'instance peut autoriser le propriétaire des locaux sur lesquels ont été apposés des scellés ou dans lesquels a été dressé
-un état descriptif, à faire enlever les meubles et à les faire soit déposer dans un autre lieu, soit cantonner dans une
-partie du local qui était occupé par le défunt. Les frais d'enlèvement et de conservation des meubles sont avancés par le
-propriétaire.
+Lorsqu'il n'y a pas de successible connu et si le contrat de location a pris fin, le président du tribunal de grande instance
+ou son délégué peut autoriser le propriétaire des locaux à faire enlever les meubles et à les faire soit déposer dans un
+autre lieu, soit cantonner dans une partie du local qui était occupé par le défunt. Les frais d'enlèvement et de conservation
+des meubles sont avancés par le propriétaire. 
 
-Le greffier en chef assiste au déplacement des meubles et dresse procès-verbal des opérations.
+L'huissier de justice assiste au déplacement des meubles et dresse procès-verbal des opérations. 
 
-Si des scellés avaient été apposés, il les lève puis les réappose sur les lieux dans lesquels le juge a autorisé le dépôt ou
-le cantonnement des meubles.
+Si des scellés avaient été apposés, il les lève puis les réappose sur les lieux dans lesquels les meubles sont déposés ou
+cantonnés, dans les conditions prévues à l'article 1322. 
 
-Lorsqu'il avait été dressé un état descriptif, le greffier en chef assure la clôture des lieux où sont déposés ou cantonnés
-les meubles et il conserve les clés au greffe.
+Lorsqu'il avait été dressé un état descriptif, l'huissier de justice assure la clôture des lieux où sont déposés ou cantonnés
+les meubles et il conserve les clés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 	  - Décret n°2016-230 du 26 février 2016 - art.
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 1322
+
 
 ###### Article 1325
 
-Les dispositions des articles 1307, 1308 et 1311 à 1313 sont applicables aux mesures conservatoires prévues à la présente
-sous-section.
+S'il survient des difficultés relatives aux mesures prévues à la présente section, les parties ou l'huissier de justice
+peuvent en saisir le président du tribunal de grande instance par simple requête. Le ministère d'avocat n'est pas
+obligatoire. 
+
+Si une contestation oppose les parties entre elles, le président du tribunal de grande instance est saisi par la partie la
+plus diligente. La contestation est formée, instruite et jugée dans la forme des référés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1324 (V)
 
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1307, 1308 et 1311 à 1313
-
-
-##### Sous-section III : Dispositions communes.
 
 ###### Article 1326
 
-En cas d'empêchement, le greffier en chef peut donner délégation, pour toutes les mesures prévues à la présente section, à un
-greffier de son tribunal.
+Les dispositions de la présente section s'appliquent à l'apposition des scellés ordonnée en matière civile en application
+d'une disposition particulière, sauf incompatibilité avec la matière considérée ou disposition contraire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
-
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
-
-
-###### Article 1327
-
-S'il survient des difficultés relatives aux mesures prévues à la présente section, les parties ou le greffier en chef peuvent
-en saisir le juge du tribunal d'instance par simple requête.
-
-Si une contestation oppose les parties entre elles, le juge du tribunal d'instance est saisi en référé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
@@ -33893,54 +33953,6 @@ abrogé sauf pour son application à Wallis et Futuna.
 
 # Livre IV : L'arbitrage.
 
-## Titre Ier : Les conventions d'arbitrage.
-
-### Chapitre Ier : La clause compromissoire.
-
-### Chapitre V : L'exequatur
-
-###### Article 1487
-
-La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal de
-grande instance dans le ressort duquel cette sentence a été rendue. 
-
-La procédure relative à la demande d'exequatur n'est pas contradictoire. 
-
-La requête est déposée par la partie la plus diligente au greffe de la juridiction accompagnée de l'original de la sentence
-et d'un exemplaire de la convention d'arbitrage ou de leurs copies réunissant les conditions requises pour leur
-authenticité. 
-
-L'exequatur est apposé sur l'original ou, si celui-ci n'est pas produit, sur la copie de la sentence arbitrale répondant aux
-conditions prévues à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
-
-
-###### Article 1488
-
-L'exequatur ne peut être accordé si la sentence est manifestement contraire à l'ordre public. 
-
-L'ordonnance qui refuse l'exequatur est motivée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
-
-
 ## Titre Ier : L'arbitrage interne.
 
 ### Chapitre Ier : La convention d'arbitrage.
@@ -34894,6 +34906,48 @@ postérieurement au 1er mai 2011.
 
 ### Chapitre V : L'exequatur
 
+###### Article 1487
+
+La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal de
+grande instance dans le ressort duquel cette sentence a été rendue. 
+
+La procédure relative à la demande d'exequatur n'est pas contradictoire. 
+
+La requête est déposée par la partie la plus diligente au greffe de la juridiction accompagnée de l'original de la sentence
+et d'un exemplaire de la convention d'arbitrage ou de leurs copies réunissant les conditions requises pour leur
+authenticité. 
+
+L'exequatur est apposé sur l'original ou, si celui-ci n'est pas produit, sur la copie de la sentence arbitrale répondant aux
+conditions prévues à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
+###### Article 1488
+
+L'exequatur ne peut être accordé si la sentence est manifestement contraire à l'ordre public. 
+
+L'ordonnance qui refuse l'exequatur est motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+
 ### Chapitre VI : Les voies de recours
 
 #### Section 1 : L'appel
@@ -35204,7 +35258,128 @@ La sentence arbitrale n'est pas susceptible d'opposition et de pourvoi en cassat
 	  - Nouveau code de procédure civile 1501 et 1502
 
 
-## Titre II : L'instance arbitrale.
+## Titre II : L'arbitrage international
+
+###### Article 1504
+
+Est international l'arbitrage qui met en cause des intérêts du commerce international.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1502
+
+
+###### Article 1505
+
+En matière d'arbitrage international, le juge d'appui de la procédure arbitrale est, sauf clause contraire, le président du
+tribunal de grande instance de Paris lorsque : 
+
+1° L'arbitrage se déroule en France ; ou 
+
+2° Les parties sont convenues de soumettre l'arbitrage à la loi de procédure française ; ou 
+
+3° Les parties ont expressément donné compétence aux juridictions étatiques françaises pour connaître des différends relatifs
+à la procédure arbitrale ; ou 
+
+4° L'une des parties est exposée à un risque de déni de justice.
+
+**Nota:**
+
+Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Les dispositions du 2° et du 3° s'appliquent lorsque la convention
+d'arbitrage a été conclue après le 1er mai 2011.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1504
+
+
+###### Article 1506
+
+A moins que les parties en soient convenues autrement et sous réserve des dispositions du présent titre, s'appliquent à
+l'arbitrage international les articles : 
+
+1° 1446, 1447, 1448 (alinéas 1 et 2) et 1449, relatifs à la convention d'arbitrage ; 
+
+2° 1452 à 1458 et 1460, relatifs à la constitution du tribunal arbitral et à la procédure applicable devant le juge
+d'appui ; 
+
+3° 1462, 1463 (alinéa 2), 1464 (alinéa 3), 1465 à 1470 et 1472 relatifs à l'instance arbitrale ; 
+
+4° 1479, 1481, 1482, 1484 (alinéas 1 et 2), 1485 (alinéas 1 et 2) et 1486 relatifs à la sentence arbitrale ; 
+
+5° 1502 (alinéas 1 et 2) et 1503 relatifs aux voies de recours autres que l'appel et le recours en annulation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1501, 1502 et 1504
+
+
+### Chapitre Ier : La convention d'arbitrage international
+
+###### Article 1507
+
+La convention d'arbitrage n'est soumise à aucune condition de forme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 1487 et 1490
+
+
+###### Article 1508
+
+La convention d'arbitrage peut, directement ou par référence à un règlement d'arbitrage ou à des règles de procédure,
+désigner le ou les arbitres ou prévoir les modalités de leur désignation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+
 
 ### Chapitre II : L'instance et la sentence arbitrales
 
@@ -35561,135 +35736,6 @@ qui ne sont pas atteintes par la censure de la cour.
 
 	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
-
-## Titre II : L'arbitrage international
-
-###### Article 1504
-
-Est international l'arbitrage qui met en cause des intérêts du commerce international.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1502
-
-
-###### Article 1505
-
-En matière d'arbitrage international, le juge d'appui de la procédure arbitrale est, sauf clause contraire, le président du
-tribunal de grande instance de Paris lorsque : 
-
-1° L'arbitrage se déroule en France ; ou 
-
-2° Les parties sont convenues de soumettre l'arbitrage à la loi de procédure française ; ou 
-
-3° Les parties ont expressément donné compétence aux juridictions étatiques françaises pour connaître des différends relatifs
-à la procédure arbitrale ; ou 
-
-4° L'une des parties est exposée à un risque de déni de justice.
-
-**Nota:**
-
-Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Les dispositions du 2° et du 3° s'appliquent lorsque la convention
-d'arbitrage a été conclue après le 1er mai 2011.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1504
-
-
-###### Article 1506
-
-A moins que les parties en soient convenues autrement et sous réserve des dispositions du présent titre, s'appliquent à
-l'arbitrage international les articles : 
-
-1° 1446, 1447, 1448 (alinéas 1 et 2) et 1449, relatifs à la convention d'arbitrage ; 
-
-2° 1452 à 1458 et 1460, relatifs à la constitution du tribunal arbitral et à la procédure applicable devant le juge
-d'appui ; 
-
-3° 1462, 1463 (alinéa 2), 1464 (alinéa 3), 1465 à 1470 et 1472 relatifs à l'instance arbitrale ; 
-
-4° 1479, 1481, 1482, 1484 (alinéas 1 et 2), 1485 (alinéas 1 et 2) et 1486 relatifs à la sentence arbitrale ; 
-
-5° 1502 (alinéas 1 et 2) et 1503 relatifs aux voies de recours autres que l'appel et le recours en annulation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1501, 1502 et 1504
-
-
-### Chapitre Ier : La convention d'arbitrage international
-
-###### Article 1507
-
-La convention d'arbitrage n'est soumise à aucune condition de forme.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1487 et 1490
-
-
-###### Article 1508
-
-La convention d'arbitrage peut, directement ou par référence à un règlement d'arbitrage ou à des règles de procédure,
-désigner le ou les arbitres ou prévoir les modalités de leur désignation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
-
-
-### Chapitre II : L'instance et la sentence arbitrales
-
-### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international
-
-### Chapitre IV : Les voies de recours
 
 # Livre VI : Dispositions relatives à l'outre-mer.
 
@@ -36098,10 +36144,27 @@ sous administration légale, une copie de cette décision doit, d'office, être 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article ANNEXE, art. 14-1
+
+Les dispositions du code de procédure civile relatives aux mesures conservatoires prises après l'ouverture d'une succession
+sont applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, concurremment avec les dispositions
+prévues aux articles 15 à 17 de la présente annexe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 8
+
+	**Cite**:
+
+	  - Code de procédure civile - art. ANNEXE, art. 15
+
+
 ###### Article ANNEXE, art. 15
 
-Le tribunal d'instance peut déléguer un notaire pour apposer et lever des scellés ; il peut le charger de faire un
-inventaire.
+Le tribunal d'instance peut également désigner un notaire pour apposer et lever des scellés ; il peut le charger de faire un
+inventaire. 
 
 Les héritiers intéressés doivent être appelés à ces opérations s'il n'en résulte aucun retard. Lorsque ces mesures ont été
 prises en l'absence d'un intéressé, le tribunal d'instance doit l'en aviser dès que possible.
@@ -36110,7 +36173,11 @@ prises en l'absence d'un intéressé, le tribunal d'instance doit l'en aviser d�
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-1043 du 1er septembre 2011 - art. 8
 
 	**Cité par**:
 
