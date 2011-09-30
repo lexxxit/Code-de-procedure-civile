@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-09-03
+Version Consolidée au 2011-10-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -1415,26 +1415,198 @@ Le juge est saisi par la remise de la requête au secrétariat de la juridiction
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+#### Section III : Dispositions relatives à la contribution pour l'aide juridique
+
+
 ###### Article 62
 
-Devant le tribunal d'instance, la demande peut également être formée et le tribunal saisi par déclaration verbale enregistrée
-au greffe de la juridiction.
+A peine d'irrecevabilité, les demandes initiales sont assujetties au paiement de la contribution pour l'aide juridique prévue
+par l'article 1635 bis Q du code général des impôts.
+
+La contribution pour l'aide juridique n'est pas due, outre les exceptions prévues par cet article pour les procédures pour
+lesquelles une disposition législative prévoit que la demande est formée, instruite ou jugée sans frais.
+
+En application du III de l'article 1635 bis Q, la contribution pour l'aide juridique n'est pas due :
+
+1° Pour les recours formés contre une décision d'une juridiction mentionnée au 3° de ce III ;
+
+2° Pour les procédures engagées par le ministère public.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 818 (Ab)
 	  - Code de procédure civile - art. 963 (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 326 quater (Ab)
+
+
+###### Article 62-1
+
+En application du IV de l'article 1635 bis Q, la contribution pour l'aide juridique n'est pas due lorsque la demande : 
+
+1° Est formée à la suite d'une décision d'incompétence ; 
+
+2° A donné lieu à une précédente instance éteinte à titre principal par l'effet de la péremption, du désistement d'instance
+ou de la caducité de la citation ; 
+
+3° Tend à la modification, la rétractation ou la contestation d'une ordonnance rendue sur requête ; 
+
+4° Est consécutive à une mesure d'instruction ordonnée en référé ou sur requête ; 
+
+5° Constitue un recours formé à la suite d'une ordonnance ayant relevé son auteur de la forclusion résultant de l'expiration
+du délai de recours ; 
+
+6° Tend à l'interprétation, la rectification ou le complément d'une précédente décision, en application des articles 461 à
+463 ; 
+
+7° Porte sur la contestation, devant le président de la juridiction, de la vérification par le secrétariat de la juridiction
+des dépens dus au titre d'une instance ; 
+
+8° Est soumise à une juridiction de renvoi après cassation. 
+
+Dans les cas aux 1° à 6°, la partie justifie de la décision ayant mis fin à la précédente instance lors de la nouvelle
+saisine.
+
+**Nota:**
+
+Conformément à l'article 21 II du décret n° 2011-1202 du 28 septembre 2011, ces dispositions sont applicables aux instances
+introduites à compter du premier jour du mois suivant la publication dudit décret, c'est-à-dire à compter du 1er octobre 2011
+sous réserve des dispositions prévues à ce même II de l'article 21.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
+	  - Code de procédure civile - art. 461
+
+
+###### Article 62-2
+
+Ne constituent pas une instance au sens de l'article 1635 bis Q du code général des impôts et ne donnent lieu à aucune
+contribution pour l'aide juridique :
+
+1° Les procédures soumises au procureur de la République, au greffier en chef ou au secrétariat d'une juridiction ;
+
+2° Les procédures aux seules fins de conciliation, de certificat, d'acte de notoriété, de recueil de consentement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
+
+
+###### Article 62-3
+
+La demande incidente faite dans les formes prévues pour l'introduction de l'instance ou par assignation n'est pas soumise à
+la contribution pour l'aide juridique. Son auteur désigne l'instance principale à laquelle elle se rattache.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
+
+
+###### Article 62-4
+
+La personne, redevable de la contribution pour l'aide juridique, justifie de son acquittement, lors de la saisine du juge,
+par l'apposition de timbres mobiles ou la remise d'un justificatif lorsque la contribution a été acquittée par voie
+électronique, sauf si elle a sollicité le bénéfice de l'aide juridictionnelle. Dans ce cas, elle joint la décision accordant
+cette aide à l'acte de saisine. A défaut de décision rendue sur la demande d'aide juridictionnelle, la saisine est
+accompagnée de la copie de cette demande.
+
+Si cette demande d'aide juridictionnelle est déclarée caduque ou rejetée, ou que la décision l'octroyant est retirée, le
+demandeur justifie de l'acquittement de la contribution pour l'aide juridique dans le mois suivant, selon le cas, la
+notification de la caducité ou la date à laquelle le rejet ou le retrait est devenu définitif.
+
+**Nota:**
+
+Conformément à l'article 21 II du décret n° 2011-1202 du 28 septembre 2011, ces dispositions sont applicables aux instances
+introduites à compter du premier jour du mois suivant la publication dudit décret, c'est-à-dire à compter du 1er octobre 2011
+sous réserve des dispositions prévues à ce même II de l'article 21.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 50 (V)
+	  - Code de procédure civile - art. 964-1 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
+
+
+###### Article 62-5
+
+L'irrecevabilité est constatée d'office par le juge. Les parties n'ont pas qualité pour soulever cette irrecevabilité. Elles
+sont avisées de la décision par le greffe.
+
+A moins que les parties aient été convoquées ou citées à comparaître à une audience, le juge peut statuer sans débat, après
+avoir sollicité les observations écrites du demandeur. Toutefois, le juge n'est pas tenu de recueillir ces observations
+lorsque le demandeur est représenté par un avocat ou qu'il a été informé de l'irrecevabilité encourue dans un acte
+antérieurement notifié.
+
+En cas d'erreur, le juge, saisi dans un délai de quinze jours suivant sa décision, rapporte l'irrecevabilité, sans débat. Le
+délai de recours contre la décision d'irrecevabilité court à compter de la notification de la décision qui refuse de la
+rapporter.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 964 (VD)
 
 
 ### Chapitre II : Les demandes incidentes.
@@ -13099,15 +13271,24 @@ de pourvoi en cassation dans le cas où l'une de ces voies de recours est ouvert
 recours peut être exercé ; il indique, en outre, que l'auteur d'un recours abusif ou dilatoire peut être condamné à une
 amende civile et au paiement d'une indemnité à l'autre partie.
 
+Lorsque le recours peut être formé sans le ministère d'un avoué ou d'un avocat et est assujetti à l'acquittement de la
+contribution pour l'aide juridique, l'acte de notification rappelle cette exigence, ainsi que l'irrecevabilité encourue en
+cas de non-respect et les modalités selon lesquelles la partie non représentée doit justifier de cet acquittement.
+
+**Nota:**
+
+Conformément à l'article 21 I du décret n° 2011-1202 du 28 septembre 2011, les présentes dispositions ne sont pas applicables
+à la notification des décisions rendues avant le 1er octobre 2011.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 29 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -16164,27 +16345,46 @@ celle-ci est antérieure à la saisine du tribunal, avec la remise de la copie d
 	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Chapitre II : Mesures d'administration judiciaire.
+#### Chapitre Ier bis : Contribution pour l'aide juridique
 
 ###### Article 818
 
-Plusieurs juges peuvent être chargés de la mise en état dans une même chambre ; dans ce cas, les affaires sont réparties
-entre eux par le président de la chambre.
+Sont compétents pour prononcer l'irrecevabilité de la demande en application des articles 62 à 62-5 :
+
+- le président du tribunal ;
+
+- le président de la chambre à laquelle l'affaire est distribuée ;
+
+- le juge de la mise en état jusqu'à la clôture de l'instruction ;
+
+- la formation de jugement. 
+
+Ils statuent, le cas échéant, sur les demandes fondées sur l'article 700. 
+
+Même lorsqu'elle n'émane pas de la juridiction de jugement, la décision peut faire l'objet du recours ouvert contre les
+décisions de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 4
 
 	**Abrogé par**:
 
-	  - Décret n°2008-522 du 2 juin 2008 - art. 9
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R213-7 (V)
+	  - Code de procédure civile - art. 62
+	  - Code de procédure civile - art. 700
 
+
+#### Chapitre II : Mesures d'administration judiciaire.
 
 ###### Article 820
 
@@ -20179,24 +20379,34 @@ celle-ci est antérieure à la saisine de la cour, en même temps que la remise 
 	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Chapitre II : Mesures d'administration judiciaire.
+#### Chapitre Ier bis : Justification de l'acquittement des contributions et droits fiscaux
 
 ###### Article 963
 
-La désignation des magistrats chargés de la mise en état est faite selon les modalités fixées pour la répartition des
-conseillers entre les diverses chambres de la cour.
+Sont compétents pour prononcer l'irrecevabilité de l'appel en application des articles 62 à 62-5 :
 
-Le premier président et les présidents de chambre peuvent exercer eux-mêmes cette fonction.
+- le premier président ;
+
+- le président de la chambre à laquelle l'affaire est distribuée ;
+
+- selon le cas, le conseiller de la mise en état jusqu'à la clôture de l'instruction ou le magistrat chargé d'instruire
+l'affaire jusqu'à l'audience prévue pour les débats ;
+
+- la formation de jugement. 
+
+Ils statuent, le cas échéant, sur les demandes fondées sur l'article 700. 
+
+La décision d'irrecevabilité prononcée par le conseiller de la mise en état ou le magistrat chargé d'instruire l'affaire peut
+être déférée à la cour dans les conditions respectivement prévues par les articles 916 et 945. 
+
+Lorsqu'elle émane du premier président ou du président de la chambre, la décision peut faire l'objet du recours ouvert contre
+les décisions de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 9
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -20206,10 +20416,35 @@ Le premier président et les présidents de chambre peuvent exercer eux-mêmes c
 	  - Code de procédure civile - art. 964 (VD)
 	  - Code de procédure civile - art. 964-1 (V)
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-6 (V)
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 5
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 62
+	  - Code de procédure civile - art. 700
+	  - Code de procédure civile - art. 916
+
+
+###### Article 964-1
+
+Par exception à l'article 62-4 et à l'article 964, en matière gracieuse, l'appelant justifie de l'acquittement du droit sur
+demande du greffe de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 62-4
+	  - Code de procédure civile - art. 964
+
+
+#### Chapitre II : Mesures d'administration judiciaire.
 
 ###### Article 964
 
@@ -21626,6 +21861,29 @@ connaissance des parties qui ne sont pas assistées ou représentées par un avo
 	**Modifié par**:
 
 	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1022-2
+
+Le demandeur justifie de l'acquittement de la contribution pour l'aide juridique au plus tard au moment de la remise de son
+mémoire. L'irrecevabilité du pourvoi est prononcée soit par ordonnance du premier président, de son délégué ou du président
+de la chambre à laquelle l'affaire a été distribuée, soit par arrêt.
+
+**Nota:**
+
+Conformément à l'article 21 II du décret n° 2011-1202 du 28 septembre 2011, ces dispositions sont applicables aux instances
+introduites à compter du premier jour du mois suivant la publication dudit décret c'est-à-dire à compter du 1er octobre 2011
+sous les réserves mentionnées au même II de l'article 21.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
 
 
 ### Chapitre V : Dispositions diverses
@@ -23910,16 +24168,17 @@ toutes ses dispositions sont caduques, y compris l'autorisation d'introduire l'i
 Sous réserve des règles édictées par les deux premières sections du présent chapitre, l'instance est formée, instruite et
 jugée selon la procédure en matière contentieuse applicable devant le tribunal de grande instance.
 
+La contribution pour l'aide juridique n'est pas due.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 7
 
 
 ###### Article 1115
@@ -33278,6 +33537,33 @@ La procédure de réexamen dans des cas exceptionnels est régie par les article
 
 #### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.
 
+#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer      européenne.
+
+###### Article 1424-16
+
+Le requérant justifie de l'acquittement de la contribution prévue par l'article 1635 bis Q du code général des impôts, selon
+le cas, lors de la demande d'apposition de la formule exécutoire sur l'ordonnance portant injonction de payer, lors de
+l'envoi à la juridiction de la copie de la signification de l'ordonnance portant injonction de payer européenne ou, en cas
+d'opposition antérieure, dans le mois suivant la convocation adressée au créancier par le greffe de la juridiction. A défaut,
+l'ordonnance portant injonction de payer est non avenue.
+
+Il n'est pas dû de nouvelle contribution en cas d'opposition à l'injonction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 8
+
+	**Abrogé par**:
+
+	  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
+
+
 ###### Article 1425
 
 Devant le tribunal de commerce, les frais de la procédure sont avancés par le demandeur et consignés au greffe au plus tard
@@ -33524,17 +33810,18 @@ l'article 97.
 ###### Article 1425-9
 
 Si le juge rejette la requête, la décision est sans recours pour le requérant, sauf à celui-ci à procéder selon les voies de
-droit commun. La requête et les documents produits sont restitués au requérant.
+droit commun. La requête et les documents produits sont restitués au requérant. Il n'est pas dû de nouvelle contribution pour
+l'aide juridique par le requérant qui justifie l'avoir acquittée au titre de sa requête en injonction de faire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2011-1202 du 28 septembre 2011 - art. 8
 
 	**Liens**:
 
