@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-10-01
+Version Consolidée au 2011-11-11
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -28797,6 +28797,28 @@ dossier du tribunal par la personne chargée de cette mission.
 	  - Code civil
 
 
+###### Article 1254-1
+
+Pour l'application de l'article 511 du code civil, lorsque les ressources de la personne protégée le permettent et que le
+greffier en chef l'estime utile, ce dernier peut solliciter, aux frais de la personne protégée, l'assistance d'un huissier de
+justice dans sa mission de vérification des comptes. La personne protégée et la personne désignée pour exercer la mesure de
+protection en sont informées par tout moyen ; ceux-ci peuvent déférer cette décision au juge des tutelles, qui statue sur la
+requête par une ordonnance non susceptible de recours. L'huissier de justice peut consulter l'ensemble des pièces relatives
+aux comptes figurant dans le dossier de la personne protégée, au greffe de la juridiction qui le détient, sans autre
+restriction que les nécessités du service, et en conserver les copies nécessaires à l'exécution de sa mission, mais ne peut
+les communiquer à un tiers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1470 du 8 novembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 511
+
+
 ##### Paragraphe 2 : Dispositions relatives aux majeurs.
 
 ###### Article 1255
@@ -33534,8 +33556,6 @@ La procédure de réexamen dans des cas exceptionnels est régie par les article
 
 	  - Code de procédure civile - art. 1424-8
 
-
-#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.
 
 #### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer      européenne.
 
