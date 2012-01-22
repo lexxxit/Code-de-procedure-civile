@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-23
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -62,20 +62,20 @@ durée, à la demande du médiateur.
 
 ###### Article 131-4
 
-La médiation peut être confiée à une personne physique ou à une association.
+La médiation peut être confiée à une personne physique ou à une personne morale. 
 
-Si le médiateur désigné est une association, son représentant légal soumet à l'agrément du juge le nom de la ou des personnes
-physiques qui assureront, au sein de celle-ci et en son nom, l'exécution de la mesure.
+Si le médiateur désigné est une personne morale, son représentant légal soumet à l'agrément du juge le nom de la ou des
+personnes physiques qui assureront, au sein de celle-ci et en son nom, l'exécution de la mesure.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 3
 
 
 ###### Article 131-5
@@ -234,28 +234,31 @@ Le juge homologue à la demande des parties l'accord qu'elles lui soumettent.
 
 L'homologation relève de la matière gracieuse.
 
+Les dispositions des deux alinéas précédents s'appliquent à l'accord issu d'une médiation conventionnelle intervenue alors
+qu'une instance judiciaire est en cours.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 4
 
 
 ###### Article 131-13
 
-A l'expiration de sa mission, le juge fixe la rémunération du médiateur.
+A l'expiration de sa mission, le juge fixe la rémunération du médiateur. 
 
-La charge des frais de la médiation est répartie conformément aux dispositions de l'article 22 de la loi n° 95-125 du 8
-février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et administrative.
+La charge des frais de la médiation est répartie conformément aux dispositions de l'article 22-2 de la loi n° 95-125 du 8
+février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et administrative. 
 
-Le juge autorise le médiateur à se faire remettre, jusqu'à due concurrence, les sommes consignées au greffe.
+Le juge autorise le médiateur à se faire remettre, jusqu'à due concurrence, les sommes consignées au greffe. 
 
 Il ordonne, s'il y a lieu, le versement de sommes complémentaires en indiquant la ou les parties qui en ont la charge, ou la
-restitution des sommes consignées en excédent.
+restitution des sommes consignées en excédent. 
 
 Un titre exécutoire est délivré au médiateur, sur sa demande.
 
@@ -263,15 +266,15 @@ Un titre exécutoire est délivré au médiateur, sur sa demande.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cite**:
 
-	  - Loi n°95-125 du 8 février 1995 - art. 22 (V)
+	  - Loi n°95-125 du 8 février 1995 - art. 22-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 5
 
 
 ###### Article 131-14
@@ -1066,14 +1069,19 @@ Lorsqu'un magistrat ou un auxiliaire de justice est partie à un litige qui rel�
 ressort de laquelle celui-ci exerce ses fonctions, le demandeur peut saisir une juridiction située dans un ressort
 limitrophe. 
 
-Le défendeur ou toutes les parties en cause d'appel peuvent également demander le renvoi devant une juridiction choisie dans
-les mêmes conditions ; il est alors procédé comme il est dit à l'article 97.
+Le défendeur ou toutes les parties en cause d'appel peuvent demander le renvoi devant une juridiction choisie dans les mêmes
+conditions. A peine d'irrecevabilité, la demande est présentée dès que son auteur a connaissance de la cause de renvoi. En
+cas de renvoi, il est procédé comme il est dit à l'article 97.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 26
 
 	**Cité par**:
 
@@ -1082,7 +1090,7 @@ les mêmes conditions ; il est alors procédé comme il est dit à l'article 97.
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 97 (V)
+	  - Code de procédure civile - art. 97
 
 
 ###### Article 48
@@ -1229,8 +1237,8 @@ L'assignation contient à peine de nullité, outre les mentions prescrites pour 
 
 2° L'objet de la demande avec un exposé des moyens en fait et en droit ;
 
-3° L'indication que, faute pour le défendeur de comparaître, il s'expose à ce qu'un jugement soit rendu contre lui sur les
-seuls éléments fournis par son adversaire ;
+3° L'indication des modalités de comparution devant la juridiction et la précision que, faute pour le défendeur de
+comparaître, il s'expose à ce qu'un jugement soit rendu contre lui sur les seuls éléments fournis par son adversaire ;
 
 4° Le cas échéant, les mentions relatives à la désignation des immeubles exigées pour la publication au fichier immobilier.
 
@@ -1243,11 +1251,7 @@ Elle vaut conclusions.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 3 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -1261,6 +1265,10 @@ Elle vaut conclusions.
 	  - Code de procédure civile - art. 855 (V)
 	  - Code des procédures civiles d'exécution - art. R322-5 (V)
 	  - Code des procédures civiles d'exécution - art. R322-7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 27
 
 
 ###### Article 57
@@ -2576,14 +2584,18 @@ Le défaut de capacité ou de pouvoir d'une personne assurant la représentation
 ###### Article 118
 
 Les exceptions de nullité fondées sur l'inobservation des règles de fond relatives aux actes de procédure peuvent être
-proposées en tout état de cause, sauf la possibilité pour le juge de condamner à des dommages-intérêts ceux qui se seraient
-abstenus, dans une intention dilatoire, de les soulever plus tôt.
+proposées en tout état de cause, à moins qu'il en soit disposé autrement et sauf la possibilité pour le juge de condamner à
+des dommages-intérêts ceux qui se seraient abstenus, dans une intention dilatoire, de les soulever plus tôt.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 28
 
 
 ###### Article 119
@@ -2978,15 +2990,31 @@ Les parties peuvent se concilier, d'elles-mêmes ou à l'initiative du juge, tou
 La conciliation est tentée, sauf disposition particulière, au lieu et au moment que le juge estime favorables et selon les
 modalités qu'il fixe.
 
+Le juge qui doit procéder à une tentative préalable de conciliation peut enjoindre aux parties de rencontrer un conciliateur
+de justice qui les informera sur l'objet et le déroulement de la conciliation, dans les conditions prévues par l'article 22-1
+de la loi n° 95-125 du 8 février 1995.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°78-381 du 20 mars 1978 - art. 1 (VD)
 
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 22-1
+
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 29
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 129 (V)
 
 
 ###### Article 129
@@ -6221,21 +6249,24 @@ les droits et obligations des parties à l'instance.
 ###### Article 324
 
 Les actes accomplis par ou contre l'un des cointéressés ne profitent ni ne nuisent aux autres, sous réserve de ce qui est dit
-aux articles 474, 475, 529, 552, 553 et 615.
+aux articles 475, 529, 552, 553 et 615.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 6 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 30
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 474, 475, 529, 552, 553 et 615
+	  - Code de procédure civile - art. 475 (V)
+	  - Code de procédure civile - art. 529 (V)
+	  - Code de procédure civile - art. 552 (V)
+	  - Code de procédure civile - art. 615 (V)
 
 
 ## Titre IX : L'intervention.
@@ -6654,35 +6685,14 @@ pour cause de suspicion légitime.
 
 ###### Article 341
 
-La récusation d'un juge n'est admise que pour les causes déterminées par la loi.
-
-Comme il est dit à l'article L. 731-1 du code de l'organisation judiciaire "sauf dispositions particulières à certaines
-juridictions la récusation d'un juge peut être demandée :
-
-1° Si lui-même ou son conjoint a un intérêt personnel à la contestation ;
-
-2° Si lui-même ou son conjoint est créancier, débiteur, héritier présomptif ou donataire de l'une des parties ;
-
-3° Si lui-même ou son conjoint est parent ou allié de l'une des parties ou de son conjoint jusqu'au quatrième degré
-inclusivement ;
-
-4° S'il y a eu ou s'il y a procès entre lui ou son conjoint et l'une des parties ou son conjoint ;
-
-5° S'il a précédemment connu de l'affaire comme juge ou comme arbitre ou s'il a conseillé l'une des parties ;
-
-6° Si le juge ou son conjoint est chargé d'administrer les biens de l'une des parties ;
-
-7° S'il existe un lien de subordination entre le juge ou son conjoint et l'une des parties ou son conjoint ;
-
-8° S'il y a amitié ou inimitié notoire entre le juge et l'une des parties.
-
-Le ministère public, partie jointe, peut être récusé dans les mêmes cas".
+Sauf disposition particulière, la récusation d'un juge est admise pour les causes prévues par l'article L. 111-6 du code de
+l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -6697,11 +6707,11 @@ Le ministère public, partie jointe, peut être récusé dans les mêmes cas".
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 31
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L731-1 (Ab)
+	  - Code de l'organisation judiciaire - art. L111-6
 
 
 ###### Article 342
@@ -7427,14 +7437,18 @@ L'instance est interrompue par :
 
 - la cessation de fonctions de l'avocat ou de l'avoué lorsque la représentation est obligatoire ;
 
-- l'effet du jugement qui prononce le règlement judiciaire ou la liquidation des biens dans les causes où il emporte
-assistance ou dessaisissement du débiteur.
+- l'effet du jugement qui prononce la sauvegarde, le redressement judiciaire ou la liquidation judiciaire dans les causes où
+il emporte assistance ou dessaisissement du débiteur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 32
 
 
 ###### Article 370
@@ -9386,7 +9400,7 @@ cas où la loi confère à un juge qui n'est pas saisi du principal le pouvoir d
 La demande est portée par voie d'assignation à une audience tenue à cet effet aux jour et heure habituels des référés.
 
 Si, néanmoins, le cas requiert célérité, le juge des référés peut permettre d'assigner, à heure indiquée, même les jours
-fériés ou chômés, soit à l'audience, soit à son domicile portes ouvertes.
+fériés ou chômés.
 
 **Liens relatifs à cet article**
 
@@ -9408,7 +9422,11 @@ fériés ou chômés, soit à l'audience, soit à son domicile portes ouvertes.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 33
 
 
 ###### Article 486
@@ -10056,9 +10074,8 @@ notification du jugement.
 
 ###### Article 512
 
-Le délai de grâce ne peut être accordé au débiteur dont les biens sont saisis par d'autres créanciers ni à celui qui est en
-état de règlement judiciaire ou de liquidation des biens, ou qui a, par son fait, diminué les garanties qu'il avait données
-par contrat à son créancier.
+Le délai de grâce ne peut être accordé au débiteur dont les biens sont saisis par d'autres créanciers ni à celui qui a, par
+son fait, diminué les garanties qu'il avait données par contrat à son créancier.
 
 Le débiteur perd, dans ces mêmes cas, le bénéfice du délai de grâce qu'il aurait préalablement obtenu.
 
@@ -10066,11 +10083,11 @@ Le débiteur perd, dans ces mêmes cas, le bénéfice du délai de grâce qu'il 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 34
 
 
 ###### Article 513
@@ -12026,46 +12043,46 @@ la suite, l'application ou l'exécution du jugement cassé ou qui s'y rattache p
 
 ###### Article 626
 
-Ainsi qu'il est dit à l'article L. 131-4 du code de l'organisation judiciaire : "En cas de cassation l'affaire est renvoyée,
-sauf disposition contraire, devant une autre juridiction de même nature que celle dont émane l'arrêt ou le jugement cassé ou
-devant la même juridiction composée d'autres magistrats."
+En cas de cassation suivie d'un renvoi de l'affaire à une juridiction, celle-ci est désignée et statue, le cas échéant,
+conformément à l'article L. 431-4 du code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 35
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de l'organisation judiciaire - art. L131-4
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L431-4
 
 
 ###### Article 627
 
-Ainsi qu'il est dit à l'article L. 131-5 du code de l'organisation judiciaire : " La Cour de cassation peut casser sans
-renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond. 
-
-" Elle peut aussi, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été souverainement
-constatés et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée. 
-
-" En ces cas, elle se prononce sur la charge des dépens afférents aux instances devant les juges du fond. 
-
-" L'arrêt emporte exécution forcée ".
+La Cour de cassation peut casser sans renvoyer l'affaire dans les cas et conditions prévues par l'article L. 411-3 du code de
+l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 35
 
-	**Liens**:
+	**Cite**:
 
-	  - PILOTE_SUIVEUR: CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-5 (Ab)
+	  - Code de l'organisation judiciaire - art. L411-3
 
 
 ###### Article 628
@@ -12982,11 +12999,18 @@ particulières à chaque matière.
 La notification est faite sous enveloppe ou pli fermé, soit par la voie postale, soit par la remise de l'acte au destinataire
 contre émargement ou récépissé.
 
+La notification en la forme ordinaire peut toujours être faite par remise contre émargement ou récépissé alors même que la
+loi n'aurait prévu que la notification par la voie postale.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 36
 
 
 ###### Article 668
@@ -15445,9 +15469,9 @@ pièces.
 Lorsque la demande est présentée postérieurement à sa désignation, le juge de la mise en état est, jusqu'à son
 dessaisissement, seul compétent, à l'exclusion de toute autre formation du tribunal, pour : 
 
-1. Statuer sur les exceptions de procédure et sur les incidents mettant fin à l'instance ; les parties ne sont plus
-recevables à soulever ces exceptions et incidents ultérieurement à moins qu'ils ne surviennent ou soient révélés
-postérieurement au dessaisissement du juge ; 
+1. Statuer sur les exceptions de procédure, les demandes formées en application de l'article 47 et sur les incidents mettant
+fin à l'instance ; les parties ne sont plus recevables à soulever ces exceptions et incidents ultérieurement à moins qu'ils
+ne surviennent ou soient révélés postérieurement au dessaisissement du juge ; 
 
 2. Allouer une provision pour le procès ; 
 
@@ -15465,7 +15489,7 @@ mesures qui auraient déjà été ordonnées ;
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -15478,11 +15502,12 @@ mesures qui auraient déjà été ordonnées ;
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 25 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 37
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 517 (V)
+	  - Code de procédure civile - art. 47
+	  - Code de procédure civile - art. 517
 
 
 ###### Article 772
@@ -16610,8 +16635,8 @@ concubin ou la personne avec laquelle elles ont conclu un pacte civil de solidar
 
 - les personnes exclusivement attachées à leur service personnel ou à leur entreprise. 
 
-L'Etat, les départements, les communes et les établissements publics peuvent se faire représenter ou assister par un
-fonctionnaire ou un agent de leur administration. 
+L'Etat,  les départements, les régions, les communes et les établissements publics peuvent se faire représenter ou assister
+par un fonctionnaire ou un agent de leur administration. 
 
 Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
 
@@ -16631,7 +16656,7 @@ Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 18
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 38
 
 
 ### Sous-titre Ier : La procédure ordinaire.
@@ -22744,7 +22769,15 @@ Les voies de recours sont, dans tous les cas, ouvertes au ministère public.
 	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
+#### Section I : L'annulation et la rectification des actes de l'état civil
+
+##### Sous-section I : La rectification administrative
+
+##### Sous-section II : La rectification et l'annulation judiciaire
+
 #### Section II : Du changement de prénom
+
+#### Section II : Les procédures relatives au prénom
 
 ###### Article 1055-1
 
@@ -22784,21 +22817,62 @@ Les voies de recours sont ouvertes au ministère public.
 
 ###### Article 1055-3
 
-Le dispositif de la décision de changement de prénom est transmis immédiatement par le procureur de la République à
-l'officier de l'état civil qui détient l'acte de naissance de l'intéressé.
+Le dispositif de la décision de changement de prénom formée en application des dispositions de l'article 60 du code civil est
+transmis immédiatement par le procureur de la République à l'officier de l'état civil qui détient l'acte de naissance de
+l'intéressé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 39
+
+	**Cite**:
+
+	  - Code civil - art. 60
+
+
+###### Article 1055-4
+
+Le procureur de la République, conformément à l'alinéa 3 de l'article 57 du code civil est celui dans le ressort duquel est
+détenu l'acte de naissance de l'enfant. En cas de déclaration faite devant les autorités diplomatiques ou consulaires, le
+procureur de la République territorialement compétent est celui du lieu où est établi le service central d'état civil.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°93-1091 1993-09-16 art. 2 JORF 17 septembre 1993
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 39
+
+	**Cite**:
+
+	  - Code civil - art. 57
+
+
+###### Article 1055-5
+
+Le dispositif de la décision rendue sur le fondement des dispositions de l'alinéa 4 de l'article 57 du code civil est
+transmis immédiatement par le procureur de la République aux officiers de l'état civil dépositaires des actes de l'état civil
+de l'enfant en marge desquels est portée la mention de la décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 39
+
+	**Cite**:
+
+	  - Code civil - art. 57
 
 
 #### Section III : De la transcription et de la mention des décisions sur les registres de l'état civil
+
+#### Section III : La transcription et la mention des décisions sur les registres de l'état civil
 
 ###### Article 1056
 
@@ -22826,6 +22900,29 @@ dispositif sont aussitôt opérées.
 
 ###### Article 1056-1
 
+L'action aux fins de déclaration judiciaire de naissance est régie par les dispositions des articles 1049 à 1055. 
+
+Le dispositif de la décision, contenant les énonciations prévues à l'article 57 du code civil, est immédiatement transmis par
+le procureur de la République à l'officier de l'état civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 39
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1049
+	  - Code civil - art. 57
+
+
+###### Article 1056-2
+
 Le procureur de la République territorialement compétent pour s'opposer à la célébration d'un mariage d'un Français à
 l'étranger est celui du lieu où est établi le service central d'état civil du ministère des affaires étrangères.
 
@@ -22837,21 +22934,13 @@ pour poursuivre l'annulation du mariage, même s'il n'a pas été saisi préalab
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 39
 
-	**Modifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2007-773 du 10 mai 2007 - art. 1 () JORF 11 mai 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-66 du 20 janvier 2012 - art. 39
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1056-2 (V)
+	  - Code de procédure civile - art. 1056-1 (T)
 
 
 ### Chapitre III : Le répertoire civil
@@ -27058,17 +27147,17 @@ du droit d'asile entrent en vigueur à la date de publication du présent arrêt
 
 Les actions engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au
 déplacement illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal de grande
-instance territorialement compétent en application de l'article L. 312-1-1 du code de l'organisation judiciaire.
+instance territorialement compétent en application de l'article L. 211-12 du code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 12 () JORF 31 octobre 2004 en vigueur le 1er mars 2005
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 40
 
 	**Cité par**:
 
@@ -27076,7 +27165,7 @@ instance territorialement compétent en application de l'article L. 312-1-1 du c
 
 	**Cite**:
 
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L312-1-1 (M)
+	  - Code de l'organisation judiciaire - art. L211-12
 
 
 ###### Article 1210-5
@@ -29559,22 +29648,22 @@ La même règle est applicable à la liquidation des fruits lorsqu'il y a lieu �
 
 ###### Article 1270
 
-L'autorisation prévue à l'article 595 du code civil obéit aux règles prescrites aux articles 1286 à 1289.
+La demande de l'usufruitier tendant à être autorisé à conclure seul un bail en application de l'article 595 du code civil est
+formée, instruite et jugée suivant la procédure à jour fixe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 41
 
 	**Cite**:
 
-	  - Code civil - art. 595 (V)
-	  - Nouveau code de procédure civile 1286 à 1289
+	  - Code civil - art. 595
 
 
 ### Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle.
@@ -30707,18 +30796,22 @@ L'acte soumis à publicité est accompagné du certificat visé à l'article 130
 
 ###### Article 1300-4
 
-La demande d'homologation d'un changement de régime matrimonial est portée devant le tribunal de grande instance de la
+La demande d'homologation d'un changement de régime matrimonial est portée devant le juge aux affaires familiales de la
 résidence de la famille.
+
+Un extrait de la demande est transmis par l'avocat des demandeurs aux greffes des tribunaux de grande instance dans le
+ressort desquels sont nés l'un et l'autre des époux, à fin de conservation au répertoire civil et de publicité par mention en
+marge de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 42
 
 	**Cité par**:
 
@@ -36063,6 +36156,798 @@ qui ne sont pas atteintes par la censure de la cour.
 	  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
+# Livre V : La résolution amiable des différends
+
+###### Article 1528
+
+Les parties à un différend peuvent, à leur initiative et dans les conditions prévues par le présent livre, tenter de le
+résoudre de façon amiable avec l'assistance d'un médiateur, d'un conciliateur de justice ou, dans le cadre d'une procédure
+participative, de leurs avocats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1529
+
+Les dispositions du présent livre s'appliquent aux différends relevant des juridictions de l'ordre judiciaire statuant en
+matière civile, commerciale, sociale ou rurale, sous réserve des règles spéciales à chaque matière et des dispositions
+particulières à chaque juridiction. 
+
+Ces dispositions s'appliquent en matière prud'homale sous les réserves prévues par les articles 2064 du code civil et 24 de
+la loi du 8 février 1995 relative à l'organisation des juridictions et de la procédure civile, pénale et administrative.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 24
+	  - Code civil - art. 2064
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+## Titre Ier : La médiation et la conciliation conventionnelles
+
+###### Article 1530
+
+La médiation et la conciliation conventionnelles régies par le présent titre s'entendent, en application des articles 21 et
+21-2 de la loi du 8 février 1995 susmentionnée, de tout processus structuré, par lequel deux ou plusieurs parties tentent de
+parvenir à un accord, en dehors de toute procédure judiciaire en vue de la résolution amiable de leurs différends, avec
+l'aide d'un tiers choisi par elles qui accomplit sa mission avec impartialité, compétence et diligence.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 21
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1531
+
+La médiation et la conciliation conventionnelles sont soumises au principe de confidentialité dans les conditions et selon
+les modalités prévues à l'article 21-3 de la loi du 8 février 1995 susmentionnée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 21-3
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+### Chapitre Ier : La médiation conventionnelle 
+
+
+
+###### Article 1532
+
+Le médiateur peut être une personne physique ou morale. 
+
+Lorsque le médiateur est une personne morale, il désigne, avec l'accord des parties, la personne physique chargée d'accomplir
+la mission de médiation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1533 (V)
+
+
+###### Article 1533
+
+Le médiateur et, le cas échéant, la personne mentionnée au second alinéa de l'article 1532, doit satisfaire aux conditions
+suivantes : 
+
+1° Ne pas avoir fait l'objet d'une condamnation, d'une incapacité ou d'une déchéance mentionnées sur le bulletin n° 3 du
+casier judiciaire ; 
+
+2° Posséder, par l'exercice présent ou passé d'une activité, la qualification requise eu égard à la nature du différend ou
+justifier, selon le cas, d'une formation ou d'une expérience adaptée à la pratique de la médiation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1532
+
+
+###### Article 1534
+
+La demande tendant à l'homologation de l'accord issu de la médiation est présentée au juge par requête de l'ensemble des
+parties à la médiation ou de l'une d'elles, avec l'accord exprès des autres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1535
+
+Lorsque l'accord issu de la médiation a été rendu exécutoire par une juridiction ou une autorité d'un autre Etat membre de
+l'Union européenne dans les conditions prévues par les dispositions de l'article 6 de la directive 2008/52/ CE du 21 mai 2008
+du Parlement européen et du Conseil sur certains aspects de la médiation en matière civile et commerciale, il est reconnu et
+déclaré exécutoire en France dans les conditions prévues par les articles 509-2 à 509-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 509-2
+
+
+### Chapitre II : La conciliation menée par un conciliateur de justice 
+
+
+
+
+###### Article 1536
+
+Le conciliateur de justice institué par le décret du 20 mars 1978 relatif aux conciliateurs de justice peut être saisi sans
+forme par toute personne physique ou morale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°78-381 du 20 mars 1978
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1537
+
+Le conciliateur de justice invite, le cas échéant, les intéressés à se rendre devant lui. 
+
+Ceux-ci peuvent se faire accompagner d'une personne majeure de leur choix, qui justifie de son identité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1538
+
+Le conciliateur de justice peut, avec l'accord des intéressés, se rendre sur les lieux et entendre toutes personnes dont
+l'audition lui paraît utile, sous réserve de l'acceptation de celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1539
+
+Le conciliateur de justice peut s'adjoindre, avec l'accord des parties, le concours d'un autre conciliateur de justice du
+ressort de la cour d'appel. Lors de la réunion des parties, les conciliateurs de justice peuvent échanger des informations
+sur les demandes dont ils sont saisis. L'acte constatant l'accord des parties est signé par les deux conciliateurs de
+justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1540
+
+En cas de conciliation, même partielle, il peut être établi un constat d'accord signé par les parties et le conciliateur de
+justice. La conciliation peut également être consignée dans un constat signé par le conciliateur et une ou plusieurs des
+parties lorsque l'une ou plusieurs d'entre elles ont formalisé les termes de l'accord auquel elles consentent dans un acte
+signé par elles et établi hors la présence du conciliateur de justice ; il incombe alors à ce dernier de viser l'acte dans le
+constat et de l'annexer à celui-ci. 
+
+La rédaction d'un constat est requise lorsque la conciliation a pour effet la renonciation à un droit. 
+
+Un exemplaire du constat est remis à chaque intéressé. Le conciliateur de justice procède également, sans délai, au dépôt
+d'un exemplaire au greffe du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1541
+
+La demande tendant à l'homologation du constat d'accord est présentée au juge d'instance par requête d'une des parties à
+moins que l'une d'elles s'oppose à l'homologation dans l'acte constatant son accord. 
+
+Toutefois, lorsque la conciliation met fin à un différend transfrontalier la requête est présentée par l'ensemble des parties
+ou par l'une d'elles, sur justification du consentement exprès des autres parties. Ce consentement peut être contenu dans le
+constat d'accord. 
+
+Est transfrontalier le différend dans lequel, à la date où il est recouru à la conciliation, une des parties au moins est
+domiciliée ou a sa résidence habituelle dans un Etat membre de l'Union européenne autre que la France et une autre partie au
+moins est domiciliée ou a sa résidence habituelle en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+## Titre II : La procédure participative
+
+###### Article 1542
+
+La procédure participative prévue aux articles 2062 à 2067 du code civil est régie par les dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 2062
+
+
+###### Article 1543
+
+Elle se déroule selon une procédure conventionnelle de recherche d'un accord et se poursuit, le cas échéant, par une
+procédure aux fins de jugement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+### Chapitre Ier  : La procédure conventionnelle 
+
+
+
+
+#### Section 1 : Dispositions générales 
+
+
+
+###### Article 1544
+
+Les parties, assistées de leurs avocats, recherchent conjointement, dans les conditions fixées par convention, un accord
+mettant un terme au différend qui les oppose.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1545
+
+Outre les mentions prévues à l'article 2063 du code civil, la convention de procédure participative mentionne les noms,
+prénoms et adresses des parties et de leurs avocats. 
+
+La communication des écritures et pièces entre les parties se fait par l'intermédiaire de leurs avocats selon les modalités
+prévues par la convention ; ceux-ci les portent à la connaissance des intéressés par tous moyens appropriés. Un bordereau est
+établi lorsqu'une pièce est communiquée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 2063
+
+
+###### Article 1546
+
+La convention de procédure participative est modifiée dans les mêmes formes que celles prévues pour son établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+#### Section 2 : Le recours à un technicien 
+
+
+
+
+
+
+###### Article 1547
+
+Lorsque les parties envisagent de recourir à un technicien, elles le choisissent d'un commun accord et déterminent sa
+mission. 
+
+Le technicien est rémunéré par les parties, selon les modalités convenues entre eux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1548
+
+Il appartient au technicien, avant d'accepter sa mission, de révéler toute circonstance susceptible d'affecter son
+indépendance afin que les parties en tirent les conséquences qu'elles estiment utiles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1549
+
+Le technicien commence ses opérations dès que les parties et lui-même se sont accordés sur les termes de leur contrat. 
+
+Il accomplit sa mission avec conscience, diligence et impartialité, dans le respect du principe du contradictoire. 
+
+Il ne peut être révoqué que du consentement unanime des parties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1550
+
+A la demande du technicien ou après avoir recueilli ses observations, les parties peuvent modifier la mission qui lui a été
+confiée ou confier une mission complémentaire à un autre technicien.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1551
+
+Les parties communiquent au technicien les documents nécessaires à l'accomplissement de sa mission. 
+
+Lorsque l'inertie d'une partie empêche le technicien de mener à bien sa mission, il convoque l'ensemble des parties en leur
+indiquant les diligences qu'il estime nécessaires. Si la partie ne défère pas à sa demande, le technicien poursuit sa mission
+à partir des éléments dont il dispose.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1552
+
+Tout tiers intéressé peut, avec l'accord des parties et du technicien, intervenir aux opérations menées par celui-ci. Le
+technicien l'informe qu'elles lui sont alors opposables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1553
+
+Le technicien joint à son rapport, si les parties et, le cas échéant, le tiers intervenant le demandent, leurs observations
+ou réclamations écrites. 
+
+Il fait mention dans celui-ci des suites données à ces observations ou réclamations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1554
+
+A l'issue des opérations, le technicien remet un rapport écrit aux parties, et, le cas échéant, au tiers intervenant. 
+
+Ce rapport peut être produit en justice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+#### Section 3 : L'issue de la procédure 
+
+
+
+
+###### Article 1555
+
+La procédure conventionnelle s'éteint par : 
+
+1° L'arrivée du terme de la convention de procédure participative ; 
+
+2° La résiliation anticipée et par écrit de cette convention par les parties assistées de leurs avocats ; 
+
+3° La conclusion d'un accord mettant fin en totalité au différend ou l'établissement d'un acte constatant la persistance de
+tout ou partie de celui-ci. 
+
+Lorsqu'un accord au moins partiel a pu être conclu, il est constaté dans un écrit établi par les parties, assistées de leurs
+avocats. Il énonce de manière détaillée les éléments ayant permis la conclusion de cet accord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1557 (M)
+	  - Code de procédure civile - art. 1564-2 (V)
+
+
+### Chapitre II : La procédure aux fins de jugement 
+
+
+
+
+###### Article 1556
+
+A l'issue de la procédure conventionnelle et exception faite des demandes en divorce ou en séparation de corps sur lesquelles
+il est statué conformément aux dispositions de la section II du chapitre V du titre Ier du livre III, le juge peut être saisi
+de l'affaire, selon le cas, pour homologuer l'accord des parties mettant fin en totalité au différend, pour homologuer un
+accord partiel des parties et statuer sur la partie du litige persistant ou pour statuer sur l'entier litige. 
+
+La demande faite au juge par une partie, en application du premier alinéa de l'article 2065 du code civil, pour qu'il statue
+sur le litige avant le terme de la convention, du fait de son inexécution par l'autre partie, est formée, instruite et jugée
+conformément aux règles de procédure applicables devant ce juge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 2065
+
+
+#### Section 1 : La procédure d'homologation d'un accord 
+mettant fin à l'entier différend 
+
+
+
+
+
+
+###### Article 1557
+
+La demande tendant à l'homologation de l'accord des parties établi conformément à l'article 1555 est présentée au juge par
+requête de la partie la plus diligente ou de l'ensemble des parties. 
+
+A peine d'irrecevabilité, la requête est accompagnée de la convention de procédure participative. 
+
+Lorsque l'accord concerne un mineur capable de discernement, notamment lorsqu'il porte sur les modalités de l'exercice de
+l'autorité parentale, la requête mentionne les conditions dans lesquelles le mineur a été informé de son droit à être entendu
+par le juge ou la personne désignée par lui et à être assisté par un avocat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1555
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1560 (M)
+
+
+#### Section 2 : La procédure de jugement du différend persistant 
+
+
+
+
+##### Paragraphe 1 : Dispositions communes 
+
+
+
+
+###### Article 1558
+
+Lorsque les règles de procédure applicables devant le juge saisi aux fins de statuer sur tout ou partie du litige sur le
+fondement du paragraphe 2 ou 3 prévoient une tentative préalable de conciliation ou de médiation, l'affaire est directement
+appelée à une audience pour y être jugée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1559
+
+Devant le tribunal de grande instance et à moins que l'entier différend n'ait été soumis à la procédure de droit commun,
+l'affaire est directement appelée à une audience de jugement de la formation à laquelle elle a été distribuée. L'affaire ne
+peut être renvoyée devant le juge de la mise en état que dans les cas prévus au deuxième et au troisième alinéa de l'article
+1561.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1561 (M)
+
+
+##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel 
+
+
+
+
+###### Article 1560
+
+Lorsque les parties ne sont parvenues qu'à un accord partiel et à moins qu'elles ne demandent que son homologation
+conformément à l'article 1557, elles peuvent saisir le juge à l'effet qu'il statue sur le différend résiduel soit
+conformément aux règles régissant la procédure applicable devant lui, soit par une requête conjointe signée par les avocats
+les ayant assistées au cours de la procédure participative dans les conditions prévues par le présent paragraphe. 
+
+Cette requête contient, à peine d'irrecevabilité, outre les mentions prévues par l'article 57 : 
+
+― les points faisant l'objet d'un accord entre les parties, dont elles peuvent demander au juge l'homologation dans la même
+requête ; 
+
+― les prétentions respectives des parties relativement aux points sur lesquels elles restent en litige, accompagnées des
+moyens de fait et de droit sur lesquels chacune de ces prétentions est fondée, avec l'indication pour chaque prétention des
+pièces invoquées. 
+
+Sous la même sanction, cette requête est accompagnée de la convention de procédure participative, des pièces prévues à
+l'article 2063 du code civil, le cas échéant, du rapport du technicien, ainsi que des pièces communiquées au cours de la
+procédure conventionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1557
+	  - Code de procédure civile - art. 57
+	  - Code civil - art. 2063
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1563 (M)
+
+
+###### Article 1561
+
+L'objet du litige est déterminé par les prétentions respectives des parties telles que formulées dans la requête prévue à
+l'article 1559. 
+
+Les parties ne peuvent modifier leurs prétentions, si ce n'est pour actualiser le montant d'une demande relative à une
+créance à exécution successive, opposer un paiement ou une compensation ultérieur ou faire juger les questions nées de
+l'intervention d'un tiers ou de la survenance ou de la révélation d'un fait postérieur à l'établissement de l'accord. 
+
+Les parties ne peuvent modifier le fondement juridique de leur demande ou soulever de nouveaux moyens qu'en vue de répondre à
+l'invitation du juge de fournir les explications de fait ou de droit qu'il estime nécessaires à la solution du litige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1559 (V)
+
+
+##### Paragraphe 3 : La procédure de jugement de l'entier différend 
+
+
+
+
+###### Article 1562
+
+Lorsque le différend persiste en totalité, le juge peut en connaître : 
+
+― soit conformément aux règles régissant la procédure applicable devant lui ; 
+
+― soit selon les modalités prévues au paragraphe 2 ; 
+
+― soit sur requête unilatérale sur laquelle il statue suivant les règles applicables devant lui sous réserve des dispositions
+du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1563
+
+La requête est déposée au greffe par l'avocat de la partie la plus diligente. A peine d'irrecevabilité, elle est présentée
+dans un délai de trois mois suivant le terme de la convention de procédure participative. 
+
+Outre les mentions prescrites, à peine de nullité, par l'article 58, la requête contient un exposé des moyens de fait et de
+droit et est accompagnée de la liste des pièces mentionnées au troisième alinéa de l'article 1560. 
+
+L'avocat qui procède au dépôt en informe la partie adverse elle-même ainsi que l'avocat l'ayant assisté au cours de la
+procédure conventionnelle, selon le cas, par notification ou par lettre recommandée avec demande d'avis de réception. 
+
+Devant le tribunal de grande instance, le dépôt de cet acte au greffe contient constitution de l'avocat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1560
+	  - Code de procédure civile - art. 58
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1564 (V)
+
+
+###### Article 1564
+
+Lorsque la requête a été déposée au greffe du tribunal de grande instance, la notification mentionnée au troisième alinéa de
+l'article 1563 indique que la partie adverse doit constituer avocat dans un délai de quinze jours suivant cette
+notification. 
+
+Dans les autres cas, l'avocat du requérant est informé par le greffe, dès remise de la requête, de la date de la première
+audience utile à laquelle l'affaire sera appelée. Cette date est portée à la connaissance de la partie adverse dans la
+notification prévue au troisième alinéa de l'article 1563.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1563
+
+
+## Titre III : Dispositions communes
+
+###### Article 1565
+
+L'accord auquel sont parvenues les parties à une médiation, une conciliation ou une procédure participative peut être soumis,
+aux fins de le rendre exécutoire, à l'homologation du juge compétent pour connaître du contentieux dans la matière
+considérée. 
+
+Le juge à qui est soumis l'accord ne peut en modifier les termes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1072-1 (V)
+	  - Code de procédure civile - art. 1568 (T)
+	  - Code de procédure civile - art. 338-1 (V)
+
+
+###### Article 1566
+
+Le juge statue sur la requête qui lui est présentée sans débat, à moins qu'il n'estime nécessaire d'entendre les parties. 
+
+S'il est fait droit à la requête, tout intéressé peut en référer au juge qui a rendu la décision. 
+
+La décision qui refuse d'homologuer l'accord peut faire l'objet d'un appel. Cet appel est formé par déclaration au greffe de
+la cour d'appel. Il est jugé selon la procédure gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+
+###### Article 1567
+
+La requête n'est pas assujettie à l'acquittement de la contribution pour l'aide juridique prévue par l'article 1635 bis Q du
+code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 bis Q
+
+
+###### Article 1568
+
+Les dispositions des articles 1565 à 1567 sont applicables à la transaction conclue sans qu'il ait été recouru à une
+médiation, une conciliation ou une procédure participative. Le juge est alors saisi par la partie la plus diligente ou
+l'ensemble des parties à la transaction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-1280 du 29 décembre 2013 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1565
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1567 (V)
+
+
 # Livre VI : Dispositions relatives à l'outre-mer.
 
 ## Titre II : Dispositions applicables aux îles Wallis et Futuna.
@@ -36070,23 +36955,19 @@ qui ne sont pas atteintes par la censure de la cour.
 ###### Article 1575
 
 Le présent code est applicable aux îles Wallis et Futuna, à l'exception des dispositions des titres IV et V du livre II, du
-chapitre IV du titre II du livre III et de la section II bis du chapitre IX du titre Ier du livre III, dans les conditions
-définies au présent livre.
+chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les
+conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 6
 
 	**Cité par**:
 
 	  - Décret n°2017-683 du 28 avril 2017 - art. 4
 	  - Décret n°2017-892 du 6 mai 2017 - art. 72 (V)
-
-	**Anciens textes**:
-
-	  - Code de procédure civile - art. 1512 (M)
 
 
 ###### Article 1576
