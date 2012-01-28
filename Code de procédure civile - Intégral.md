@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-01-23
+Version Consolidée au 2012-01-29
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -8254,7 +8254,8 @@ affaire dont il a communication.
 Le ministère public doit avoir communication : 
 
 1° Des affaires relatives à la filiation, à l'organisation de la tutelle des mineurs, à l'ouverture ou à la modification des
-mesures judiciaires de protection juridique des majeurs ; 
+mesures judiciaires de protection juridique des majeurs ainsi que des actions engagées sur le fondement des dispositions des
+instruments internationaux et européens relatives au déplacement illicite international d'enfants ; 
 
 2° Des procédures de sauvegarde, de redressement judiciaire et de liquidation judiciaire, des causes relatives à la
 responsabilité pécuniaire des dirigeants sociaux et des procédures de faillite personnelle ou relatives aux interdictions
@@ -8267,7 +8268,7 @@ connaître son avis.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 3
+	  - Décret n°2012-98 du 27 janvier 2012 - art. 2
 
 	**Cite**:
 
@@ -13779,23 +13780,26 @@ parties ;
 demande des juridictions dans le cadre du règlement (CE) n° 1206/2001 du Conseil du 28 mai 2001 relatif à la coopération
 entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale ; 
 
-10° Les enquêtes sociales ordonnées en application des articles 1072,1171 et 1221 ; 
+10° Les enquêtes sociales ordonnées en application des articles 1072, 1171 et 1221 ; 
 
 11° La rémunération de la personne désignée par le juge pour entendre le mineur, en application de l'article 388-1 du code
-civil.
+civil ; 
+
+12° Les rémunérations et frais afférents aux mesures, enquêtes et examens requis en application des dispositions de l'article
+1210-8.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-54 du 13 janvier 2011 - art. 3
+	  - Décret n°2012-98 du 27 janvier 2012 - art. 3
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 1072
-	  - Code de procédure civile - art. 1171 (V)
-	  - Code de procédure civile - art. 1221 (V)
-	  - Code de procédure civile - art. 1248
+	  - Code de procédure civile - art. 1171
+	  - Code de procédure civile - art. 1210-8 (V)
+	  - Code de procédure civile - art. 1221
 	  - Code civil - art. 388-1
 
 
@@ -22553,7 +22557,7 @@ exercé dans ce délai est également suspensif.
 
 ### Chapitre II : Les actes de l'état civil
 
-#### Section I : De l'annulation et de la rectification des actes de l'état civil
+#### Section I : L'annulation et la rectification des actes de l'état civil
 
 ##### Sous-section I : La rectification administrative
 
@@ -22769,14 +22773,6 @@ Les voies de recours sont, dans tous les cas, ouvertes au ministère public.
 	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Section I : L'annulation et la rectification des actes de l'état civil
-
-##### Sous-section I : La rectification administrative
-
-##### Sous-section II : La rectification et l'annulation judiciaire
-
-#### Section II : Du changement de prénom
-
 #### Section II : Les procédures relatives au prénom
 
 ###### Article 1055-1
@@ -22869,8 +22865,6 @@ de l'enfant en marge desquels est portée la mention de la décision.
 
 	  - Code civil - art. 57
 
-
-#### Section III : De la transcription et de la mention des décisions sur les registres de l'état civil
 
 #### Section III : La transcription et la mention des décisions sur les registres de l'état civil
 
@@ -27145,9 +27139,9 @@ du droit d'asile entrent en vigueur à la date de publication du présent arrêt
 
 ###### Article 1210-4
 
-Les actions engagées sur le fondement des dispositions des instruments internationaux et communautaires relatives au
-déplacement illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal de grande
-instance territorialement compétent en application de l'article L. 211-12 du code de l'organisation judiciaire.
+Les actions engagées sur le fondement des dispositions des instruments internationaux et européens relatives au déplacement
+illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal de grande instance
+territorialement compétent en application de l'article L. 211-12 du code de l'organisation judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -27157,7 +27151,15 @@ instance territorialement compétent en application de l'article L. 211-12 du co
 
 	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 40
+	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 28
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1210-5 (V)
 
 	**Cité par**:
 
@@ -27198,37 +27200,99 @@ civils de l'enlèvement international d'enfants, est formée, instruite et jugé
 
 ###### Article 1210-6
 
+En l'absence d'exécution volontaire de la décision de retour, le procureur de la République compétent en application de
+l'article 12-1 de la loi n° 91-650 du 9 juillet 1991 pour requérir directement la force publique afin de faire exécuter la
+décision est celui près le tribunal de grande instance spécialement désigné en application de l'article L. 211-12 du code de
+l'organisation judiciaire, dans le ressort duquel se trouve l'enfant. Il informe, s'il y a lieu, le procureur de la
+République près le tribunal de grande instance dans le ressort duquel se trouve l'enfant de son intention de requérir la
+force publique pour faire exécuter la décision de retour et peut recueillir de ce dernier toutes informations utiles,
+notamment au regard des risques que l'exécution de la décision pourrait entraîner.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cite**:
+
+	  - Loi n°91-650 du 9 juillet 1991 - art. 12-1
+	  - Code de l'organisation judiciaire - art. L211-12
+
+	**Modifié par**:
+
+	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 28
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 1210-9 (V)
+
+
+###### Article 1210-7
+
+Dès qu'il est informé de la décision de retour, le procureur de la République chargé de son exécution peut procéder ou faire
+procéder à l'audition de la personne chez qui se trouve l'enfant qui fait l'objet de cette décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
+
+
+###### Article 1210-8
+
+Afin de déterminer les modalités d'exécution de la décision de retour les plus adaptées aux circonstances de l'espèce, le
+procureur de la République chargé de son exécution peut : 
+
+- s'attacher les services de toute personne qualifiée aux fins de favoriser l'exécution amiable de la décision et de
+déterminer les modalités du retour de l'enfant ; 
+
+- requérir toute personne qualifiée afin de vérifier la situation matérielle, familiale et sociale de l'enfant faisant
+l'objet de la décision de retour ; 
+
+- faire procéder à tout examen médical, psychiatrique et psychologique de l'enfant qu'il estime nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 695 (V)
+
+
+###### Article 1210-9
+
 La décision de non-retour de l'enfant rendue à l'étranger ainsi que les documents qui l'accompagnent, transmis à l'autorité
 centrale française en application du 6 de l'article 11 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif
 à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité
 parentale, sont communiqués au ministère public près le tribunal de grande instance visé à l'article 1210-4, qui en saisit le
-juge aux affaires familiales par requête.
+juge aux affaires familiales par requête. 
 
 Nonobstant les articles 100 et 101 du présent code, les autres juges aux affaires familiales saisis du même litige, ou de
 litiges connexes, se dessaisissent à son profit.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Créé par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 12 () JORF 31 octobre 2004 en vigueur le 1er mars 2005
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2012-98 du 27 janvier 2012 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1210-9 (M)
+	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1210-4, 100, 101
-	  - Règlement 2201/2003 2003-11-27 CE art. 11
+	  - Code de procédure civile - art. 100 (V)
+	  - Code de procédure civile - art. 1210-4 (V)
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 1210-6 (T)
 
 
 ### Chapitre X : La protection juridique des mineurs et des majeurs
