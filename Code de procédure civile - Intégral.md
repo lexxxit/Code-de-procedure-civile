@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-01-29
+Version Consolidée au 2012-03-18
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13405,6 +13405,21 @@ duquel cette juridiction a son siège.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 415 (V)
 
 
+###### Article 684-1
+
+L'huissier de justice ou le greffier relate dans l'acte les modalités de son expédition, de sa transmission ou de sa remise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-366 du 15 mars 2012 - art. 18
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 688 (V)
+
+
 ###### Article 685
 
 L'autorité chargée de la notification remet deux copies de l'acte au procureur de la République qui vise l'original.
@@ -13430,18 +13445,18 @@ destinataire.
 
 A moins que la notification ait pu être faite par voie postale, l'autorité chargée de la notification doit, le jour même ou,
 au plus tard, le premier jour ouvrable suivant, expédier au destinataire, par lettre recommandée avec demande d'avis de
-réception, une copie certifiée conforme de l'acte notifié indiquant de manière très apparente qu'elle en constitue une simple
-copie.
+réception, une copie certifiée conforme de l'acte à notifier indiquant de manière très apparente qu'elle en constitue une
+simple copie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 66 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2012-366 du 15 mars 2012 - art. 19
 
 	**Cité par**:
 
@@ -13465,22 +13480,47 @@ notification a été requise par un huissier de justice, celui-ci tient ces docu
 	  - Décret n°2005-1678 du 28 décembre 2005 - art. 66 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
+###### Article 687-1
+
+S'il ressort des éléments transmis par l'autorité requise ou les services postaux que le destinataire n'habite pas à
+l'adresse indiquée et que celui-ci n'a plus ni domicile ni résidence connus, l'huissier de justice relate dans l'acte les
+indications ainsi fournies et procède à la signification comme il est dit aux alinéas 2 à 5 de l'article 659.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-366 du 15 mars 2012 - art. 20
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 659 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 688 (M)
+
+
 ###### Article 688
 
+La juridiction est saisie de la demande formée par assignation par la remise qui lui est faite de l'acte complété par les
+indications prévues à l'article 684-1 ou selon le cas, à l'article 687-1, le cas échéant accompagné des justificatifs des
+diligences accomplies en vue de sa notification au destinataire. 
+
 S'il n'est pas établi que le destinataire d'un acte en a eu connaissance en temps utile, le juge saisi de l'affaire ne peut
-statuer au fond que si les conditions ci-après sont réunies :
+statuer au fond que si les conditions ci-après sont réunies : 
 
 1° L'acte a été transmis selon les modes prévus par les règlements communautaires ou les traités internationaux applicables
-ou, à défaut de ceux-ci, selon les prescriptions des articles 684 à 687 ;
+ou, à défaut de ceux-ci, selon les prescriptions des articles 684 à 687 ; 
 
-2° Un délai d'au moins six mois s'est écoulé depuis l'envoi de l'acte ;
+2° Un délai d'au moins six mois s'est écoulé depuis l'envoi de l'acte ; 
 
 3° Aucun justificatif de remise de l'acte n'a pu être obtenu nonobstant les démarches effectuées auprès des autorités
-compétentes de l'Etat où l'acte doit être remis.
+compétentes de l'Etat où l'acte doit être remis. 
 
 Le juge peut prescrire d'office toutes diligences complémentaires, notamment donner commission rogatoire à toute autorité
 compétente aux fins de s'assurer que le destinataire a eu connaissance de l'acte et de l'informer des conséquences d'une
-abstention de sa part.
+abstention de sa part. 
 
 Toutefois, le juge peut ordonner immédiatement les mesures provisoires ou conservatoires nécessaires à la sauvegarde des
 droits du demandeur.
@@ -13489,20 +13529,22 @@ droits du demandeur.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 66 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2006-936 du 27 juillet 2006 - art. 168 (VD)
 	  - Code de procédure civile - art. 693 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-366 du 15 mars 2012 - art. 21
+
 	**Cite**:
 
-	  - Nouveau code de procédure civile 684 à 687
+	  - Code de procédure civile - art. 684 (V)
+	  - Code de procédure civile - art. 684-1 (V)
+	  - Code de procédure civile - art. 687-1 (V)
 
 
 ##### Sous-section II : Notification des actes en provenance de l'étranger.
@@ -13528,17 +13570,18 @@ voie de simple remise ou de signification.
 Le ministre de la justice transmet les actes qui lui sont adressés au ministère public près le tribunal de grande instance
 dans le ressort duquel ils doivent être notifiés ou à la chambre nationale des huissiers de justice, à moins qu'en vertu d'un
 traité la transmission puisse être effectuée directement par les autorités étrangères au ministère public ou à la chambre
-nationale des huissiers de justice et sous réserve de tous autres modes de notification.
+nationale des huissiers de justice et sous réserve de tous autres modes de notification. Il peut également notifier ces actes
+à leur destinataire par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+	  - Décret n°2012-366 du 15 mars 2012 - art. 22
 
 	**Cité par**:
 
@@ -13716,27 +13759,35 @@ Les notifications destinées aux collectivités publiques et aux établissements
 
 ###### Article 693
 
-Ce qui est prescrit par les articles 654 à 659, 663 à 665-1, 672, 675, 678, 680, 683, 684, 686, 689 à 692 est observé à peine
-de nullité.
+Ce qui est prescrit par les articles 654 à 659, 663 à 665-1, 672, 675, 678, 680, 683 à 684-1, 686, le premier alinéa de
+l'article 688 et les articles 689 à 692 est observé à peine de nullité. 
 
-Doivent être également observées, à peine de nullité, les dispositions des articles 4, 6 et 7 du règlement (CE) n° 1348/2000
-du Conseil du 29 mai 2000 en cas d'expédition d'un acte vers un autre Etat membre de la Communauté européenne à l'exception
-du Royaume du Danemark.
+Doivent être également observées, à peine de nullité, les dispositions des articles 4, 6, 7 et 8, paragraphes 1, 2, 4 et 5,
+du règlement (CE) n° 1393/2007 du Parlement européen et du Conseil du 13 novembre 2007 en cas d'expédition d'un acte vers un
+autre Etat membre de l'Union européenne.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 61 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2012-366 du 15 mars 2012 - art. 23
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 654, 655, 656, 657, 658, 659, 663, 664, 665, 665-1, 672, 675, 678, 680, 683, 684, 686, 689, 690, 691, 692
-	  - Règlement CE 1348-2000 2000-05-29 art. 4, 6, 7
+	  - Code de procédure civile - art. 654 (V)
+	  - Code de procédure civile - art. 663 (VT)
+	  - Code de procédure civile - art. 672 (V)
+	  - Code de procédure civile - art. 675 (V)
+	  - Code de procédure civile - art. 678 (V)
+	  - Code de procédure civile - art. 680 (V)
+	  - Code de procédure civile - art. 683 (V)
+	  - Code de procédure civile - art. 686 (V)
+	  - Code de procédure civile - art. 688 (V)
+	  - Code de procédure civile - art. 689 (V)
 
 
 ###### Article 694
