@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-03-18
+Version Consolidée au 2012-05-06
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -2112,10 +2112,10 @@ mesure d'instruction.
 ###### Article 90
 
 Quand elle décide d'évoquer, la cour invite les parties, le cas échéant par lettre recommandée avec demande d'avis de
-réception, à constituer avoué dans le délai qu'elle fixe, si les règles applicables à l'appel des décisions rendues par la
-juridiction dont émane le jugement frappé de contredit imposent cette constitution.
+réception, à constituer avocat dans le délai qu'elle fixe, si les règles applicables à l'appel des décisions rendues par la
+juridiction dont émane le jugement frappé de contredit imposent cette constitution. 
 
-Si aucune des parties ne constitue avoué, la cour peut prononcer d'office la radiation de l'affaire par décision motivée non
+Si aucune des parties ne constitue avocat, la cour peut prononcer d'office la radiation de l'affaire par décision motivée non
 susceptible de recours. Copie de cette décision est portée à la connaissance de chacune des parties par lettre simple
 adressée à leur domicile ou à leur résidence.
 
@@ -2123,11 +2123,23 @@ adressée à leur domicile ou à leur résidence.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 92 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 89 (V)
 
 
 ###### Article 91
@@ -2138,18 +2150,18 @@ n'en demeure pas moins saisie.
 L'affaire est alors instruite et jugée selon les règles applicables à l'appel des décisions rendues par la juridiction dont
 émane le jugement frappé de contredit. 
 
-Si, selon ces règles, les parties sont tenues de constituer avoué, l'appel est d'office déclaré irrecevable si celui qui a
-formé le contredit n'a pas constitué avoué dans le mois de l'avis donné aux parties par le greffier.
+Si, selon ces règles, les parties sont tenues de constituer avocat, l'appel est d'office déclaré irrecevable si celui qui a
+formé le contredit n'a pas constitué avocat dans le mois de l'avis donné aux parties par le greffier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ##### Sous-section IV : L'incompétence relevée d'office.
@@ -2270,14 +2282,14 @@ désignation s'impose aux parties et au juge de renvoi.
 ###### Article 97
 
 En cas de renvoi devant une juridiction désignée, le dossier de l'affaire lui est aussitôt transmis par le secrétariat, avec
-une copie de la décision de renvoi. Toutefois la transmission n'est faite qu'à défaut de contredit dans le délai, lorsque
+une copie de la décision de renvoi. Toutefois, la transmission n'est faite qu'à défaut de contredit dans le délai, lorsque
 cette voie était ouverte contre la décision de renvoi.
 
 Dès réception du dossier, les parties sont invitées par lettre recommandée avec demande d'avis de réception du secrétaire de
-la juridiction désignée à poursuivre l'instance et, s'il y a lieu, à constituer avocat ou avoué.
+la juridiction désignée à poursuivre l'instance et, s'il y a lieu, à constituer avocat.
 
 Lorsque devant celle-ci les parties sont tenues de se faire représenter, l'affaire est d'office radiée si aucune d'elles n'a
-constitué avocat ou avoué, selon le cas, dans le mois de l'avis qui leur a été donné.
+constitué avocat, selon le cas, dans le mois de l'avis qui leur a été donné.
 
 Lorsque le renvoi est fait à la juridiction qui avait été primitivement saisie, l'instance se poursuit à la diligence du
 juge.
@@ -2286,18 +2298,25 @@ juge.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°76-1236 1976-12-28 art. 4 JORF 30 décembre 1976
-	  - Décret n°81-500 1981-05-12 art. 10 JORF 14 mai 1981
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R142-2 (Ab)
 	  - Code de procédure civile - art. 1425-8 (V)
 	  - Code de procédure civile - art. 47 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de procédure civile - art. 82 (V)
 
 
 ###### Article 98
@@ -3585,7 +3604,7 @@ commise. Dès réception, il est procédé aux opérations prescrites à l'initi
 président de cette juridiction désigne à cet effet.
 
 Les parties ou les personnes qui doivent apporter leur concours à l'exécution de la mesure d'instruction sont directement
-convoquées ou avisées par la juridiction commise. Les parties ne sont pas tenues de constituer avocat ou avoué devant cette
+convoquées ou avisées par la juridiction commise. Les parties ne sont pas tenues de constituer avocat devant cette
 juridiction.
 
 Sitôt les opérations accomplies, le secrétariat de la juridiction qui y a procédé transmet à la juridiction commettante les
@@ -3595,7 +3614,11 @@ procès-verbaux accompagnés des pièces et objets annexés ou déposés.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article 158
@@ -7259,18 +7282,18 @@ d'appel dans le ressort de laquelle siège le juge intéressé.
 
 ###### Article 366-2
 
-La requête est présentée par un avoué. A peine d'irrecevabilité, elle contient l'énoncé des faits reprochés au juge et est
+La requête est présentée par un avocat. A peine d'irrecevabilité, elle contient l'énoncé des faits reprochés au juge et est
 accompagnée des pièces justificatives.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 366-3
@@ -7435,7 +7458,7 @@ L'instance est interrompue par :
 
 - la majorité d'une partie ;
 
-- la cessation de fonctions de l'avocat ou de l'avoué lorsque la représentation est obligatoire ;
+- la cessation de fonctions de l'avocat lorsque la représentation est obligatoire ;
 
 - l'effet du jugement qui prononce la sauvegarde, le redressement judiciaire ou la liquidation judiciaire dans les causes où
 il emporte assistance ou dessaisissement du débiteur.
@@ -7448,7 +7471,7 @@ il emporte assistance ou dessaisissement du débiteur.
 
 	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 32
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article 370
@@ -8125,8 +8148,8 @@ juridiction.
 
 ###### Article 416
 
-Quiconque entend représenter ou assister une partie doit justifier qu'il en a reçu le mandat ou la mission. L'avocat ou
-l'avoué est toutefois dispensé d'en justifier.
+Quiconque entend représenter ou assister une partie doit justifier qu'il en a reçu le mandat ou la mission. L'avocat est
+toutefois dispensé d'en justifier.
 
 L'huissier de justice bénéficie de la même dispense dans les cas où il est habilité à représenter ou assister les parties.
 
@@ -8134,7 +8157,11 @@ L'huissier de justice bénéficie de la même dispense dans les cas où il est h
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article 417
@@ -8168,21 +8195,25 @@ procédure et à obtenir jugement en continuant à ne connaître que le représe
 Le représentant qui entend mettre fin à son mandat n'en est déchargé qu'après avoir informé de son intention son mandant, le
 juge et la partie adverse.
 
-Lorsque la représentation est obligatoire, l'avocat ou l'avoué ne peut se décharger de son mandat de représentation que du
-jour où il est remplacé par un nouveau représentant constitué par la partie ou, à défaut, commis par le bâtonnier ou par le
-président de la chambre de discipline.
+Lorsque la représentation est obligatoire, l'avocat ne peut se décharger de son mandat de représentation que du jour où il
+est remplacé par un nouveau représentant constitué par la partie ou, à défaut, commis par le bâtonnier ou par le président de
+la chambre de discipline.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article 420
 
-L'avocat ou l'avoué remplit les obligations de son mandat sans nouveau pouvoir jusqu'à l'exécution du jugement pourvu que
-celle-ci soit entreprise moins d'un an après que ce jugement soit passé en force de chose jugée.
+L'avocat remplit les obligations de son mandat sans nouveau pouvoir jusqu'à l'exécution du jugement pourvu que celle-ci soit
+entreprise moins d'un an après que ce jugement soit passé en force de chose jugée.
 
 Ces dispositions ne font pas obstacle au paiement direct à la partie de ce qui lui est dû.
 
@@ -8190,7 +8221,11 @@ Ces dispositions ne font pas obstacle au paiement direct à la partie de ce qui 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ## Titre XIII : Le ministère public.
@@ -9801,13 +9836,17 @@ formé un.
 Les mainlevées, radiations de sûretés, mentions, transcriptions ou publications qui doivent être faites en vertu d'un
 jugement sont valablement faites au vu de la production, par tout intéressé, d'une expédition ou d'une copie certifiée
 conforme du jugement ou d'un extrait de celui-ci et s'il n'est pas exécutoire à titre provisoire, de la justification de son
-caractère exécutoire. Cette justification peut résulter d'un certificat établi par l'avocat ou l'avoué.
+caractère exécutoire. Cette justification peut résulter d'un certificat établi par l'avocat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cité par**:
 
@@ -11171,18 +11210,18 @@ L'opposition doit contenir les moyens du défaillant.
 ###### Article 575
 
 Dans le cas où l'opposition est faite selon le mode prévu à l'article 573 (alinéa 2) elle doit, à peine d'irrecevabilité,
-être déclarée au secrétariat de la juridiction qui a rendu la décision par l'avocat ou l'avoué constitué par le défaillant,
-dans le mois de la date où elle a été formée.
+être déclarée au secrétariat de la juridiction qui a rendu la décision par l'avocat constitué par le défaillant, dans le mois
+de la date où elle a été formée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cite**:
 
@@ -13195,21 +13234,6 @@ aussitôt à son confrère l'un des exemplaires après l'avoir daté et visé.
 	  - Arrêté du 21 juin 2013 - art. 12 (V)
 
 
-###### Article 674
-
-Les notifications entre avoués sont soumises aux mêmes règles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
-
-
 #### Section IV : Règles particulières à la notification des jugements.
 
 ###### Article 675
@@ -13296,14 +13320,9 @@ de pourvoi en cassation dans le cas où l'une de ces voies de recours est ouvert
 recours peut être exercé ; il indique, en outre, que l'auteur d'un recours abusif ou dilatoire peut être condamné à une
 amende civile et au paiement d'une indemnité à l'autre partie.
 
-Lorsque le recours peut être formé sans le ministère d'un avoué ou d'un avocat et est assujetti à l'acquittement de la
-contribution pour l'aide juridique, l'acte de notification rappelle cette exigence, ainsi que l'irrecevabilité encourue en
-cas de non-respect et les modalités selon lesquelles la partie non représentée doit justifier de cet acquittement.
-
-**Nota:**
-
-Conformément à l'article 21 I du décret n° 2011-1202 du 28 septembre 2011, les présentes dispositions ne sont pas applicables
-à la notification des décisions rendues avant le 1er octobre 2011.
+Lorsque le recours peut être formé sans le ministère d'un avocat et est assujetti à l'acquittement de la contribution pour
+l'aide juridique, l'acte de notification rappelle cette exigence, ainsi que l'irrecevabilité encourue en cas de non-respect
+et les modalités selon lesquelles la partie non représentée doit justifier de cet acquittement.
 
 **Liens relatifs à cet article**
 
@@ -13313,7 +13332,7 @@ Conformément à l'article 21 I du décret n° 2011-1202 du 28 septembre 2011, l
 
 	**Modifié par**:
 
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 3
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cité par**:
 
@@ -13885,18 +13904,18 @@ partie des dépens de l'instance sont fixées par les dispositions de la loi n°
 
 ###### Article 697
 
-Les avocats, avoués et huissiers de justice peuvent être personnellement condamnés aux dépens afférents aux instances, actes
-et procédures d'exécution accomplis en dehors des limites de leur mandat.
+Les avocats,  anciens avoués et huissiers de justice peuvent être personnellement condamnés aux dépens afférents aux
+instances, actes et procédures d'exécution accomplis en dehors des limites de leur mandat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°76-714 1976-07-29 art. 3 JORF 30 juillet 1976
+	  - Décret n°2012-634 du 3 mai 2012 - art. 20
 
 
 ###### Article 698
@@ -13922,9 +13941,9 @@ instances, actes et procédures d'exécution nuls par l'effet de leur faute.
 
 ###### Article 699
 
-Les avocats et les avoués peuvent, dans les matières où leur ministère est obligatoire, demander que la condamnation aux
-dépens soit assortie à leur profit du droit de recouvrer directement contre la partie condamnée ceux des dépens dont ils ont
-fait l'avance sans avoir reçu provision.
+Les avocats peuvent, dans les matières où leur ministère est obligatoire, demander que la condamnation aux dépens soit
+assortie à leur profit du droit de recouvrer directement contre la partie condamnée ceux des dépens dont ils ont fait
+l'avance sans avoir reçu provision.
 
 La partie contre laquelle le recouvrement est poursuivi peut toutefois déduire, par compensation légale, le montant de sa
 créance de dépens.
@@ -13933,7 +13952,11 @@ créance de dépens.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article 700
@@ -14291,17 +14314,17 @@ date.
 Les notifications ou convocations sont faites par lettre recommandée avec demande d'avis de réception.
 
 Lorsqu'elles sont faites par le secrétaire de la juridiction, elles peuvent l'être par simple bulletin si elles sont
-adressées aux avocats ou aux avoués.
+adressées aux avocats.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°76-1236 1976-12-28 art. 17 JORF 30 décembre 1976
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ### Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens.
@@ -14567,13 +14590,17 @@ commise. Dès réception, il est procédé aux opérations prescrites à l'initi
 président de cette juridiction désigne à cet effet.
 
 Les parties ou les personnes qui doivent apporter leur concours à la justice sont directement convoquées ou avisées par la
-juridiction commise. Les parties ne sont pas tenues de constituer avocat ou avoué devant cette juridiction.
+juridiction commise. Les parties ne sont pas tenues de constituer avocat devant cette juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article 732
@@ -17952,7 +17979,7 @@ travail :
   <font size="1">" PREMIÈRE PARTIE : LES RELATIONS INDIVIDUELLES DE TRAVAIL </font>
 </h2>
 
-LIVRE IV : LA RÉSOLUTION DES LITIGES LE CONSEIL DE PRUD'HOMMES 
+LIVRE IV : LA RÉSOLUTION DES LITIGES - LE CONSEIL DE PRUD'HOMMES 
 
 TITRE V : PROCÉDURE DEVANT LE CONSEIL DE PRUD'HOMMES 
 
@@ -17960,17 +17987,17 @@ TITRE V : PROCÉDURE DEVANT LE CONSEIL DE PRUD'HOMMES
   <font size="1">Chapitre Ier : Dispositions générales </font>
 </h1>
 
-Art.R. 1451-1 
+Art. R. 1451-1 
 
 Sous réserve des dispositions du présent code, la procédure devant les juridictions prud'homales est régie par les
 dispositions du livre premier du code de procédure civile. 
 
-Art.R. 1451-2 
+Art. R. 1451-2 
 
 Les exceptions de procédure sont, à peine d'irrecevabilité, soulevées avant toute défense au fond ou fin de non-recevoir.
 Elles peuvent, sous cette réserve, être soulevées devant le bureau de jugement. 
 
-Art.R. 1451-3 
+Art. R. 1451-3 
 
 Lorsqu'un tribunal d'instance est appelé à statuer en matière prud'homale, les demandes sont formées, instruites et jugées
 conformément aux dispositions du présent titre. 
@@ -17985,14 +18012,14 @@ En cas de recours, il est procédé comme en matière prud'homale.
   <font size="1">Section 1 : Saisine du conseil de prud'hommes </font>
 </h1>
 
-Art.R. 1452-1 
+Art. R. 1452-1 
 
 Le conseil de prud'hommes est saisi soit par une demande, soit par la présentation volontaire des parties devant le bureau de
 conciliation. 
 
 La saisine du conseil de prud'hommes, même incompétent, interrompt la prescription. 
 
-Art.R. 1452-2 
+Art. R. 1452-2 
 
 La demande est formée au greffe du conseil de prud'hommes. Elle peut être adressée par lettre recommandée. 
 
@@ -18002,7 +18029,7 @@ demande.
 Le greffe délivre ou envoie immédiatement un récépissé au demandeur. Ce récépissé, ou un document qui lui est joint,
 reproduit les dispositions des articles R. 1453-1, R. 1453-2, R. 1454-10 et R. 1454-12 à R. 1454-18. 
 
-Art.R. 1452-3 
+Art. R. 1452-3 
 
 Le greffe informe le demandeur des lieu, jour et heure de la séance du bureau de conciliation à laquelle l'affaire sera
 appelée : 
@@ -18013,7 +18040,7 @@ appelée :
 
 Le greffe invite le demandeur à se munir de toutes les pièces utiles. 
 
-Art.R. 1452-4 
+Art. R. 1452-4 
 
 Le greffe convoque le défendeur devant le bureau de conciliation par lettre recommandée avec avis de réception. Il lui
 adresse le même jour une copie de cette convocation par lettre simple. 
@@ -18026,15 +18053,15 @@ La convocation indique :
 
 3° Les chefs de la demande ; 
 
-4° Le fait que des décisions exécutoires à titre provisoire pourront même en son absence, être prises contre lui par le
-bureau de conciliation au vu des éléments fournis par son adversaire. 
+4° Le fait que des décisions exécutoires à titre provisoire pourront même en son absence être prises contre lui par le bureau
+de conciliation au vu des éléments fournis par son adversaire. 
 
 Elle invite le défendeur à se munir de toutes les pièces utiles. 
 
 Cette convocation, ou un document qui lui est joint, reproduit les dispositions des articles R. 1453-1, R. 1453-2, R. 1454-10
 et R. 1454-12 à R. 1454-18. 
 
-Art.R. 1452-5 
+Art. R. 1452-5 
 
 Sous réserve des dispositions du second alinéa de l'article R. 1452-1, la convocation du défendeur devant le bureau de
 conciliation vaut citation en justice. 
@@ -18043,7 +18070,7 @@ conciliation vaut citation en justice.
   <font size="1">Section 2 : Recevabilité des demandes </font>
 </h1>
 
-Art.R. 1452-6 
+Art. R. 1452-6 
 
 Toutes les demandes liées au contrat de travail entre les mêmes parties font, qu'elles émanent du demandeur ou du défendeur,
 l'objet d'une seule instance. 
@@ -18051,7 +18078,7 @@ l'objet d'une seule instance.
 Cette règle n'est pas applicable lorsque le fondement des prétentions est né ou révélé postérieurement à la saisine du
 conseil de prud'hommes. 
 
-Art.R. 1452-7 
+Art. R. 1452-7 
 
 Les demandes nouvelles dérivant du même contrat de travail sont recevables même en appel. L'absence de tentative de
 conciliation ne peut être opposée. 
@@ -18059,7 +18086,7 @@ conciliation ne peut être opposée.
 Même si elles sont formées en cause d'appel, les juridictions statuant en matière prud'homale connaissent les demandes
 reconventionnelles ou en compensation qui entrent dans leur compétence. 
 
-Art.R. 1452-8 
+Art. R. 1452-8 
 
 En matière prud'homale, l'instance n'est périmée que lorsque les parties s'abstiennent d'accomplir, pendant le délai de deux
 ans mentionné à l'article 386 du code de procédure civile, les diligences qui ont été expressément mises à leur charge par la
@@ -18069,13 +18096,13 @@ juridiction.
   <font size="1">Chapitre III : Assistance et représentation des parties </font>
 </h1>
 
-Art.R. 1453-1 
+Art. R. 1453-1 
 
 Les parties comparaissent en personne, sauf à se faire représenter en cas de motif légitime. 
 
 Elles peuvent se faire assister. 
 
-Art.R. 1453-2 
+Art. R. 1453-2 
 
 Les personnes habilitées à assister ou à représenter les parties sont : 
 
@@ -18089,11 +18116,11 @@ Les personnes habilitées à assister ou à représenter les parties sont :
 
 L'employeur peut également se faire assister ou représenter par un membre de l'entreprise ou de l'établissement. 
 
-Art.R. 1453-3 
+Art. R. 1453-3 
 
 La procédure prud'homale est orale. 
 
-Art.R. 1453-4 
+Art. R. 1453-4 
 
 Les prétentions des parties ou la référence qu'elles font aux prétentions qu'elles auraient formulées par écrit sont notées
 au dossier ou consignées dans un procès-verbal. 
@@ -18106,7 +18133,7 @@ au dossier ou consignées dans un procès-verbal.
   <font size="1">Section 1 : Mise en état de l'affaire </font>
 </h1>
 
-Art.R. 1454-1 
+Art. R. 1454-1 
 
 Afin de mettre l'affaire en état d'être jugée, le bureau de conciliation ou le bureau de jugement peut, par une décision non
 susceptible de recours, désigner un ou deux conseillers rapporteurs en vue de réunir sur cette affaire les éléments
@@ -18117,19 +18144,18 @@ d'information utiles à la décision de cette formation.
 
 La décision qui désigne un ou deux conseillers rapporteurs fixe un délai pour l'exécution de leur mission. 
 
-Art.R. 1454-2 
+Art. R. 1454-2 
 
 Le conseiller rapporteur est un conseiller prud'homme. Il peut faire partie de la formation de jugement. 
 
 Lorsque deux conseillers rapporteurs sont désignés dans la même affaire, l'un est employeur, l'autre est salarié. Ils
 procèdent ensemble à leur mission. 
 
-Art.R. 1454-3 
+Art. R. 1454-3 
 
 Le conseiller rapporteur peut entendre les parties. Il peut les inviter à fournir les explications nécessaires à la solution
-du litige. Il peut les mettre en demeure de produire 
-
-dans le délai qu'il détermine tous documents ou justifications propres à éclairer le conseil de prud'hommes. 
+du litige. Il peut les mettre en demeure de produire dans le délai qu'il détermine tous documents ou justifications propres à
+éclairer le conseil de prud'hommes. 
 
 En cas de non-production des documents et justifications mentionnés au premier alinéa, le rapporteur peut renvoyer l'affaire
 devant le bureau de jugement. Ce bureau tire toute conséquence de l'abstention de la partie ou de son refus. 
@@ -18137,17 +18163,17 @@ devant le bureau de jugement. Ce bureau tire toute conséquence de l'abstention 
 Le conseiller rapporteur peut, pour la manifestation de la vérité, auditionner toute personne et procéder ou faire procéder à
 toutes mesures d'instruction. 
 
-Art.R. 1454-4 
+Art. R. 1454-4 
 
 Le conseiller rapporteur ou le bureau de jugement peut ordonner toutes mesures nécessaires à la conservation des preuves ou
 des objets litigieux. 
 
-Art.R. 1454-5 
+Art. R. 1454-5 
 
 Si les parties se concilient, même partiellement, le conseiller rapporteur constate dans un procès-verbal l'accord
 intervenu. 
 
-Art.R. 1454-6 
+Art. R. 1454-6 
 
 Les décisions prises par le conseiller rapporteur sont provisoires et n'ont pas autorité de chose jugée au principal. 
 
@@ -18158,7 +18184,7 @@ particulières à l'expertise.
   <font size="1">Section 2 : Conciliation </font>
 </h1>
 
-Art.R. 1454-7 
+Art. R. 1454-7 
 
 Le bureau de conciliation est composé d'un conseiller prud'homme salarié et d'un conseiller prud'homme employeur. Le
 règlement particulier de chaque section établit un roulement entre tous les conseillers prud'hommes salariés et employeurs. 
@@ -18170,7 +18196,7 @@ Exceptionnellement, et dans les cas prévus à l'article L. 1441-38, les deux me
 conseillers prud'hommes salariés ou parmi les conseillers prud'hommes employeurs si la section ne se trouve composée que d'un
 seul collège. 
 
-Art.R. 1454-8 
+Art. R. 1454-8 
 
 Les séances du bureau de conciliation ont lieu au moins une fois par semaine, sauf si aucune affaire n'est inscrite au rôle.
 Elles ne sont pas publiques. 
@@ -18184,7 +18210,7 @@ défaillant et désigné comme suppléant dans les formes prévues aux articles 
 A défaut de cette désignation, la présidence revient au conseiller le plus ancien en fonctions dans la même assemblée. S'il y
 a égalité dans la durée des fonctions, la présidence revient au conseiller le plus âgé. 
 
-Art.R. 1454-10 
+Art. R. 1454-10 
 
 Le bureau de conciliation entend les explications des parties et s'efforce de les concilier. Un procès-verbal est établi. 
 
@@ -18194,14 +18220,14 @@ lieu, que l'accord a fait l'objet en tout ou partie d'une exécution immédiate 
 A défaut de conciliation totale, les prétentions qui restent contestées et les déclarations faites par les parties sur ces
 prétentions sont notées au dossier ou au procès-verbal par le greffier sous le contrôle du président. 
 
-Art.R. 1454-11 
+Art. R. 1454-11 
 
 En cas de conciliation, un extrait du procès-verbal, qui mentionne s'il y a lieu l'exécution immédiate totale ou partielle de
 l'accord intervenu, peut être délivré. 
 
 Il vaut titre exécutoire. 
 
-Art.R. 1454-12 
+Art. R. 1454-12 
 
 Lorsqu'au jour fixé pour la tentative de conciliation, le demandeur ne comparaît pas sans avoir justifié en temps utile d'un
 motif légitime, le bureau de conciliation déclare la demande et la citation caduques. 
@@ -18213,7 +18239,7 @@ précise qu'en cas d'absence du mandataire le bureau de conciliation pourra déc
 La demande ne peut être réitérée qu'une seule fois, à moins que le bureau de conciliation, saisi sans forme, ne constate que
 le demandeur n'a pu comparaître ou être représenté sur sa deuxième demande par suite d'un cas fortuit. 
 
-Art.R. 1454-13 
+Art. R. 1454-13 
 
 Lorsqu'au jour fixé pour la tentative de conciliation, le défendeur ne comparaît pas, le bureau de conciliation applique les
 dispositions de l'article R. 1454-17, après avoir, s'il y a lieu, usé des pouvoirs prévus à l'article R. 1454-14. 
@@ -18229,7 +18255,7 @@ avec avis de réception du greffe, soit par acte d'huissier de justice à la dil
 Cet acte intervient, à peine de caducité de la demande constatée par le bureau de conciliation, dans les six mois de la
 décision de ce bureau. 
 
-Art.R. 1454-14 
+Art. R. 1454-14 
 
 Le bureau de conciliation peut, en dépit de toute exception de procédure et même si le défendeur ne se présente pas,
 ordonner : 
@@ -18253,7 +18279,7 @@ e) Le versement de l'indemnité de fin de contrat prévue à l'article L. 1243-8
 
 4° Toutes mesures nécessaires à la conservation des preuves ou des objets litigieux. 
 
-Art.R. 1454-15 
+Art. R. 1454-15 
 
 Le montant total des provisions allouées en application du 2° de l'article R. 1454-14 est chiffré par le bureau de
 conciliation. Il ne peut excéder six mois de salaire calculés sur la moyenne des trois derniers mois de salaire. 
@@ -18263,7 +18289,7 @@ Le bureau de conciliation peut liquider, à titre provisoire, les astreintes qu'
 Lorsqu'il est fait application de l'article mentionné au premier alinéa, les séances du bureau de conciliation sont
 publiques. 
 
-Art.R. 1454-16 
+Art. R. 1454-16 
 
 Les décisions prises en application des articles R. 1454-14 et R. 1454-15 sont provisoires. Elles n'ont pas autorité de chose
 jugée au principal. Elles sont exécutoires par provision le cas échéant au vu de la minute. 
@@ -18271,7 +18297,7 @@ jugée au principal. Elles sont exécutoires par provision le cas échéant au v
 Elles ne sont pas susceptibles d'opposition. Elles ne peuvent être frappées d'appel ou de pourvoi en cassation qu'en même
 temps que le jugement sur le fond, sous réserve des règles particulières à l'expertise. 
 
-Art.R. 1454-17 
+Art. R. 1454-17 
 
 En l'absence de conciliation ou en cas de conciliation partielle, le bureau de conciliation renvoie l'affaire au bureau de
 jugement lorsque le demandeur et le défendeur sont présents ou représentés et que l'affaire est en état d'être jugée sans que
@@ -18289,7 +18315,7 @@ n'apparaît pas préalablement nécessaire, le bureau de conciliation renvoie l'
 être convoqué devant ce bureau verbalement avec émargement au dossier. Dans ce cas, un bulletin mentionnant la date de
 l'audience est remis au demandeur par le greffier. 
 
-Art.R. 1454-18 
+Art. R. 1454-18 
 
 Le bureau de conciliation peut fixer le délai de communication des pièces ou des notes que les parties comptent produire à
 l'appui de leurs prétentions. 
@@ -18298,7 +18324,7 @@ l'appui de leurs prétentions.
   <font size="1">Section 3 : Jugement </font>
 </h1>
 
-Art.R. 1454-19 
+Art. R. 1454-19 
 
 A moins qu'elles ne l'aient été verbalement avec émargement au dossier, les parties sont convoquées par le greffe devant le
 bureau de jugement par lettre recommandée avec avis de réception. Le greffe leur adresse le même jour une copie de la
@@ -18312,7 +18338,7 @@ La convocation indique :
 
 3° Les points qui demeurent en litige. 
 
-Art.R. 1454-20 
+Art. R. 1454-20 
 
 Lorsque le défendeur ne comparaît pas le jour du jugement, il est statué sur le fond. Toutefois, si le défendeur a justifié
 en temps utile d'un motif légitime, il est convoqué à une prochaine audience du bureau de jugement par lettre recommandée. 
@@ -18321,14 +18347,14 @@ Lorsqu'il apparaît que le défendeur n'a pas reçu, sans faute de sa part, la p
 décide qu'il sera convoqué à une prochaine audience, soit par lettre recommandée avec avis de réception, soit par acte
 d'huissier à la diligence du demandeur. 
 
-Art.R. 1454-21 
+Art. R. 1454-21 
 
 Dans le cas où le bureau de jugement déclare la citation caduque en application de l'article 468 du code de procédure civile,
 la demande peut être renouvelée une fois. 
 
-Elle est portée directement devant le bureau de jugement selon les modalités prévues à l'article R. 1454-19 et R. 1454-20. 
+Elle est portée directement devant le bureau de jugement selon les modalités prévues aux articles R. 1454-19 et R. 1454-20. 
 
-Art.R. 1454-22 
+Art. R. 1454-22 
 
 Lorsque les parties se concilient, même partiellement, le bureau de jugement constate dans un procès-verbal la teneur de
 l'accord intervenu.
@@ -18336,27 +18362,27 @@ l'accord intervenu.
 S'il y a lieu, le procès-verbal précise que l'accord a fait l'objet en tout ou partie d'une exécution immédiate devant le
 bureau de jugement. 
 
-Art.R. 1454-23 
+Art. R. 1454-23 
 
 Les décisions du bureau de jugement sont prises à la majorité absolue des voix. 
 
 Si cette majorité ne peut se former, il est procédé comme en cas de partage des voix. Les débats sont repris. 
 
-Art.R. 1454-24 
+Art. R. 1454-24 
 
 En l'absence du président ou du vice-président appelé à présider la séance du bureau de jugement, la présidence peut être
 exercée par un conseiller faisant partie de l'assemblée à laquelle appartient le président ou le vice-président défaillant et
 désigné comme suppléant dans les formes prévues aux articles L. 1423-3 à L. 1423-8 et R. 1423-13. 
 
-A défaut de cette désignation, la présidence revient au conseiller le plus ancien en fonctions dans la même assemblée.S'il y
+A défaut de cette désignation, la présidence revient au conseiller le plus ancien en fonctions dans la même assemblée. S'il y
 a égalité dans la durée des fonctions, la présidence revient au conseiller le plus âgé.
 
-Art.R. 1454-25 
+Art. R. 1454-25 
 
 A l'issue des débats et si la décision n'est pas immédiatement rendue, la date de prononcé du jugement est rappelée aux
 parties par émargement au dossier ou par la remise d'un bulletin par le greffier. 
 
-Art.R. 1454-26 
+Art. R. 1454-26 
 
 Les décisions du conseil de prud'hommes sont notifiées aux parties par le greffe de ce conseil ou de la cour d'appel au lieu
 de leur domicile. La notification est faite par lettre recommandée avec avis de réception sans préjudice du droit des parties
@@ -18365,11 +18391,11 @@ de les faire signifier par acte d'huissier de justice.
 Les parties sont verbalement informées des mesures d'administration judiciaire avec émargement au dossier ou par lettre
 simple. 
 
-Art.R. 1454-27 
+Art. R. 1454-27 
 
 Les conseils de prud'hommes ne connaissent pas de l'exécution forcée de leurs jugements. 
 
-Art.R. 1454-28 
+Art. R. 1454-28 
 
 Sont de droit exécutoires à titre provisoire : 
 
@@ -18386,7 +18412,7 @@ moyenne est mentionnée dans le jugement.
   <font size="1">Section 4 : Départage </font>
 </h1>
 
-Art.R. 1454-29 
+Art. R. 1454-29 
 
 En cas de partage des voix, l'affaire est renvoyée à une audience ultérieure du bureau de conciliation ou du bureau de
 jugement. Cette audience, présidée par le juge départiteur, est tenue dans le mois du renvoi. 
@@ -18394,7 +18420,7 @@ jugement. Cette audience, présidée par le juge départiteur, est tenue dans le
 En cas de partage des voix au sein de la formation de référé, l'affaire est renvoyée à une audience présidée par le juge
 départiteur. Cette audience est tenue sans délai et au plus tard dans les quinze jours du renvoi. 
 
-Art.R. 1454-30 
+Art. R. 1454-30 
 
 Lorsqu'un conseiller prud'homme ne peut siéger à l'audience de départage, il pourvoit lui-même à son remplacement par un
 conseiller prud'homme de la même assemblée et appartenant, selon le cas, à sa section, à sa chambre ou à la formation de
@@ -18408,7 +18434,7 @@ Le conseiller prud'homme, le président ou le vice-président informe immédiate
 Devant le bureau de jugement, les remplacements ne peuvent avoir lieu que dans la limite d'un conseiller prud'homme de chaque
 assemblée. 
 
-Art.R. 1454-31 
+Art. R. 1454-31 
 
 Quel que soit le nombre des conseillers prud'hommes présents et même en l'absence de tout conseiller prud'homme, lorsque lors
 de l'audience de départage la formation n'est pas réunie au complet, le juge départiteur statue seul à l'issue des débats. Il
@@ -18417,7 +18443,7 @@ recueille préalablement l'avis des conseillers présents.
 Lorsqu'à l'issue des débats et si la décision n'est pas immédiatement rendue, la date de prononcé du jugement est rappelée
 aux parties par émargement au dossier ou par la remise d'un bulletin par le greffier. 
 
-Art.R. 1454-32 
+Art. R. 1454-32 
 
 Lorsqu'un renouvellement général des conseils de prud'hommes rend impossible le renvoi d'une affaire ayant fait l'objet d'un
 partage de voix antérieur à ce renouvellement, cette affaire est reprise, suivant le cas, devant le bureau de conciliation,
@@ -18433,12 +18459,12 @@ Ces bureaux et formation reprennent l'affaire dans leur composition nouvelle sou
   <font size="1">Section 1 : Composition et organisation de la formation de référé </font>
 </h1>
 
-Art.R. 1455-1 
+Art. R. 1455-1 
 
 Chaque conseil de prud'hommes comprend une formation de référé commune à l'ensemble des sections de ce conseil. Cette
 formation est composée d'un conseiller prud'homme salarié et d'un conseiller prud'homme employeur. 
 
-Art.R. 1455-2 
+Art. R. 1455-2 
 
 L'Assemblée générale du conseil de prud'hommes désigne chaque année, selon les dispositions des articles L. 1423-3, L.
 1423-5, R. 1423-11 et R. 1423-12, les conseillers prud'hommes employeurs et les conseillers prud'hommes salariés appelés à
@@ -18452,12 +18478,12 @@ trois mois à compter de l'installation du conseil. Jusqu'à ces désignations, 
 est composée du président et du vice-président ainsi que du conseiller que ceux-ci désignent au sein de leur collège
 respectif. 
 
-Art.R. 1455-3 
+Art. R. 1455-3 
 
 La présidence des audiences de référé est assurée alternativement par un conseiller prud'homme employeur et par un conseiller
 prud'homme salarié dans les conditions fixées par le règlement intérieur. 
 
-Art.R. 1455-4 
+Art. R. 1455-4 
 
 Le règlement intérieur du conseil de prud'hommes fixe les jour et heure habituels des audiences de référé. Une audience est
 prévue au moins une fois par semaine. 
@@ -18469,22 +18495,22 @@ plusieurs audiences supplémentaires ou déplacer les jour et heure de la ou des
   <font size="1">Section 2 : Compétence de la formation de référé </font>
 </h1>
 
-Art.R. 1455-5 
+Art. R. 1455-5 
 
 Dans tous les cas d'urgence, la formation de référé peut, dans la limite de la compétence des conseils de prud'hommes,
 ordonner toutes les mesures qui ne se heurtent à aucune contestation sérieuse ou que justifie l'existence d'un différend. 
 
-Art.R. 1455-6 
+Art. R. 1455-6 
 
 La formation de référé peut toujours, même en présence d'une contestation sérieuse, prescrire les mesures conservatoires ou
 de remise en état qui s'imposent pour prévenir un dommage imminent ou pour faire cesser un trouble manifestement illicite. 
 
-Art.R. 1455-7 
+Art. R. 1455-7 
 
 Dans le cas où l'existence de l'obligation n'est pas sérieusement contestable, la formation de référé peut accorder une
 provision au créancier ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire. 
 
-Art.R. 1455-8 
+Art. R. 1455-8 
 
 S'il lui apparaît que la demande formée devant elle excède ses pouvoirs, et lorsque cette demande présente une particulière
 urgence, la formation de référé peut, dans les conditions suivantes, renvoyer l'affaire devant le bureau de jugement : 
@@ -18501,7 +18527,7 @@ en justice.
   <font size="1">Section 3 : Procédure de référé </font>
 </h1>
 
-Art.R. 1455-9 
+Art. R. 1455-9 
 
 La demande en référé est formée par le demandeur soit par acte d'huissier de justice, soit dans les conditions prévues à
 l'article R. 1452-1. 
@@ -18512,11 +18538,11 @@ la veille de l'audience.
 Lorsque la demande est formée dans les conditions prévues à l'article R. 1452-1, les dispositions des articles R. 1452-2 à R.
 1452-4 sont applicables. 
 
-Art.R. 1455-10 
+Art. R. 1455-10 
 
 Les articles 484, 486 et 488 à 492 du code de procédure civile sont applicables au référé prud'homal. 
 
-Art.R. 1455-11 
+Art. R. 1455-11 
 
 Le délai d'appel est de quinze jours.
 
@@ -18526,23 +18552,23 @@ L'appel est formé, instruit et jugé conformément aux articles R. 1461-1 et R.
   <font size="1">Chapitre VI : Litiges en matière de licenciements pour motif économique </font>
 </h1>
 
-Art.R. 1456-1 
+Art. R. 1456-1 
 
 En cas de recours portant sur un licenciement pour motif économique, l'employeur dépose ou adresse par lettre recommandée
 avec avis de réception au greffe du conseil les éléments mentionnés à l'article L. 1235-9. 
 
-Ces éléments sont transmis dans un délai huit jours à compter de la date à laquelle l'employeur reçoit la convocation devant
-le bureau de conciliation pour qu'ils soient versés au dossier. La convocation destinée à l'employeur rappelle cette
+Ces éléments sont transmis dans un délai de huit jours à compter de la date à laquelle l'employeur reçoit la convocation
+devant le bureau de conciliation pour qu'ils soient versés au dossier. La convocation destinée à l'employeur rappelle cette
 obligation. 
 
 Le greffe informe le salarié qu'il peut prendre connaissance ou copie au greffe des éléments communiqués. Cette information
 est faite verbalement lors de la présentation de la demande ou par lettre simple. 
 
-Art.R. 1456-2 
+Art. R. 1456-2 
 
 La séance de conciliation prévue à l'article R. 1454-10 a lieu dans le mois de la saisine du conseil de prud'hommes. 
 
-Art.R. 1456-3 
+Art. R. 1456-3 
 
 Le bureau de conciliation détermine les mesures et délais nécessaires à l'instruction de l'affaire ou à l'information du
 conseil, après avis des parties. 
@@ -18552,12 +18578,12 @@ Il fixe le délai de communication des pièces ou des notes que celles-ci compte
 Les mesures d'instruction et d'information sont exécutées dans un délai n'excédant pas trois mois. Ce délai ne peut être
 prorogé par le bureau de jugement que sur la demande motivée du technicien ou du conseiller rapporteur commis. 
 
-Art.R. 1456-4 
+Art. R. 1456-4 
 
 Le bureau de conciliation fixe la date d'audience du bureau du jugement qui statue dans un délai ne pouvant excéder six mois
 à compter de la date à laquelle l'affaire lui a été renvoyée. 
 
-Art.R. 1456-5 
+Art. R. 1456-5 
 
 Lorsque, lors de la séance de conciliation, une section du conseil de prud'hommes est saisie par plusieurs demandeurs de
 procédures contestant le motif économique d'un licenciement collectif, le bureau de conciliation en ordonne la jonction. 
@@ -18566,11 +18592,11 @@ procédures contestant le motif économique d'un licenciement collectif, le bure
   <font size="1">Chapitre VII : Récusation </font>
 </h1>
 
-Art.R. 1457-1 
+Art. R. 1457-1 
 
 La procédure de récusation des conseillers prud'hommes est régie par les articles 341 à 355 du code de procédure civile. 
 
-Art.R. 1457-2 
+Art. R. 1457-2 
 
 Lorsque la demande de récusation est portée devant la cour d'appel, elle est jugée par la chambre sociale. 
 
@@ -18582,7 +18608,7 @@ Lorsque la demande de récusation est portée devant la cour d'appel, elle est j
   <font size="1">Chapitre Ier : Appel </font>
 </h1>
 
-Art.R. 1461-1 
+Art. R. 1461-1 
 
 Le délai d'appel est d'un mois.
 
@@ -18593,7 +18619,7 @@ Outre les mentions prescrites par l'article 58 du code de procédure civile, la 
 fait appel et mentionne les chefs de celui-ci auxquels se limite l'appel. Elle comporte également le nom et l'adresse du
 représentant de l'appelant devant la cour. Elle est accompagnée d'une copie de la décision. 
 
-Art.R. 1461-2 
+Art. R. 1461-2 
 
 L'appel est porté devant la chambre sociale de la cour d'appel. 
 
@@ -18603,7 +18629,7 @@ Il est formé, instruit et jugé suivant la procédure sans représentation obli
   <font size="1">Chapitre II : Pourvoi en cassation </font>
 </h1>
 
-Art.R. 1462-1 
+Art. R. 1462-1 
 
 Le conseil de prud'hommes statue en dernier ressort : 
 
@@ -18613,12 +18639,12 @@ Le conseil de prud'hommes statue en dernier ressort :
 pièce que l'employeur est tenu de délivrer, à moins que le jugement ne soit en premier ressort en raison du montant des
 autres demandes. 
 
-Art.R. 1462-2 
+Art. R. 1462-2 
 
 Le jugement n'est pas susceptible d'appel si la seule demande reconventionnelle en dommages-intérêts, fondée exclusivement
 sur la demande initiale, dépasse le taux de la compétence en dernier ressort. 
 
-Art.D. 1462-3 
+Art. D. 1462-3 
 
 Le taux de compétence en dernier ressort du conseil de prud'hommes est de 4 000 euros. 
 
@@ -18626,7 +18652,7 @@ Le taux de compétence en dernier ressort du conseil de prud'hommes est de 4 000
   <font size="1">Chapitre III : Opposition </font>
 </h1>
 
-Art.R. 1463-1
+Art. R. 1463-1
 
 L'opposition est portée directement devant le bureau de jugement. 
 
@@ -18636,10 +18662,9 @@ L'opposition est caduque si la partie qui l'a faite ne se présente pas. Elle ne
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Modifie**:
 
-	  - Décret n°2008-244  du 7 mars 2008 - art. 1 (V)
-	  - Décret n°2009-289 du 13 mars 2009 - art. 4
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cite**:
 
@@ -18647,80 +18672,6 @@ L'opposition est caduque si la partie qui l'a faite ne se présente pas. Elle ne
 	  - Code de procédure civile - art. 468 (V)
 	  - Code de procédure civile - art. 484 (V)
 	  - Code de procédure civile - art. 58 (M)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code du travail - art. D1462-3 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1451-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1451-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1451-3 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1452-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1452-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1452-3 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1452-4 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1452-5 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1452-6 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1452-7 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1452-8 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1453-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1453-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1453-3 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1453-4 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-10 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-11 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-12 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-13 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-14 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-15 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-16 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-17 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-18 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-19 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-20 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-21 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-22 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-23 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-24 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-25 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-26 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-27 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-28 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-29 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-3 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-30 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-31 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-32 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-4 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-5 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-6 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-7 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-8 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1454-9 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-10 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-11 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-3 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-4 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-5 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-6 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-7 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-8 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1455-9 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1456-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1456-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1456-3 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1456-4 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1456-5 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1457-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1457-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1461-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1461-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1462-1 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1462-2 (V)
-	  - PILOTE_SUIVEUR: Code du travail - art. R1463-1 (V)
 
 
 ## Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.
@@ -19053,15 +19004,19 @@ Le délai d'appel est de quinze jours.
 
 ###### Article 899
 
-Les parties sont tenues, sauf dispositions contraires, de constituer avoué.
+Les parties sont tenues, sauf dispositions contraires, de constituer avocat.
 
-La constitution de l'avoué emporte élection de domicile.
+La constitution de l'avocat emporte élection de domicile.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ##### Section I : La procédure avec représentation obligatoire.
@@ -19083,28 +19038,22 @@ L'appel est formé par déclaration unilatérale ou par requête conjointe.
 
 La déclaration d'appel est faite par acte contenant, outre les mentions prescrites par l'article 58, et à peine de nullité : 
 
-1° La constitution de l'avoué de l'appelant ; 
+1° La constitution de l'avocat de l'appelant ; 
 
 2° L'indication de la décision attaquée ; 
 
 3° L'indication de la cour devant laquelle l'appel est porté. 
 
-La déclaration indique, le cas échéant, les chefs du jugement auxquels l'appel est limité et le nom de l'avocat chargé
-d'assister l'appelant devant la cour. 
+La déclaration indique, le cas échéant, les chefs du jugement auxquels l'appel est limité.
 
-Elle est signée par l'avoué. Elle est accompagnée d'une copie de la décision. Elle est remise au greffe et vaut demande
-d'inscription au rôle.
+Elle est signée par l'avocat constitué. Elle est accompagnée d'une copie de la décision. Elle est remise au greffe et vaut
+demande d'inscription au rôle.
 
 **Nota:**
 
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
+
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -19112,6 +19061,11 @@ du 1er janvier 2011.
 	  - Code de commerce - art. R661-6 (VD)
 	  - Code de procédure civile - art. 85 (V)
 	  - Code de procédure civile - art. ANNEXE, art. 42 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cite**:
 
@@ -19121,16 +19075,16 @@ du 1er janvier 2011.
 ###### Article 902
 
 Le greffier adresse aussitôt à chacun des intimés, par lettre simple, un exemplaire de la déclaration avec l'indication de
-l'obligation de constituer avoué. 
+l'obligation de constituer avocat. 
 
-En cas de retour au greffe de la lettre de notification ou lorsque l'intimé n'a pas constitué avoué dans un délai d'un mois à
-compter de l'envoi de la lettre de notification, le greffier en avise l'avoué de l'appelant afin que celui-ci procède par
-voie de signification de la déclaration d'appel.
+En cas de retour au greffe de la lettre de notification ou lorsque l'intimé n'a pas constitué avocat dans un délai d'un mois
+à compter de l'envoi de la lettre de notification, le greffier en avise l'avocat de l'appelant afin que celui-ci procède par
+voie de signification de la déclaration d'appel. 
 
-A peine de  caducité de la déclaration d'appel, la signification doit être effectuée dans le mois de l'avis adressé par le
-greffe.
+A peine de caducité de la déclaration d'appel, la signification doit être effectuée dans le mois de l'avis adressé par le
+greffe. 
 
-A peine de nullité, l'acte de signification indique à l'intimé que, faute pour lui de constituer avoué dans un délai de
+A peine de nullité, l'acte de signification indique à l'intimé que, faute pour lui de constituer avocat dans un délai de
 quinze jours à compter de celle-ci, il s'expose à ce qu'un arrêt soit rendu contre lui sur les seuls éléments fournis par son
 adversaire et que, faute de conclure dans le délai mentionné à l'article 909, il s'expose à ce que ses écritures soient
 déclarées d'office irrecevables.
@@ -19149,7 +19103,7 @@ déclarées d'office irrecevables.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 2
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 	**Cite**:
 
@@ -19158,36 +19112,31 @@ déclarées d'office irrecevables.
 
 ###### Article 903
 
-Dès qu'il est constitué, l'avoué de l'intimé en informe celui de l'appelant et remet une copie de son acte de constitution au
-greffe.
+Dès qu'il est constitué, l'avocat de l'intimé en informe celui de l'appelant et remet une copie de son acte de constitution
+au greffe.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 3
 
 	**Cité par**:
 
 	  - Arrêté du 30 mars 2011 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 904
 
 Le premier président désigne la chambre à laquelle l'affaire est distribuée. 
 
-Le greffe en avise les avoués constitués.
-
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
+Le greffe en avise les avocats constitués.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 905
@@ -19230,25 +19179,20 @@ du 1er janvier 2011.
 
 ###### Article 906
 
-Les conclusions sont notifiées et les pièces communiquées simultanément par l'avoué de chacune des parties à celui de l'autre
-partie ; en cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avoués constitués.
+Les conclusions sont notifiées et les pièces communiquées simultanément par l'avocat de chacune des parties à celui de
+l'autre partie ; en cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avocats constitués. 
 
 Copie des conclusions est remise au greffe avec la justification de leur notification.
 
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 30 mars 2011 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 907
@@ -19348,10 +19292,10 @@ du 1er janvier 2011.
 
 ###### Article 911
 
-Sous les sanctions prévues aux articles 908 à 910, les conclusions sont notifiées aux avoués des parties dans le délai de
+Sous les sanctions prévues aux articles 908 à 910, les conclusions sont notifiées aux avocats des parties dans le délai de
 leur remise au greffe de la cour. Sous les mêmes sanctions, elles sont signifiées dans le mois suivant l'expiration de ce
-délai aux parties qui n'ont pas constitué avoué ; cependant, si, entre-temps, celles-ci ont constitué avoué avant la
-signification des conclusions, il est procédé par voie de notification à leur avoué.
+délai aux parties qui n'ont pas constitué avocat ; cependant, si, entre-temps, celles-ci ont constitué avocat avant la
+signification des conclusions, il est procédé par voie de notification à leur avocat.
 
 **Liens relatifs à cet article**
 
@@ -19362,7 +19306,7 @@ signification des conclusions, il est procédé par voie de notification à leur
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 6
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 	**Cite**:
 
@@ -19428,37 +19372,28 @@ Le conseiller de la mise en état examine l'affaire dans les quinze jours suivan
 communiquer les pièces. 
 
 Il fixe la date de la clôture et celle des plaidoiries. Toutefois, si l'affaire nécessite de nouveaux échanges de
-conclusions, il en fixe le calendrier, après avoir recueilli l'avis des avoués. 
+conclusions, il en fixe le calendrier, après avoir recueilli l'avis des avocats. 
 
 Dans tous les cas, les dossiers, comprenant les copies des pièces visées dans les conclusions et numérotées dans l'ordre du
 bordereau récapitulatif, sont déposés à la cour quinze jours avant la date fixée pour l'audience de plaidoiries.
 
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 913
 
-Le conseiller de la mise en état peut enjoindre aux avoués de mettre leurs conclusions en conformité avec les dispositions de
-l'article 954.
+Le conseiller de la mise en état peut enjoindre aux avocats de mettre leurs conclusions en conformité avec les dispositions
+de l'article 954.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 9
-
-	**Anciens textes**:
-
-	  - Code de procédure civile - art. 913-1 (MMN)
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 	**Cite**:
 
@@ -19557,7 +19492,7 @@ d'exécution provisoire.
 ###### Article 918
 
 La requête doit exposer la nature du péril, contenir les conclusions sur le fond et viser les pièces justificatives. Une
-expédition de la décision ou une copie certifiée conforme par l'avoué doit y être jointe.
+expédition de la décision ou une copie certifiée conforme par l'avocat doit y être jointe. 
 
 Copie de la requête et des pièces doit être remise au premier président pour être versée au dossier de la cour.
 
@@ -19565,7 +19500,11 @@ Copie de la requête et des pièces doit être remise au premier président pour
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 919
@@ -19595,7 +19534,7 @@ Copies de la requête, de l'ordonnance du premier président, et un exemplaire d
 ou une copie de la déclaration d'appel dans le cas mentionné au troisième alinéa de l'article 919, sont joints à
 l'assignation. 
 
-L'assignation informe l'intimé que, faute de constituer avoué avant la date de l'audience, il sera réputé s'en tenir à ses
+L'assignation informe l'intimé que, faute de constituer avocat avant la date de l'audience, il sera réputé s'en tenir à ses
 moyens de première instance. 
 
 L'assignation indique à l'intimé qu'il peut prendre connaissance au greffe de la copie des pièces visées dans la requête et
@@ -19605,11 +19544,11 @@ lui fait sommation de communiquer avant la date de l'audience les nouvelles piè
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 	**Cite**:
 
@@ -19618,14 +19557,18 @@ lui fait sommation de communiquer avant la date de l'audience les nouvelles piè
 
 ###### Article 921
 
-L'intimé est tenu de constituer avoué avant la date de l'audience, faute de quoi il sera réputé s'en tenir à ses moyens de
+L'intimé est tenu de constituer avocat avant la date de l'audience, faute de quoi il sera réputé s'en tenir à ses moyens de
 première instance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 922
@@ -19650,35 +19593,39 @@ La caducité est constatée d'office par ordonnance du président de la chambre 
 ###### Article 923
 
 Le jour de l'audience, le président s'assure qu'il s'est écoulé un temps suffisant depuis l'assignation pour que la partie
-assignée ait pu préparer sa défense. Le cas échéant, il ordonne sa réassignation.
+assignée ait pu préparer sa défense. Le cas échéant, il ordonne sa réassignation. 
 
-Si l'intimé a constitué avoué, les débats ont lieu sur-le-champ ou à la plus prochaine audience, en l'état où l'affaire se
-trouve.
+Si l'intimé a constitué avocat, les débats ont lieu sur-le-champ ou à la plus prochaine audience, en l'état où l'affaire se
+trouve. 
 
-Si l'intimé n'a pas constitué avoué, la cour statue par arrêt réputé contradictoire en se fondant, au besoin, sur les moyens
+Si l'intimé n'a pas constitué avocat, la cour statue par arrêt réputé contradictoire en se fondant, au besoin, sur les moyens
 de première instance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 924
 
 La requête aux fins de fixation d'un jour d'audience peut être présentée dans un délai de deux mois à compter de la
-déclaration d'appel par l'intimé qui a constitué avoué.
+déclaration d'appel par l'intimé qui a constitué avocat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-1420 du 23 décembre 2004 - art. 1 () JORF 29 décembre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 925
@@ -19707,27 +19654,30 @@ La requête conjointe n'est recevable que si elle est présentée par toutes les
 
 ###### Article 927
 
-Outre les mentions prescrites à l'article 57, la requête conjointe contient, à peine d'irrecevabilité :
+Outre les mentions prescrites à l'article 57, la requête conjointe contient, à peine d'irrecevabilité : 
 
-1° Une copie certifiée conforme du jugement ;
+1° Une copie certifiée conforme du jugement ; 
 
-2° Le cas échéant, l'indication des chefs du jugement auquel l'appel est limité ;
+2° Le cas échéant, l'indication des chefs du jugement auquel l'appel est limité ; 
 
-3° La constitution des avoués des parties.
+3° La constitution des avocats des parties. 
 
-La requête conjointe fait mention, le cas échéant, du nom des avocats chargés d'assister les parties devant la cour.
-
-Elle est signée par les avoués constitués.
+Elle est signée par les avocats constitués.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 57
+	  - Code de procédure civile - art. 57 (V)
 
 
 ###### Article 928
@@ -19750,13 +19700,17 @@ La cour est saisie  par la remise au greffe de la requête conjointe. Cette remi
 Le premier président fixe les jour et heure auxquels l'affaire sera appelée ; s'il y a lieu, il désigne la chambre à laquelle
 elle est distribuée.
 
-Avis en est donné aux avoués constitués.
+Avis en est donné aux avocats constitués.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 930
@@ -19781,7 +19735,7 @@ sur support papier et remis au greffe. En ce cas, la déclaration d'appel est re
 a de parties destinataires, plus deux. La remise est constatée par la mention de sa date et le visa du greffier sur chaque
 exemplaire, dont l'un est immédiatement restitué.
 
-Les avis, avertissements ou convocations sont remis aux avoués des parties par voie électronique, sauf impossibilité pour
+Les avis, avertissements ou convocations sont remis aux avocats des parties par voie électronique, sauf impossibilité pour
 cause étrangère à l'expéditeur.
 
 Un arrêté du garde des sceaux définit les modalités des échanges par voie électronique.
@@ -19807,9 +19761,9 @@ compter de la date fixée par l'arrêté prévu à cet article et au plus tard a
 	  - Code de procédure civile - art. 955-2 (Ab)
 	  - Code de procédure civile - art. 959 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 5
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ##### Section II : La procédure sans représentation obligatoire.
@@ -19819,15 +19773,15 @@ compter de la date fixée par l'arrêté prévu à cet article et au plus tard a
 Les parties se défendent elles-mêmes.
 
 Elles ont la faculté de se faire assister ou représenter selon les règles applicables devant la juridiction dont émane le
-jugement ; elles peuvent aussi se faire assister ou représenter par un avoué.
+jugement.
 
-Le représentant doit, s'il n'est avocat ou avoué, justifier d'un pouvoir spécial.
+Le représentant doit, s'il n'est avocat, justifier d'un pouvoir spécial.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -19847,6 +19801,10 @@ Le représentant doit, s'il n'est avocat ou avoué, justifier d'un pouvoir spéc
 	  - Code de procédure civile - art. 1209-1 (V)
 	  - Code des postes et des communications électroni... - art. R11-8 (V)
 	  - Code monétaire et financier - art. R621-46 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article 932
@@ -20172,18 +20130,18 @@ dispositions aux organismes qui doivent être tenus informés de la procédure e
 ###### Article 950
 
 L'appel contre une décision gracieuse est formé, par une déclaration faite ou adressée par pli recommandé au secrétariat de
-la juridiction qui a rendu la décision, par un avocat ou un avoué, ou un autre officier public ou ministériel dans les cas où
-ce dernier y est habilité par les dispositions en vigueur.
+la juridiction qui a rendu la décision, par un avocat ou un officier public ou ministériel dans les cas où ce dernier y est
+habilité par les dispositions en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°76-714 1976-07-29 art. 9 JORF 30 juillet 1976
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cité par**:
 
@@ -20304,20 +20262,20 @@ d'appel et aux constitutions d'avoué afférentes aux appels formés à compter 
 
 ###### Article 955-2
 
-L'avis est donné soit aux avoués par simple bulletin, soit, dans les affaires dispensées du ministère d'avoué, aux parties
-par lettre recommandée avec demande d'avis de réception.
+L'avis est donné soit aux avocats par simple bulletin, soit, dans les affaires dispensées du ministère d'avocat, aux parties
+par lettre recommandée avec demande d'avis de réception. 
 
-Copie de la requête est jointe à l'avis donné aux avoués ou aux parties.
+Copie de la requête est jointe à l'avis donné aux avocats ou aux parties.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 12 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ### Sous-titre II : Les pouvoirs du premier président.
@@ -20373,19 +20331,18 @@ contradictoirement.
 
 ###### Article 959
 
-La requête est présentée par un avoué dans le cas où l'instance devant la cour implique constitution d'avoué dans les
+La requête est présentée par un avocat dans le cas où l'instance devant la cour implique constitution d'avocat dans les
 conditions prévues à l'article 930-1.
 
 **Nota:**
 
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions de l'article 6 ne sont applicables qu'aux déclarations
-d'appel et aux constitutions d'avoué afférentes aux appels formés à compter du 1er janvier 2011.
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 6
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 	**Cite**:
 
@@ -20396,14 +20353,16 @@ d'appel et aux constitutions d'avoué afférentes aux appels formés à compter 
 
 #### Chapitre Ier : Constitution d'avoué et conclusions.
 
+#### Chapitre Ier : Constitution d'avocat et conclusions.
+
 ###### Article 960
 
-La constitution d'avoué par l'intimé ou par toute personne qui devient partie en cours d'instance est dénoncée aux autres
-parties par notification entre avoués.
+La constitution d'avocat par l'intimé ou par toute personne qui devient partie en cours d'instance est dénoncée aux autres
+parties par notification entre avocats. 
 
-Cet acte indique :
+Cet acte indique : 
 
-a) Si la partie est une personne physique, ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance ;
+a) Si la partie est une personne physique, ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance ; 
 
 b) S'il s'agit d'une personne morale, sa forme, sa dénomination, son siège social et l'organe qui la représente légalement.
 
@@ -20411,20 +20370,24 @@ b) S'il s'agit d'une personne morale, sa forme, sa dénomination, son siège soc
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Arrêté du 30 mars 2011 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+
 
 ###### Article 961
 
-Les conclusions des parties sont signées par leur avoué et notifiées dans la forme des notifications entre avoués. Elles ne
-sont pas recevables tant que les indications mentionnées à l'alinéa 2 de l'article précédent n'ont pas été fournies.
+Les conclusions des parties sont signées par leur avocat et notifiées dans la forme des notifications entre avocats. Elles ne
+sont pas recevables tant que les indications mentionnées à l'alinéa 2 de l'article précédent n'ont pas été fournies. 
 
-La communication des pièces produites est valablement attestée par la signature de l'avoué destinataire apposée sur le
-bordereau établi par l'avoué qui procède à la communication.
+La communication des pièces produites est valablement attestée par la signature de l'avocat destinataire apposée sur le
+bordereau établi par l'avocat qui procède à la communication.
 
 **Liens relatifs à cet article**
 
@@ -20436,11 +20399,11 @@ bordereau établi par l'avoué qui procède à la communication.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Nouveau code de procédure civile 960
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 962
@@ -20662,32 +20625,32 @@ Lorsque la procédure est à jour fixe, les dispositions de l'article 824 sont o
 
 ###### Article 970
 
-Le greffier avise immédiatement les avoués dont la constitution lui est connue du numéro d'inscription au répertoire général,
-des jour et heure fixés par le premier président pour l'appel de l'affaire et de la chambre à laquelle celle-ci est
+Le greffier avise immédiatement les avocats dont la constitution lui est connue du numéro d'inscription au répertoire
+général, des jour et heure fixés par le premier président pour l'appel de l'affaire et de la chambre à laquelle celle-ci est
 distribuée.
 
-Cet avis est donné aux avoués dont la constitution n'est pas encore connue, dès la remise au greffe de l'acte de
+Cet avis est donné aux avocats dont la constitution n'est pas encore connue, dès la remise au greffe de l'acte de
 constitution.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 971
 
-Les avoués et les avocats de chacune des parties sont convoqués ou avisés des charges qui leur incombent, par le président ou
-par le conseiller de la mise en état selon le mode d'instruction de l'affaire ; ils sont convoqués ou avisés verbalement,
-avec émargement et mention au dossier.
+Les avocats de chacune des parties sont convoqués ou avisés des charges qui leur incombent, par le président ou par le
+conseiller de la mise en état selon le mode d'instruction de l'affaire ; ils sont convoqués ou avisés verbalement, avec
+émargement et mention au dossier.
 
 En cas d'absence, ils le sont par simple bulletin daté et signé par le greffier et remis ou déposé par celui-ci au lieu où
-sont effectuées, au siège de la cour, les notifications entre avoués.
+sont effectuées, au siège de la cour, les notifications entre avocats.
 
 Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
 
@@ -20695,11 +20658,11 @@ Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
 ###### Article 972
@@ -22396,7 +22359,7 @@ saisie.
 ###### Article 1036
 
 Le secrétaire de la juridiction de renvoi adresse aussitôt, par lettre simple, à chacune des parties à l'instance de
-cassation, copie de la déclaration avec, s'il y a lieu, l'indication de l'obligation de constituer avocat ou avoué.
+cassation, copie de la déclaration avec, s'il y a lieu, l'indication de l'obligation de constituer avocat.
 
 En cas de non-comparution, les parties défaillantes sont citées de la même manière que le sont les défendeurs devant la
 juridiction dont émane la décision cassée.
@@ -22405,11 +22368,11 @@ juridiction dont émane la décision cassée.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
 ###### Article 1037
@@ -23098,12 +23061,12 @@ marge des actes de naissance par application de l'article précédent.
 ###### Article 1061-1
 
 En matière de contestation sur les conditions des funérailles, le tribunal d'instance est saisi à la requête de la partie la
-plus diligente selon un des modes prévus à l'article 829.
+plus diligente selon un des modes prévus à l'article 829. 
 
-Il statue dans les vingt-quatre heures.
+Il statue dans les vingt-quatre heures. 
 
 Appel peut être interjeté dans les vingt-quatre heures de la décision devant le premier président de la cour d'appel. Celui-
-ci ou son délégué est saisi sans forme et doit statuer immédiatement. Les parties ne sont pas tenues de constituer avoué.
+ci ou son délégué est saisi sans forme et doit statuer immédiatement. Les parties ne sont pas tenues de constituer avocat. 
 
 La décision exécutoire sur minute est notifiée au maire chargé de l'exécution.
 
@@ -23111,15 +23074,15 @@ La décision exécutoire sur minute est notifiée au maire chargé de l'exécuti
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-460 du 13 mai 2005 - art. 31 () JORF 14 mai 2005
+	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 829
+	  - Code de procédure civile - art. 829 (V)
 
 
 ### Chapitre IV : Les absents
@@ -28294,25 +28257,17 @@ l'article 430 du code civil, même si elles ne sont pas intervenues à l'instanc
 
 Le délai d'appel est de quinze jours. 
 
-Les parties ne sont pas tenues de constituer avocat ou avoué.
+Les parties ne sont pas tenues de constituer avocat.
 
 **Nota:**
 
-Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
-ne s'applique pas aux recours formés avant cette date.
 
-II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
-droit au juge aux affaires familiales.
-
-Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
-procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
-2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cité par**:
 
@@ -28321,8 +28276,8 @@ procédures, à l'exception des actes valant convocation devant le juge des tute
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1239-1 (V)
-	  - Code civil - art. 430 (V)
+	  - Code de procédure civile - art. 1239-1
+	  - Code civil - art. 430
 
 
 ###### Article 1239-1
@@ -28919,19 +28874,19 @@ alinéa de l'article 1251 ou de la décision du juge des tutelles prévue à l'a
 
 2° Les personnes qui ont qualité, selon l'article 430 du code civil, pour demander l'ouverture d'une mesure de protection ; 
 
-3° Les avocats, avoués, notaires et huissiers de justice qui justifient de l'utilité de la déclaration dans le cadre d'un
-acte relevant de l'exercice de leurs fonctions.
+3° Les avocats, notaires et huissiers de justice qui justifient de l'utilité de la déclaration dans le cadre d'un acte
+relevant de l'exercice de leurs fonctions.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1628 du 23 décembre 2009 - art. 14
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1249 (V)
-	  - Code de procédure civile - art. 1251
+	  - Code de procédure civile - art. 1249
+	  - Code de procédure civile - art. 1251 (V)
 	  - Code civil - art. 430
 
 
