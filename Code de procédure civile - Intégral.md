@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-05-06
+Version Consolidée au 2012-06-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -9853,30 +9853,6 @@ caractère exécutoire. Cette justification peut résulter d'un certificat étab
 	  - Code de procédure civile - art. 1082 (V)
 	  - Code de procédure civile - art. 1082-1 (V)
 	  - Code de procédure civile - art. 1294 (VD)
-
-
-###### Article 507
-
-La remise du jugement ou de l'acte à l'huissier de justice vaut pouvoir pour toute exécution pour laquelle il n'est pas exigé
-de pouvoir spécial.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Cité par**:
-
-	  - Décret n°96-1080 du 12 décembre 1996 - art. 10 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art. 9
-
-	**Nouveaux textes**:
-
-	  - Code des procédures civiles d'exécution - art. R141-1 (V)
 
 
 ###### Article 508
@@ -20351,8 +20327,6 @@ conditions prévues à l'article 930-1.
 
 ### Sous-titre III : Dispositions diverses.
 
-#### Chapitre Ier : Constitution d'avoué et conclusions.
-
 #### Chapitre Ier : Constitution d'avocat et conclusions.
 
 ###### Article 960
@@ -29886,10 +29860,10 @@ prix ainsi que les modalités de la publicité.
 
 ###### Article 1278
 
-Sont déclarés communs au présent chapitre les dispositions des articles 72 à 82, 87, 89, 90, 100 à 106 du décret n° 2006-936
-du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
+Sont déclarés communes au présent chapitre les dispositions des articles R. 322-39 à R. 322-49, R. 322-59, R. 322-61, R.
+322-62, R. 322-66 à R. 322-72 du code des procédures civiles d'exécution. 
 
-Néanmoins, lorsqu'elles sont reçues par un notaire, les enchères peuvent être faites sans ministère d'avocat.
+Néanmoins, lorsqu'elles sont reçues par un notaire, les enchères peuvent être faites sans ministère d'avocat. 
 
 Dans le cas de vente devant notaire, s'il y a lieu à folle enchère, la procédure est poursuivie devant le tribunal. Le
 certificat constatant que l'adjudicataire n'a pas exécuté les conditions est délivré par le notaire. Le procès-verbal
@@ -29897,43 +29871,38 @@ d'adjudication est déposé au greffe.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Cite**:
 
-	  - Décret n°2006-936 2006-07-27 art. 72 à 82, art. 87, art. 89, art. 90, art. 100 à 106
+	  - Code des procédures civiles d'exécution - art. R322-39 (V)
+	  - Code des procédures civiles d'exécution - art. R322-59 (V)
+	  - Code des procédures civiles d'exécution - art. R322-61 (V)
+	  - Code des procédures civiles d'exécution - art. R322-66 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 128 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 
 ###### Article 1279
 
 Dans les dix jours qui suivent l'adjudication définitive, toute personne peut faire une surenchère du dixième en se
-conformant aux formalités et délais prévus par les dispositions des articles 94 à 99 du décret n° 2006-936 du 27 juillet 2006
-relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
+conformant aux formalités et délais prévus par les dispositions des articles R. 322-50 à R. 322-55 du code des procédures
+civile d'exécution. 
 
 Dans le cas où l'adjudication a eu lieu devant notaire, le tribunal, par le jugement qui valide la surenchère, renvoie la
-nouvelle adjudication devant le même notaire qui procède selon le cahier des charges précédemment dressé.
+nouvelle adjudication devant le même notaire qui procède selon le cahier des charges précédemment dressé. 
 
 Lorsqu'une seconde adjudication a lieu après surenchère, aucune autre surenchère des mêmes biens ne peut avoir lieu.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Cite**:
 
-	  - Décret n°2006-936 2006-07-27 art. 94 à 99
+	  - Code des procédures civiles d'exécution - art. R322-50 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 2006-12-23 art. 9 8° JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 	**Cité par**:
 
@@ -30351,68 +30320,57 @@ débiteur.
 ###### Article 1281-17
 
 A la diligence du créancier poursuivant, il est procédé aux formalités de publicité dans les conditions prévues par les
-articles 63 à 71 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du
-prix d'un immeuble et par l'article 2206 du code civil, avec la précision du montant de la surenchère.
+articles R. 322-30 à R. 322-38 du code des procédures civiles d'exécution et par l'article 2206 du code civil, avec la
+précision du montant de la surenchère.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Cite**:
 
-	  - Décret n°2006-936 2006-07-27 art. 63 à 71
-	  - Code civil - art. 2206 (M)
+	  - Code des procédures civiles d'exécution - art. R322-30 (V)
+	  - Code civil - art. 2206 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 
 ###### Article 1281-18
 
-Il est procédé à la vente aux enchères dans les conditions prévues aux articles 72 à 91 du même décret.
+Il est procédé à la vente aux enchères dans les conditions prévues aux articles R. 322-39 à R. 322-63 du même code. 
 
-Aucune surenchère ne pourra être reçue.
+Aucune surenchère ne pourra être reçue. 
 
-La réitération des enchères peut être poursuivie dans les conditions prévues aux articles 100 à 106 du même décret.
+La réitération des enchères peut être poursuivie dans les conditions prévues aux articles R. 322-66 à R. 322-72 du même code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Cite**:
 
-	  - Décret n°2006-936 2006-07-27 art. 72 à 91
+	  - Code des procédures civiles d'exécution - art. R322-39 (V)
+	  - Code des procédures civiles d'exécution - art. R322-66 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 
 ###### Article 1281-19
 
 En cas de carence du créancier poursuivant ou du tiers détenteur, la subrogation peut être demandée par les créanciers
-inscrits dans les formes prévues par l'article 10 du même décret.
+inscrits dans les formes prévues par l'article R. 311-9 du même code. 
 
 Le créancier poursuivant reste tenu de sa garantie malgré la subrogation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Cite**:
 
-	  - Décret n°2006-936 2006-07-27 art. 10
+	  - Code des procédures civiles d'exécution - art. R311-9 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 
 ## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.
@@ -31598,9 +31556,9 @@ administrer la succession.
 ###### Article 1324
 
 Lorsqu'il n'y a pas de successible connu et si le contrat de location a pris fin, le président du tribunal de grande instance
-ou son délégué peut autoriser le propriétaire des locaux à faire enlever les meubles et à les faire soit déposer dans un
-autre lieu, soit cantonner dans une partie du local qui était occupé par le défunt. Les frais d'enlèvement et de conservation
-des meubles sont avancés par le propriétaire. 
+ou son délégué peut autoriser, dans les conditions prévues au premier alinéa de l'article 1325, le propriétaire des locaux à
+faire enlever les meubles et à les faire soit déposer dans un autre lieu, soit cantonner dans une partie du local qui était
+occupé par le défunt. Les frais d'enlèvement et de conservation des meubles sont avancés par le propriétaire. 
 
 L'huissier de justice assiste au déplacement des meubles et dresse procès-verbal des opérations. 
 
@@ -31616,18 +31574,19 @@ les meubles et il conserve les clés.
 
 	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Modifié par**:
-
-	  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2012-783 du 30 mai 2012 (V)
 	  - Décret n°2016-230 du 26 février 2016 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2012-783 du 30 mai 2012 - art. 3
+
 	**Cite**:
 
 	  - Code de procédure civile - art. 1322
+	  - Code de procédure civile - art. 1325
 
 
 ###### Article 1325
@@ -32148,22 +32107,19 @@ La déclaration des créances est faite par lettre recommandée avec demande d'a
 Lorsque la vente des biens dépendant de la succession n'est pas faite dans les formes prévues par le code général de la
 propriété des personnes publiques pour l'aliénation, à titre onéreux, du domaine immobilier ou du domaine mobilier
 appartenant à l'Etat, elle est réalisée, pour les immeubles, selon les règles prévues aux articles 1271 à 1281 et, pour les
-meubles, dans les formes prévues aux articles 110 à 114 et 116 du décret n° 92-755 du 31 juillet 1992.
+meubles, dans les formes prévues aux articles R. 221-33 à R. 221-38 et R. 221-39 du code des procédures civiles d'exécution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Cite**:
 
-	  - Décret n°92-755 1992-07-31 art. 110 à 114, art. 116
-	  - Nouveau code de procédure civile 1271 à 1281
+	  - Code des procédures civiles d'exécution - art. R221-33 (V)
+	  - Code des procédures civiles d'exécution - art. R221-39 (V)
+	  - Code de procédure civile - art. 1271 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 
 ###### Article 1349
@@ -32772,30 +32728,26 @@ président du tribunal de grande instance au deuxième alinéa de l'article 1363
 ###### Article 1377
 
 Le tribunal ordonne, dans les conditions qu'il détermine, la vente par adjudication des biens qui ne peuvent être facilement
-partagés ou attribués.
+partagés ou attribués. 
 
 La vente est faite, pour les immeubles, selon les règles prévues aux articles 1271 à 1281 et, pour les meubles, dans les
-formes prévues aux articles 110 à 114 et 116 du décret n° 92-755 du 31 juillet 1992.
+formes prévues aux articles R. 221-33 à R. 221-38 et R. 221-39 du code des procédures civiles d'exécution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Cite**:
-
-	  - Décret n°92-755 1992-07-31 art. 110 à 114, art. 116
-	  - Nouveau code de procédure civile 1271 à 1281
-
-	**Créé par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 	**Cité par**:
 
 	  - Décret n°2017-862 du 9 mai 2017 - art. 2
 	  - Code de commerce - art. R444-71 (VD)
+
+	**Cite**:
+
+	  - Code des procédures civiles d'exécution - art. R221-33 (V)
+	  - Code des procédures civiles d'exécution - art. R221-39 (V)
 
 
 ###### Article 1378
