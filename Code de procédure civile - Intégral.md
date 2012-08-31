@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-09-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -12655,9 +12655,7 @@ représentant sous réserve des règles particulières à la notification des ju
 
 ###### Article 653
 
-La date de la signification d'un acte d'huissier de justice, sous réserve de l'article 647-1, est celle du jour où elle est
-faite à personne, à domicile, à résidence ou, dans le cas mentionné à l'article 659, celle de l'établissement du procès-
-verbal.
+La signification est faite sur support papier ou par voie électronique.
 
 **Liens relatifs à cet article**
 
@@ -12668,15 +12666,11 @@ verbal.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 67 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 647-1, 659
+	  - Décret n°2012-366 du 15 mars 2012 - art. 2
 
 
 ###### Article 654
@@ -12912,10 +12906,35 @@ nécessaires à la sauvegarde des droits du demandeur.
 	  - Nouveau code de procédure civile 659, 660
 
 
+###### Article 662-1
+
+La signification par voie électronique est faite par la transmission de l'acte à son destinataire dans les conditions prévues
+par le titre XXI du présent livre. Les articles 654 à 662 ne sont pas applicables. 
+
+L'acte de signification porte mention du consentement du destinataire à ce mode de signification. 
+
+La signification par voie électronique est une signification faite à personne si le destinataire de l'acte en a pris
+connaissance le jour de la transmission de l'acte. Dans les autres cas, la signification est une signification faite à
+domicile et l'huissier de justice doit aviser l'intéressé de la signification, le premier jour ouvrable, par lettre simple
+mentionnant la délivrance de la signification par voie électronique ainsi que la nature de l'acte et le nom du requérant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-366 du 15 mars 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 654 (V)
+
+
 ###### Article 663
 
 Les originaux des actes d'huissier de justice doivent porter mention des formalités et diligences auxquelles donne lieu
-l'application des dispositions de la présente section, avec l'indication de leurs dates.
+l'application des dispositions de la présente section, avec l'indication de leurs dates. En cas de signification par voie
+électronique faite à personne, ils mentionnent les date et heure auxquelles le destinataire de l'acte en a pris
+connaissance. 
 
 Lorsque la signification n'a pas été faite à personne, l'original de l'acte doit préciser les nom et qualité de la personne à
 laquelle la copie a été laissée. Il en est de même dans le cas prévu à l'article 654 (alinéa 2).
@@ -12924,7 +12943,11 @@ laquelle la copie a été laissée. Il en est de même dans le cas prévu à l'a
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-366 du 15 mars 2012 - art. 4
 
 	**Cité par**:
 
@@ -12945,6 +12968,26 @@ fériés ou chômés, si ce n'est en vertu de la permission du juge en cas de n�
 	**Codifié par**:
 
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 664-1
+
+La date de la signification d'un acte d'huissier de justice, sous réserve de l'article 647-1, est celle du jour où elle est
+faite à personne, à domicile, à résidence ou, dans le cas mentionné à l'article 659, celle de l'établissement du procès-
+verbal. 
+
+La date et l'heure de la signification par voie électronique sont celles de l'envoi de l'acte à son destinataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-366 du 15 mars 2012 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 647-1
+	  - Code de procédure civile - art. 659
 
 
 #### Section II : La notification des actes en la forme ordinaire.
@@ -33232,19 +33275,19 @@ de payer les sommes réclamées.
 
 ###### Article 1414
 
-Si la signification est faite à la personne du débiteur, l'huissier de justice doit porter verbalement à la connaissance du
-débiteur les indications mentionnées à l'article 1413 ; l'accomplissement de cette formalité est mentionné dans l'acte de
-signification.
+Si la signification est faite à la personne du débiteur et à moins qu'elle ne soit effectuée par voie électronique,
+l'huissier de justice doit porter verbalement à la connaissance du débiteur les indications mentionnées à l'article 1413 ;
+l'accomplissement de cette formalité est mentionné dans l'acte de signification.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2012-366 du 15 mars 2012 - art. 11
 
 	**Cite**:
 
@@ -33541,15 +33584,16 @@ rendue, après l'expiration du délai d'opposition, dans les cas exceptionnels p
 
 ###### Article 1424-6
 
-Si la signification est faite à la personne du défendeur, l'huissier de justice doit porter verbalement à sa connaissance les
-informations qualifiées d'importantes par le formulaire d'injonction de payer européenne ainsi que les indications
-mentionnées à l'article 1424-5.L'accomplissement de cette formalité est mentionné dans l'acte de signification.
+Si la signification est faite à la personne du défendeur et à moins qu'elle ne soit effectuée par voie électronique,
+l'huissier de justice doit porter verbalement à sa connaissance les informations qualifiées d'importantes par le formulaire
+d'injonction de payer européenne ainsi que les indications mentionnées à l'article 1424-5. L'accomplissement de cette
+formalité est mentionné dans l'acte de signification.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+	  - Décret n°2012-366 du 15 mars 2012 - art. 11
 
 	**Cite**:
 
