@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-09-01
+Version Consolidée au 2012-10-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23585,6 +23585,22 @@ fondée sur un des cas de divorce définis à l'article 229 du code civil une de
 	  - Code civil - art. 247 (V)
 
 
+###### Article 1078
+
+La demande mentionne, le cas échéant, l'existence d'une ordonnance de protection concernant les époux en cours d'exécution à
+la date de son introduction. L'ordonnance, accompagnée de la preuve de sa notification, est jointe à la demande.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1037 du 10 septembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 373-2-12
+
+
 ##### Paragraphe 2 : La prestation compensatoire
 
 ###### Article 1079
@@ -26021,6 +26037,75 @@ la résidence.
 	**Cite**:
 
 	  - Code civil - art. 373-2-9 (V)
+
+
+###### Article 1180-3
+
+Lorsque le juge aux affaires familiales prononce ou modifie une mesure, prise en application de l'article 373-2-6 du code
+civil, d'interdiction de sortie du territoire d'un enfant mineur sans l'autorisation de ses deux parents, le greffe du juge
+aux affaires familiales en avise aussitôt le procureur de la République qui fait inscrire cette mesure au fichier des
+personnes recherchées ou fait procéder à la modification de l'inscription. 
+
+Lorsqu'une requête en divorce ou en séparation de corps mentionne l'existence d'une ordonnance de protection en cours
+d'exécution comportant une mesure d'interdiction de sortie du territoire d'un mineur sans l'autorisation de ses deux parents,
+le greffe du juge aux affaires familiales en avise aussitôt le procureur de la République. Celui-ci, après s'être assuré que
+les conditions mentionnées par l'article 1136-13 sont réunies, fait procéder en conséquence aux modifications de
+l'inscription au fichier des personnes recherchées en ce qui concerne la durée de validité de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1037 du 10 septembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1136-13
+	  - Code civil - art. 373-2-6
+
+
+###### Article 1180-4
+
+I.-La sortie du territoire d'un mineur faisant l'objet d'une mesure, prise par le juge des affaires familiales en application
+de l'article 373-2-6 du code civil, d'interdiction de sortie du territoire sans l'autorisation des deux parents, est
+subordonnée au recueil de l'accord de chacun des parents selon les modalités prévues aux II, III et IV du présent article. 
+
+II.-Chacun des deux parents, conjointement ou séparément, déclare, devant un officier de police judiciaire ou, sous le
+contrôle de celui-ci, devant un agent de police judiciaire, autoriser l'enfant à quitter le territoire, en précisant la
+période pendant laquelle cette sortie est autorisée ainsi que la destination de cette sortie. Cette déclaration est faite au
+plus tard cinq jours avant la date à laquelle la sortie du territoire du mineur est envisagée, sauf si le projet de sortie du
+territoire est motivé par le décès d'un membre de la famille du mineur ou en cas de circonstances exceptionnelles dûment
+justifiées. 
+
+Lors de la déclaration, l'officier ou l'agent de police judiciaire vérifie l'identité du ou des déclarants et leur qualité de
+parent de l'enfant. 
+
+Un procès-verbal est dressé et signé par l'officier ou l'agent de police judiciaire et le ou les parents déclarant. Un
+récépissé est remis à chaque parent déclarant. 
+
+L'officier ou l'agent de police judiciaire transmet le procès-verbal pour information au procureur de la République. Il
+communique sans délai les informations utiles au gestionnaire du fichier des personnes recherchées afin que ce service
+procède à l'inscription de l'autorisation dans ce fichier. 
+
+III.-Les dispositions du II ne sont pas applicables lorsque le mineur voyage en compagnie de ses deux parents. 
+
+IV.-Lorsque le mineur voyage en compagnie d'un seul de ses parents, la procédure prévue au II n'est pas applicable pour le
+recueil de l'autorisation du parent qui accompagne le mineur lors de la sortie du territoire. L'autorisation de l'autre
+parent est recueillie préalablement à la sortie du territoire du mineur, conformément à la procédure prévue au II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1037 du 10 septembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 373-2-6
 
 
 #### Section II : L'assistance éducative
