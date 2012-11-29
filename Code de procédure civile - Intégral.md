@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-10-01
+Version Consolidée au 2012-11-30
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -26108,6 +26108,30 @@ parent est recueillie préalablement à la sortie du territoire du mineur, confo
 	  - Code civil - art. 373-2-6
 
 
+###### Article 1180-5
+
+Lorsqu'en statuant sur les droits de visite et d'hébergement, à titre provisoire ou sur le fond, le juge décide que le droit
+de visite ou la remise de l'enfant s'exercera dans un espace de rencontre qu'il désigne en application des articles 373-2-1
+ou 373-2-9 du code civil, il fixe la durée de la mesure et détermine la périodicité et la durée des rencontres. 
+
+Le juge peut à tout moment modifier ou rapporter sa décision d'office, à la demande conjointe des parties ou de l'une d'entre
+elles ou à la demande du ministère public. 
+
+En cas de difficulté dans la mise en œuvre de la mesure, la personne gestionnaire de l'espace de rencontre en réfère
+immédiatement au juge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1312 du 27 novembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 373-2-1
+	  - Code civil - art. 373-2-9
+
+
 #### Section II : L'assistance éducative
 
 ###### Article 1181
@@ -26677,6 +26701,22 @@ des enfants convoque les parties à une audience afin d'établir un bilan de la 
 	**Modifié par**:
 
 	  - Décret n°2008-1486 du 30 décembre 2008 - art. 1
+
+
+###### Article 1199-2
+
+La désignation d'un espace de rencontre en application de la dernière phrase du quatrième alinéa de l'article 375-7 du code
+civil donne lieu à une information préalable du juge des enfants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1312 du 27 novembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 375-7
 
 
 ###### Article 1200
