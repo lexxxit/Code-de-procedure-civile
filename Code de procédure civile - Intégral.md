@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-11-30
+Version Consolidée au 2012-12-27
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23031,24 +23031,25 @@ La date à laquelle la mention est apposée est portée sur l'extrait conservé 
 ###### Article 1060
 
 La mention portée en marge de l'acte de naissance, des jugements qui rejettent une demande ou mettent fin à une mesure
-figurant au répertoire civil, est complétée d'office par l'indication qu'elle emporte radiation des mentions antérieures.
+figurant au répertoire civil, est complétée d'office par l'indication qu'elle emporte radiation des mentions antérieures. 
 
-L'indication de radiation peut être aussi portée à la suite des mentions prévues par l'article 1292 lorsque la partie
-intéressée a rapporté la preuve de l'extinction de l'instance.
+L'indication de radiation peut être aussi portée à la suite des mentions prévues par les articles 1292 et 1300-4 lorsque la
+partie intéressée a rapporté la preuve de l'extinction de l'instance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°89-511 du 20 juillet 1989 - art. 29 () JORF 25 juillet 1989
+	  - Décret n°2012-1443 du 24 décembre 2012 - art. 2
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 1292
+	  - Code de procédure civile - art. 1292 (V)
+	  - Code de procédure civile - art. 1300-4 (V)
 
 
 ###### Article 1061
@@ -25997,25 +25998,37 @@ ministère public.
 
 ###### Article 1180-1
 
-La déclaration conjointe prévue à l'article 372 du code civil est recueillie par le greffier en chef du tribunal de grande
-instance du lieu où demeure l'enfant. Le greffier en chef établit un procès-verbal dont il remet une copie à chacun des
-parents.
+La déclaration conjointe prévue aux articles 365 et 372 du code civil est remise ou envoyée en trois exemplaires par lettre
+recommandée au greffier en chef du tribunal de grande instance du lieu où demeure l'enfant. 
 
-L'attribution de l'exercice de l'autorité parentale par déclaration conjointe relève de la matière gracieuse.
+Elle est accompagnée des pièces suivantes : 
+
+1° La copie intégrale de l'acte de naissance de l'enfant et, le cas échéant, du jugement prononçant l'adoption simple de
+l'enfant ; 
+
+2° Pour chacun des parents, la copie intégrale de son acte de naissance ainsi que la copie d'un document officiel délivré par
+une administration publique comportant son nom, son prénom, sa date et son lieu de naissance, sa photographie et sa
+signature. 
+
+Le greffier en chef appose son visa et la date sur chacun des exemplaires de la déclaration conjointe. Il en notifie, par
+lettre recommandée, un exemplaire à chacun des parents dans les conditions prévues aux articles 665 à 670-3 et en conserve un
+exemplaire au greffe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 16 () JORF 12 décembre 2002
+	  - Décret n°2012-1443 du 24 décembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code civil - art. 372 (M)
+	  - Code de procédure civile - art. 665 (V)
+	  - Code civil - art. 365 (V)
+	  - Code civil - art. 372 (V)
 
 
 ###### Article 1180-2
@@ -29481,9 +29494,9 @@ Les dispositions de l'article 1253 sont applicables au mandat de protection futu
 
 Par dérogation aux dispositions de l'article 1242, le recours contre les délibérations du conseil de famille des pupilles de
 l'Etat est formé par requête signée par un avocat et remise ou adressée par lettre recommandée avec demande d'avis de
-réception au greffe du tribunal de grande instance. 
+réception au greffe    de la cour d'appel. 
 
-La procédure prévue aux articles 1244 et 1245 est applicable.
+La procédure prévue aux articles 1244 à 1245-1 est applicable.
 
 **Liens relatifs à cet article**
 
@@ -29495,7 +29508,7 @@ La procédure prévue aux articles 1244 et 1245 est applicable.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2012-1443 du 24 décembre 2012 - art. 3
 
 	**Cite**:
 
