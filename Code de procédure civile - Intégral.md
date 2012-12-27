@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-12-27
+Version Consolidée au 2012-12-28
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -3536,24 +3536,28 @@ chaque matière, au vu d'un extrait ou d'une copie certifiée conforme du jugeme
 
 ###### Article 155
 
-La mesure d'instruction est exécutée sous le contrôle du juge qui l'a ordonnée lorsqu'il n'y procède pas lui-même.
+La mesure d'instruction est exécutée sous le contrôle du juge qui l'a ordonnée lorsqu'il n'y procède pas lui-même. 
 
 Lorsque la mesure est ordonnée par une formation collégiale, le contrôle est exercé par le juge qui était chargé de
 l'instruction. A défaut, il l'est par le président de la formation collégiale s'il n'a pas été confié à un membre de celle-
-ci.
+ci. 
 
-Le juge mentionné au premier alinéa et la formation collégiale peuvent également avoir recours au juge désigné dans les
-conditions de l'article 155-1.
+Le contrôle de l'exécution de cette mesure peut également être assuré par le juge désigné dans les conditions de l'article
+155-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 4 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 155-1
 
 
 ###### Article 155-1
@@ -16512,6 +16516,31 @@ décisions de la juridiction.
 
 #### Chapitre II : Mesures d'administration judiciaire.
 
+###### Article 819
+
+Le juge chargé de contrôler l'exécution des mesures d'instruction, désigné dans les conditions de l'article 155-1, est
+compétent pour assurer le contrôle des mesures d'instruction ordonnées en référé, sauf s'il en est décidé autrement lors de
+la répartition des juges entre les différentes chambres et services du tribunal. 
+
+Il est également compétent pour les mesures ordonnées par le juge de la mise en état en application de l'article 771, sauf si
+ce dernier s'en réserve le contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 155-1
+	  - Code de procédure civile - art. 771
+
+
 ###### Article 820
 
 Le président du tribunal de grande instance peut déléguer à un ou plusieurs magistrats tout ou partie des pouvoirs qui lui
@@ -20553,6 +20582,19 @@ demande du greffe de la cour d'appel.
 
 
 #### Chapitre II : Mesures d'administration judiciaire.
+
+###### Article 964-2
+
+La cour d'appel qui infirme une ordonnance de référé ayant refusé une mesure d'instruction peut confier le contrôle de la
+mesure d'instruction qu'elle ordonne au juge chargé de contrôler les mesures d'instruction de la juridiction dont émane
+l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 5
+
 
 ###### Article 965
 
@@ -37158,15 +37200,17 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna, à l'exception des dispositions des titres IV et V du livre II, du
-chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les
-conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction en vigueur le lendemain de la publication du
+décret n° 2012-1451 du 24 décembre 2012, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du
+titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions
+définies au présent livre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 6
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16, v. init.
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 	**Cité par**:
 
