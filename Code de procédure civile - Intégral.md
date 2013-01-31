@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-02-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -5205,21 +5205,31 @@ Il n'est désigné qu'une seule personne à titre d'expert à moins que le juge 
 
 ###### Article 265
 
-La décision qui ordonne l'expertise :
+La décision qui ordonne l'expertise : 
 
-Expose les circonstances qui rendent nécessaire l'expertise et, s'il y a lieu, la nomination de plusieurs experts ;
+Expose les circonstances qui rendent nécessaire l'expertise et, s'il y a lieu, la nomination de plusieurs experts ou la
+désignation en tant qu'expert d'une personne ne figurant pas sur l'une des listes établies en application de l'article 2 de
+la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires ; 
 
-Nomme l'expert ou les experts ;
+Nomme l'expert ou les experts ; 
 
-Enonce les chefs de la mission de l'expert ;
+Enonce les chefs de la mission de l'expert ; 
 
 Impartit le délai dans lequel l'expert devra donner son avis.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°71-498 du 29 juin 1971 - art. 2
+
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 6
 
 
 ###### Article 266
@@ -5509,19 +5519,20 @@ Celui-ci peut, en se prononçant, proroger le délai dans lequel l'expert doit d
 L'expert peut, sur justification de l'état d'avancement de ses opérations, être autorisé à prélever un acompte sur la somme
 consignée si la complexité de l'affaire le requiert.
 
-En cas d'insuffisance de la provision allouée, l'expert en fait rapport au juge qui peut ordonner la consignation d'une
-provision complémentaire à la charge de la partie qu'il détermine. A défaut de consignation dans le délai et selon les
-modalités fixés par le juge, et sauf prorogation de ce délai, l'expert dépose son rapport en l'état.
+En cas d'insuffisance manifeste de la provision allouée, au vu des diligences faites ou à venir, l'expert en fait sans délai
+rapport au juge, qui, s'il y a lieu, ordonne la consignation d'une provision complémentaire à la charge de la partie qu'il
+détermine. A défaut de consignation dans le délai et selon les modalités fixés par le juge, et sauf prorogation de ce délai,
+l'expert dépose son rapport en l'état.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 40 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 7
 
 
 ###### Article 281
@@ -5543,34 +5554,39 @@ Les parties peuvent demander au juge de donner force exécutoire à l'acte expri
 
 Si l'avis n'exige pas de développements écrits, le juge peut autoriser l'expert à l'exposer oralement à l'audience ; il en
 est dressé procès-verbal. La rédaction du procès-verbal peut toutefois être suppléée par une mention dans le jugement si
-l'affaire est immédiatement jugée en dernier ressort.
+l'affaire est immédiatement jugée en dernier ressort. 
 
 Dans les autres cas, l'expert doit déposer un rapport au secrétariat de la juridiction. Il n'est rédigé qu'un seul rapport,
-même s'il y a plusieurs experts ; en cas de divergence, chacun indique son opinion.
+même s'il y a plusieurs experts ; en cas de divergence, chacun indique son opinion. 
 
 Si l'expert a recueilli l'avis d'un autre technicien dans une spécialité distincte de la sienne, cet avis est joint, selon le
-cas, au rapport, au procès-verbal d'audience ou au dossier.
+cas, au rapport, au procès-verbal d'audience ou au dossier. 
 
 Lorsque l'expert s'est fait assister dans l'accomplissement de sa mission en application de l'article 278-1, le rapport
-mentionne les nom et qualités des personnes qui ont prêté leur concours.
+mentionne les nom et qualités des personnes qui ont prêté leur concours. 
+
+Le dépôt par l'expert de son rapport est accompagné de sa demande de rémunération, dont il adresse un exemplaire aux parties
+par tout moyen permettant d'en établir la réception. S'il y a lieu, celles-ci adressent à l'expert et à la juridiction ou, le
+cas échéant, au juge chargé de contrôler les mesures d'instruction, leurs observations écrites sur cette demande dans un
+délai de quinze jours à compter de sa réception.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 41 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 8
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 278-1
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 284 (VD)
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 278-1
 
 
 ###### Article 283
@@ -5591,15 +5607,15 @@ appelées.
 
 ###### Article 284
 
-Dès le dépôt du rapport, le juge fixe la rémunération de l'expert en fonction notamment des diligences accomplies, du respect
-des délais impartis et de la qualité du travail fourni.
+Passé le délai imparti aux parties par l'article 282 pour présenter leurs observations, le juge fixe la rémunération de
+l'expert en fonction notamment des diligences accomplies, du respect des délais impartis et de la qualité du travail fourni. 
 
 Il autorise l'expert à se faire remettre jusqu'à due concurrence les sommes consignées au greffe. Il ordonne, selon le cas,
 soit le versement des sommes complémentaires dues à l'expert en indiquant la ou les parties qui en ont la charge, soit la
-restitution des sommes consignées en excédent.
+restitution des sommes consignées en excédent. 
 
 Lorsque le juge envisage de fixer la rémunération de l'expert à un montant inférieur au montant demandé, il doit au préalable
-inviter l'expert à formuler ses observations.
+inviter l'expert à formuler ses observations. 
 
 Le juge délivre à l'expert un titre exécutoire.
 
@@ -5607,11 +5623,15 @@ Le juge délivre à l'expert un titre exécutoire.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 42 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 9
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 282
 
 
 ###### Article 284-1
@@ -17697,7 +17717,7 @@ désigner un conciliateur de justice à cette fin. Cette désignation peut revê
 ###### Article 861
 
 En l'absence de conciliation, si l'affaire n'est pas en état d'être jugée, la formation de jugement la renvoie à une
-prochaine audience ou confie à l'un de ses membres le soin de l'instruire en qualité de juge rapporteur.
+prochaine audience ou confie à l'un de ses membres le soin de l'instruire. 
 
 A moins que l'affaire ne soit jugée dès la première audience, le greffier avise par lettre simple les parties qui ne
 l'auraient pas été verbalement de la date des audiences ultérieures.
@@ -17706,7 +17726,7 @@ l'auraient pas été verbalement de la date des audiences ultérieures.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
 ###### Article 861-1
@@ -17762,20 +17782,20 @@ bien fondées.
 	  - Code de procédure civile - art. 855 (V)
 
 
-##### Sous-section II : Le juge rapporteur.
+##### Sous-section II : Le juge chargé d'instruire l'affaire.
 
 ###### Article 861-3
 
-Le juge rapporteur organise le cas échéant les échanges entre les parties comparantes dans les conditions et sous les
-sanctions prévues à l'article 446-2. 
+Le juge chargé d'instruire l'affaire organise le cas échéant les échanges entre les parties comparantes dans les conditions
+et sous les sanctions prévues à l'article 446-2. 
 
 Il peut dispenser une partie de se présenter à une audience ultérieure dans les conditions prévues à l'article 861-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 	**Cite**:
 
@@ -17785,7 +17805,7 @@ Il peut dispenser une partie de se présenter à une audience ultérieure dans l
 
 ###### Article 862
 
-Le juge rapporteur peut entendre les parties. 
+Le juge chargé d'instruire l'affaire peut entendre les parties. 
 
 Il dispose des pouvoirs de mise en état prévus à l'article 446-3.
 
@@ -17793,7 +17813,7 @@ Il dispose des pouvoirs de mise en état prévus à l'article 446-3.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 	**Cite**:
 
@@ -17802,7 +17822,7 @@ Il dispose des pouvoirs de mise en état prévus à l'article 446-3.
 
 ###### Article 863
 
-Le juge rapporteur constate la conciliation, même partielle, des parties.
+Le juge chargé d'instruire l'affaire constate la conciliation, même partielle, des parties.
 
 Il peut également désigner un conciliateur de justice dans les conditions prévues à l'article 860-2.
 
@@ -17810,12 +17830,12 @@ Il peut également désigner un conciliateur de justice dans les conditions pré
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
 ###### Article 864
 
-Le juge rapporteur procède aux jonctions et disjonctions d'instance.
+Le juge chargé d'instruire l'affaire procède aux jonctions et disjonctions d'instance.
 
 **Liens relatifs à cet article**
 
@@ -17825,12 +17845,16 @@ Le juge rapporteur procède aux jonctions et disjonctions d'instance.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
 ###### Article 865
 
-Le juge rapporteur peut ordonner, même d'office, toute mesure d'instruction. 
+Le juge chargé d'instruire l'affaire peut ordonner, même d'office, toute mesure d'instruction. 
 
 Il tranche les difficultés relatives à la communication des pièces. 
 
@@ -17841,7 +17865,7 @@ application de l'article 700.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 	**Cite**:
 
@@ -17850,36 +17874,42 @@ application de l'article 700.
 
 ###### Article 866
 
-Les mesures prises par le juge rapporteur sont l'objet d'une simple mention au dossier : avis en est donné aux parties.
+Les mesures prises par le juge chargé d'instruire l'affaire sont l'objet d'une simple mention au dossier : avis en est donné
+aux parties. 
 
-Toutefois, dans les cas prévus à l'article précédent, le juge rapporteur statue par ordonnance motivée, sous réserve des
-règles particulières aux mesures d'instruction.
+Toutefois, dans les cas prévus à l'article précédent, le juge chargé d'instruire l'affaire statue par ordonnance motivée,
+sous réserve des règles particulières aux mesures d'instruction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Nouveau code de procédure civile 865
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
 ###### Article 867
 
-Les ordonnances du juge rapporteur n'ont pas, au principal, l'autorité de la chose jugée.
+Les ordonnances du juge chargé d'instruire l'affaire n'ont pas, au principal, l'autorité de la chose jugée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
 ###### Article 868
 
-Les ordonnances du juge rapporteur ne sont susceptibles d'aucun recours indépendamment du jugement sur le fond.
+Les ordonnances du juge chargé d'instruire l'affaire ne sont susceptibles d'aucun recours indépendamment du jugement sur le
+fond. 
 
 Toutefois, elles peuvent être frappées d'appel, soit dans les cas et conditions prévus en matière d'expertise, soit dans les
 quinze jours de leur date lorsqu'elles constatent l'extinction de l'instance.
@@ -17888,21 +17918,62 @@ quinze jours de leur date lorsqu'elles constatent l'extinction de l'instance.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
 ###### Article 869
 
-Le juge rapporteur peut, si les parties ne s'y opposent pas, tenir seul l'audience pour entendre les plaidoiries. Il en rend
-compte au tribunal dans son délibéré.
-
-Dans les autres cas, il renvoie l'affaire devant le tribunal dès que l'état de l'instruction le permet.
+Le juge chargé d'instruire l'affaire la renvoie devant le tribunal dès que l'état de l'instruction le permet.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
+
+
+###### Article 870
+
+A la demande du président de la formation, le juge chargé d'instruire l'affaire fait un rapport oral de l'affaire à
+l'audience avant les plaidoiries. Ce rapport peut également être fait par le président de la formation ou un autre juge de la
+formation qu'il désigne. 
+
+Le rapport expose l'objet de la demande et les moyens des parties, précise les questions de fait et de droit soulevées par le
+litige et fait mention des éléments propres à éclairer le débat, sans faire connaître l'avis du juge qui en est l'auteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
+
+
+###### Article 871
+
+Le juge chargé d'instruire l'affaire peut également, si les parties ne s'y opposent pas, tenir seul l'audience pour entendre
+les plaidoiries. Il en rend compte au tribunal dans son délibéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
 ### Chapitre II : Les pouvoirs du président.
