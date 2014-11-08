@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-11-09
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -7453,18 +7453,19 @@ d'un motif grave et légitime.
 La partie qui veut faire appel saisit le premier président, qui statue dans la forme des référés. L'assignation doit être
 délivrée dans le mois de la décision.
 
-S'il fait droit à la demande, le premier président fixe le jour où l'affaire sera examinée par la cour, laquelle est saisie
-et statue comme en matière de procédure à jour fixe ou, comme il est dit à l'article 948, selon le cas.
+S'il accueille la demande, le premier président fixe, par une décision insusceptible de pourvoi, le jour où l'affaire sera
+examinée par la cour, laquelle est saisie et statue comme en matière de procédure à jour fixe ou comme il est dit à l'article
+948, selon le cas.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Nouveau code de procédure civile 948
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 2
 
 
 ###### Article 380-1
@@ -10157,38 +10158,38 @@ Le juge peut, à tout moment, autoriser la substitution à la garantie primitive
 ###### Article 523
 
 Les demandes relatives à l'application des articles 517 à 522 ne peuvent être portées, en cas d'appel, que devant le premier
-président statuant en référé ou, dans les cas prévus aux articles 525 ou 526, devant le magistrat chargé de la mise en état
+président statuant en référé ou, dans les cas prévus aux articles 525 ou 525-1, devant le magistrat chargé de la mise en état
 dès lors qu'il est saisi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 3
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 517, 518, 519, 520, 521, 522, 525, 526
+	  - Code de procédure civile - art. 517
 
 
 ###### Article 524
 
-Lorsque l'exécution provisoire a été ordonnée, elle ne peut être arrêtée, en cas d'appel, que par le premier président
-statuant en référé et dans les cas suivants :
+Lorsque l'exécution provisoire a été ordonnée, elle ne peut être arrêtée, en cas d'appel, que par le premier président et
+dans les cas suivants : 
 
-1° Si elle est interdite par la loi ;
+1° Si elle est interdite par la loi ; 
 
 2° Si elle risque d'entraîner des conséquences manifestement excessives ; dans ce dernier cas, le premier président peut
-aussi prendre les mesures prévues aux articles 517 à 522.
+aussi prendre les mesures prévues aux articles 517 à 522. 
 
-Le même pouvoir appartient, en cas d'opposition, au juge qui a rendu la décision.
+Le même pouvoir appartient, en cas d'opposition, au juge qui a rendu la décision. 
 
 Lorsque l'exécution provisoire est de droit, le premier président peut prendre les mesures prévues au deuxième alinéa de
-l'article 521 et à l'article 522.
+l'article 521 et à l'article 522. 
 
 Le premier président peut arrêter l'exécution provisoire de droit en cas de violation manifeste du principe du contradictoire
 ou de l'article 12 et lorsque l'exécution risque d'entraîner des conséquences manifestement excessives.
@@ -10197,7 +10198,7 @@ ou de l'article 12 et lorsque l'exécution risque d'entraîner des conséquences
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -10207,49 +10208,62 @@ ou de l'article 12 et lorsque l'exécution risque d'entraîner des conséquences
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-836 du 20 août 2004 - art. 8 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 3
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 517, 518, 519, 520, 521, 522, 12
+	  - Code de procédure civile - art. 12 (V)
+	  - Code de procédure civile - art. 517 (V)
+	  - Code de procédure civile - art. 521 (V)
+	  - Code de procédure civile - art. 522 (V)
 
 
 ###### Article 525
 
-Lorsque l'exécution provisoire a été refusée, elle ne peut être demandée, en cas d'appel, qu'au premier président statuant en
-référé ou, dès lors qu'il est saisi, au magistrat chargé de la mise en état et à condition qu'il y ait urgence.
+Lorsque l'exécution provisoire a été refusée, elle ne peut être demandée, en cas d'appel, qu'au premier président   ou, dès
+lors qu'il est saisi, au magistrat chargé de la mise en état et à condition qu'il y ait urgence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 3
 
 
 ###### Article 525-1
 
 Lorsque l'exécution provisoire n'a pas été demandée, ou si, l'ayant été, le juge a omis de statuer, elle ne peut être
-demandée, en cas d'appel, qu'au premier président statuant en référé ou, dès lors qu'il est saisi, au magistrat chargé de la
-mise en état.
+demandée, en cas d'appel, qu'au premier président   ou, dès lors qu'il est saisi, au magistrat chargé de la mise en état.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 3
+
+
+###### Article 525-2
+
+Lorsqu'il est saisi en application des articles 524, 525 et 525-1, le premier président statue en référé, par une décision
+non susceptible de pourvoi.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 47 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 4
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Nouveau code de procédure civile 526
+	  - Code de procédure civile - art. 524 (V)
 
 
 ###### Article 526
@@ -11528,20 +11542,33 @@ procédure, une fin de non-recevoir ou tout autre incident, mettent fin à l'ins
 	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
 
 
+###### Article 607-1
+
+Peut également être frappé de pourvoi en cassation l'arrêt par lequel la cour d'appel se prononce sur la compétence sans
+statuer sur le fond du litige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 5
+
+
 ###### Article 608
 
-Les autres jugements en dernier ressort ne peuvent être frappés de pourvoi en cassation indépendamment des jugements sur le
-fond que dans les cas spécifiés par la loi.
+Hors les cas spécifiés par la loi, les autres jugements en dernier ressort ne peuvent être frappés de pourvoi en cassation
+indépendamment des jugements sur le fond. Le pourvoi peut être formé par le demandeur dans le délai de remise au greffe du
+mémoire afférent au pourvoi dirigé contre le jugement sur le fond.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 6
 
 
 ###### Article 609
@@ -11591,26 +11618,6 @@ d'une personne qui n'était pas partie à l'instance.
 	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
 
 
-###### Article 611-1
-
-Hors les cas où la notification de la décision susceptible de pourvoi incombe au greffe de la juridiction qui l' a rendue, la
-décision attaquée est signifiée, à peine d' irrecevabilité du pourvoi, avant l' expiration du délai prévu à l' article 978.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-484 du 22 mai 2008 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1338 du 6 novembre 2014 - art. 7
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 978 (V)
-
-
 ###### Article 612
 
 Le délai de pourvoi en cassation est de deux mois, sauf disposition contraire.
@@ -11635,17 +11642,18 @@ Le délai de pourvoi en cassation est de deux mois, sauf disposition contraire.
 
 ###### Article 613
 
-Le délai court, à l'égard des décisions par défaut, à compter du jour où l'opposition n'est plus recevable.
+A l'égard des décisions par défaut, le pourvoi ne peut être formé par la partie défaillante qu'à compter du jour où son
+opposition n'est plus recevable.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 8
 
 
 ###### Article 614
@@ -11692,21 +11700,22 @@ Dans le même cas, le pourvoi formé contre l'une n'est recevable que si toutes 
 
 ###### Article 616
 
-Lorsque le jugement peut être rectifié en vertu des articles 463 et 464, le pourvoi en cassation n'est ouvert, dans les cas
-prévus par ces articles, qu'à l'encontre du jugement statuant sur la rectification.
+Lorsque le jugement peut être rectifié en vertu de l'article 463, le pourvoi en cassation n'est ouvert, dans le cas prévu par
+cet article, qu'à l'encontre du jugement statuant sur la rectification.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 9
 
 	**Cite**:
 
+	  - Code de procédure civile - art. 463 (V)
 	  - Nouveau code de procédure civile 463, 464
 
 
@@ -11753,27 +11762,6 @@ deux.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 605, 612
-
-
-###### Article 618-1
-
-Le procureur général près la Cour de cassation peut, en vue de déférer, dans l'intérêt de la loi, un jugement à la cour,
-inviter le ministère public près la juridiction qui a rendu ce jugement à le faire notifier aux parties. La notification est
-effectuée par le secrétaire de la juridiction par lettre recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 28 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1338 du 6 novembre 2014 - art. 10
 
 
 ##### Section II : Les effets du pourvoi en cassation.
@@ -11877,18 +11865,18 @@ autres.
 
 ###### Article 624
 
-La censure qui s'attache à un arrêt de cassation est limitée à la portée du moyen qui constitue la base de la cassation, sauf
-le cas d'indivisibilité ou de dépendance nécessaire.
+La portée de la cassation est déterminée par le dispositif de l'arrêt qui la prononce. Elle s'étend également à l'ensemble
+des dispositions du jugement cassé ayant un lien d'indivisibilité ou de dépendance nécessaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 11
 
 
 ###### Article 625
@@ -11898,15 +11886,18 @@ Sur les points qu'elle atteint, la cassation replace les parties dans l'état o�
 Elle entraîne, sans qu'il y ait lieu à une nouvelle décision, l'annulation par voie de conséquence de toute décision qui est
 la suite, l'application ou l'exécution du jugement cassé ou qui s'y rattache par un lien de dépendance nécessaire.
 
+Si elle en est requise, la Cour peut dans le dispositif de l'arrêt de cassation prononcer la mise hors de cause des parties
+dont la présence devant la cour de renvoi n'est plus nécessaire à la solution du litige.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 12
 
 
 ###### Article 626
@@ -12152,6 +12143,92 @@ afférents à la décision cassée.
 	**Modifié par**:
 
 	  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+##### Section III : Le pourvoi du procureur général près la Cour de cassation 
+
+
+###### Article 639-1
+
+Le pourvoi prévu à l'article 17 de la loi n° 67-523 du 3 juillet 1967 est formé contre une décision ayant acquis force de
+chose jugée. 
+
+Il est formé à compter du jour où la décision n'est plus susceptible d'aucun recours par les parties ou du jour où celles-ci
+l'ont acceptée ou exécutée. Il ne peut être exercé au-delà d'un délai de cinq ans à compter du prononcé de la décision. 
+
+Le procureur général près la Cour de cassation peut, en vue de déférer, dans l'intérêt de la loi, un jugement à la Cour,
+inviter le ministère public près la juridiction qui a rendu ce jugement à le faire notifier aux parties. La notification est
+effectuée par le secrétariat de la juridiction par lettre recommandée avec demande d'avis de réception. 
+
+Le pourvoi est formé par requête motivée, déposée au greffe de la Cour de cassation ; il est dirigé contre les motifs ou le
+dispositif du jugement dont la cassation est demandée et qui est joint à la requête. 
+
+Les parties sont avisées, par tout moyen, par le greffier, du pourvoi du procureur général et qu'elles sont recevables à
+formuler des observations écrites dans un délai de deux mois à compter de cet avis. La constitution d'un avocat au Conseil
+d'Etat et à la Cour de cassation n'est pas obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-523 du 3 juillet 1967 - art. 17
+
+	**Créé par**:
+
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 13
+
+
+###### Article 639-2
+
+Le jugement attaqué conserve ses effets entre les parties, même sur les chefs annulés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 13
+
+
+###### Article 639-3
+
+Le pourvoi prévu à l'article 18 de la loi n° 67-523 du 3 juillet 1967 est formé par requête motivée du procureur général,
+déposée au greffe de la Cour de cassation ; il est dirigé contre l'acte judiciaire dont l'annulation est demandée et qui est
+joint à la requête. 
+
+Ce pourvoi peut être exercé à tout moment et dans un délai de cinq ans à compter de l'établissement de l'acte attaqué. 
+
+Le procureur général met en cause les parties. 
+
+Aucun effet suspensif n'est attaché au pourvoi du procureur général pour excès de pouvoir. 
+
+L'annulation pour excès de pouvoir vaut à l'égard de tous. La décision d'annulation n'est susceptible d'aucun recours.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-523 du 3 juillet 1967 - art. 18
+
+	**Créé par**:
+
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 13
+
+
+###### Article 639-4
+
+La procédure prévue aux articles 1011 à 1022 est applicable aux pourvois formés en application des articles 17 et 18 de la
+loi n° 67-523 du 3 juillet 1967.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-523 du 3 juillet 1967 - art. 18
+	  - Code de procédure civile - art. 1011
+
+	**Créé par**:
+
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 13
 
 
 ## Titre XVII : Délais, actes d'huissier de justice et notifications.
@@ -20667,12 +20744,15 @@ Le pourvoi en cassation est formé par déclaration au greffe de la Cour de cass
 
 La déclaration de pourvoi contient, à peine de nullité :
 
-1° Pour les personnes physiques : l'indication des nom, prénoms, domicile du demandeur en cassation ;
+1° Pour les demandeurs personnes physiques : l'indication des nom, prénoms et domicile ;
 
-Pour les personnes morales : l'indication de leur forme, leur dénomination, leur siège social ;
+Pour les demandeurs personnes morales : l'indication de leurs forme, dénomination et siège social et, s'agissant des
+autorités administratives ou judiciaires, l'indication de leur dénomination et du lieu où elles sont établies ;
 
-2° L'indication des nom, prénoms et domicile du défendeur, ou, s'il s'agit d'une personne morale, de sa dénomination et de
-son siège social ;
+2° Pour les défendeurs personnes physiques : l'indication des nom, prénoms et domicile ;
+
+Pour les défendeurs personnes morales : l'indication de leurs forme, dénomination et siège social et, s'agissant des
+autorités administratives ou judiciaires, l'indication de leur dénomination et du lieu où elles sont établies ;
 
 3° La constitution de l'avocat au Conseil d'Etat et à la Cour de cassation du demandeur ;
 
@@ -20680,13 +20760,13 @@ son siège social ;
 
 La déclaration précise, le cas échéant, les chefs de la décision auxquels le pourvoi est limité.
 
-Elle est datée et signée par l'avocat au Conseil d'Etat et à la Cour de cassation.
+Elle est signée par l'avocat au Conseil d'Etat et à la Cour de cassation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 3
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 14
 
 
 ###### Article 976
@@ -20728,9 +20808,14 @@ qu'il doit, s'il entend défendre au pourvoi, constituer un avocat au Conseil d'
 A peine de déchéance constatée par ordonnance du premier président ou de son délégué, le demandeur en cassation doit, au plus
 tard dans le délai de quatre mois à compter du pourvoi, remettre au greffe de la Cour de cassation un mémoire contenant les
 moyens de droit invoqués contre la décision attaquée. Le mémoire doit, sous la même sanction, être notifié dans le même délai
-aux avocats des autres parties. Si le défendeur n'a pas constitué avocat, le mémoire doit lui être signifié au plus tard dans
-le mois suivant l'expiration de ce délai ; cependant, si, entre-temps, le défendeur constitue avocat avant la signification
-du mémoire, il est procédé par voie de notification à son avocat.
+aux avocats des autres parties ou à la partie qui n'est pas tenue de constituer un avocat au Conseil d'Etat et à la Cour de
+cassation. Si le défendeur n'a pas constitué avocat, le mémoire doit , sous la même sanction, lui être signifié au plus tard
+dans le mois suivant l'expiration de ce délai ; cependant, si, entre-temps, le défendeur constitue avocat avant la
+signification du mémoire, il est procédé par voie de notification à son avocat.
+
+A peine d'irrecevabilité, le pourvoi additionnel formé en application de l'article 608 doit être fait par la mention "pourvoi
+additionnel" apposée sur le mémoire ampliatif ou par un mémoire distinct comportant cette mention, remis et notifié aux
+autres parties dans les formes et délais de cet article.
 
 A peine d'être déclaré d'office irrecevable un moyen ou un élément de moyen ne doit mettre en œuvre qu'un seul cas
 d'ouverture. Chaque moyen ou chaque élément de moyen doit préciser, sous la même sanction : 
@@ -20745,7 +20830,7 @@ d'ouverture. Chaque moyen ou chaque élément de moyen doit préciser, sous la m
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 15
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 15
 
 	**Cité par**:
 
@@ -20756,21 +20841,29 @@ d'ouverture. Chaque moyen ou chaque élément de moyen doit préciser, sous la m
 	  - Code de commerce - art. R483-9 (V)
 	  - Code de procédure civile - art. 1011 (V)
 	  - Code de procédure civile - art. 1023 (V)
+	  - Code de procédure civile - art. 611-1 (Ab)
 
 
 ###### Article 979
 
 A peine d'irrecevabilité du pourvoi prononcée d'office, doivent être remises au greffe dans le délai de dépôt du mémoire :
 
-- une copie de la décision attaquée et de ses actes de signification ;
+- une copie de la décision attaquée ;
 
-- une copie de la décision confirmée ou infirmée par la décision attaquée.
+- une copie de la décision confirmée ou infirmée par la décision attaquée. 
+
+En cas de transmission incomplète ou entachée d'erreur matérielle de l'un de ces documents, un avis fixant un délai pour y
+remédier est adressé par le conseiller rapporteur à l'avocat du demandeur dans les conditions prévues à l'article 981.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 6
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 16
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 981 (V)
 
 
 ###### Article 979-1
@@ -20891,22 +20984,25 @@ adresse par lettre recommandée avec demande d'avis de réception au greffe de l
 
 La déclaration de pourvoi contient, à peine de nullité :
 
-1° Pour les personnes physiques : l'indication des nom, prénoms, domicile du demandeur en cassation ;
+1° Pour les demandeurs personnes physiques : l'indication des nom, prénoms et domicile ;
 
-Pour les personnes morales : l'indication de leur forme, leur dénomination, leur siège social ;
+Pour les demandeurs personnes morales : l'indication de leurs forme, dénomination et siège social et, s'agissant des
+autorités administratives ou judiciaires, l'indication de leur dénomination et du lieu où elles sont établies ;
 
-2° L'indication des nom, prénoms et domicile du défendeur, ou, s'il s'agit d'une personne morale, de sa dénomination et de
-son siège social ;
+2° Pour les défendeurs personnes physiques : l'indication des nom, prénoms et domicile ;
+
+Pour les défendeurs personnes morales : l'indication de leurs dénomination et siège social et, s'agissant des autorités
+administratives ou judiciaires, l'indication de leur dénomination et du lieu où elles sont établies ;
 
 3° L'indication de la décision attaquée.
 
-Elle est datée et signée.
+Elle est signée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 10
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 17
 
 
 ###### Article 986
@@ -21519,27 +21615,32 @@ Hors les matières où le pourvoi empêche l'exécution de la décision attaqué
 demande du défendeur et après avoir recueilli l'avis du procureur général et les observations des parties, la radiation d'une
 affaire lorsque le demandeur ne justifie pas avoir exécuté la décision frappée de pourvoi, à moins qu'il ne lui apparaisse
 que l'exécution serait de nature à entraîner des conséquences manifestement excessives ou que le demandeur est dans
-l'impossibilité d'exécuter la décision.
+l'impossibilité d'exécuter la décision. 
 
 La demande du défendeur doit, à peine d'irrecevabilité prononcée d'office, être présentée avant l'expiration des délais
-prescrits aux articles 982 et 991.
+prescrits aux articles 982 et 991. 
 
-La décision de radiation n'emporte pas suspension des délais impartis au demandeur au pourvoi par les articles 978 et 989.
+La demande de radiation interrompt les délais impartis au défendeur par les articles 982, 991 et 1010. 
+
+La décision de radiation n'emporte pas suspension des délais impartis au demandeur au pourvoi par les articles 978 et 989. 
+
+Elle interdit l'examen des pourvois principaux et incidents.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 49 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 50 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 18
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 982, 991, 978, 989
+	  - Code de procédure civile - art. 1010 (V)
+	  - Code de procédure civile - art. 982 (V)
+	  - Code de procédure civile - art. 991 (V)
 
 
 ###### Article 1009-2
@@ -21674,27 +21775,31 @@ La formation restreinte de la chambre à laquelle l'affaire a été distribuée 
 
 ###### Article 1014
 
-Après le dépôt des mémoires, cette formation déclare non admis les pourvois irrecevables ou non fondés sur un moyen sérieux
-de cassation.
+Après le dépôt des mémoires, cette formation décide qu'il n'y a pas lieu de statuer par une décision spécialement motivée
+lorsque le pourvoi est irrecevable ou lorsqu'il n'est manifestement pas de nature à entraîner la cassation.
 
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-522 du 2 juin 2008 - art. 9
-
-
-###### Article 1015
-
-Le président de la formation doit aviser les parties des moyens susceptibles d'être relevés d'office et les inviter à
-présenter leurs observations dans le délai qu'il fixe. Il en est de même lorsqu'il envisage de rejeter un moyen par
-substitution d'un motif de pur droit relevé d'office à un motif erroné.
+Toute formation peut aussi décider de ne pas répondre de façon spécialement motivée à un ou plusieurs moyens irrecevables ou
+qui ne sont manifestement pas de nature à entraîner la cassation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-484 du 22 mai 2008 - art. 13
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 19
+
+
+###### Article 1015
+
+Le président de la formation ou le conseiller rapporteur doit aviser les parties des moyens susceptibles d'être relevés
+d'office et les inviter à présenter leurs observations dans le délai qu'il fixe. Il en est de même lorsqu'il envisage de
+rejeter un moyen par substitution d'un motif de pur droit relevé d'office à un motif erroné ou lorsqu'il est envisagé de
+prononcer d'office une cassation sans renvoi.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 20
 
 
 ###### Article 1015-1
@@ -21721,24 +21826,23 @@ la chambre appelée à donner son avis.
 Conformément aux articles 11-1 et 11-2 de la loi n° 72-626 du 5 juillet 1972 modifiée, les débats sont publics. La Cour peut
 néanmoins décider que les débats auront lieu ou se poursuivront en chambre du conseil s'il doit résulter de leur publicité
 une atteinte à l'intimité de la vie privée, ou si toutes les parties le demandent, ou s'il survient des désordres de nature à
-troubler la sérénité de la justice.
+troubler la sérénité de la justice. 
 
-Les arrêts sont prononcés publiquement.
+Les arrêts sont prononcés publiquement notamment par mise à disposition au greffe.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°72-626 du 5 juillet 1972 - art. 11-1 (V)
-	  - Loi n°72-626 du 5 juillet 1972 - art. 11-2 (V)
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 21
 
 	**Cité par**:
 
@@ -22281,17 +22385,18 @@ juridiction dont émane la décision cassée.
 
 ###### Article 1037
 
-Le secrétaire de la juridiction de renvoi demande, sans délai, au greffe de la Cour de cassation le dossier de l'affaire.
+Le secrétaire de la juridiction de renvoi demande, sans délai, au greffe de la juridiction dont la décision a été cassée, de
+lui communiquer le dossier de l'affaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 22
 
 
 # Livre III : Dispositions particulières à certaines matières
@@ -37009,16 +37114,19 @@ l'ensemble des parties à la transaction.
 ###### Article 1575
 
 Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction en vigueur le lendemain de la publication du
-décret n° 2012-1451 du 24 décembre 2012, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du
-titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions
-définies au présent livre.
+décret n° 2014-1338 du 6 novembre 2014 relatif à la procédure civile applicable devant la Cour de cassation, à l'exception
+des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX
+du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2014-1038 du 11 septembre 2014
+
 	**Modifié par**:
 
-	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16, v. init.
-	  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
+	  - Décret n°2014-1338 du 6 novembre 2014 - art. 25
 
 	**Cité par**:
 
