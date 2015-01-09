@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2014-12-29
+Version Consolidée au 2015-01-10
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -9734,45 +9734,54 @@ territoire de la République de la manière et dans les cas prévus par la loi.
 ###### Article 509-1
 
 Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger en application du règlement (CE) du Conseil n° 44/2001 du 22 décembre 2000 concernant la compétence judiciaire, la
-reconnaissance et l'exécution des décisions en matière civile et commerciale, de l'article 39 du règlement (CE) n° 2201/2003
-du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière
-matrimoniale et de responsabilité parentale, du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril
-2004 portant création d'un titre exécutoire européen pour les créances incontestées et de la convention concernant la
-compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, faite à Lugano le 30
-octobre 2007, sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention.
+l'étranger en application du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant
+la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, de l'article 39 du
+règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des
+décisions en matière matrimoniale et de responsabilité parentale, du règlement (CE) n° 805/2004 du Parlement européen et du
+Conseil du 21 avril 2004 portant création d'un titre exécutoire européen pour les créances incontestées et de la convention
+concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, faite à
+Lugano le 30 octobre 2007, sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la
+convention.
 
 Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 susmentionné,
-ainsi que les requêtes aux fins d'obtention d'un extrait d'une décision présentées en application de l'article 20, paragraphe
-1, du règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance
-et l'exécution des décisions et la coopération en matière d'obligations alimentaires sont présentées au juge qui a rendu la
-décision ou homologué la convention. Elles sont dispensées du ministère d'avocat.
+l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 susmentionné et
+des articles 5, 9 et 14.1 du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif à la
+reconnaissance mutuelle des mesures de protection en matière civile, ainsi que les requêtes aux fins d'obtention d'un extrait
+d'une décision présentées en application de l'article 20, paragraphe 1, du règlement (CE) n° 4/2009 du Conseil du 18 décembre
+2008 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions et la coopération en matière
+d'obligations alimentaires sont présentées au juge qui a rendu la décision ou homologué la convention. Elles sont dispensées
+du ministère d'avocat.
+
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2014-1633 du 26 décembre 2014, les dispositions de l'article 509-1 telles qu'issues
+de l'article 2 I du présent décret, s'appliquent aux actions judiciaires intentées, aux actes authentiques dressés ou
+enregistrés formellement et aux transactions judiciairement approuvées ou conclues à compter du 10 janvier 2015. Les
+décisions rendues dans les actions judiciaires intentées, les actes authentiques dressés ou enregistrés formellement et les
+transactions approuvées ou conclues avant le 10 janvier 2015 demeurent dans le champ d'application du règlement (CE) n°
+44/2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en
+matière civile et commerciale.
+
+Toutefois, les dispositions issues de l'article 2 II du même décret s'appliquent aux mesures de protection ordonnées à
+compter du 11 janvier 2015, quelle que soit la date à laquelle la procédure a été engagée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
+	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 509-3 (V)
 
-	**Cite**:
-
-	  - article 39 du règlement (CE) n°2201/2003
-	  - articles 41 et 42 du règlement (CE) n°2201/2003
-	  - règlement (CE) n°805/2004
-
 
 ###### Article 509-2
 
 Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
-titres exécutoires étrangers, en application du règlement (CE) du Conseil n° 44/2001 du 22 décembre 2000 concernant la
-compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale et de la convention
-concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, faite à
-Lugano le 30 octobre 2007, sont présentées au greffier en chef du tribunal de grande instance. 
+titres exécutoires étrangers, en application de la convention concernant la compétence judiciaire, la reconnaissance et
+l'exécution des décisions en matière civile et commerciale, faite à Lugano le 30 octobre 2007, sont présentées au greffier en
+chef du tribunal de grande instance. 
 
 Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
 titres exécutoires étrangers, en application du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
@@ -9781,11 +9790,21 @@ application des articles 26 et 27 du règlement (CE) du Conseil n° 4/2009 du 18
 applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires, sont
 présentées au président du tribunal de grande instance ou à son délégué. Elles sont dispensées du ministère d'avocat.
 
+**Nota:**
+
+Conformément à l'article 3 I du décret n° 2014-1633 du 26 décembre    2014, les dispositions de l'article 509-2 telles
+qu'issues de l'article  2   III du présent décret, s'appliquent aux actions judiciaires  intentées,   aux actes authentiques
+dressés ou enregistrés formellement  et aux   transactions judiciairement approuvées ou conclues à compter du  10   janvier
+2015. Les décisions rendues dans les actions judiciaires    intentées, les actes authentiques dressés ou enregistrés
+formellement  et   les transactions approuvées ou conclues avant le 10 janvier 2015    demeurent dans le champ d'application
+du règlement (CE) n° 44/2001 du    Conseil du 22 décembre 2000 concernant la compétence judiciaire, la    reconnaissance et
+l'exécution des décisions en matière civile et    commerciale.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
+	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
 
 	**Cité par**:
 
@@ -9800,17 +9819,27 @@ présentées au président du tribunal de grande instance ou à son délégué. 
 ###### Article 509-3
 
 Par dérogation aux articles 509-1 et 509-2, les requêtes aux fins de certification, de reconnaissance ou de constatation de
-la force exécutoire des actes authentiques notariés, en application des règlements précités des 22 décembre 2000 et 18
+la force exécutoire des actes authentiques notariés, en application des règlements précités des 12 décembre 2012  et 18
 décembre 2008, ainsi que de la convention précitée du 30 octobre 2007, sont présentées au président de la chambre des
 notaires ou, en cas d'absence ou d'empêchement, à son suppléant désigné parmi les membres de la chambre. 
 
-Pour l'application du règlement précité du 22 décembre 2000, ainsi que de la convention précitée du 30 octobre 2007,
+Pour l'application du règlement précité du 12 décembre 2012, ainsi que de la convention précitée du 30 octobre 2007,
 l'élection de domicile est faite dans le ressort de la cour d'appel où siège la chambre des notaires. 
 
 Par dérogation à l'article 509-1, les requêtes aux fins de certification des actes authentiques notariés en vue de leur
 exécution à l'étranger en application du règlement (CE) n° 805 / 2004 du Parlement européen et du Conseil du 21 avril 2004
 portant création d'un titre exécutoire européen pour les créances incontestées sont présentées au notaire ou à la personne
 morale titulaire de l'office notarial conservant la minute de l'acte reçu.
+
+**Nota:**
+
+Conformément à l'article 3 I du décret n° 2014-1633 du 26 décembre     2014, les dispositions de l'article 509-3 telles
+qu'issues de l'article   2   IV du présent décret, s'appliquent aux actions judiciaires   intentées,   aux actes authentiques
+dressés ou enregistrés formellement   et aux   transactions judiciairement approuvées ou conclues à compter  du  10   janvier
+2015. Les décisions rendues dans les actions  judiciaires    intentées, les actes authentiques dressés ou enregistrés
+formellement  et   les transactions approuvées ou conclues avant le 10  janvier 2015    demeurent dans le champ d'application
+du règlement (CE)  n° 44/2001 du    Conseil du 22 décembre 2000 concernant la compétence  judiciaire, la    reconnaissance et
+l'exécution des décisions en matière  civile et    commerciale.
 
 **Liens relatifs à cet article**
 
@@ -9820,13 +9849,11 @@ morale titulaire de l'office notarial conservant la minute de l'acte reçu.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
+	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 509-1
-	  - convention précitée du 30 octobre 2007
-	  - règlement (CE) n°805
+	  - Code de procédure civile - art. 509-1 (VD)
 
 
 ###### Article 509-4
@@ -33027,18 +33054,29 @@ affaires familiales par le 1° de l'article L. 213-3 du code de l'organisation j
 ###### Article 1382
 
 Le présent chapitre est relatif à la procédure européenne de règlement des petits litiges prévue par le règlement (CE) n°
-861 / 2007 du Parlement européen et du Conseil du 11 juillet 2007 instituant une procédure européenne de règlement des petits
+861/2007 du Parlement européen et du Conseil du 11 juillet 2007 instituant une procédure européenne de règlement des petits
 litiges. 
 
-Lorsque le règlement (CE) n° 44 / 2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance
-et l'exécution des décisions en matière civile et commerciale désigne les juridictions d'un Etat membre sans autre précision,
-la juridiction territorialement compétente est celle du lieu où demeure le ou l'un des défendeurs.
+Lorsque le règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence
+judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale désigne les juridictions d'un
+Etat membre sans autre précision, la juridiction territorialement compétente est celle du lieu où demeure le ou l'un des
+défendeurs.
+
+**Nota:**
+
+Conformément à l'article 3 I du décret n° 2014-1633 du 26 décembre  2014, les dispositions de l'article 1382 telles qu'issues
+de l'article 2  I du présent décret, s'appliquent aux actions judiciaires intentées,  aux actes authentiques dressés ou
+enregistrés formellement et aux  transactions judiciairement approuvées ou conclues à compter du 10  janvier 2015. Les
+décisions rendues dans les actions judiciaires  intentées, les actes authentiques dressés ou enregistrés formellement et  les
+transactions approuvées ou conclues avant le 10 janvier 2015  demeurent dans le champ d'application du règlement (CE) n°
+44/2001 du  Conseil du 22 décembre 2000 concernant la compétence judiciaire, la  reconnaissance et l'exécution des décisions
+en matière civile et  commerciale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
 
 
 ###### Article 1383
@@ -33645,18 +33683,29 @@ l'opposition ou au moment où l'ordonnance est revêtue de la formule exécutoir
 
 ###### Article 1424-1
 
-La présente section est relative à la procédure européenne d'injonction de payer prévue par le règlement (CE) n° 1896 / 2006
-du Parlement européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d'injonction de payer. 
+La présente section est relative à la procédure européenne d'injonction de payer prévue par le règlement (CE) n° 1896/2006 du
+Parlement européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d'injonction de payer. 
 
-Lorsque le règlement (CE) n° 44 / 2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance
-et l'exécution des décisions en matière civile et commerciale désigne les juridictions d'un Etat membre sans autre précision,
-la juridiction territorialement compétente est celle du lieu où demeure le ou l'un des défendeurs.
+Lorsque le règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence
+judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale désigne les juridictions d'un
+Etat membre sans autre précision, la juridiction territorialement compétente est celle du lieu où demeure le ou l'un des
+défendeurs.
+
+**Nota:**
+
+Conformément à l'article 3 I du décret n° 2014-1633 du 26 décembre   2014, les dispositions de l'article 1424-1 telles
+qu'issues de l'article 2   I du présent décret, s'appliquent aux actions judiciaires intentées,   aux actes authentiques
+dressés ou enregistrés formellement et aux   transactions judiciairement approuvées ou conclues à compter du 10   janvier
+2015. Les décisions rendues dans les actions judiciaires   intentées, les actes authentiques dressés ou enregistrés
+formellement et   les transactions approuvées ou conclues avant le 10 janvier 2015   demeurent dans le champ d'application du
+règlement (CE) n° 44/2001 du   Conseil du 22 décembre 2000 concernant la compétence judiciaire, la   reconnaissance et
+l'exécution des décisions en matière civile et   commerciale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
 
 
 ###### Article 1424-2
