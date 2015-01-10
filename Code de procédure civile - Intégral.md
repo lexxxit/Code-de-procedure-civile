@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2015-01-10
+Version Consolidée au 2015-01-11
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -9893,15 +9893,25 @@ requérant contre émargement ou récépissé, ou lui est notifié par lettre re
 
 Le double de la requête ainsi que du certificat ou de la décision sont conservés au secrétariat.
 
+Le certificat délivré en application du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013
+relatif à la reconnaissance mutuelle des mesures de protection en matière civile est en outre notifié par le greffe à la
+personne à l'origine du risque encouru.
+
+**Nota:**
+
+Conformément à l'article 3 II du décret n° 2014-1633 du 26 décembre 2014, les dispositions de l'article 509-6 telles
+qu'issues de l'article 2 V du présent décret, s'appliquent aux mesures de protection ordonnées à compter du 11 janvier 2015,
+quelle que soit la date à laquelle la procédure a été engagée.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 17 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
 
 
 ###### Article 509-7
@@ -9918,6 +9928,25 @@ dernier statue en dernier ressort sur requête, le requérant et l'autorité req
 	**Créé par**:
 
 	  - Décret n°2004-836 du 20 août 2004 - art. 17 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 509-8
+
+Les demandes formées en application des articles 11 et 13 du règlement  (UE) n° 606/2013 du Parlement européen et du Conseil
+du 12 juin 2013  relatif à la reconnaissance mutuelle des mesures de protection en  matière civile sont faites devant le
+président du tribunal de grande  instance ou son délégué statuant en la forme des référés.
+
+**Nota:**
+
+Conformément à l'article 3 II du décret n° 2014-1633 du 26 décembre  2014, les dispositions de l'article 509-8 telles
+qu'issues de l'article 2  VI du présent décret, s'appliquent aux mesures de protection ordonnées à  compter du 11 janvier
+2015, quelle que soit la date à laquelle la  procédure a été engagée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
 
 
 ### Chapitre III : Le délai de grâce.
