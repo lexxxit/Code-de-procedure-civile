@@ -1,312 +1,7 @@
 # Code de procédure civile  
-Version Consolidée au 2015-01-11
+Version Consolidée au 2015-03-15
 
 # Livre Ier : Dispositions communes à toutes les juridictions
-
-## Titre VI bis : La médiation.
-
-###### Article 131-1
-
-Le juge saisi d'un litige peut, après avoir recueilli l'accord des parties, désigner une tierce personne afin d'entendre les
-parties et de confronter leurs points de vue pour leur permettre de trouver une solution au conflit qui les oppose.
-
-Ce pouvoir appartient également au juge des référés, en cours d'instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-	**Cité par**:
-
-	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
-
-
-###### Article 131-2
-
-La médiation porte sur tout ou partie du litige.
-
-En aucun cas elle ne dessaisit le juge, qui peut prendre à tout moment les autres mesures qui lui paraissent nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-3
-
-La durée initiale de la médiation ne peut excéder trois mois. Cette mission peut être renouvelée une fois, pour une même
-durée, à la demande du médiateur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-4
-
-La médiation peut être confiée à une personne physique ou à une personne morale. 
-
-Si le médiateur désigné est une personne morale, son représentant légal soumet à l'agrément du juge le nom de la ou des
-personnes physiques qui assureront, au sein de celle-ci et en son nom, l'exécution de la mesure.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 3
-
-
-###### Article 131-5
-
-La personne physique qui assure l'exécution de la mesure de médiation doit satisfaire aux conditions suivantes :
-
-1° Ne pas avoir fait l'objet d'une condamnation, d'une incapacité ou d'une déchéance mentionnées sur le bulletin n° 2 du
-casier judiciaire ;
-
-2° N'avoir pas été l'auteur de faits contraires à l'honneur, à la probité et aux bonnes mœurs ayant donné lieu à une sanction
-disciplinaire ou administrative de destitution, radiation, révocation, de retrait d'agrément ou d'autorisation ;
-
-3° Posséder, par l'exercice présent ou passé d'une activité, la qualification requise eu égard à la nature du litige ;
-
-4° Justifier, selon le cas, d'une formation ou d'une expérience adaptée à la pratique de la médiation ;
-
-5° Présenter les garanties d'indépendance nécessaires à l'exercice de la médiation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-6
-
-La décision qui ordonne une médiation mentionne l'accord des parties, désigne le médiateur et la durée initiale de sa mission
-et indique la date à laquelle l'affaire sera rappelée à l'audience.
-
-Elle fixe le montant de la provision à valoir sur la rémunération du médiateur à un niveau aussi proche que possible de la
-rémunération prévisible et désigne la ou les parties qui consigneront la provision dans le délai imparti ; si plusieurs
-parties sont désignées, la décision indique dans quelle proportion chacune des parties devra consigner.
-
-La décision, à défaut de consignation, est caduque et l'instance se poursuit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-	**Cité par**:
-
-	  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
-	  - Décret n°2016-479 du 18 avril 2016 - art. 15
-	  - Code de l'organisation judiciaire - art. R123-24 (VD)
-
-
-###### Article 131-7
-
-Dès le prononcé de la décision désignant le médiateur, le greffe de la juridiction en notifie copie par lettre simple aux
-parties et au médiateur.
-
-Le médiateur fait connaître sans délai au juge son acceptation.
-
-Dès qu'il est informé par le greffe de la consignation, il doit convoquer les parties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-8
-
-Le médiateur ne dispose pas de pouvoirs d'instruction. Toutefois, il peut, avec l'accord des parties et pour les besoins de
-la médiation, entendre les tiers qui y consentent.
-
-Le médiateur ne peut être commis, au cours de la même instance, pour effectuer une mesure d'instruction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-9
-
-La personne physique qui assure la médiation tient le juge informé des difficultés qu'elle rencontre dans l'accomplissement
-de sa mission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-10
-
-Le juge peut mettre fin, à tout moment, à la médiation sur demande d'une partie ou à l'initiative du médiateur.
-
-Le juge peut également y mettre fin d'office lorsque le bon déroulement de la médiation apparaît compromis.
-
-Dans tous les cas, l'affaire doit être préalablement rappelée à une audience à laquelle les parties sont convoquées à la
-diligence du greffe par lettre recommandée avec demande d'avis de réception.
-
-A cette audience, le juge, s'il met fin à la mission du médiateur, peut poursuivre l'instance. Le médiateur est informé de la
-décision.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-11
-
-A l'expiration de sa mission, le médiateur informe par écrit le juge de ce que les parties sont ou non parvenues à trouver
-une solution au conflit qui les oppose.
-
-Le jour fixé, l'affaire revient devant le juge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-12
-
-Le juge homologue à la demande des parties l'accord qu'elles lui soumettent.
-
-L'homologation relève de la matière gracieuse.
-
-Les dispositions des deux alinéas précédents s'appliquent à l'accord issu d'une médiation conventionnelle intervenue alors
-qu'une instance judiciaire est en cours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 4
-
-
-###### Article 131-13
-
-A l'expiration de sa mission, le juge fixe la rémunération du médiateur. 
-
-La charge des frais de la médiation est répartie conformément aux dispositions de l'article 22-2 de la loi n° 95-125 du 8
-février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et administrative. 
-
-Le juge autorise le médiateur à se faire remettre, jusqu'à due concurrence, les sommes consignées au greffe. 
-
-Il ordonne, s'il y a lieu, le versement de sommes complémentaires en indiquant la ou les parties qui en ont la charge, ou la
-restitution des sommes consignées en excédent. 
-
-Un titre exécutoire est délivré au médiateur, sur sa demande.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Cite**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 22-2
-
-	**Modifié par**:
-
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 5
-
-
-###### Article 131-14
-
-Les constatations du médiateur et les déclarations qu'il recueille ne peuvent être ni produites ni invoquées dans la suite de
-la procédure sans l'accord des parties, ni en tout état de cause dans le cadre d'une autre instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
-
-###### Article 131-15
-
-La décision ordonnant ou renouvelant la médiation ou y mettant fin n'est pas susceptible d'appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°96-652 du 22 juillet 1996 - art. 2 () JORF 23 juillet 1996
-
 
 ## Titre Ier : Dispositions liminaires.
 
@@ -2791,6 +2486,12 @@ alinéa de l'article 126-11, ainsi que la date de l'audience.
 
 ### Chapitre Ier : Dispositions générales
 
+## Titre VI : La conciliation et la médiation
+
+### Chapitre Ier : La conciliation
+
+#### Section I : Dispositions générales
+
 ###### Article 127
 
 Les parties peuvent se concilier, d'elles-mêmes ou à l'initiative du juge, tout au long de l'instance.
@@ -2812,6 +2513,25 @@ Les parties peuvent se concilier, d'elles-mêmes ou à l'initiative du juge, tou
 
 ###### Article 128
 
+Les parties peuvent se concilier, d'elles-mêmes ou à l'initiative du juge, tout au long de l'instance.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°78-381 du 20 mars 1978 - art. 1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 20
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 127 (VT)
+
+
+###### Article 129
+
 La conciliation est tentée, sauf disposition particulière, au lieu et au moment que le juge estime favorables et selon les
 modalités qu'il fixe.
 
@@ -2821,28 +2541,16 @@ de la loi n° 95-125 du 8 février 1995.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Décret n°78-381 du 20 mars 1978 - art. 1 (VD)
-
-	**Cite**:
-
-	  - Loi n°95-125 du 8 février 1995 - art. 22-1
-
 	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 29
+	  - Décret n°2015-282 du 11 mars 2015 - art. 20
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 129 (V)
+	  - Code de procédure civile - art. 128 (T)
 
 
-###### Article 129
+###### Article 129-1
 
 Les parties peuvent toujours demander au juge de constater leur conciliation.
 
@@ -2850,22 +2558,16 @@ Les parties peuvent toujours demander au juge de constater leur conciliation.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - Décret n°2015-282 du 11 mars 2015 - art. 20
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 129-1 (V)
+	  - Code de procédure civile - art. 129 (T)
 
 
-### Chapitre II : La conciliation déléguée à un conciliateur de justice
+#### Section II : La conciliation déléguée à un conciliateur de justice
 
-
-
-###### Article 129-1
+###### Article 129-2
 
 Lorsque le juge, en vertu d'une disposition particulière, délègue sa mission de conciliation, il désigne un conciliateur de
 justice à cet effet, fixe la durée de sa mission et indique la date à laquelle l'affaire sera rappelée. La durée initiale de
@@ -2873,20 +2575,20 @@ la mission ne peut excéder deux mois. Elle peut être renouvelée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - Décret n°2015-282 du 11 mars 2015 - art. 20
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+	  - Code de procédure civile - art. 129-1 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code de procédure civile - art. 129-2 (M)
+	  - Code de procédure civile - art. 832 (M)
 
 
-###### Article 129-2
+###### Article 129-3
 
 Pour procéder à la tentative de conciliation, le conciliateur de justice convoque en tant que de besoin les parties aux lieu,
 jour et heure qu'il détermine.
@@ -2896,24 +2598,20 @@ juridiction ayant délégué la conciliation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - Décret n°2015-282 du 11 mars 2015 - art. 20
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 129-3 (V)
+	  - Code de procédure civile - art. 129-2 (T)
 
 	**Cité par**:
 
-	  - Code de procédure civile - art. 832 (M)
+	  - Code de procédure civile - art. 832 (V)
 
 
-###### Article 129-3
+###### Article 129-4
 
 Le conciliateur de justice peut, avec l'accord des parties, se rendre sur les lieux et entendre toute personne dont
 l'audition lui paraît utile, sous réserve de l'acceptation de celle-ci.
@@ -2923,24 +2621,16 @@ de la procédure sans l'accord des parties ni, en tout état de cause, dans une 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - Décret n°2015-282 du 11 mars 2015 - art. 20
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 129-4 (V)
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 832 (V)
+	  - Code de procédure civile - art. 129-3 (T)
 
 
-###### Article 129-4
+###### Article 129-5
 
 Le conciliateur de justice tient le juge informé des difficultés qu'il rencontre dans l'accomplissement de sa mission, ainsi
 que de la réussite ou de l'échec de la conciliation.
@@ -2951,20 +2641,16 @@ conciliateur et les parties.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - Décret n°2015-282 du 11 mars 2015 - art. 20
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 129-5 (V)
+	  - Code de procédure civile - art. 129-4 (T)
 
 
-###### Article 129-5
+###### Article 129-6
 
 Les décisions prises par le juge dans le cadre de la délégation de la mission de conciliation sont des mesures
 d'administration judiciaire.
@@ -2973,18 +2659,14 @@ d'administration judiciaire.
 
 	**Créé par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - Décret n°2015-282 du 11 mars 2015 - art. 20
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 129-6, v. 0.1 (V)
+	  - Code de procédure civile - art. 129-5 (T)
 
 
-### Chapitre III : L'acte de conciliation
+#### Section III : L'acte de conciliation
 
 ###### Article 130
 
@@ -2993,9 +2675,9 @@ dans un constat signé par les parties et le conciliateur de justice.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
 
 	**Cité par**:
 
@@ -3011,9 +2693,314 @@ L'homologation relève de la matière gracieuse.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+### Chapitre II : La médiation.
+
+###### Article 131-1
+
+Le juge saisi d'un litige peut, après avoir recueilli l'accord des parties, désigner une tierce personne afin d'entendre les
+parties et de confronter leurs points de vue pour leur permettre de trouver une solution au conflit qui les oppose.
+
+Ce pouvoir appartient également au juge des référés, en cours d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cité par**:
+
+	  - Décret n°2000-35 du 17 janvier 2000 - art. 1 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-2
+
+La médiation porte sur tout ou partie du litige.
+
+En aucun cas elle ne dessaisit le juge, qui peut prendre à tout moment les autres mesures qui lui paraissent nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-3
+
+La durée initiale de la médiation ne peut excéder trois mois. Cette mission peut être renouvelée une fois, pour une même
+durée, à la demande du médiateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-4
+
+La médiation peut être confiée à une personne physique ou à une personne morale. 
+
+Si le médiateur désigné est une personne morale, son représentant légal soumet à l'agrément du juge le nom de la ou des
+personnes physiques qui assureront, au sein de celle-ci et en son nom, l'exécution de la mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-5
+
+La personne physique qui assure l'exécution de la mesure de médiation doit satisfaire aux conditions suivantes :
+
+1° Ne pas avoir fait l'objet d'une condamnation, d'une incapacité ou d'une déchéance mentionnées sur le bulletin n° 2 du
+casier judiciaire ;
+
+2° N'avoir pas été l'auteur de faits contraires à l'honneur, à la probité et aux bonnes mœurs ayant donné lieu à une sanction
+disciplinaire ou administrative de destitution, radiation, révocation, de retrait d'agrément ou d'autorisation ;
+
+3° Posséder, par l'exercice présent ou passé d'une activité, la qualification requise eu égard à la nature du litige ;
+
+4° Justifier, selon le cas, d'une formation ou d'une expérience adaptée à la pratique de la médiation ;
+
+5° Présenter les garanties d'indépendance nécessaires à l'exercice de la médiation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-6
+
+La décision qui ordonne une médiation mentionne l'accord des parties, désigne le médiateur et la durée initiale de sa mission
+et indique la date à laquelle l'affaire sera rappelée à l'audience.
+
+Elle fixe le montant de la provision à valoir sur la rémunération du médiateur à un niveau aussi proche que possible de la
+rémunération prévisible et désigne la ou les parties qui consigneront la provision dans le délai imparti ; si plusieurs
+parties sont désignées, la décision indique dans quelle proportion chacune des parties devra consigner.
+
+La décision, à défaut de consignation, est caduque et l'instance se poursuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cité par**:
+
+	  - Décret n°2005-1669 du 27 décembre 2005 - art. 2 (V)
+	  - Décret n°2016-479 du 18 avril 2016 - art. 15
+	  - Code de l'organisation judiciaire - art. R123-24 (VD)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-7
+
+Dès le prononcé de la décision désignant le médiateur, le greffe de la juridiction en notifie copie par lettre simple aux
+parties et au médiateur.
+
+Le médiateur fait connaître sans délai au juge son acceptation.
+
+Dès qu'il est informé par le greffe de la consignation, il doit convoquer les parties.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-8
+
+Le médiateur ne dispose pas de pouvoirs d'instruction. Toutefois, il peut, avec l'accord des parties et pour les besoins de
+la médiation, entendre les tiers qui y consentent.
+
+Le médiateur ne peut être commis, au cours de la même instance, pour effectuer une mesure d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-9
+
+La personne physique qui assure la médiation tient le juge informé des difficultés qu'elle rencontre dans l'accomplissement
+de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-10
+
+Le juge peut mettre fin, à tout moment, à la médiation sur demande d'une partie ou à l'initiative du médiateur.
+
+Le juge peut également y mettre fin d'office lorsque le bon déroulement de la médiation apparaît compromis.
+
+Dans tous les cas, l'affaire doit être préalablement rappelée à une audience à laquelle les parties sont convoquées à la
+diligence du greffe par lettre recommandée avec demande d'avis de réception.
+
+A cette audience, le juge, s'il met fin à la mission du médiateur, peut poursuivre l'instance. Le médiateur est informé de la
+décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-11
+
+A l'expiration de sa mission, le médiateur informe par écrit le juge de ce que les parties sont ou non parvenues à trouver
+une solution au conflit qui les oppose.
+
+Le jour fixé, l'affaire revient devant le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-12
+
+Le juge homologue à la demande des parties l'accord qu'elles lui soumettent.
+
+L'homologation relève de la matière gracieuse.
+
+Les dispositions des deux alinéas précédents s'appliquent à l'accord issu d'une médiation conventionnelle intervenue alors
+qu'une instance judiciaire est en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-13
+
+A l'expiration de sa mission, le juge fixe la rémunération du médiateur. 
+
+La charge des frais de la médiation est répartie conformément aux dispositions de l'article 22-2 de la loi n° 95-125 du 8
+février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et administrative. 
+
+Le juge autorise le médiateur à se faire remettre, jusqu'à due concurrence, les sommes consignées au greffe. 
+
+Il ordonne, s'il y a lieu, le versement de sommes complémentaires en indiquant la ou les parties qui en ont la charge, ou la
+restitution des sommes consignées en excédent. 
+
+Un titre exécutoire est délivré au médiateur, sur sa demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 22-2
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-14
+
+Les constatations du médiateur et les déclarations qu'il recueille ne peuvent être ni produites ni invoquées dans la suite de
+la procédure sans l'accord des parties, ni en tout état de cause dans le cadre d'une autre instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+
+
+###### Article 131-15
+
+La décision ordonnant ou renouvelant la médiation ou y mettant fin n'est pas susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
 
 
 ## Titre VII : L'administration judiciaire de la preuve.
@@ -13776,6 +13763,27 @@ Les notifications destinées aux collectivités publiques et aux établissements
 	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 692-1
+
+Nonobstant toute disposition contraire, les convocations destinées aux personnes morales de droit privé, aux administrations
+de l'Etat, aux collectivités territoriales, aux établissements publics à caractère administratif, aux organismes de sécurité
+sociale et aux autres organismes chargés de la gestion d'un service public administratif peuvent leur être adressées par le
+greffe par tous moyens auxquels ils ont préalablement consenti.
+
+La convocation adressée dans ces conditions est réputée notifiée à personne à la date à laquelle son destinataire en a accusé
+réception. A défaut, elle est réputée notifiée à domicile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2017-924 du 6 mai 2017 - art. 3
+
+
 ###### Article 693
 
 Ce qui est prescrit par les articles 654 à 659, 663 à 665-1, 672, 675, 678, 680, 683 à 684-1, 686, le premier alinéa de
@@ -14898,21 +14906,19 @@ du 1er janvier 2011.
 Le destinataire des envois, remises et notifications mentionnés à l'article 748-1 doit consentir expressément à l'utilisation
 de la voie électronique, à moins que des dispositions spéciales n'imposent l'usage de ce mode de communication.
 
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
+Vaut consentement au sens de l'alinéa précédent l'adhésion par un auxiliaire de justice, assistant ou représentant une
+partie, à un réseau de communication électronique tel que défini par un arrêté pris en application de l'article 748-6.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 3
 
 	**Cité par**:
 
 	  - Arrêté du 22 février 2011 - art. 12 (V)
 	  - Arrêté du 22 février 2011 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 16
 
 	**Cite**:
 
@@ -15080,6 +15086,40 @@ jour du délai pour une cause étrangère à celui qui l'accomplit, le délai es
 	**Créé par**:
 
 	  - Décret n°2009-1524 du 9 décembre 2009 - art. 4
+
+
+###### Article 748-8
+
+Par dérogation aux dispositions du présent titre, lorsqu'il est prévu qu'un avis est adressé par le greffe à une partie par
+tous moyens, il peut lui être envoyé au moyen d'un courrier électronique ou d'un message écrit, transmis, selon le cas, à
+l'adresse électronique ou au numéro de téléphone qu'elle a préalablement déclaré à cette fin à la juridiction.
+
+Cette déclaration préalable mentionne le consentement de cette partie à l'utilisation de la voie électronique ou du message
+écrit transmis au numéro de téléphone, pour les avis du greffe transmis dans l'instance en cours, à charge pour elle de
+signaler toute modification de son adresse électronique ou de son numéro de téléphone. Ce consentement peut être révoqué à
+tout moment.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 17
+
+
+###### Article 748-9
+
+Par dérogation aux dispositions du présent titre et lorsque les personnes mentionnées à l'article 692-1 y ont préalablement
+consenti, les convocations émanant du greffe peuvent aussi leur être adressées par courrier électronique dans des conditions
+assurant la confidentialité des informations transmises. Ce consentement peut être révoqué à tout moment. La date de la
+convocation adressée dans ces conditions est, à l'égard du destinataire, celle du premier jour ouvré suivant son envoi. Elle
+est réputée faite à personne si un avis électronique de réception est émis dans ce délai et faite à domicile dans le cas
+contraire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 17
 
 
 ## Titre XXII : Disposition finale.
@@ -15251,21 +15291,28 @@ greffe.
 
 Le tribunal est saisi, à la diligence de l'une ou l'autre partie, par la remise au greffe d'une copie de l'assignation. 
 
-Cette remise doit être faite dans les quatre mois de l'assignation, faute de quoi, celle-ci sera caduque. 
+Cette remise doit être faite dans les quatre mois de l'assignation, faute de quoi celle-ci sera caduque, à moins qu'une
+convention de procédure participative ne soit conclue avant l'expiration de ce délai. Dans ce cas, le délai de quatre mois
+est suspendu jusqu'à l'extinction de la procédure conventionnelle.
 
 La caducité est constatée d'office par ordonnance du président ou du juge saisi de l'affaire. 
 
 A défaut de remise, requête peut être présentée au président en vue de faire constater la caducité.
 
+**Nota:**
+
+Conformément à l'article 35 du décret n° 2015-282 du 14 mars 2015 les présentes dispositions sont applicables aux
+assignations délivrées à compter du 1er avril 2015.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2015-282 du 11 mars 2015 - art. 22
 
 
 ###### Article 758
@@ -16149,13 +16196,17 @@ Il dispose, pour instruire l'affaire, des mêmes pouvoirs que le tribunal.
 
 ###### Article 800
 
-Le ministère public, s'il y a des débats, est tenu d'y assister.
+Le ministère public, s'il y a des débats, est tenu d'y assister ou de faire connaître son avis.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 27
 
 
 #### Chapitre III : Le juge unique.
@@ -16264,15 +16315,19 @@ l'audience par le greffier.
 
 ###### Article 807
 
-L'avis est soit donné aux avocats par simple bulletin, soit, lorsque la représentation n'est pas obligatoire, transmis aux
-parties par lettre recommandée avec demande d'avis de réception. Copie de la requête est jointe à l'avis adressé aux avocats
-ou aux parties.
+L'avis est donné aux avocats par simple bulletin. Lorsque la représentation n'est pas obligatoire, cet avis est transmis au
+défendeur par lettre recommandée avec demande d'avis de réception et au demandeur par tous moyens. Copie de la requête est
+jointe à l'avis adressé à l'avocat du défendeur ou, lorsque la représentation n'est pas obligatoire, au défendeur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 2
 
 	**Cite**:
 
@@ -16634,17 +16689,16 @@ Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
 Lorsqu'une affaire a été renvoyée devant le tribunal de grande instance dans les conditions prévues par l'alinéa 2 de
 l'article 470-1 et par l'article R. 41-1 du code de procédure pénale, le greffe convoque à l'audience, un mois au moins à
 l'avance et par lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été engagée
-devant la juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. Le greffe adresse le
-même jour aux mêmes personnes copie de la convocation par lettre simple. La convocation à laquelle est annexée une copie de
-la décision de renvoi vaut citation en justice.
+devant la juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. La convocation à
+laquelle est annexée une copie de la décision de renvoi vaut citation en justice. 
 
 La convocation précise que la représentation à l'audience par avocat est obligatoire et que, même s'ils ne comparaissent pas,
 des décisions exécutoires à titre provisoire pourront être prises contre les parties autres que la victime du dommage et
-contre les tiers responsables mentionnés dans la décision de renvoi.
+contre les tiers responsables mentionnés dans la décision de renvoi. 
 
 Les organismes de sécurité sociale et le fonds de garantie automobile, s'ils sont intervenus devant la juridiction pénale,
 sont convoqués à la même audience au moyen d'une lettre recommandée avec demande d'avis de réception adressée par le greffe.
-Une copie de la décision de renvoi est annexée à la convocation.
+Une copie de la décision de renvoi est annexée à la convocation. 
 
 A l'audience, il est procédé comme il est dit aux articles 759 à 762. Le président de la chambre peut accorder en référé une
 provision dans les conditions prévues par l'alinéa 2 de l'article 809.
@@ -16657,15 +16711,15 @@ Lire R. 41-2 du code de procédure pénale.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2015-282 du 11 mars 2015 - art. 3
 
 	**Cite**:
 
-	  - Code de procédure pénale 470-1 et R41-1
+	  - Code de procédure pénale
 	  - Nouveau code de procédure civile 759 à 762 et 809
 
 
@@ -16768,41 +16822,33 @@ La demande aux fins de tentative préalable de conciliation est formée par déc
 
 Le demandeur indique les nom, prénoms, profession et adresse des parties, ainsi que l'objet de sa prétention.
 
-Le demandeur qui s'oppose à ce que la conciliation soit déléguée à un conciliateur de justice le signale dans sa déclaration.
-
 La prescription et les délais pour agir sont interrompus par l'enregistrement de la demande.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
 	**Cité par**:
 
 	  - Décret n°2010-1165 du 1er octobre 2010 - art. 17 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 23
 
 
 ##### Section I : La conciliation déléguée à un conciliateur de justice
 
 ###### Article 831
 
-En l'absence d'opposition du demandeur dans sa déclaration, le juge peut déléguer à un conciliateur de justice la tentative
-préalable de conciliation.
+Le juge peut déléguer à un conciliateur de justice la tentative préalable de conciliation.
 
-Le greffier avise le défendeur par lettre recommandée avec demande d'avis de réception de la décision du juge et de la
-faculté qui lui est ouverte de refuser la délégation. L'avis précise les nom, prénoms, profession et adresse du demandeur et
-l'objet de la demande.
-
-Le défendeur peut refuser la délégation de la tentative de conciliation. Le refus est exprimé par déclaration faite, remise
-ou adressée au greffe dans les huit jours suivant la notification qui lui est faite de la décision du juge. En ce cas, le
-juge procède lui-même à la tentative de conciliation.
+Le greffier avise par tous moyens le défendeur de la décision du juge. L'avis précise les nom, prénoms, profession et adresse
+du demandeur et l'objet de la demande.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+	  - Décret n°2015-282 du 11 mars 2015 - art. 24
 
 	**Cité par**:
 
@@ -16811,8 +16857,8 @@ juge procède lui-même à la tentative de conciliation.
 
 ###### Article 832
 
-A défaut de refus de la délégation par le défendeur dans le délai prévu par l'article 831, le demandeur et le conciliateur de
-justice sont avisés par tout moyen de la décision du juge. Une copie de la demande est adressée au conciliateur. 
+Le demandeur et le conciliateur de justice sont avisés par tous moyens de la décision du juge. Une copie de la demande est
+adressée au conciliateur. 
 
 Le conciliateur de justice procède à la tentative de conciliation comme il est dit aux articles 129-2 à 129-4, 130 et 131. A
 sa demande, sa mission peut être renouvelée, sans qu'il soit nécessaire de recueillir l'accord des parties. 
@@ -16824,7 +16870,7 @@ réunion à l'issue de laquelle il a constaté cet échec.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+	  - Décret n°2015-282 du 11 mars 2015 - art. 25
 
 	**Cite**:
 
@@ -17079,8 +17125,8 @@ déclaration en autant de copies que de personnes dont la convocation est demand
 
 ###### Article 844
 
-Le greffier convoque les parties à l'audience par lettre recommandée avec demande d'avis de réception. Il adresse le même
-jour copie de cette convocation par lettre simple. Le demandeur peut aussi être convoqué verbalement contre émargement. 
+Le greffier convoque le défendeur à l'audience par lettre recommandée avec demande d'avis de réception. Le demandeur est
+avisé par tous moyens des lieu, jour et heure de l'audience. 
 
 Outre les mentions prescrites par l'article 665-1, la convocation adressée au défendeur rappelle les dispositions de
 l'article 847-2 et comprend en annexe une copie de la déclaration et des pièces qui y sont jointes. Cette convocation vaut
@@ -17088,14 +17134,14 @@ citation.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
 	**Cité par**:
 
 	  - Décret n°2011-945 du 10 août 2011 - art. 7 (V)
 	  - Décret n°2015-219 du 27 février 2015 - art. 11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 4
 
 	**Liens**:
 
@@ -17116,20 +17162,20 @@ citation.
 Le juge s'efforce de concilier les parties.
 
 Le juge peut également, à tout moment de la procédure, inviter les parties à rencontrer un conciliateur de justice aux lieu,
-jour et heure qu'il détermine. Les parties en sont avisées, selon le cas, dans l'acte de convocation à l'audience ou par une
-lettre simple. L'avis indique la date de l'audience à laquelle l'affaire sera examinée afin que le juge constate la
-conciliation ou tranche le litige. L'invitation peut également être faite par le juge à l'audience.
+jour et heure qu'il détermine. Les parties en sont avisées, selon le cas, dans l'acte de convocation à l'audience ou par tous
+moyens. L'avis indique la date de l'audience à laquelle l'affaire sera examinée afin que le juge constate la conciliation ou
+tranche le litige. L'invitation peut également être faite par le juge à l'audience.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 	**Cité par**:
 
 	  - Décret n°2011-945 du 10 août 2011 - art. 7 (V)
 	  - Code de procédure civile - art. 852-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 5
 
 
 ##### Sous-section II : Les débats
@@ -17148,14 +17194,14 @@ La procédure est orale.
 ###### Article 847
 
 A défaut de conciliation constatée à l'audience, l'affaire est immédiatement jugée ou, si elle n'est pas en état de l'être,
-renvoyée à une audience ultérieure. Dans ce cas, le greffier avise par lettre simple les parties qui ne l'auraient pas été
+renvoyée à une audience ultérieure. Dans ce cas, le greffier avise par tous moyens les parties qui ne l'auraient pas été
 verbalement de la date de l'audience.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+	  - Décret n°2015-282 du 11 mars 2015 - art. 5
 
 
 ###### Article 847-1
@@ -17409,9 +17455,8 @@ La requête est remise ou adressée au greffe par le requérant ou par tout mand
 Lorsqu'une affaire a été renvoyée devant le juge dans les conditions prévues par l'alinéa 2 de l'article 470-1 et par
 l'article R. 41-2 du code de procédure pénale, le greffe de ce juge convoque à l'audience, un mois au moins à l'avance et par
 lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été engagée devant la
-juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. Le greffe adresse le même jour aux
-mêmes personnes copies de la convocation par lettre simple. La convocation à laquelle est annexée une copie de la décision de
-renvoi vaut citation en justice.
+juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. La convocation à laquelle est
+annexée une copie de la décision de renvoi vaut citation en justice.
 
 La convocation indique que, même s'ils ne comparaissent pas, des décisions exécutoires à titre provisoire pourront être
 prises contre les parties autres que la victime du dommage et contre les tiers responsables mentionnés dans la décision de
@@ -17428,15 +17473,15 @@ les conditions prévues par l'alinéa 2 de l'article 849.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2015-282 du 11 mars 2015 - art. 3
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R41-2 (M)
+	  - Code de procédure pénale - art. R41-2
 	  - Nouveau code de procédure civile 470-1, 840, 841, 842, 843, 844 et 849
 
 
@@ -17520,20 +17565,21 @@ L'assignation doit être délivrée quinze jours au moins avant la date de l'aud
 
 ###### Article 857
 
-Le tribunal est saisi, à la diligence de l'une ou l'autre partie, par la remise au greffe d'une copie de l'assignation.
+Le tribunal est saisi, à la diligence de l'une ou l'autre partie, par la remise au greffe d'une copie de l'assignation. 
 
 Cette remise doit avoir lieu au plus tard huit jours avant la date de l'audience, sous peine de caducité de l'assignation
-constatée d'office par ordonnance, selon le cas, du président ou du juge rapporteur, ou, à défaut, à la requête d'une partie.
+constatée d'office par ordonnance, selon le cas, du président ou du juge chargé d'instruire l'affaire, ou, à défaut, à la
+requête d'une partie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 21 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2015-282 du 11 mars 2015 - art. 28
 
 
 ###### Article 858
@@ -17607,14 +17653,14 @@ La procédure est orale.
 
 ###### Article 860-2
 
-Si une conciliation entre les parties apparaît envisageable, la formation de jugement peut, avec l'accord des parties,
-désigner un conciliateur de justice à cette fin. Cette désignation peut revêtir la forme d'une simple mention au dossier.
+Si une conciliation entre les parties apparaît envisageable, la formation de jugement peut        désigner un conciliateur de
+justice à cette fin. Cette désignation peut revêtir la forme d'une simple mention au dossier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+	  - Décret n°2015-282 du 11 mars 2015 - art. 26
 
 
 ###### Article 861
@@ -17622,14 +17668,14 @@ désigner un conciliateur de justice à cette fin. Cette désignation peut revê
 En l'absence de conciliation, si l'affaire n'est pas en état d'être jugée, la formation de jugement la renvoie à une
 prochaine audience ou confie à l'un de ses membres le soin de l'instruire. 
 
-A moins que l'affaire ne soit jugée dès la première audience, le greffier avise par lettre simple les parties qui ne
-l'auraient pas été verbalement de la date des audiences ultérieures.
+A moins que l'affaire ne soit jugée dès la première audience, le greffier avise par tous moyens les parties qui ne l'auraient
+pas été verbalement de la date des audiences ultérieures.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1451 du 24 décembre 2012 - art. 12
+	  - Décret n°2015-282 du 11 mars 2015 - art. 5
 
 
 ###### Article 861-1
@@ -18825,18 +18871,19 @@ Les demandes soumises à publication au fichier immobilier sont faites par acte 
 
 ###### Article 886
 
-Le greffe du tribunal convoque les parties par lettre recommandée avec demande d'avis de réception, quinze jours au moins
-avant la date fixée par le président du tribunal. Il leur adresse le même jour copie de cette convocation par lettre simple.
+Le greffe du tribunal convoque le défendeur par lettre recommandée avec demande d'avis de réception, quinze jours au moins
+avant la date fixée par le président du tribunal. Le demandeur est avisé par tous moyens des lieu, jour et heure de
+l'audience.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-460 du 13 mai 2005 - art. 29 () JORF 14 mai 2005
+	  - Décret n°2015-282 du 11 mars 2015 - art. 6
 
 	**Cité par**:
 
@@ -18845,10 +18892,9 @@ avant la date fixée par le président du tribunal. Il leur adresse le même jou
 
 ###### Article 887
 
-Au jour indiqué, il est procédé, devant le tribunal, à une tentative de conciliation dont il est dressé procès-verbal.
+Au jour indiqué, il est procédé, devant le tribunal, à une tentative de conciliation dont il est dressé procès-verbal. 
 
-Le tribunal peut, avec l'accord des parties, déléguer la mission de conciliation à un conciliateur de justice désigné à cette
-fin. 
+Le tribunal peut        déléguer la mission de conciliation à un conciliateur de justice désigné à cette fin. 
 
 En cas de non-comparution de l'une des parties, son absence est constatée dans le procès-verbal.
 
@@ -18856,7 +18902,7 @@ En cas de non-comparution de l'une des parties, son absence est constatée dans 
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 8
+	  - Décret n°2015-282 du 11 mars 2015 - art. 26
 
 
 ###### Article 888
@@ -19909,18 +19955,18 @@ Le secrétaire enregistre l'appel à sa date ; il délivre ou adresse par lettre
 
 ###### Article 936
 
-Dès l'accomplissement des formalités par l'appelant, le secrétaire avise, par lettre simple, la partie adverse de l'appel en
+Dès l'accomplissement des formalités par l'appelant, le secrétaire avise, par tous moyens, la partie adverse de l'appel en
 l'informant qu'elle sera ultérieurement convoquée devant la cour.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 26 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2015-282 du 11 mars 2015 - art. 5
 
 	**Cité par**:
 
@@ -19931,9 +19977,9 @@ l'informant qu'elle sera ultérieurement convoquée devant la cour.
 
 ###### Article 937
 
-Le greffier de la cour convoque les parties à l'audience prévue pour les débats, dès sa fixation et quinze jours au moins à
-l'avance, par lettre recommandée avec demande d'avis de réception et leur adresse le même jour, par lettre simple, copie de
-cette convocation. 
+Le greffier de la cour convoque le défendeur à l'audience prévue pour les débats, dès sa fixation et quinze jours au moins à
+l'avance, par lettre recommandée avec demande d'avis de réception. Le demandeur est avisé par tous moyens des lieu, jour et
+heure de l'audience.
 
 La convocation vaut citation.
 
@@ -19941,11 +19987,11 @@ La convocation vaut citation.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2015-282 du 11 mars 2015 - art. 7
 
 
 ###### Article 938
@@ -20109,18 +20155,18 @@ entre avocats et il en est justifié auprès de la cour dans les délais qu'elle
 
 ###### Article 947
 
-A moins que l'affaire ne soit jugée dès la première audience, le greffier avise par lettre simple de la date des audiences
+A moins que l'affaire ne soit jugée dès la première audience, le greffier avise par tous moyens de la date des audiences
 ultérieures les parties qui ne l'auraient pas été verbalement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2015-282 du 11 mars 2015 - art. 5
 
 	**Cité par**:
 
@@ -20132,11 +20178,10 @@ ultérieures les parties qui ne l'auraient pas été verbalement.
 La partie dont les droits sont en péril peut, même si une date d'audience a déjà été fixée, demander au premier président de
 la cour de retenir l'affaire, par priorité, à une prochaine audience. 
 
-S'il est fait droit à sa demande, le requérant est aussitôt avisé de la date fixée. 
+S'il est fait droit à sa demande, le requérant est aussitôt avisé par tous moyens de la date fixée.
 
 A moins que le premier président n'ait décidé qu'elle le serait par acte d'huissier de justice à l'initiative du requérant,
-le greffier convoque la partie adverse par lettre recommandée avec demande d'avis de réception et lui adresse le même jour,
-par lettre simple, copie de cette convocation. 
+le greffier convoque la partie adverse par lettre recommandée avec demande d'avis de réception.
 
 La cour s'assure qu'il s'est écoulé un temps suffisant entre la convocation et l'audience pour que la partie convoquée ait pu
 préparer sa défense.
@@ -20145,11 +20190,11 @@ préparer sa défense.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2015-282 du 11 mars 2015 - art. 8
 
 
 ###### Article 949
@@ -20285,39 +20330,22 @@ siens.
 
 ###### Article 955-1
 
-Lorsque la cour est saisie par requête, les parties sont avisées de la date de l'audience par le greffier dans les conditions
-prévues à l'article 930-1.
+Lorsque la cour est saisie par requête, les parties sont avisées des lieu, jour et heure de l'audience par le greffier. 
+
+L'avis est donné soit aux avocats dans les conditions prévues à l'article 930-1, soit, dans les affaires dispensées du
+ministère d'avocat, au défendeur par lettre recommandée avec demande d'avis de réception et à l'auteur de la requête par tous
+moyens. 
+
+Copie de la requête est jointe à l'avis donné à l'avocat du défendeur ou, lorsque l'affaire est dispensée du ministère
+d'avocat, au défendeur
 
 **Nota:**
 
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions de l'article 6 ne sont applicables qu'aux déclarations
-d'appel et aux constitutions d'avoué afférentes aux appels formés à compter du 1er janvier 2011.
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 6
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 930-1
-
-
-###### Article 955-2
-
-L'avis est donné soit aux avocats dans les conditions prévues à l'article 930-1, soit, dans les affaires dispensées du
-ministère d'avocat, aux parties par lettre recommandée avec demande d'avis de réception. 
-
-Copie de la requête est jointe à l'avis donné aux avocats ou aux parties.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 7
-
-	**Abrogé par**:
 
 	  - Décret n°2015-282 du 11 mars 2015 - art. 9
 
@@ -23060,8 +23088,8 @@ duquel est née la personne concernée et par le service central d'état civil p
 
 La publicité des demandes, actes et jugements est réalisée par une mention en marge de l'acte de naissance de l'intéressé.
 Cette mention est faite à la diligence du greffier du tribunal de grande instance ou, le cas échéant, à celle du service
-central d'état civil. Elle est constituée par l'indication "répertoire civil" suivie de la référence sous laquelle la
-demande, l'acte ou le jugement a été conservé.
+central d'état civil. Elle est constituée par l'indication " RC " suivie de la référence sous laquelle la demande, l'acte ou
+le jugement a été conservé. 
 
 La date à laquelle la mention est apposée est portée sur l'extrait conservé au greffe ou au service central d'état civil.
 
@@ -23069,11 +23097,11 @@ La date à laquelle la mention est apposée est portée sur l'extrait conservé 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2015-282 du 11 mars 2015 - art. 29
 
 
 ###### Article 1060
@@ -24939,9 +24967,6 @@ La convocation des parties, à l'exception du ministère public, est faite par l
 réception ou par la voie administrative, en cas de danger grave et imminent pour la sécurité d'une personne concernée par une
 ordonnance de protection ou lorsqu'il n'existe pas d'autre moyen de notification. 
 
-Le greffier adresse, le jour où il envoie ou remet aux fins de notification la convocation, une copie de celle-ci par lettre
-simple. 
-
 Le demandeur peut également être convoqué verbalement contre émargement. 
 
 La convocation adressée au défendeur vaut citation. Elle comprend en annexe une copie de la requête et des pièces qui y sont
@@ -24951,9 +24976,9 @@ Le ministère public est avisé de la date de l'audience par le greffier.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+	  - Décret n°2015-282 du 11 mars 2015 - art. 10
 
 	**Cite**:
 
@@ -25143,9 +25168,9 @@ Lorsqu'une demande en divorce ou en séparation de corps est introduite avant l'
 protection ou que l'ordonnance de protection est prononcée alors qu'une procédure de divorce ou de séparation de corps est en
 cours, les mesures de l'ordonnance de protection continuent de produire leurs effets jusqu'à ce qu'une décision statuant sur
 la demande en divorce ou en séparation de corps soit passée en force de chose jugée, à moins que le juge saisi de cette
-demande en décide autrement. Toutefois, les mesures prises en application des 3°, 4° et 5° de l'article 515-11 du code civil
-et prononcées antérieurement à l'ordonnance de non-conciliation cessent de produire leurs effets à compter de la notification
-de celle-ci.
+demande en décide autrement. Toutefois, les mesures prises en application des 3°   et 5° de l'article 515-11 du code civil et
+prononcées antérieurement à l'ordonnance de non-conciliation cessent de produire leurs effets à compter de la notification de
+celle-ci. 
 
 A compter de l'introduction de la procédure de divorce ou de séparation de corps, la demande aux fins de mesures de
 protection ainsi que les demandes mentionnées au premier alinéa de l'article 1136-12 sont présentées devant le juge saisi de
@@ -25154,9 +25179,9 @@ décision séparée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+	  - Décret n°2015-282 du 11 mars 2015 - art. 30
 
 	**Cite**:
 
@@ -25168,6 +25193,34 @@ décision séparée.
 	  - Code de procédure civile - art. 1136-7 (V)
 	  - Code de procédure civile - art. 1136-9 (V)
 	  - Code de procédure civile - art. 1180-3 (VD)
+
+
+###### Article 1136-14
+
+Lorsqu'une demande relative à l'exercice de l'autorité parentale est introduite avant l'expiration de la durée des mesures de
+protection ou que l'ordonnance de protection est prononcée alors qu'une procédure relative à l'exercice de l'autorité
+parentale est en cours, les mesures de l'ordonnance de protection continuent de produire leurs effets jusqu'à ce qu'une
+décision statuant sur la demande relative à l'exercice de l'autorité parentale soit passée en force de chose jugée, à moins
+que le juge saisi de cette demande en décide autrement. Toutefois, les mesures relatives aux modalités d'exercice de
+l'autorité parentale et à la contribution à l'entretien et à l'éducation des enfants prises en application du 5° de l'article
+515-11 du code civil et prononcées antérieurement à la décision statuant, même à titre provisoire, sur la demande relative à
+l'exercice de l'autorité parentale, cessent de produire leurs effets à compter de la notification de celle-ci. 
+
+A compter de l'introduction de la procédure relative à l'exercice de l'autorité parentale, la demande aux fins de mesures de
+protection ainsi que les demandes mentionnées au premier alinéa de l'article 1136-12 sont présentées devant le juge saisi de
+cette procédure. La demande est formée, instruite et jugée selon les règles de la présente section et le juge statue par
+décision séparée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 31
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1136-12
+	  - Code civil - art. 515-11
 
 
 #### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales
@@ -25201,13 +25254,12 @@ son avocat.
 ###### Article 1138
 
 Dans les quinze jours de la requête, le greffe convoque le défendeur à l'audience par lettre recommandée avec demande d'avis
-de réception. Il lui adresse, le même jour, par lettre simple, copie de la requête et de la convocation. 
+de réception. 
 
 Toutefois, lorsque la requête mentionne que l'adresse du défendeur est la dernière adresse connue, le greffe invite le
 requérant à procéder par voie de signification. 
 
-Le greffe convoque également, par lettre simple, celui qui a pris l'initiative de la demande. Ce dernier peut aussi être
-convoqué verbalement, contre émargement, ou selon les modalités de l'article 652. 
+Le greffe avise par tous moyens l'auteur de la demande des lieu, jour et heure de l'audience. 
 
 L'assignation ou la convocation mentionne, à peine de nullité, les dispositions des articles 1139 à 1141.
 
@@ -25215,17 +25267,16 @@ L'assignation ou la convocation mentionne, à peine de nullité, les disposition
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2015-282 du 11 mars 2015 - art. 11
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1139 (V)
-	  - Code de procédure civile - art. 652 (V)
+	  - Code de procédure civile - art. 1139
+	  - Code de procédure civile - art. 652
 
 
 ###### Article 1139
@@ -26640,9 +26691,9 @@ Les décisions de la cour d'appel sont notifiées comme il est dit à l'article 
 
 ###### Article 1195
 
-Les convocations et notifications sont faites par le greffe par lettre recommandée avec demande d'avis de réception et par
-lettre simple. Le juge peut, toutefois, décider qu'elles auront lieu par acte d'huissier de justice, le cas échéant, à la
-diligence du greffe, ou par la voie administrative.
+Les convocations et notifications sont faites par le greffe par lettre recommandée avec demande d'avis de réception. Le juge
+peut, toutefois, décider qu'elles auront lieu par acte d'huissier de justice, le cas échéant, à la diligence du greffe, ou
+par la voie administrative.
 
 La remise d'une expédition du jugement contre récépissé daté et signé équivaut à la notification.
 
@@ -26650,11 +26701,11 @@ La remise d'une expédition du jugement contre récépissé daté et signé équ
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 69 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2015-282 du 11 mars 2015 - art. 12
 
 	**Cité par**:
 
@@ -29455,7 +29506,7 @@ est jointe une copie de la requête.
 Toutefois, lorsqu'il résulte de celle-ci que seule la dernière adresse du mandant ou du bénéficiaire du mandat lorsque celui-
 ci n'est pas le mandant ou du mandataire est connue, le greffe invite le requérant à procéder par voie de signification. 
 
-Le greffe convoque également le requérant par lettre simple ou verbalement, contre émargement. 
+Le greffe avise par tous moyens le requérant des lieu, jour et heure de l'audience.
 
 Les parties se défendent elles-mêmes ; elles ont la faculté de se faire assister ou représenter par un avocat. 
 
@@ -29467,7 +29518,7 @@ Les dispositions des articles 1231 et 1239 sont applicables.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 15
+	  - Décret n°2015-282 du 11 mars 2015 - art. 13
 
 	**Cite**:
 
@@ -34092,19 +34143,18 @@ demandeur n'ait fait connaître que l'injonction a été exécutée.
 
 ###### Article 1425-5
 
-Le greffe notifie l'ordonnance aux parties, par lettre recommandée avec demande d'avis de réception. Il adresse le même jour
-copie de cette notification par lettre simple. La lettre de notification mentionne les dispositions des articles 1425-7 et
-1425-8.
+Le greffe notifie l'ordonnance aux parties, par lettre recommandée avec demande d'avis de réception. La lettre de
+notification mentionne les dispositions des articles 1425-7 et 1425-8.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2015-282 du 11 mars 2015 - art. 14
 
 	**Liens**:
 
@@ -34112,8 +34162,8 @@ copie de cette notification par lettre simple. La lettre de notification mention
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1425-7 (V)
-	  - Code de procédure civile - art. 1425-8 (V)
+	  - Code de procédure civile - art. 1425-7
+	  - Code de procédure civile - art. 1425-8
 
 
 ###### Article 1425-6
@@ -37035,8 +37085,8 @@ procédure conventionnelle.
 
 ###### Article 1561
 
-L'objet du litige est déterminé par les prétentions respectives des parties telles que formulées dans la requête prévue à
-l'article 1559. 
+L'objet du litige est déterminé par les prétentions respectives des parties telles que formulées dans la requête prévue    à
+l'article 1560. 
 
 Les parties ne peuvent modifier leurs prétentions, si ce n'est pour actualiser le montant d'une demande relative à une
 créance à exécution successive, opposer un paiement ou une compensation ultérieur ou faire juger les questions nées de
@@ -37047,9 +37097,9 @@ l'invitation du juge de fournir les explications de fait ou de droit qu'il estim
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - Décret n°2015-282 du 11 mars 2015 - art. 32
 
 	**Cité par**:
 
@@ -37191,22 +37241,20 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction en vigueur le lendemain de la publication
-du décret n° 2014-1633 du 26 décembre 2014 modifiant le décret n° 2010-434 du 29 avril 2010 relatif à la communication par
-voie électronique en matière de procédure civile et portant adaptation au droit de l'Union européenne, à l'exception des
-dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX du
-titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2015-282 du 11 mars 2015
+relatif à la simplification de la procédure civile, à la communication électronique et à la résolution amiable des
+différends, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la
+section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2010-434 du 29 avril 2010
-	  - Décret n°2014-1633 du 26 décembre 2014
+	  - Décret n°2015-282 du 11 mars 2015
 
 	**Modifié par**:
 
-	  - Décret n°2014-1633 du 26 décembre 2014 - art. 4
+	  - Décret n°2015-282 du 11 mars 2015 - art. 34
 
 	**Cité par**:
 
