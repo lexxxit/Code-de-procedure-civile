@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2015-03-15
+Version Consolidée au 2015-04-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -814,11 +814,20 @@ Toute juridiction saisie d'une demande de sa compétence connaît, même s'ils e
 les moyens de défense à l'exception de ceux qui soulèvent une question relevant de la compétence exclusive d'une autre
 juridiction.
 
+Lorsque la solution d'un litige dépend d'une question soulevant une difficulté sérieuse et relevant de la compétence de la
+juridiction administrative, la juridiction judiciaire initialement saisie la transmet à la juridiction administrative
+compétente en application du titre Ier du livre III du code de justice administrative. Elle sursoit à statuer jusqu'à la
+décision sur la question préjudicielle.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2015-233 du 27 février 2015 - art. 48
 
 	**Cité par**:
 
@@ -940,6 +949,10 @@ comparaître, il s'expose à ce qu'un jugement soit rendu contre lui sur les seu
 Elle comprend en outre l'indication des pièces sur lesquelles la demande est fondée. Ces pièces sont énumérées sur un
 bordereau qui lui est annexé.
 
+Sauf justification d'un motif légitime tenant à l'urgence ou à la matière considérée, en particulier lorsqu'elle intéresse
+l'ordre public, l'assignation précise également les diligences entreprises en vue de parvenir à une résolution amiable du
+litige.
+
 Elle vaut conclusions.
 
 **Liens relatifs à cet article**
@@ -963,7 +976,7 @@ Elle vaut conclusions.
 
 	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 27
+	  - Décret n°2015-282 du 11 mars 2015 - art. 18
 
 
 ###### Article 57
@@ -1045,17 +1058,17 @@ personne morale, de sa dénomination et de son siège social ;
 
 3° L'objet de la demande.
 
+Sauf justification d'un motif légitime tenant à l'urgence ou à la matière considérée, en particulier lorsqu'elle intéresse
+l'ordre public, la requête ou la déclaration qui saisit la juridiction de première instance précise également les diligences
+entreprises en vue de parvenir à une résolution amiable du litige.
+
 Elle est datée et signée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-936 du 27 juillet 2006 - art. 127 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -1077,6 +1090,10 @@ Elle est datée et signée.
 	  - Code du travail - art. R1461-1 (V)
 	  - Code du travail - art. R3252-13 (VD)
 	  - Code rural - art. R492-9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2015-282 du 11 mars 2015 - art. 19
 
 
 ###### Article 59
@@ -2482,34 +2499,54 @@ alinéa de l'article 126-11, ainsi que la date de l'audience.
 	  - Code de procédure civile - art. 126-12 (T)
 
 
-## Titre VI : La conciliation.
+## Titre V ter : La procédure sur question préjudicielle de la juridiction administrative
 
-### Chapitre Ier : Dispositions générales
+###### Article 126-14
+
+Lorsque la juridiction est saisie d'une question préjudicielle soulevée par une juridiction administrative, le greffe
+convoque à l'audience, un mois au moins à l'avance et par lettre recommandée avec demande d'avis de réception, les parties à
+l'instance engagée devant la juridiction administrative et les invite à constituer, s'il y a lieu, avocat dans ce délai. 
+
+La convocation précise qu'à défaut de comparution les parties s'exposent à ce qu'un jugement soit néanmoins rendu en leur
+absence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-233 du 27 février 2015 - art. 48
+
+
+###### Article 126-15
+
+La juridiction statue à bref délai. Le jugement est rendu en premier et en dernier ressort. Le délai de pourvoi en cassation
+est de quinze jours à compter de la notification du jugement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-233 du 27 février 2015 - art. 48
+
 
 ## Titre VI : La conciliation et la médiation
 
-### Chapitre Ier : La conciliation
-
-#### Section I : Dispositions générales
-
 ###### Article 127
 
-Les parties peuvent se concilier, d'elles-mêmes ou à l'initiative du juge, tout au long de l'instance.
+S'il n'est pas justifié, lors de l'introduction de l'instance et conformément aux dispositions des articles 56 et 58, des
+diligences entreprises en vue de parvenir à une résolution amiable de leur litige, le juge peut proposer aux parties une
+mesure de conciliation ou de médiation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 1
+	  - Décret n°2015-282 du 11 mars 2015 - art. 21
 
-	**Liens**:
 
-	  - TRANSFERE: Décret n°2015-282 du 11 mars 2015 - art. 20
+### Chapitre Ier : La conciliation
 
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 128 (V)
-
+#### Section I : Dispositions générales
 
 ###### Article 128
 
