@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2015-04-01
+Version Consolidée au 2015-10-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -38331,6 +38331,205 @@ L'ordonnance prononçant une sanction à l'encontre des membres de la direction 
 	**Créé par**:
 
 	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+
+
+##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations 
+
+###### Article 30-16
+
+Les opérations, mentionnées à l'article 79-IV du code civil local applicable aux départements du Bas-Rhin, du Haut-Rhin et de
+la Moselle, de fusion, de scission et d'apport partiel d'actif entre associations sont régies par les articles 30-17 à 30-21
+ci-après.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-832 du 7 juillet 2015 - art. 3
+
+
+###### Article 30-17
+
+Le projet de fusion, de scission ou d'apport partiel d'actif est arrêté par la direction de chaque association participant à
+l'opération au moins deux mois avant la date des délibérations prévues aux trois premiers alinéas de l'article 79-IV du code
+civil local applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. 
+
+Il contient les éléments suivants : 
+
+1° Le titre, l'objet, le siège social, le numéro de volume et de folio d'inscription de l'association au registre des
+associations du tribunal d'instance, une copie des statuts en vigueur et, le cas échéant, le dernier rapport annuel
+d'activités, de l'ensemble des associations participantes ; 
+
+2° Le cas échéant, un extrait de la décision de reconnaissance de la mission d'utilité publique des associations
+participantes ; 
+
+3° Les motifs, buts et conditions de la fusion, de la scission ou de l'apport partiel d'actif ; 
+
+4° Le cas échéant, le titre, l'objet, le siège social, les statuts envisagés de la nouvelle association résultant de
+l'opération de fusion, de scission ou d'apport partiel d'actif ou les statuts modifiés des personnes morales participantes ; 
+
+5° Le cas échéant, une copie des demandes tendant à la poursuite d'une autorisation administrative, d'un agrément, d'un
+conventionnement ou d'une habilitation, dans les conditions mentionnées au IV de l'article 79-IV du code civil local
+applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle ; 
+
+6° La désignation et l'évaluation de l'actif et du passif ainsi que des engagements souscrits, dont la transmission aux
+associations bénéficiaires ou nouvelles est prévue, et les méthodes d'évaluation retenues. 
+
+Le projet de fusion, de scission, d'apport partiel d'actif ainsi que, le cas échéant, le rapport du commissaire à l'opération
+mentionné au cinquième alinéa de l'article 79-IV du code civil local susvisé sont joints à la convocation statutaire en vue
+des délibérations des assemblées des membres des associations participantes appelées à statuer sur l'opération, prévues aux
+trois premiers alinéas du même article. Cette convocation mentionne les documents mis à disposition au siège social ou sur le
+site internet des associations dans les conditions de l'article annexe 30-19.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-832 du 7 juillet 2015 - art. 3
+
+
+###### Article 30-18
+
+Le projet de fusion, de scission ou d'apport partiel d'actif, fait l'objet de la publication par chacune des associations
+participantes d'un avis, aux frais des associations participantes, dans les conditions mentionnées à l'article 50 du code
+civil local applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. 
+
+L'avis contient les indications suivantes : 
+
+1° Le titre, l'objet, le siège social, le numéro de volume et de folio d'inscription de l'association au registre des
+associations du tribunal d'instance dans le ressort duquel l'association a son siège, pour chaque association participant à
+l'opération ; 
+
+2° Le cas échéant, le titre, l'objet, et le siège social envisagés de la nouvelle association résultant de l'opération de
+fusion, de scission ou d'apport partiel d'actif ; 
+
+3° La date d'arrêté du projet et la date prévue pour la réunion de l'assemblée devant statuer sur l'opération ; 
+
+4° La désignation et l'évaluation de l'actif et du passif ainsi que des engagements souscrits, dont la transmission aux
+associations bénéficiaires ou nouvelles est prévue. 
+
+La publicité prévue au présent article a lieu trente jours au moins avant la date de la première réunion de l'assemblée des
+membres appelée à statuer sur l'opération. 
+
+Un avis complémentaire doit être inséré dans le même délai au Bulletin des annonces légales obligatoires lorsque l'opération
+de fusion, de scission ou d'apport partiel d'actif concerne une ou plusieurs associations qui ont émis des obligations dans
+les conditions mentionnées à l'article L. 213-8 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-832 du 7 juillet 2015 - art. 3
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L213-8
+
+
+###### Article 30-19
+
+I.-Toute association participant à une opération de fusion, de scission ou d'apport partiel d'actif met à la disposition des
+membres, au siège social ou sur le site internet de l'association, trente jours au moins avant la date de l'assemblée des
+membres appelée à statuer sur le projet et au plus tard le jour de la publication de l'avis mentionné à l'article annexe
+30-18, les documents suivants : 
+
+1° Les documents mentionnés à l'article annexe 30-17 ainsi que, le cas échéant, le rapport du commissaire à la fusion, à la
+scission ou aux apports, mentionné au cinquième alinéa de l'article 79-IV du code civil local susvisé ; 
+
+2° Le cas échéant, la liste des établissements de l'association avec indication de leur siège ; 
+
+3° La liste des membres de la direction de chaque association participant, à l'exception des indications relatives à la
+nationalité, à la profession et au domicile ; 
+
+4° Un extrait des délibérations des organes délibérants de toutes les associations participantes arrêtant le projet de
+fusion, scission ou apport partiel d'actif, avec indication du nombre des membres présents, du nombre des membres représentés
+et du résultat des votes ; 
+
+5° Pour les trois derniers exercices ou si l'association a moins de trois ans depuis sa date de création : les comptes
+annuels, le budget de l'exercice courant, les dates auxquelles ont été arrêtés les comptes des associations participantes
+utilisés pour établir les conditions de l'opération ainsi que, le cas échéant, le rapport du commissaire aux comptes et le
+rapport de gestion ; 
+
+6° Si les derniers comptes annuels se rapportent à un exercice dont la clôture est antérieure de plus de six mois à la date
+du projet de fusion, de scission ou d'apport partiel d'actif, la situation comptable intermédiaire établie selon les mêmes
+méthodes et suivant la même présentation que les derniers comptes annuels. Cette situation comptable intermédiaire est
+arrêtée à une date antérieure de moins de trois mois à la date de ce projet. 
+
+Si l'opération est décidée avant l'approbation des comptes annuels du dernier exercice clos ou moins de trente jours après
+cette approbation, sont insérés dans le projet de l'opération les comptes arrêtés et, le cas échéant certifiés par le
+commissaire aux comptes, relatifs à cet exercice ainsi que les comptes annuels approuvés des deux exercices précédents et les
+rapports de gestion. Dans le cas où l'organe compétent ne les a pas encore arrêtés, la situation comptable intermédiaire
+mentionnée au précédent alinéa et les comptes annuels approuvés des exercices précédents ainsi que les rapports de gestion
+sont insérés dans le projet de l'opération ; 
+
+7° Les conditions dans lesquelles les contrats de travail des associations concernées par l'opération de fusion, de scission
+ou d'apport partiel d'actif sont transférés à la ou les nouvelles personnes morales résultant de l'opération, conformément
+aux articles L. 1224-1 et L. 1224-2 du code du travail ; 
+
+8° Le cas échéant, l'avis du comité d'entreprise se prononçant sur le projet de l'opération de chaque association participant
+à l'opération, dans les conditions mentionnées à l'article L. 2323-19 du code du travail ; 
+
+II.-La mise à disposition au siège social des documents prévue au I n'est pas requise lorsque, pendant une période
+ininterrompue commençant au plus tard trente jours avant la date fixée par l'assemblée générale appelée à se prononcer sur le
+projet de fusion, de scission ou d'apport partiel d'actif et ne n'achevant pas avant la fin de cette assemblée, l'association
+les publie sur son site internet, dans des conditions de nature à garantir la sécurité et l'authenticité des documents. 
+
+Lorsque le site internet n'est plus accessible pendant une durée ininterrompue d'au moins vingt-quatre heures, le délai
+mentionné au premier alinéa du présent article est suspendu jusqu'à la mise à disposition des documents au siège social ou
+jusqu'au rétablissement de l'accès au site internet. 
+
+Aucune copie des documents ne peut être obtenue lorsque le site internet des associations participant à l'opération de
+fusion, de scission ou d'apport partiel d'actif permet sans frais aux tiers de les télécharger et de les imprimer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-832 du 7 juillet 2015 - art. 3
+
+	**Cite**:
+
+	  - Code du travail - art. L1224-1
+	  - Code du travail - art. L1224-2
+	  - Code du travail - art. L2323-19
+
+
+###### Article 30-20
+
+Pour l'application du troisième alinéa du II de l'article 79-IV du code civil local applicable aux départements du Bas-Rhin,
+du Haut-Rhin et de la Moselle, l'opposition d'un créancier à la fusion ou à la scission est formée dans le délai de trente
+jours à compter de la dernière insertion prescrite par l'article 30-18. Le tribunal compétent pour recevoir les oppositions
+formées en application de ces articles, dans le cadre d'opérations de fusion, scission ou apport partiel d'actif qui
+concernent une ou plusieurs associations des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, est le tribunal de
+grande instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-832 du 7 juillet 2015 - art. 3
+
+
+###### Article 30-21
+
+Les commissaires aux apports sont choisis par les associations participant à l'opération parmi les commissaires aux comptes
+inscrits sur la liste prévue à l'article L. 822-1 du code de commerce ou parmi les experts inscrits sur une des listes
+établies par les cours et tribunaux. 
+
+Ils sont désignés, le cas échéant, par le président du tribunal de grande instance, statuant sur requête. 
+
+Ils peuvent se faire assister, dans l'accomplissement de leur mission, par un ou plusieurs experts de leur choix. Les
+honoraires de ces experts sont à la charge des associations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-832 du 7 juillet 2015 - art. 3
+
+	**Cite**:
+
+	  - Code de commerce - art. L822-1
 
 
 ### Chapitre II : Dispositions particulières au tribunal de grande instance.
