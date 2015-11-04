@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2015-10-01
+Version Consolidée au 2015-11-05
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -9757,43 +9757,56 @@ territoire de la République de la manière et dans les cas prévus par la loi.
 
 ###### Article 509-1
 
-Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger en application du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant
-la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, de l'article 39 du
-règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des
-décisions en matière matrimoniale et de responsabilité parentale, du règlement (CE) n° 805/2004 du Parlement européen et du
-Conseil du 21 avril 2004 portant création d'un titre exécutoire européen pour les créances incontestées et de la convention
-concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, faite à
-Lugano le 30 octobre 2007, sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la
-convention.
+I. - Sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention les requêtes
+aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à l'étranger en
+application :
 
-Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 susmentionné et
-des articles 5, 9 et 14.1 du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif à la
-reconnaissance mutuelle des mesures de protection en matière civile, ainsi que les requêtes aux fins d'obtention d'un extrait
-d'une décision présentées en application de l'article 20, paragraphe 1, du règlement (CE) n° 4/2009 du Conseil du 18 décembre
-2008 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions et la coopération en matière
-d'obligations alimentaires sont présentées au juge qui a rendu la décision ou homologué la convention. Elles sont dispensées
-du ministère d'avocat.
+- des articles 45 à 58 et 61 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
+authentiques en matière de successions et à la création d'un certificat successoral européen ;
+
+- du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire,
+la reconnaissance et l'exécution des décisions en matière civile et commerciale ;
+
+- de l'article 39 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et
+l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n°
+1347/2000 ;
+
+- du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire
+européen pour les créances incontestées ;
+
+- de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
+commerciale, faite à Lugano le 30 octobre 2007.
+
+II. - Sont présentées au juge qui a rendu la décision ou homologué la convention :
+
+1° Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et exécution à
+l'étranger en application :
+
+- des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la
+reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le
+règlement (CE) n° 1347/2000 ;
+
+- des articles 5, 9 et 14.1 du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif à la
+reconnaissance mutuelle des mesures de protection en matière civile ;
+
+2° Les requêtes aux fins d'obtention d'un extrait d'une décision présentées en application de l'article 20, paragraphe 1, du
+règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance et
+l'exécution des décisions et la coopération en matière d'obligations alimentaires.
+
+Les requêtes présentées devant le juge sont dispensées du ministère d'avocat.
 
 **Nota:**
 
-Conformément à l'article 3 du décret n° 2014-1633 du 26 décembre 2014, les dispositions de l'article 509-1 telles qu'issues
-de l'article 2 I du présent décret, s'appliquent aux actions judiciaires intentées, aux actes authentiques dressés ou
-enregistrés formellement et aux transactions judiciairement approuvées ou conclues à compter du 10 janvier 2015. Les
-décisions rendues dans les actions judiciaires intentées, les actes authentiques dressés ou enregistrés formellement et les
-transactions approuvées ou conclues avant le 10 janvier 2015 demeurent dans le champ d'application du règlement (CE) n°
-44/2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en
-matière civile et commerciale.
-
-Toutefois, les dispositions issues de l'article 2 II du même décret s'appliquent aux mesures de protection ordonnées à
-compter du 11 janvier 2015, quelle que soit la date à laquelle la procédure a été engagée.
+Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015, les dispositions de l'article 509-1 telles qu'issues de
+l'article 1er dudit décret, s'appliquent aux décisions judiciaires rendues, aux actes authentiques dressés ou enregistrés
+formellement et aux transactions judiciairement approuvées à compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 1
 
 	**Cité par**:
 
@@ -9802,68 +9815,83 @@ compter du 11 janvier 2015, quelle que soit la date à laquelle la procédure a 
 
 ###### Article 509-2
 
-Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
-titres exécutoires étrangers, en application de la convention concernant la compétence judiciaire, la reconnaissance et
-l'exécution des décisions en matière civile et commerciale, faite à Lugano le 30 octobre 2007, sont présentées au greffier en
-chef du tribunal de grande instance. 
+Sont présentées au greffier en chef du tribunal de grande instance les requêtes aux fins de reconnaissance ou de constatation
+de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application : 
 
-Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
-titres exécutoires étrangers, en application du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
-compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et de responsabilité parentale et en
-application des articles 26 et 27 du règlement (CE) du Conseil n° 4/2009 du 18 décembre 2008 relatif à la compétence, la loi
-applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires, sont
-présentées au président du tribunal de grande instance ou à son délégué. Elles sont dispensées du ministère d'avocat.
+- des articles 45 à 58 et 61 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
+authentiques en matière de successions et à la création d'un certificat successoral européen ; 
+
+- de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
+commerciale, faite à Lugano le 30 octobre 2007. 
+
+Sont présentées au président du tribunal de grande instance ou à son délégué les requêtes aux fins de reconnaissance ou de
+constatation de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application : 
+
+- du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des
+décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n° 1347/2000 ; 
+
+- des articles 26 et 27 du règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi
+applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires. 
+
+Les requêtes présentées devant le juge sont dispensées du ministère d'avocat.
 
 **Nota:**
 
-Conformément à l'article 3 I du décret n° 2014-1633 du 26 décembre    2014, les dispositions de l'article 509-2 telles
-qu'issues de l'article  2   III du présent décret, s'appliquent aux actions judiciaires  intentées,   aux actes authentiques
-dressés ou enregistrés formellement  et aux   transactions judiciairement approuvées ou conclues à compter du  10   janvier
-2015. Les décisions rendues dans les actions judiciaires    intentées, les actes authentiques dressés ou enregistrés
-formellement  et   les transactions approuvées ou conclues avant le 10 janvier 2015    demeurent dans le champ d'application
-du règlement (CE) n° 44/2001 du    Conseil du 22 décembre 2000 concernant la compétence judiciaire, la    reconnaissance et
-l'exécution des décisions en matière civile et    commerciale.
+Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015, les dispositions de l'article 509-2 telles qu'issues de
+l'article 1er dudit décret, s'appliquent aux décisions judiciaires rendues, aux actes authentiques dressés ou enregistrés
+formellement et aux transactions judiciairement approuvées à compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1535 (V)
 	  - Code de procédure civile - art. 509-3 (V)
 
-	**Cite**:
-
-	  - règlement (CE) n°2201/2003
-
 
 ###### Article 509-3
 
-Par dérogation aux articles 509-1 et 509-2, les requêtes aux fins de certification, de reconnaissance ou de constatation de
-la force exécutoire des actes authentiques notariés, en application des règlements précités des 12 décembre 2012  et 18
-décembre 2008, ainsi que de la convention précitée du 30 octobre 2007, sont présentées au président de la chambre des
-notaires ou, en cas d'absence ou d'empêchement, à son suppléant désigné parmi les membres de la chambre. 
+Par dérogation aux articles 509-1 et 509-2, sont présentées au président de la chambre des notaires ou, en cas d'absence ou
+d'empêchement, à son suppléant désigné parmi les membres de la chambre les requêtes aux fins de certification, de
+reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des actes authentiques notariés
+étrangers en application :
+
+- de l'article 60 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
+authentiques en matière de successions et à la création d'un certificat successoral européen ;
+
+- du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire,
+la reconnaissance et l'exécution des décisions en matière civile et commerciale ;
+
+- du règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance et
+l'exécution des décisions et la coopération en matière d'obligations alimentaires ;
+
+- de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
+commerciale, faite à Lugano le 30 octobre 2007. 
 
 Pour l'application du règlement précité du 12 décembre 2012, ainsi que de la convention précitée du 30 octobre 2007,
 l'élection de domicile est faite dans le ressort de la cour d'appel où siège la chambre des notaires. 
 
-Par dérogation à l'article 509-1, les requêtes aux fins de certification des actes authentiques notariés en vue de leur
-exécution à l'étranger en application du règlement (CE) n° 805 / 2004 du Parlement européen et du Conseil du 21 avril 2004
-portant création d'un titre exécutoire européen pour les créances incontestées sont présentées au notaire ou à la personne
-morale titulaire de l'office notarial conservant la minute de l'acte reçu.
+Par dérogation à l'article 509-1 sont présentées au notaire ou à la personne morale titulaire de l'office notarial conservant
+la minute de l'acte reçu les requêtes aux fins de certification des actes authentiques notariés en vue de leur acceptation et
+de leur exécution à l'étranger en application :
+
+- du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire
+européen pour les créances incontestées ;
+
+- de l'article 59 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
+authentiques en matière de successions et à la création d'un certificat successoral européen.
 
 **Nota:**
 
-Conformément à l'article 3 I du décret n° 2014-1633 du 26 décembre     2014, les dispositions de l'article 509-3 telles
-qu'issues de l'article   2   IV du présent décret, s'appliquent aux actions judiciaires   intentées,   aux actes authentiques
-dressés ou enregistrés formellement   et aux   transactions judiciairement approuvées ou conclues à compter  du  10   janvier
-2015. Les décisions rendues dans les actions  judiciaires    intentées, les actes authentiques dressés ou enregistrés
-formellement  et   les transactions approuvées ou conclues avant le 10  janvier 2015    demeurent dans le champ d'application
-du règlement (CE)  n° 44/2001 du    Conseil du 22 décembre 2000 concernant la compétence  judiciaire, la    reconnaissance et
-l'exécution des décisions en matière  civile et    commerciale.
+Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015,   les dispositions de l'article 509-3 telles qu'issues
+de l'article 2 du   présent décret, s'appliquent aux successions des personnes décédées à compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
@@ -9873,11 +9901,7 @@ l'exécution des décisions en matière  civile et    commerciale.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 509-1 (VD)
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 2
 
 
 ###### Article 509-4
@@ -9919,13 +9943,17 @@ Le double de la requête ainsi que du certificat ou de la décision sont conserv
 
 Le certificat délivré en application du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013
 relatif à la reconnaissance mutuelle des mesures de protection en matière civile est en outre notifié par le greffe à la
-personne à l'origine du risque encouru.
+personne à l'origine du risque encouru. 
+
+La décision constatant la force exécutoire prévue à l'article 48 du règlement (UE) n° 650/2012 du Parlement européen et du
+Conseil du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et
+l'acceptation et l'exécution des actes authentiques en matière de successions et à la création d'un certificat successoral
+européen est notifiée par le greffe à la partie contre laquelle l'exécution est demandée.
 
 **Nota:**
 
-Conformément à l'article 3 II du décret n° 2014-1633 du 26 décembre 2014, les dispositions de l'article 509-6 telles
-qu'issues de l'article 2 V du présent décret, s'appliquent aux mesures de protection ordonnées à compter du 11 janvier 2015,
-quelle que soit la date à laquelle la procédure a été engagée.
+Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015,    les dispositions de l'article 509-6 telles qu'issues
+de l'article 3 du    présent décret, s'appliquent aux successions des personnes décédées à  compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
@@ -9935,7 +9963,7 @@ quelle que soit la date à laquelle la procédure a été engagée.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 3
 
 
 ###### Article 509-7
@@ -9971,6 +9999,25 @@ qu'issues de l'article 2  VI du présent décret, s'appliquent aux mesures de pr
 	**Créé par**:
 
 	  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+
+
+###### Article 509-9
+
+La  décision statuant sur la demande de déclaration constatant la force  exécutoire, sur le territoire de la République, des
+titres et actes  étrangers, prévue à l'article 48 du règlement (UE) n° 650/2012 du  Parlement européen et du Conseil du 4
+juillet 2012 relatif à la  compétence, la loi applicable, la reconnaissance et l'exécution des  décisions, et l'acceptation
+et l'exécution des actes authentiques en  matière de successions et à la création d'un certificat successoral  européen peut
+faire l'objet d'un recours par le demandeur à la  déclaration ou par la partie contre laquelle l'exécution est demandée.
+
+Le recours contre la déclaration constatant  la force exécutoire et contre la décision de rejet de la demande de  déclaration
+constatant la force exécutoire est porté devant le président  du tribunal de grande instance qui statue en dernier ressort
+sur  requête, le requérant et l'autorité requise entendus ou appelés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 4
 
 
 ### Chapitre III : Le délai de grâce.
@@ -33162,6 +33209,107 @@ affaires familiales par le 1° de l'article L. 213-3 du code de l'organisation j
 	  - Code civil - art. 832-1
 	  - Code civil - art. 887
 	  - Code de l'organisation judiciaire - art. L213-3
+
+
+#### Section VIII : Le certificat successoral européen
+
+###### Article 1381-1
+
+Le certificat successoral européen prévu par le chapitre VI du règlement (UE) n° 650/2012 du Parlement européen et du Conseil
+du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et
+l'acceptation et l'exécution des actes authentiques en matière de successions et à la création d'un certificat successoral
+européen est délivré à la demande de tout héritier, légataire, exécuteur testamentaire ou administrateur de la succession par
+un notaire conformément à la procédure définie par les articles 65 à 67 de ce règlement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+
+
+###### Article 1381-2
+
+Une copie certifiée conforme du certificat successoral européen est remise au requérant et à toute personne justifiant d'un
+intérêt légitime contre émargement ou récépissé, ou leur est notifiée par lettre recommandée avec demande d'avis de
+réception.
+
+En cas de rectification d'erreur matérielle ou de modification d'un certificat successoral européen, une copie certifiée
+conforme du certificat rectifié ou modifié est remise ou notifiée à toutes les personnes qui se sont vues délivrer une copie
+du certificat initial.
+
+Le notaire est tenu d'assurer la conservation du certificat successoral européen qu'il a délivré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1381-4 (V)
+
+
+###### Article 1381-3
+
+En cas de refus de délivrer un certificat successoral européen, le notaire informe le demandeur par lettre recommandée avec
+demande d'avis de réception.
+
+En cas de retrait du certificat successoral européen, de suspension de ses effets ou de refus de procéder à sa rectification,
+sa modification, son retrait ou à la suspension de ses effets dans les conditions prévues aux articles 71 et 73 du règlement
+n° 650/2012 du Parlement et du Conseil du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et
+l'exécution des décisions, et l'acceptation et l'exécution des actes authentiques en matière de successions et à la création
+d'un certificat successoral européen, le notaire informe, dans les mêmes conditions, les personnes qui se sont vues délivrer
+une copie certifiée conforme du certificat initial.
+
+Le notaire informe les intéressés des motifs de sa décision et indique les voies de recours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1381-4 (V)
+
+
+###### Article 1381-4
+
+La décision de délivrance ou de refus de délivrance d'un certificat successoral européen peut être déférée au président du
+tribunal de grande instance dans le ressort duquel est situé l'office de cet officier public par tout héritier, légataire,
+exécuteur testamentaire ou administrateur de la succession et ce, dans un délai de quinze jours à compter de la remise ou
+notification de la copie certifiée conforme ou de la réception de la décision de refus de délivrance. 
+
+Les autres décisions mentionnées à l'article 1381-3 peuvent être déférées au président du tribunal de grande instance dans le
+ressort duquel est situé l'office de cet officier public par toute personne justifiant d'un intérêt légitime et ce, dans un
+délai de quinze jours à compter de la remise ou notification de la copie certifiée conforme du nouveau certificat ou de la
+réception de la décision. 
+
+Le président du tribunal statue en dernier ressort sur requête, le requérant, le notaire à l'origine de l'acte, et, le cas
+échéant, le demandeur d'un certificat successoral européen s'il n'est requérant, entendus ou appelés. Le notaire est avisé de
+la décision. 
+
+Lorsque le président du tribunal ordonne la délivrance, la rectification ou la modification du certificat, il peut, soit y
+procéder lui-même, soit inviter le notaire à le faire. Le greffe adresse alors le document par lettre recommandée avec avis
+de réception au notaire qui assurera sa conservation et en délivrera copie dans les conditions prévues par l'article 1381-2. 
+
+Si le retrait ou la suspension des effets du certificat successoral européen est ordonné par le président du tribunal, le
+notaire en informe sans délai toutes les personnes qui se sont vues délivrer des copies certifiées conformes. Aucune copie du
+certificat ne peut être délivrée pendant la période de suspension de ses effets.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1381-2
+	  - Code de procédure civile - art. 1381-3
 
 
 ## Titre IV : Les obligations et les contrats.
