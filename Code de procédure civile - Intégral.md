@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2015-11-05
+Version Consolidée au 2016-02-26
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23288,17 +23288,22 @@ A défaut, le juge compétent est celui du tribunal d'instance du lieu où demeu
 
 ###### Article 1063
 
-La demande est formée, instruite et jugée selon les règles applicables à la tutelle des mineurs.
+La demande est formée, instruite et jugée selon les règles applicables à la tutelle des majeurs.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2016-185 du 23 février 2016 - art. 13
 
 
 ###### Article 1064
@@ -24332,23 +24337,28 @@ assisté d'un avocat. Elle précise que l'assistance d'un avocat est obligatoire
 conciliation, le principe de la rupture du mariage. Le greffe avise l'avocat de l'époux qui a présenté la requête. 
 
 A la notification par lettre recommandée est également jointe, à titre d'information, une notice exposant, notamment, les
-dispositions des articles 252 à 254 ainsi que des 1° et 2° de l'article 255 du code civil.
+dispositions des articles 252 à 254
+   ainsi que des 1°, 2° et 10° de l'article 255 du code civil .
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions s'appliqueront aux requêtes en divorce introduites avant
+son entrée en vigueur qui, au jour de celle-ci, n'ont pas donné lieu à une demande introductive d'instance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2016-185 du 23 février 2016 - art. 2
 
 	**Cite**:
 
-	  - Code civil - art. 252 (V)
-	  - Code civil - art. 255 (V)
+	  - Code civil - art. 252
+	  - Code civil - art. 255
 
 
 ###### Article 1109
@@ -24513,6 +24523,40 @@ L'irrecevabilité prévue par l'article 257-2 du code civil doit être invoquée
 	**Cite**:
 
 	  - Code civil - art. 257-2 (V)
+
+
+###### Article 1116
+
+Les demandes visées au 
+deuxième alinéa de l'article 267 du code civil
+ne sont recevables que si les parties justifient par tous moyens de leurs désaccords subsistants et si cette justification
+intervient au moment de l'introduction de l'instance. Toutefois, le projet notarié visé au 
+quatrième alinéa de l'article 267 du code civil
+peut être annexé ultérieurement aux conclusions dans lesquelles la demande de liquidation et de partage est formulée. 
+
+La déclaration commune d'acceptation prévue au 
+troisième alinéa de l'article 267 du code civil
+est formulée par écrit et signée par les deux époux et leurs avocats respectifs. Les points de désaccord mentionnés dans la
+déclaration ne constituent pas des prétentions au sens de l'article 4 du présent code.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions s'appliqueront aux requêtes en divorce introduites avant
+son entrée en vigueur qui, au jour de celle-ci, n'ont pas donné lieu à une demande introductive d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 267
 
 
 ##### Paragraphe 4 : Les mesures provisoires
@@ -26116,6 +26160,8 @@ dans ce délai est également suspensif.
 
 #### Section I : L'exercice de l'autorité parentale
 
+#### Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant
+
 ###### Article 1179
 
 Les demandes relatives à l'exercice de l'autorité parentale relevant de la compétence du juge aux affaires familiales sont
@@ -26324,6 +26370,340 @@ immédiatement au juge.
 
 	  - Code civil - art. 373-2-1
 	  - Code civil - art. 373-2-9
+
+
+#### Section I bis : L'intervention du juge des tutelles en matière d'administration légale
+
+##### Sous-section 1 : La demande
+
+###### Article 1180-6
+
+Le juge des tutelles des mineurs territorialement compétent est celui de la résidence habituelle du mineur.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+
+###### Article 1180-7
+
+Le juge est saisi par requête remise ou adressée au greffe du tribunal de grande instance. La requête indique, à peine de
+nullité, les nom, prénoms et adresse du requérant, son lien avec le mineur, l'identité et l'adresse du mineur et de ses
+parents. 
+
+Lorsque la requête est fondée sur les dispositions du deuxième alinéa de l'article 387-3 du code civil, elle comporte à peine
+d'irrecevabilité, les mentions prévues à l'alinéa précédent et l'énoncé précis des faits de nature à porter gravement
+préjudice aux intérêts patrimoniaux du mineur ou qui compromettent manifestement et substantiellement ceux-ci ainsi que, le
+cas échéant, les pièces propres à justifier ces faits.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 387-3
+
+
+##### Sous-section 2 : L'instruction de la demande
+
+###### Article 1180-8
+
+Le juge peut, soit d'office, soit à la requête des parties ou du ministère public, ordonner toute mesure d'instruction.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+
+###### Article 1180-9
+
+Le juge entend le mineur dans les conditions de l'article 388-1 du code civil. Il peut, dans tous les cas où il l'estime
+opportun, procéder à l'audition des parents et de toute autre personne. 
+
+L'audition n'est pas publique. Il est dressé procès-verbal de celle-ci.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 388-1
+
+
+###### Article 1180-10
+
+Le juge des tutelles qui connaît de la situation d'un mineur peut vérifier auprès du juge des enfants si une procédure
+d'assistance éducative est ouverte et demander à ce dernier de lui transmettre copie des pièces du dossier en cours, selon
+les modalités définies à l'article 1187-1.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1187-1 (V)
+
+
+###### Article 1180-11
+
+Dès lors qu'il est informé qu'une procédure d'assistance éducative est ouverte à l'égard du mineur, le juge des tutelles
+transmet, à la demande du juge des enfants, copie de toute pièce que ce dernier estime utile.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1187-1 (V)
+
+
+##### Sous-section 3 : La consultation du dossier et la délivrance de copies
+
+###### Article 1180-12
+
+Le dossier peut être consulté au greffe par le requérant, le mineur capable de discernement, les parents ou leurs avocats,
+s'ils sont assistés ou représentés, jusqu'à ce qu'il soit statué sur la requête. 
+
+Lorsqu'il est fait application des dispositions des articles  387-3 ,387-4 ou 387-5 du code civil, le mineur capable de
+discernement ou l'un de ses parents ainsi que leurs conseils peuvent demander à consulter le dossier à tout moment de la
+procédure. 
+
+Le mineur capable de discernement ne peut consulter le dossier le concernant qu'en présence de ses parents ou de l'un d'eux
+ou de son avocat. En cas de refus des parents et si l'intéressé n'a pas d'avocat, le juge saisit le bâtonnier d'une demande
+de désignation d'un avocat pour assister le mineur. 
+
+Par décision motivée, le juge peut, en l'absence d'avocat, exclure tout ou partie des pièces de la consultation par le
+requérant ou le mineur lorsque cette consultation serait de nature à causer à ce dernier un préjudice grave. 
+
+Dans tous les cas, la consultation ne peut se faire qu'aux jours et heures fixés par le juge.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 387
+
+
+###### Article 1180-13
+
+L'avocat du mineur ou de ses parents peut se faire délivrer copie de tout ou partie des pièces du dossier. Il ne peut
+communiquer les copies ainsi obtenues ou leur reproduction au mineur ou à un tiers. 
+
+Le juge peut autoriser, sur leur demande et sur justification d'un intérêt légitime, la délivrance d'une copie d'une ou
+plusieurs pièces du dossier aux parents ainsi qu'au mineur âgé de seize ans révolus. La décision du juge est une mesure
+d'administration judiciaire.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+
+##### Sous-section 4 : Les décisions du juge des tutelles
+
+###### Article 1180-14
+
+A la demande de tout intéressé ou d'office, le juge peut ordonner que l'examen de la requête donne lieu à un débat, notamment
+lorsqu'il est fait application des articles 
+387,387-3,387-4 et 387-5 du code civil
+. 
+
+Dans ce cas, le juge statue après avoir entendu ou appelé l'administrateur légal ou les administrateurs légaux. 
+
+Les avocats des parties, lorsqu'elles sont assistées ou représentées, sont entendus en leurs observations.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil
+	  - Code civil - art. 387
+
+
+###### Article 1180-15
+
+L'affaire est instruite et jugée en chambre du conseil.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+
+##### Sous-section 5 : Les notifications et les copies des décisions
+
+###### Article 1180-16
+
+Toute décision du juge est notifiée, à la diligence du greffe, au requérant, aux parents et, le cas échéant, à
+l'administrateur ad hoc. 
+
+La décision est notifiée au mineur âgé de 16 ans révolus à moins que son état ne le permette pas. 
+
+Les notifications sont faites par lettre recommandée avec demande d'avis de réception. Le juge peut toutefois décider
+qu'elles seront faites par acte d'huissier. 
+
+La délivrance d'une copie certifiée conforme d'une décision du juge des tutelles par le greffe contre récépissé daté et signé
+vaut notification dès lors que les voies de recours et les sanctions encourues pour recours abusif sont portées à la
+connaissance de l'intéressé.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+
+###### Article 1180-17
+
+Il ne peut être délivré copie des décisions du juge qu'au requérant, aux parents et, le cas échéant, à l'administrateur ad
+hoc. 
+
+Le mineur intéressé devenu majeur peut obtenir copie des décisions le concernant. 
+
+Les personnes justifiant d'un intérêt légitime peuvent également en obtenir des extraits sur autorisation du juge. La
+décision du juge est une mesure d'administration judiciaire.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+
+##### Sous-section 6 : L'appel
+
+###### Article 1180-18
+
+Sauf disposition contraire, les décisions du juge sont susceptibles d'appel. 
+
+L'appel est formé, instruit et jugé selon les règles édictées aux articles 1239 à 1247.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1239
+
+
+##### Sous-section 7 : L'amende civile
+
+###### Article 1180-19
+
+L'amende civile prévue à l'article 387-6 du code civil ne peut excéder 3 000 €.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 4
+
+	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Cite**:
+
+	  - Code civil - art. 387-6
 
 
 #### Section II : L'assistance éducative
@@ -26574,26 +26954,28 @@ les parties à la procédure devant ces derniers ont qualité pour consulter le 
 pas transmettre certaines pièces lorsque leur production ferait courir un danger physique ou moral grave au mineur, à une
 partie ou à un tiers. 
 
-Dans les conditions prévues aux articles 1072-2 et 1221-2, le juge aux affaires familiales ou le juge des tutelles
+Dans les conditions prévues aux articles 1072-2,1180-11 et 1221-2, le juge aux affaires familiales ou le juge des tutelles
 transmettent copie de leur décision au juge des enfants ainsi que de toute pièce que ce dernier estime utile.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-398 du 10 avril 2009 - art. 2
+	  - Décret n°2016-185 du 23 février 2016 - art. 14
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1072-1 (V)
+	  - Code de procédure civile - art. 1180-10 (V)
 	  - Code de procédure civile - art. 1205-1 (V)
 	  - Code de procédure civile - art. 1221-1 (V)
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1072-2 (V)
-	  - Code de procédure civile - art. 1187 (V)
-	  - Code de procédure civile - art. 1221-2 (V)
+	  - Code de procédure civile - art. 1072-2
+	  - Code de procédure civile - art. 1180-11
+	  - Code de procédure civile - art. 1187
+	  - Code de procédure civile - art. 1221-2
 
 
 ###### Article 1188
@@ -27393,26 +27775,31 @@ pour le surplus, aux règles qui gouvernent les demandes en délégation de l'au
 
 ###### Article 1210-1
 
-Lorsqu'en application des dispositions des articles 388-2 et 389-3 du code civil, la juridiction procède à la désignation
+Lorsqu'en application des dispositions des  articles 383 et 388-2  du code civil, la juridiction procède à la désignation
 d'un administrateur ad hoc et que dans l'intérêt de l'enfant, il est impossible de choisir celui-ci au sein de la famille ou
 parmi les proches du mineur, la juridiction peut désigner l'administrateur ad hoc parmi les personnes figurant sur la liste
 prévue à l'article R. 53 du code de procédure pénale.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-818 du 16 septembre 1999 - art. 7 () JORF 19 septembre 1999
+	  - Décret n°2016-185 du 23 février 2016 - art. 5
 
 	**Cite**:
 
-	  - Code civil - art. 388-2 (V)
-	  - Code civil - art. 389-3 (V)
-	  - Code de procédure pénale - art. R53 (V)
+	  - Code civil - art. 383
+	  - Code civil - art. 388-2
+	  - Code de procédure pénale - art. R53
 
 
 ###### Article 1210-2
@@ -27746,14 +28133,19 @@ mandat de recherche des héritiers.
 
 ###### Article 1216
 
-L'amende civile prévue aux articles 388-3 et 417 du code civil ne peut excéder 3 000 euros. La décision qui la prononce n'est
-pas susceptible de recours.
+L'amende civile prévue aux  articles 411-1 et 417 du code civil ne peut excéder 3 000 euros. La décision qui la prononce
+n'est pas susceptible de recours.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2016-185 du 23 février 2016 - art. 6
 
 	**Cité par**:
 
@@ -27761,8 +28153,8 @@ pas susceptible de recours.
 
 	**Cite**:
 
-	  - Code civil - art. 388-3 (V)
-	  - Code civil - art. 417 (V)
+	  - Code civil - art. 411-1
+	  - Code civil - art. 417
 
 
 ##### Sous-section 2 : La procédure devant le juge des tutelles
@@ -28058,14 +28450,31 @@ exclure tout ou partie des pièces de la consultation si celle-ci est susceptibl
 
 ###### Article 1222-2
 
-La consultation de son dossier par le mineur sous tutelle capable de discernement, par    ses parents et son tuteur ne peut
-se faire que dans les conditions prévues aux deuxième, troisième et quatrième alinéas de l'article 1187.
+Le dossier du mineur sous tutelle peut être consulté au greffe par le requérant, le tuteur, les parents, ou, le cas échéant,
+leurs avocats, jusqu'à ce qu'il soit statué sur la requête. 
+
+A tout moment de la mesure, le mineur capable de discernement, son tuteur ou l'un de ses parents peut demander à consulter
+son dossier. 
+
+Le mineur capable de discernement ne peut consulter le dossier le concernant qu'en présence de son tuteur ou de son avocat.
+En cas de refus du tuteur et si l'intéressé n'a pas d'avocat, le juge saisit le bâtonnier d'une demande de désignation d'un
+avocat pour assister le mineur. 
+
+Par décision motivée, le juge peut, en l'absence d'avocat, exclure tout ou partie des pièces de la consultation par le
+requérant ou le mineur lorsque cette consultation serait de nature à causer à ce dernier un préjudice grave. 
+
+Dans tous les cas, la consultation ne peut se faire qu'aux jours et heures fixés par le juge.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-429 du 24 mai 2013 - art. 1
+	  - Décret n°2016-185 du 23 février 2016 - art. 7
 
 	**Cite**:
 
@@ -28074,28 +28483,39 @@ se faire que dans les conditions prévues aux deuxième, troisième et quatrièm
 
 ###### Article 1223
 
-L'avocat du majeur à protéger ou protégé peut se faire délivrer copie de tout ou partie des pièces du dossier.  Il ne peut
-communiquer les copies ainsi obtenues ou leur reproduction à son client ou à un tiers.
+L'avocat du majeur à protéger ou protégé, du mineur ou de ses parents peut se faire délivrer copie de tout ou partie des
+pièces du dossier. Il ne peut communiquer les copies ainsi obtenues ou leur reproduction au majeur à protéger ou protégé, au
+mineur ou à un tiers.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1628 du 23 décembre 2009 - art. 7
+	  - Décret n°2016-185 du 23 février 2016 - art. 8
 
 
 ###### Article 1223-1
 
 Sous réserve des dispositions de l'article 510 du code civil relatives à la communication des comptes de gestion, le juge des
 tutelles peut, après le prononcé du jugement de mise sous protection, autoriser, sur justification d'un intérêt légitime, la
-délivrance d'une copie d'une ou plusieurs pièces du dossier au majeur protégé ou à la personne chargée de la mesure de
-protection.
+délivrance d'une copie d'une ou plusieurs pièces du dossier au majeur protégé, au mineur âgé de seize ans révolus ou à la
+personne chargée de la mesure de protection.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2016-185 du 23 février 2016 - art. 9
 
 	**Cite**:
 
@@ -28108,13 +28528,20 @@ Il ne peut être délivré copie des délibérations du conseil de famille et de
 protection qu'aux parties et aux personnes investies des charges tutélaires concernées par ces délibérations et décisions. 
 
 Les personnes justifiant d'un intérêt légitime peuvent également en obtenir des extraits sur autorisation du juge des
-tutelles.
+tutelles. 
+
+Le mineur devenu majeur peut obtenir copie des délibérations et décisions le concernant.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2016-185 du 23 février 2016 - art. 10
 
 
 ###### Article 1224
@@ -28254,14 +28681,20 @@ de la date d'entrée en vigueur du présent décret.
 Toute décision du juge est notifiée, à la diligence du greffe, au requérant, à la personne chargée de la protection ou à
 l'administrateur légal et à tous ceux dont elle modifie les droits ou les obligations résultant de la mesure de protection. 
 
-En outre, dans le cas du deuxième alinéa de l'article 389-5 du code civil, elle est notifiée au parent qui n'a pas consenti à
-l'acte et, dans le cas de l'article 502 du même code, au subrogé tuteur.
+Elle est également notifiée au mineur âgé de seize ans révolus à moins que son état ne le permette pas. 
+
+En outre, dans le cas de l'article 502 du code civil, elle est notifiée au subrogé tuteur.
+
+**Nota:**
+
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2016-185 du 23 février 2016 - art. 11
 
 	**Cité par**:
 
@@ -28270,7 +28703,6 @@ l'acte et, dans le cas de l'article 502 du même code, au subrogé tuteur.
 
 	**Cite**:
 
-	  - Code civil - art. 389-5
 	  - Code civil - art. 502
 
 
@@ -28609,27 +29041,20 @@ Les parties ne sont pas tenues de constituer avocat.
 
 ###### Article 1239-1
 
-Dans le cadre du partage amiable prévu aux articles 389-5 et 507 du code civil, l'appel contre une délibération du conseil de
-famille ou une décision du juge des tutelles est ouvert à l'administrateur légal ou au tuteur, aux membres du conseil de
-famille et aux autres parties intéressées au partage.
+Dans le cadre du partage amiable prévu à l'article 507 du code civil, l'appel contre une délibération du conseil de famille
+ou une décision du juge des tutelles est ouvert au tuteur, aux membres du conseil de famille et aux autres parties
+intéressées au partage.
 
 **Nota:**
 
-Décret n° 2009-1628 du 23 décembre 2009, art 22 : I. - L'article 2 du présent décret entre en vigueur le 1er janvier 2010. Il
-ne s'applique pas aux recours formés avant cette date.
-
-II. ― Au 1er janvier 2010, les dossiers en cours relatifs à la protection juridique des mineurs sont transférés de plein
-droit au juge aux affaires familiales.
-
-Il n'y a pas lieu de renouveler les actes, formalités et jugements régulièrement intervenus antérieurement au transfert des
-procédures, à l'exception des actes valant convocation devant le juge des tutelles à une date postérieure au 1er janvier
-2010.
+Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
+jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1628 du 23 décembre 2009 - art. 2
+	  - Décret n°2016-185 du 23 février 2016 - art. 12
 
 	**Cité par**:
 
@@ -28638,8 +29063,7 @@ procédures, à l'exception des actes valant convocation devant le juge des tute
 
 	**Cite**:
 
-	  - Code civil - art. 389-5 (V)
-	  - Code civil - art. 507 (V)
+	  - Code civil - art. 507
 
 
 ###### Article 1239-2
@@ -29658,6 +30082,265 @@ Les dispositions de l'article 1253 sont applicables au mandat de protection futu
 	**Cite**:
 
 	  - Code de procédure civile - art. 1253 (V)
+
+
+#### Section II bis : Dispositions relatives à l'habilitation familiale
+
+###### Article 1260-1
+
+Le juge des tutelles territorialement compétent est celui de la résidence habituelle de la personne à l'égard de qui
+l'habilitation est sollicitée ou faisant l'objet de l'habilitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+
+###### Article 1260-2
+
+Le juge est saisi par requête remise ou adressée au greffe du tribunal d'instance. 
+
+La requête indique, à peine de nullité, les nom, prénoms et adresse : 
+
+- de la personne à l'égard de qui l'habilitation est sollicitée ou de la personne faisant l'objet de l'habilitation
+familiale ; 
+
+- de la personne habilitée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+
+###### Article 1260-3
+
+La requête aux fins de désignation d'une personne habilitée ou aux fins de son renouvellement comporte, à peine
+d'irrecevabilité, les éléments mentionnés aux deux alinéas qui suivent : 
+
+1° Le certificat médical circonstancié prévu à l'article 431 du code civil ; 
+
+2° L'énoncé des faits qui appellent cette protection au regard de l'article 494-2 du même code ; 
+
+Il est également fait mention de tout élément utile concernant la situation familiale de la personne à l'égard de qui
+l'habilitation est sollicitée et notamment l'identité des proches mentionnés à l'article 494-1 du code civil, la situation
+financière et patrimoniale de l'intéressé, le nom du médecin traitant si celui-ci est connu du requérant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code civil - art. 431
+	  - Code civil - art. 494-1
+
+
+###### Article 1260-4
+
+Lorsque la requête est présentée aux fins de renouvellement, il est joint à celle-ci une copie de la décision ayant délivré
+l'habilitation familiale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+
+###### Article 1260-5
+
+Les dispositions des articles 1212 à 1214,1216 et 1256 sont applicables. Pour l'application de l'article 1256, l'avis du
+médecin mentionné au premier alinéa de l'article 494-4 est assimilé à l'avis médical mentionné à l'article 432 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1212
+	  - Code de procédure civile - art. 1256
+	  - Code civil - art. 432
+
+
+###### Article 1260-6
+
+Lorsqu'il statue sur une requête aux fins de délivrance d'une habilitation familiale ou de renouvellement de l'habilitation
+familiale générale, le juge entend la personne faisant l'objet de l'habilitation, dans les conditions prévues au premier
+alinéa de l'article 494-4 du code civil. Lorsque la personne à l'égard de qui une habilitation familiale est sollicitée ou
+qui fait l'objet d'une habilitation familiale est entendue, les dispositions des articles 1220 à 1220-3 sont applicables.
+Pour l'application des dispositions de l'article 1220-2, la décision du juge est prise en application des dispositions du
+premier alinéa de l'article 494-4 du code civil. 
+
+Le juge procède à l'audition : 
+
+- de la personne demandant à être habilitée ; 
+
+- de la personne habilitée en cas de renouvellement de l'habilitation et dans les hypothèses visées au deuxième alinéa de
+l'article 494-10 du code civil. 
+
+Le juge peut, s'il l'estime opportun, procéder à l'audition : 
+
+- de la personne habilitée dans les hypothèses non visées par l'alinéa précédent ; 
+
+- des personnes visées à l'article 494-1 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code civil - art. 494-1
+	  - Code civil - art. 494-10
+	  - Code civil - art. 494-4
+
+
+###### Article 1260-7
+
+En application des dispositions du deuxième alinéa de l'article 494-4 du code civil, le juge constate l'adhésion ou l'absence
+d'opposition légitime des personnes visées au deuxième alinéa de l'article 494-1 du code civil après les avoir entendus ou
+par écrit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code civil - art. 494-1
+	  - Code civil - art. 494-4
+
+
+###### Article 1260-8
+
+Les dispositions de l'article 1221 sont applicables à l'instruction de la requête.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1221
+
+
+###### Article 1260-9
+
+Le greffe adresse une convocation à l'audience, sauf lorsque le juge a décidé qu'il n'y avait pas lieu de procéder à son
+audition en application des dispositions du premier alinéa de l'article 494-4 du code civil, à la personne à l'égard de qui
+une habilitation familiale est sollicitée ou faisant l'objet d'une habilitation, à la personne habilitée ainsi que, si le
+juge l'estime utile, à un ou plusieurs des proches visés à l'article 494-1 du même code. La convocation est adressée par
+lettre recommandée avec demande d'avis de réception, à laquelle est jointe une copie de la requête. 
+
+Toutefois lorsqu'il résulte de celle-ci que seule la dernière adresse de la personne faisant l'objet de l'habilitation ou de
+la personne habilitée est connue, le greffe invite le requérant à procéder par voie de signification. 
+
+Le greffe avise par tous moyens le requérant des lieux, jour et heure de l'audience. Lorsqu'il est requérant, le ministère
+public en est également avisé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code civil - art. 494-4
+
+
+###### Article 1260-10
+
+A l'audience, le juge entend le requérant, la personne à l'égard de qui l'habilitation est sollicitée ou la personne faisant
+l'objet de l'habilitation, sauf application par le juge des dispositions du premier alinéa de l'article 494-4, et, le cas
+échéant, le ministère public, qui peut également faire connaître son avis par écrit. 
+
+Les deux derniers alinéas de l'article 1226 et l'article 1227 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1226
+	  - Code civil - art. 494-4
+
+
+###### Article 1260-11
+
+La décision statuant sur une demande de délivrance d'une habilitation familiale est notifiée à la personne à l'égard de qui
+l'habilitation est sollicitée, aux personnes visées au deuxième alinéa de l'article 494-4 du code civil et à la personne
+demandant à être habilitée ; avis en est donné au procureur de la République. 
+
+Les décisions du juge statuant sur d'autres demandes que celles visées à l'alinéa précédent sont notifiées au requérant, à la
+personne faisant l'objet de l'habilitation, à la personne habilitée. Elles peuvent également être notifiées, si le juge
+l'estime utile, aux proches qu'il désigne parmi ceux mentionnés à l'article 494-1 du code civil. Avis en est donné au
+procureur de la République. 
+
+Les dispositions de l'article 1231 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1231
+	  - Code civil - art. 494-1
+	  - Code civil - art. 494-4
+
+
+###### Article 1260-12
+
+Un extrait de toute décision accordant, modifiant, renouvelant ou ordonnant la mainlevée d'une habilitation familiale
+générale est transmis par tout moyen au greffe du tribunal de grande instance dans le ressort duquel est née la personne
+faisant l'objet de l'habilitation aux mêmes fins et aux mêmes conditions que celles prévues à l'article 1233. 
+
+Lorsque l'habilitation a pris fin pour une autre cause que celle visée à l'alinéa précédent avis en est donné par tous moyens
+et aux mêmes fins par le greffe du tribunal d'instance, saisi par tout intéressé, au greffe du tribunal de grande instance
+dans le ressort duquel est née la personne faisant l'objet de l'habilitation. 
+
+Les décisions du juge des tutelles sont susceptibles d'appel dans un délai de quinze jours à compter de la notification de la
+décision pour les personnes auxquelles la décision a été notifiée et à compter de la remise de l'avis pour le procureur de la
+République. 
+
+Les parties ne sont pas tenues de constituer avocat. 
+
+Les dispositions des articles 1242,1243 à 1247 sont applicables. Toutefois, pour l'application du quatrième alinéa de
+l'article 1245, la cour entend la personne à l'égard de qui une habilitation est sollicitée ou faisant l'objet d'une
+habilitation conformément aux dispositions du premier alinéa de l'article 494-4 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-185 du 23 février 2016 - art. 16
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1233
+	  - Code de procédure civile - art. 1242
+	  - Code civil - art. 494-4
 
 
 #### Section III : Dispositions applicables aux pupilles de l'Etat.
@@ -37426,9 +38109,9 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2015-282 du 11 mars 2015
-relatif à la simplification de la procédure civile, à la communication électronique et à la résolution amiable des
-différends, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2016-185 du 23 février 2016
+pris pour l'application de l'ordonnance n° 2015-1288 du 15 octobre 2015 portant simplification et modernisation du droit de
+la famille, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la
 section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
@@ -37439,7 +38122,7 @@ section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les 
 
 	**Modifié par**:
 
-	  - Décret n°2015-282 du 11 mars 2015 - art. 34
+	  - Décret n°2016-185 du 23 février 2016 - art. 19
 
 	**Cité par**:
 
