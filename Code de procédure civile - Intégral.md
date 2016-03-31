@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2016-02-26
+Version Consolidée au 2016-04-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -26158,8 +26158,6 @@ dans ce délai est également suspensif.
 
 ### Chapitre IX : L'autorité parentale
 
-#### Section I : L'exercice de l'autorité parentale
-
 #### Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant
 
 ###### Article 1179
@@ -35496,15 +35494,26 @@ III. - Le procureur de la République agit d'office dans le cas prévu par l'art
 
 ###### Article 1441-3
 
-I.-La juridiction peut être saisie du recours prévu à l'article 11 de l'ordonnance précitée au plus tard le trente et unième
-jour suivant la publication d'un avis d'attribution du contrat ou, dans le cas de contrat fondé sur un accord-cadre ou un
-système d'acquisition dynamique, suivant la notification aux titulaires de la conclusion du contrat. 
+I.-La juridiction peut être saisie du recours prévu à l'article 11 de l'ordonnance mentionnée ci-dessus au plus tard le
+trente et unième jour suivant la publication au Journal officiel de l'Union européenne d'un avis d'attribution du contrat,
+établi conformément au modèle fixé par le règlement de la Commission européenne établissant les formulaires standard pour la
+publication d'avis en matière de marchés publics et de contrats de concession, ou, pour les marchés fondés sur un accord-
+cadre ou un système d'acquisition dynamique, suivant la notification de la conclusion du contrat. Le délai ne court que si
+cette notification mentionne le nom du titulaire et les motifs ayant conduit au choix de son offre. 
 
 En l'absence de la publication d'avis ou de la notification mentionnées à l'alinéa qui précède, la juridiction peut être
 saisie jusqu'à l'expiration d'un délai de six mois à compter du lendemain du jour de la conclusion du contrat. 
 
 II.-Le juge statue dans un délai d'un mois sur les demandes qui lui sont présentées en vertu de l'article 11 de l'ordonnance
 n° 2009-515 du 7 mai 2009 relative aux procédures de recours applicables aux contrats de la commande publique.
+
+III.-Pour son application à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, dans les îles Wallis-et-Futuna et dans les Terres
+australes et antarctiques françaises, le I est ainsi rédigé : 
+
+I.-La juridiction peut être saisie au plus tard le trente et unième jour suivant la publication d'un avis d'attribution du
+contrat dans le support qui a été utilisé à titre principal pour la publicité préalable ou, pour les marchés fondés sur un
+accord-cadre ou un système d'acquisition dynamique, suivant la notification de la conclusion du contrat. Le délai ne court
+que si cette notification mentionne le nom du titulaire et les motifs ayant conduit au choix de son offre.
 
 **Liens relatifs à cet article**
 
@@ -35519,7 +35528,37 @@ n° 2009-515 du 7 mai 2009 relative aux procédures de recours applicables aux c
 
 	**Modifié par**:
 
-	  - Décret n°2009-1456 du 27 novembre 2009 - art. 3
+	  - Décret n°2016-360 du 25 mars 2016 - art. 181
+
+
+###### Article 1441-3-1
+
+I-Pour pouvoir se prévaloir des dispositions du premier alinéa de l'article 13 de l'ordonnance du 7 mai 2009 mentionnée ci-
+dessus, le pouvoir adjudicateur ou l'entité adjudicatrice publie au Journal officiel de l'Union européenne un avis, conforme
+au modèle fixé par le règlement de la Commission européenne établissant les formulaires standard pour la publication d'avis
+en matière de marchés publics et de contrats de concession, relatif à son intention de conclure un contrat. Il respecte un
+délai d'au moins onze jours entre la date de publication de cet avis et la date de conclusion du contrat. 
+
+Pour pouvoir se prévaloir, s'agissant des marchés fondés sur un accord-cadre ou un système d'acquisition dynamique, des
+dispositions du second alinéa du même article, le pouvoir adjudicateur ou l'entité adjudicatrice notifie aux titulaires de
+l'accord-cadre ou aux participants au système d'acquisition dynamique le nom du titulaire et les motifs qui ont conduit au
+choix de son offre et respecte un délai d'au moins seize jours entre la date d'envoi de cette notification et la date de
+conclusion du marché. Ce délai est réduit à au moins onze jours en cas de transmission électronique de la notification à
+l'ensemble des titulaires intéressés. 
+
+II.-Pour son application à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna et dans les Terres
+australes et antarctiques françaises, le I est ainsi rédigé : 
+
+I.-Pour pouvoir se prévaloir des dispositions du premier alinéa de l'article 13 de l'ordonnance du 7 mai 2009 mentionnée ci-
+dessus, le pouvoir adjudicateur ou l'entité adjudicatrice publie au Journal officiel local un avis relatif à son intention de
+conclure un contrat. Il respecte un délai d'au moins onze jours entre la date de publication de cet avis et la date de
+conclusion du contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 181
 
 
 ### Chapitre VII : La transaction.
