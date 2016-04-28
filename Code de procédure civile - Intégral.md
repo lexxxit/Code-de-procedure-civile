@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-04-29
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -2608,17 +2608,14 @@ Les parties peuvent toujours demander au juge de constater leur conciliation.
 
 Lorsque le juge, en vertu d'une disposition particulière, délègue sa mission de conciliation, il désigne un conciliateur de
 justice à cet effet, fixe la durée de sa mission et indique la date à laquelle l'affaire sera rappelée. La durée initiale de
-la mission ne peut excéder deux mois. Elle peut être renouvelée.
+la mission ne peut excéder trois mois. Cette mission peut être renouvelée une fois, pour une même durée, à la demande du
+conciliateur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-282 du 11 mars 2015 - art. 20
-
-	**Anciens textes**:
-
-	  - Code de procédure civile - art. 129-1 (T)
+	  - Décret n°2016-514 du 26 avril 2016 - art. 18
 
 	**Cité par**:
 
@@ -2725,14 +2722,15 @@ dans un constat signé par les parties et le conciliateur de justice.
 
 Des extraits du procès-verbal dressé par le juge peuvent être délivrés. Ils valent titre exécutoire.
 
-Les parties peuvent soumettre à l'homologation du juge le constat d'accord établi par le conciliateur de justice.
-L'homologation relève de la matière gracieuse.
+A tout moment, les parties ou la plus diligente d'entre elles peuvent soumettre à l'homologation du juge le constat d'accord
+établi par le conciliateur de justice. Le juge statue sur la requête qui lui est présentée sans débat, à moins qu'il n'estime
+nécessaire d'entendre les parties à l'audience. L'homologation relève de la matière gracieuse.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+	  - Décret n°2016-514 du 26 avril 2016 - art. 19
 
 
 ### Chapitre II : La médiation.
@@ -2962,7 +2960,9 @@ Le jour fixé, l'affaire revient devant le juge.
 
 ###### Article 131-12
 
-Le juge homologue à la demande des parties l'accord qu'elles lui soumettent.
+A tout moment, les parties, ou la plus diligente d'entre elles, peuvent soumettre à l'homologation du juge le constat
+d'accord établi par le médiateur de justice. Le juge statue sur la requête qui lui est présentée sans débat, à moins qu'il
+n'estime nécessaire d'entendre les parties à l'audience. 
 
 L'homologation relève de la matière gracieuse.
 
@@ -2975,9 +2975,9 @@ qu'une instance judiciaire est en cours.
 
 	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2015-282 du 11 mars 2015 - art. 20
+	  - Décret n°2016-514 du 26 avril 2016 - art. 20
 
 
 ###### Article 131-13
