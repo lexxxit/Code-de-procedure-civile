@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2016-04-29
+Version Consolidée au 2016-05-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -13234,27 +13234,27 @@ récépissé constatant la remise de l'acte.
 
 Lorsque, pour la notification à l'étranger accomplie à la diligence du secrétariat de la juridiction, la traduction de
 l'acte, ou de toute autre pièce, paraît nécessaire, le traducteur est requis par le greffier en chef ou le responsable du
-secrétariat de la juridiction.
+secrétariat de la juridiction. 
 
-La traduction est rémunérée en application de l'article R. 122 du code de procédure pénale.
+La traduction est rémunérée en application de l'article R. 122 du code de procédure pénale. 
 
 Les frais occasionnés par la notification d'un acte à l'étranger à la diligence du secrétariat de la juridiction sont taxés,
-avancés et recouvrés au titre des frais prévus par l'article R. 93 (16°) du code de procédure pénale.
+avancés et recouvrés au titre des frais visés au 13° du I de l'article R. 93 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 18 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2016-479 du 18 avril 2016 - art. 16
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. R122 (M)
-	  - CODE DE PROCEDURE PENALE - art. R93 (M)
+	  - Code de procédure pénale - art. R122
+	  - Code de procédure pénale - art. R93
 
 
 #### Section III : Les notifications entre avocats.
@@ -38148,20 +38148,21 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2016-185 du 23 février 2016
-pris pour l'application de l'ordonnance n° 2015-1288 du 15 octobre 2015 portant simplification et modernisation du droit de
-la famille, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la
-section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna  dans sa rédaction résultant du 
+décret n° 2016-479 du 18 avril 2016
+relatif au traitement des états et mémoires des frais de justice, à l'exception des dispositions des titres IV et V du livre
+II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V,
+dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2015-282 du 11 mars 2015
+	  - Décret n°2016-479 du 18 avril 2016
 
 	**Modifié par**:
 
-	  - Décret n°2016-185 du 23 février 2016 - art. 19
+	  - Décret n°2016-479 du 18 avril 2016 - art. 17
 
 	**Cité par**:
 
