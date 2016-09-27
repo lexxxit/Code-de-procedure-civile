@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2016-06-17
+Version Consolidée au 2016-09-28
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -16807,6 +16807,21 @@ Lire R. 41-2 du code de procédure pénale.
 	  - Nouveau code de procédure civile 759 à 762 et 809
 
 
+### Sous-titre V : L'action de groupe en matière de santé
+
+###### Article 826-2
+
+Pour le jugement des actions de groupe engagées sur le fondement du chapitre III " Action de groupe " du titre IV du livre
+Ier de la première partie du code de la santé publique, la demande est formée, instruite et jugée selon les règles
+applicables à la procédure ordinaire en matière contentieuse devant le tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1249 du 26 septembre 2016 - art. 4
+
+
 ## Titre II : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.
 
 ###### Article 827
@@ -18702,10 +18717,8 @@ ordonnance de référé ou à une des ordonnances du juge de la mise en état é
 de la chambre saisie, d'office ou à la demande d'une partie, fixe à bref délai l'audience à laquelle elle sera appelée ; au
 jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
 
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
+L'appel des jugements rendus sur le fondement du chapitre III " Action de groupe " du titre IV du livre Ier de la première
+partie du code de la santé publique est jugé selon la procédure prévue au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -18725,7 +18738,7 @@ du 1er janvier 2011.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+	  - Décret n°2016-1249 du 26 septembre 2016 - art. 4
 
 	**Cite**:
 
@@ -37557,21 +37570,20 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna  dans sa rédaction résultant du 
-décret n° 2016-479 du 18 avril 2016
-relatif au traitement des états et mémoires des frais de justice, à l'exception des dispositions des titres IV et V du livre
-II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V,
-dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2016-1249 du 26 septembre
+2016 relatif à l'action de groupe en matière de santé, à l'exception des dispositions des titres IV et V du livre II, du
+chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les
+conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2016-479 du 18 avril 2016
+	  - Décret n°2016-1249 du 26 septembre 2016
 
 	**Modifié par**:
 
-	  - Décret n°2016-479 du 18 avril 2016 - art. 17
+	  - Décret n°2016-1249 du 26 septembre 2016 - art. 5
 
 	**Cité par**:
 
