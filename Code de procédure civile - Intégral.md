@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2016-09-28
+Version Consolidée au 2016-10-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -5519,17 +5519,17 @@ Dans les autres cas, l'inscription de faux relève de la compétence du tribunal
 
 Si l'une des parties dénie l'écriture qui lui est attribuée ou déclare ne pas reconnaître celle qui est attribuée à son
 auteur, le juge vérifie l'écrit contesté à moins qu'il ne puisse statuer sans en tenir compte. Si l'écrit contesté n'est
-relatif qu'à certains chefs de la demande, il peut être statué sur les autres.
+relatif qu'à certains chefs de la demande, il peut être statué sur les autres. 
 
 Si la dénégation ou le refus de reconnaissance porte sur un écrit ou une signature électroniques, le juge vérifie si les
-conditions, mises par les articles 1316-1 et 1316-4 du code civil à la validité de l'écrit ou de la signature électroniques,
-sont satisfaites.
+conditions, mises par les articles 1366 et 1367 du code civil à la validité de l'écrit ou de la signature électroniques, sont
+satisfaites.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -5538,12 +5538,11 @@ sont satisfaites.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 7 () JORF 12 décembre 2002
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 1316-1 (V)
-	  - Code civil - art. 1316-4 (V)
+	  - Code civil - art. 1366
 
 
 ###### Article 288
@@ -8763,15 +8762,16 @@ relatif à la signature électronique.
 
 Les modalités d'application du présent article sont précisées par arrêté du garde des sceaux, ministre de la justice.
 
+**Nota:**
+
+Conformément au décret n° 2016-1278 du 29 septembre 2016, article 1, l'article 1316-4 du code civil est devenu l'article 1367
+dudit code.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2012-1515 du 28 décembre 2012 - art. 7
 
 	**Cité par**:
 
@@ -17328,10 +17328,10 @@ justifié auprès du tribunal dans les délais que le juge impartit.
 ###### Article 847-2
 
 Sans préjudice des dispositions de l'article 68, la demande incidente tendant à l'octroi d'un délai de paiement en
-application de l'article 1244-1 du code civil peut être formée par courrier remis ou adressé au greffe. Les pièces que la
+application de l'article 1343-5 du code civil peut être formée par courrier remis ou adressé au greffe. Les pièces que la
 partie souhaite invoquer à l'appui de sa demande sont jointes à son courrier. La demande est communiquée aux autres parties,
 à l'audience, par le juge, sauf la faculté pour ce dernier de la leur faire notifier par le greffier, accompagnée des pièces
-jointes, par lettre recommandée avec demande d'avis de réception.
+jointes, par lettre recommandée avec demande d'avis de réception. 
 
 L'auteur de cette demande incidente peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1.
 Dans ce cas, le juge ne fait droit aux demandes présentées contre cette partie que s'il les estime régulières, recevables et
@@ -17341,7 +17341,7 @@ bien fondées.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cité par**:
 
@@ -17357,7 +17357,7 @@ bien fondées.
 
 	  - Code de procédure civile - art. 446-1
 	  - Code de procédure civile - art. 68
-	  - Code civil - art. 1244-1
+	  - Code civil - art. 1343-5
 
 
 ###### Article 847-3
@@ -17804,10 +17804,10 @@ avocats et il en est justifié auprès du tribunal dans les délais qu'il impart
 ###### Article 861-2
 
 Sans préjudice des dispositions de l'article 68, la demande incidente tendant à l'octroi d'un délai de paiement en
-application de l'article 1244-1 du code civil peut être formée par déclaration faite, remise ou adressée au greffe, où elle
+application de l'article 1343-5 du code civil peut être formée par déclaration faite, remise ou adressée au greffe, où elle
 est enregistrée. L'auteur de cette demande doit justifier avant l'audience que l'adversaire en a eu connaissance par lettre
 recommandée avec demande d'avis de réception. Les pièces que la partie invoque à l'appui de sa demande de délai de paiement
-sont jointes à la déclaration.
+sont jointes à la déclaration. 
 
 L'auteur de cette demande incidente peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1.
 Dans ce cas, le juge ne fait droit aux demandes présentées contre cette partie que s'il les estime régulières, recevables et
@@ -17815,15 +17815,15 @@ bien fondées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 7
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 446-1
 	  - Code de procédure civile - art. 68
-	  - Code civil - art. 1244-1
+	  - Code civil - art. 1343-5
 
 	**Cité par**:
 
@@ -26747,13 +26747,13 @@ troisième alinéas de l'article 1181 s'appliquent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1486 du 30 décembre 2008 - art. 3
+	  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 1181
+	  - Code civil - art. 1304
 	  - Code civil - art. 375-9-1
 
 
