@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-12-30
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -6354,17 +6354,23 @@ dans toutes les procédures le concernant.
 Lorsque la procédure est introduite par requête, la convocation à l'audience est accompagnée d'un avis rappelant les
 dispositions de l'article 388-1 du code civil et celles du premier alinéa du présent article. 
 
-Lorsque la procédure est introduite par acte d'huissier, l'avis mentionné à l'alinéa précédent est joint à celui-ci.
+Lorsque la procédure est introduite par acte d'huissier, l'avis mentionné à l'alinéa précédent est joint à celui-ci. 
+
+Dans toute convention soumise à l'homologation du juge aux affaires familiales selon la procédure prévue par l'article 1143
+ou par les articles 1565 et suivants, mention est faite que le mineur capable de discernement a été avisé de son droit à être
+entendu et assisté d'un avocat et, le cas échéant, qu'il n'a pas souhaité faire usage de cette faculté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-572 du 20 mai 2009 - art. 1
+	  - Décret n°2016-1906 du 28 décembre 2016 - art. 3
 
 	**Cite**:
 
-	  - Code civil - art. 388-1 (V)
+	  - Code de procédure civile - art. 1143 (V)
+	  - Code de procédure civile - art. 1565 (V)
+	  - Code civil - art. 388-1
 
 
 ###### Article 338-2
@@ -22947,19 +22953,22 @@ complément d'enquête ou une nouvelle enquête.
 
 ###### Article 1072-1
 
-Lorsqu'il statue sur l'exercice de l'autorité parentale, le juge aux affaires familiales vérifie si une procédure
+Lorsqu'il statue sur l'exercice de l'autorité parentale ou lorsqu'il est saisi aux fins d'homologation selon la procédure
+prévue par l'article 1143 ou par les articles 1565 et suivants, le juge aux affaires familiales vérifie si une procédure
 d'assistance éducative est ouverte à l'égard du ou des mineurs. Il peut demander au juge des enfants de lui transmettre copie
 de pièces du dossier en cours, selon les modalités définies à l'article 1187-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-398 du 10 avril 2009 - art. 1
+	  - Décret n°2016-1906 du 28 décembre 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1187-1 (V)
+	  - Code de procédure civile - art. 1143 (V)
+	  - Code de procédure civile - art. 1187-1
+	  - Code de procédure civile - art. 1565 (V)
 
 
 ###### Article 1072-2
@@ -24905,6 +24914,40 @@ notifié par le greffe par lettre recommandée avec demande d'avis de réception
 	  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 	  - Décret n°2004-1333 du 6 décembre 2004 - art. 2 () JORF 8 décembre 2004
+
+
+###### Article 1143
+
+Lorsque les parents sollicitent l'homologation de leur convention en application de l'article 373-2-7 du code civil, le juge
+est saisi par requête conjointe. 
+
+Il ne peut modifier les termes de la convention qui lui est soumise. 
+
+Il statue sur la requête sans débat, à moins qu'il n'estime nécessaire d'entendre les parties. 
+
+S'il est fait droit à la requête, tout intéressé peut en référer au juge qui a rendu la décision. 
+
+La décision qui refuse d'homologuer la convention peut faire l'objet d'un appel. Cet appel est formé par déclaration au
+greffe de la cour d'appel. Il est jugé selon la procédure gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2016-1906 du 28 décembre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1072-1 (V)
+	  - Code de procédure civile - art. 338-1 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 373-2-7 (V)
 
 
 ### Chapitre VI : La filiation et les subsides
@@ -37570,20 +37613,22 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2016-1249 du 26 septembre
-2016 relatif à l'action de groupe en matière de santé, à l'exception des dispositions des titres IV et V du livre II, du
-chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les
-conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2016-1907 du 28 décembre
+2016 relatif au divorce prévu à l' article 229-1 du code civil et à diverses dispositions en matière successorale, à
+l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
+chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2016-1249 du 26 septembre 2016
+	  - Décret n°2016-1907 du 28 décembre 2016 (V)
+	  - Code civil - art. 229-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2016-1249 du 26 septembre 2016 - art. 5
+	  - Décret n°2016-1906 du 28 décembre 2016 - art. 5
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 41 (V)
 
 	**Cité par**:
 
