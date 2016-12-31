@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2016-12-30
+Version Consolidée au 2017-01-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -9892,12 +9892,13 @@ européen pour les créances incontestées ;
 
 - de l'article 59 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
 compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
-authentiques en matière de successions et à la création d'un certificat successoral européen.
+authentiques en matière de successions et à la création d'un certificat successoral européen. 
 
-**Nota:**
-
-Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015,   les dispositions de l'article 509-3 telles qu'issues
-de l'article 2 du   présent décret, s'appliquent aux successions des personnes décédées à compter du 17 août 2015.
+Par dérogation à l'article 509-1, sont présentées au notaire ou à la personne morale titulaire de l'office notarial ayant
+reçu en dépôt la convention de divorce par consentement mutuel prévue à l'article 229-1 du code civil les requêtes aux fins
+de certification du titre exécutoire en vue de sa reconnaissance et de son exécution à l'étranger en application de l'article
+39 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution
+des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n° 1347/2000.
 
 **Liens relatifs à cet article**
 
@@ -9907,7 +9908,12 @@ de l'article 2 du   présent décret, s'appliquent aux successions des personnes
 
 	**Modifié par**:
 
-	  - Décret n°2015-1395 du 2 novembre 2015 - art. 2
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 509-1 (V)
+	  - Code civil - art. 229-1 (V)
 
 
 ###### Article 509-4
@@ -23152,27 +23158,27 @@ compensatoire.
 
 ###### Article 1077
 
-La demande ne peut être fondée que sur un seul des cas prévus à l'article 229 du code civil. Toute demande formée à titre
-subsidiaire sur un autre cas est irrecevable. 
+La demande ne peut être fondée que sur un seul des cas prévus aux troisième à sixième alinéas de l'article 229 du code civil.
+Toute demande formée à titre subsidiaire sur un autre cas est irrecevable. 
 
 Hormis les cas prévus aux articles 247 à 247-2 du code civil, il ne peut, en cours d'instance, être substitué à une demande
-fondée sur un des cas de divorce définis à l'article 229 du code civil une demande fondée sur un autre cas.
+fondée sur un des cas de divorce définis aux troisième à sixième alinéas de l'article 229 du code civil une demande fondée
+sur un autre cas.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 5
 
 	**Cite**:
 
 	  - Code civil - art. 229 (V)
-	  - Code civil - art. 247 (V)
+	  - Code civil - art. 247
 
 
 ###### Article 1078
@@ -23413,287 +23419,6 @@ et l'exercice de l'autorité parentale.
 
 
 ##### Sous-section II : Le divorce par consentement mutuel
-
-###### Article 1088
-
-Le divorce par consentement mutuel relève de la matière gracieuse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1148-2 (V)
-
-
-###### Article 1089
-
-La demande en divorce est formée par une requête unique des époux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1090
-
-La requête, qui n'indique pas les faits à l'origine de la demande, doit contenir, à peine d'irrecevabilité : 
-
-1° Les nom, prénoms, profession, résidence, nationalité, date et lieu de naissance de chacun des époux ; la date et le lieu
-de leur mariage ; les mêmes indications, le cas échéant, pour chacun de leurs enfants ; 
-
-2° Les renseignements prévus à l'article 1075 ; 
-
-3° L'indication de la juridiction devant laquelle la demande est portée ; 
-
-4° Le nom des avocats chargés par les époux de les représenter, ou de celui qu'ils ont choisi à cet effet d'un commun
-accord. 
-
-Sous la même sanction, la requête est datée et est signée par chacun des époux et leur avocat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 1075 (V)
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1132 (V)
-
-
-###### Article 1091
-
-A peine d'irrecevabilité, la requête comprend en annexe une convention datée et signée par chacun des époux et leur avocat
-portant règlement complet des effets du divorce et incluant notamment un état liquidatif du régime matrimonial ou la
-déclaration qu'il n'y a pas lieu à liquidation. L'état liquidatif doit être passé en la forme authentique devant notaire
-lorsque la liquidation porte sur des biens soumis à publicité foncière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Cité par**:
-
-	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
-	  - Décret n°2016-230 du 26 février 2016 - art. 2
-	  - Code de commerce - art. R444-59 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2005-460 du 13 mai 2005 - art. 32 () JORF 14 mai 2005
-
-
-###### Article 1092
-
-Le juge aux affaires familiales est saisi par la remise au greffe de la requête, qui vaut conclusions.
-
-Il convoque chacun des époux par lettre simple expédiée quinze jours au moins avant la date qu'il fixe pour leur audition. Il
-avise le ou les avocats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1101 (V)
-
-
-###### Article 1099
-
-Au jour fixé, le juge procède selon les modalités prévues aux articles 250 à 250-3 du code civil ; il vérifie la recevabilité
-de la requête ; il s'assure que le consentement des époux est libre et éclairé et appelle leur attention sur l'importance des
-engagements pris par eux, notamment quant à l'exercice de l'autorité parentale. 
-
-Avec l'accord des parties, en présence du ou des avocats, le juge peut faire supprimer ou modifier les clauses de la
-convention qui lui paraîtraient contraires à l'intérêt des enfants ou de l'un des époux. 
-
-Il rend sur-le-champ un jugement par lequel il homologue la convention et prononce le divorce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 250 (V)
-
-
-###### Article 1100
-
-Si la convention lui paraît préserver insuffisamment les intérêts des enfants ou de l'un des époux, le juge peut refuser de
-l'homologuer, ne pas prononcer le divorce et ajourner sa décision, par ordonnance rendue sur-le-champ, jusqu'à présentation
-d'une nouvelle convention. 
-
-Il informe les époux qu'ils devront présenter une nouvelle convention avant l'expiration d'un délai de six mois. L'ordonnance
-fait mention de cette information et de son contenu. 
-
-L'ordonnance précise les conditions ou garanties auxquelles seront subordonnés l'homologation de la nouvelle convention et,
-en conséquence, le prononcé du divorce. 
-
-Elle comprend, le cas échéant, les mesures provisoires homologuées par le juge en application de l'article 250-2 du code
-civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 250-2 (V)
-
-
-###### Article 1101
-
-Le délai de six mois pour présenter une nouvelle convention est suspendu en cas d'appel. 
-
-A défaut de présentation d'une nouvelle convention dans le délai fixé, le juge constate d'office, par ordonnance, la caducité
-de la demande en divorce. 
-
-Lorsque les époux présentent une nouvelle convention, les parties sont convoquées selon les modalités prévues à l'article
-1092. S'il refuse de l'homologuer, le juge rend une ordonnance par laquelle il constate la caducité de la demande en divorce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 1092 (V)
-
-
-###### Article 1102
-
-Les décisions du juge aux affaires familiales sont susceptibles d'appel, à l'exception de celles qui prononcent le divorce.
-
-Le délai d'appel est de quinze jours ; il court à compter de la date de la décision.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1103
-
-Le délai de pourvoi en cassation est de quinze jours à compter du prononcé de la décision qui homologue la convention des
-époux et prononce le divorce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1104
-
-Les créanciers de l'un et de l'autre époux peuvent faire déclarer que la convention homologuée leur est inopposable en
-formant tierce opposition contre la décision d'homologation dans l'année qui suit l'accomplissement des formalités
-mentionnées à l'article 262 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 262 (V)
-
-
-###### Article 1105
-
-Les dépens de l'instance sont partagés par moitié entre les époux. Toutefois, leur convention peut en disposer autrement sous
-réserve de l'application des dispositions de l'article 123-2 du décret n° 91-1266 du 19 décembre 1991 lorsque l'un des époux
-bénéficie de l'aide juridictionnelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Cite**:
-
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2
-
-	**Modifié par**:
-
-	  - Décret n°2011-272 du 15 mars 2011 - art. 24
-
 
 ##### Sous-section III : Les autres procédures de divorce
 
@@ -24454,6 +24179,320 @@ Les dépens afférents à l'instance d'appel sont traités comme ceux d'une inst
 	  - Nouveau code de procédure civile 1147
 
 
+#### Section II : Le divorce judiciaire et la séparation de corps
+
+##### Sous-section I : Dispositions générales
+
+##### Sous-section II : Le divorce judiciaire par consentement mutuel
+
+###### Article 1088
+
+Le divorce par consentement mutuel relève de la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1148-2 (V)
+
+
+###### Article 1089
+
+La demande en divorce est formée par une requête unique des époux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1090
+
+La requête, qui n'indique pas les faits à l'origine de la demande, doit contenir, à peine d'irrecevabilité : 
+
+1° Les nom, prénoms, profession, résidence, nationalité, date et lieu de naissance de chacun des époux ; la date et le lieu
+de leur mariage ; les mêmes indications, le cas échéant, pour chacun de leurs enfants ; 
+
+2° Les renseignements prévus à l'article 1075 ; 
+
+3° L'indication de la juridiction devant laquelle la demande est portée ; 
+
+4° Le nom des avocats chargés par les époux de les représenter, ou de celui qu'ils ont choisi à cet effet d'un commun
+accord. 
+
+Sous la même sanction, la requête est datée et est signée par chacun des époux et leur avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1075 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1132 (V)
+
+
+###### Article 1091
+
+A peine d'irrecevabilité, la requête comprend en annexe, le cas échéant, le formulaire d'information de l'enfant mineur
+demandant à être entendu daté et signé par lui ainsi qu'une convention datée et signée par chacun des époux et leur avocat
+portant règlement complet des effets du divorce et incluant notamment un état liquidatif du régime matrimonial ou la
+déclaration qu'il n'y a pas lieu à liquidation. L'état liquidatif doit être passé en la forme authentique devant notaire
+lorsque la liquidation porte sur des biens soumis à publicité foncière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cité par**:
+
+	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art. 2
+	  - Code de commerce - art. R444-59 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 6
+
+
+###### Article 1092
+
+Le juge aux affaires familiales est saisi par la remise au greffe de la requête, qui vaut conclusions. 
+
+Après avoir procédé à l'audition du mineur dans les conditions définies au titre IX bis du livre Ier ou, en l'absence de
+discernement, avoir refusé son audition dans les conditions définies aux articles 338-4 et 338-5, il convoque chacun des
+époux par lettre simple expédiée quinze jours au moins avant la date qu'il fixe pour leur audition. Il avise le ou les
+avocats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 7
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1101 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 338-4 (V)
+
+
+###### Article 1099
+
+Au jour fixé, le juge procède selon les modalités prévues aux articles 250 à 250-3 du code civil ; il vérifie la recevabilité
+de la requête ; il s'assure que le consentement des époux est libre et éclairé et appelle leur attention sur l'importance des
+engagements pris par eux, notamment quant à l'exercice de l'autorité parentale. 
+
+Avec l'accord des parties, en présence du ou des avocats, le juge peut faire supprimer ou modifier les clauses de la
+convention qui lui paraîtraient contraires à l'intérêt des enfants ou de l'un des époux. 
+
+Il rend sur-le-champ un jugement par lequel il homologue la convention et prononce le divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 250 (V)
+
+
+###### Article 1100
+
+Si la convention lui paraît préserver insuffisamment les intérêts des enfants ou de l'un des époux, le juge peut refuser de
+l'homologuer, ne pas prononcer le divorce et ajourner sa décision, par ordonnance rendue sur-le-champ, jusqu'à présentation
+d'une nouvelle convention. 
+
+Il informe les époux qu'ils devront présenter une nouvelle convention avant l'expiration d'un délai de six mois. L'ordonnance
+fait mention de cette information et de son contenu. 
+
+L'ordonnance précise les conditions ou garanties auxquelles seront subordonnés l'homologation de la nouvelle convention et,
+en conséquence, le prononcé du divorce. 
+
+Elle comprend, le cas échéant, les mesures provisoires homologuées par le juge en application de l'article 250-2 du code
+civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 250-2 (V)
+
+
+###### Article 1101
+
+Le délai de six mois pour présenter une nouvelle convention est suspendu en cas d'appel. 
+
+A défaut de présentation d'une nouvelle convention dans le délai fixé, le juge constate d'office, par ordonnance, la caducité
+de la demande en divorce. 
+
+Lorsque les époux présentent une nouvelle convention, les parties sont convoquées selon les modalités prévues à l'article
+1092. S'il refuse de l'homologuer, le juge rend une ordonnance par laquelle il constate la caducité de la demande en divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1092 (V)
+
+
+###### Article 1102
+
+Les décisions du juge aux affaires familiales sont susceptibles d'appel, à l'exception de celles qui prononcent le divorce.
+
+Le délai d'appel est de quinze jours ; il court à compter de la date de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1103
+
+Le délai de pourvoi en cassation est de quinze jours à compter du prononcé de la décision qui homologue la convention des
+époux et prononce le divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1104
+
+Les créanciers de l'un et de l'autre époux peuvent faire déclarer que la convention homologuée leur est inopposable en
+formant tierce opposition contre la décision d'homologation dans l'année qui suit l'accomplissement des formalités
+mentionnées à l'article 262 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 262 (V)
+
+
+###### Article 1105
+
+Les dépens de l'instance sont partagés par moitié entre les époux. Toutefois, leur convention peut en disposer autrement sous
+réserve de l'application des dispositions de l'article 123-2 du décret n° 91-1266 du 19 décembre 1991 lorsque l'un des époux
+bénéficie de l'aide juridictionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cite**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2
+
+	**Modifié par**:
+
+	  - Décret n°2011-272 du 15 mars 2011 - art. 24
+
+
+##### Sous-section III : Les autres procédures de divorce judiciaire
+
+##### Paragraphe 1 : La requête initiale
+
+##### Paragraphe 2 : La tentative de conciliation
+
+##### Paragraphe 3 : L'instance
+
+##### Paragraphe 4 : Les mesures provisoires
+
+##### Paragraphe 5 : Les voies de recours
+
+##### Paragraphe 6 : Dispositions particulières au divorce accepté
+
+##### Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal
+
+##### Paragraphe 8 : Dispositions particulières au divorce pour faute
+
+##### Sous-section IV : La séparation de corps
+
+##### Sous-section V : Le divorce sur conversion de la séparation de corps
+
 #### Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins
 
 ###### Article 1136-1
@@ -24948,6 +24987,244 @@ greffe de la cour d'appel. Il est jugé selon la procédure gracieuse.
 	**Cite**:
 
 	  - Code civil - art. 373-2-7 (V)
+
+
+### Chapitre V bis : Le divorce par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire 
+
+###### Article 1144
+
+L'information prévue au 1° de l'article 229-2 prend la forme d'un formulaire destiné à chacun des enfants mineurs, qui
+mentionne son droit de demander à être entendu dans les conditions de l'article 388-1 du code civil ainsi que les
+conséquences de son choix sur les suites de la procédure. 
+
+Le modèle de formulaire est fixé par arrêté du garde des sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 229-2 (V)
+	  - Code civil - art. 388-1 (V)
+
+
+###### Article 1144-1
+
+La  convention de divorce par consentement mutuel par acte sous signature  privée contresigné par avocats précise le nom du
+notaire ou de la  personne morale titulaire de l'office notarial chargé de recevoir l'acte  en dépôt au rang de ses minutes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+
+###### Article 1144-2
+
+La convention de divorce mentionne, le cas échéant, que l'information prévue au 1° de l'article 229-2 du code civil n'a pas
+été donnée en l'absence de discernement de l'enfant mineur concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 229-2 (V)
+
+
+###### Article 1144-3
+
+La convention de divorce précise la valeur des biens ou droits attribués à titre de prestation compensatoire.
+
+Lorsque  ceux-ci sont soumis à la publicité foncière, l'attribution est opérée  par acte dressé en la forme authentique
+devant notaire, annexé à la  convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+
+###### Article 1144-4
+
+La  convention de divorce qui fixe une pension alimentaire ou une  prestation compensatoire sous forme de rente viagère
+rappelle les  modalités de recouvrement et les règles de révision de la créance ainsi  que les sanctions pénales encourues en
+cas de défaillance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+
+###### Article 1144-5
+
+La convention de divorce fixe la répartition des frais de celui-ci entre les époux sous réserve de l'application des
+dispositions de l'article 123-2 du décret n° 91-1266 du 19 décembre 1991 lorsque l'un des époux bénéficie de l'aide
+juridictionnelle. 
+
+A défaut de précision de la convention, les frais du divorce sont partagés par moitié.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+
+###### Article 1145
+
+La convention de divorce est signée par les époux et leurs avocats ensemble, en trois exemplaires. 
+
+Le cas échéant, y sont annexés le formulaire signé et daté par chacun  des enfants mineurs, l'état liquidatif de partage en
+la forme  authentique et l'acte authentique d'attribution de biens soumis à  publicité foncière. 
+
+Chaque époux conserve un  original de la convention accompagné, le cas échéant, de ses annexes et  revêtu des quatre
+signatures. Le troisième original est destiné à son  dépôt au rang des minutes d'un notaire. 
+
+Le cas échéant, un quatrième original est établi, dans les mêmes conditions, pour permettre la formalité de l'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+
+###### Article 1146
+
+La convention de divorce et ses annexes sont transmises au notaire, à la requête des parties, par l'avocat le plus diligent,
+aux fins de dépôt au rang des minutes du notaire, dans un délai de sept jours suivant la date de la signature de la
+convention. 
+
+Lorsqu'elles sont rédigées en langue étrangère, la convention et ses annexes sont accompagnées d'une traduction effectuée par
+un traducteur habilité au sens de l'article 7 du décret n° 2007-1205 du 10 août 2007. 
+
+Le dépôt de la convention intervient dans un délai de quinze jours suivant la date de la réception de la convention par le
+notaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cite**:
+
+	  - Décret n°2007-1205 du 10 août 2007 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+
+###### Article 1147
+
+Mention du divorce est portée en marge de l'acte de mariage ainsi que de l'acte de naissance de chacun des époux, à la
+requête de l'intéressé ou de son avocat, au vu d'une attestation de dépôt délivrée par le notaire. L'attestation mentionne
+l'identité des époux et la date du dépôt. 
+
+Si le mariage a été célébré à l'étranger et en l'absence d'acte de mariage conservé par un officier de l'état civil français,
+mention du divorce est portée en marge de l'acte de naissance de chacun des époux, si cet acte est conservé sur un registre
+d'état civil français. A défaut, l'attestation de dépôt est conservée au répertoire mentionné à l'article 4-1 du décret du
+1er juin 1965 portant création d'un service central d'état civil au ministère des affaires étrangères. 
+
+Toutefois, cette mention ne peut être portée en marge de l'acte de naissance d'un Français qu'après transcription sur les
+registres de l'état civil de l'acte de mariage célébré par l'autorité étrangère à compter du 1er mars 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+
+###### Article 1148
+
+Il est justifié, à l'égard des tiers, du divorce par consentement mutuel prévu à l'article 229-1 du code civil par la
+production d'une attestation de dépôt délivrée par le notaire ou d'une copie de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 229-1 (V)
+
+
+###### Article 1148-1
+
+Les mainlevées, radiations de sûretés, mentions, transcriptions ou publications rendues nécessaires par le divorce prévu à
+l'article 229-1 du code civil sont valablement faites au vu de la production, par tout intéressé, d'une copie certifiée
+conforme de la convention de divorce et, le cas échéant, de ses annexes ou d'un de leurs extraits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 229-1 (V)
+
+
+###### Article 1148-2
+
+Dès qu'un enfant mineur manifeste son souhait d'être entendu par le juge dans les conditions prévues à l'article 388-1 du
+code civil, la juridiction peut être saisie selon les modalités prévues aux articles 1088 à 1092. 
+
+Les époux peuvent également, jusqu'au dépôt de la convention de divorce au rang des minutes d'un notaire, saisir la
+juridiction d'une demande de séparation de corps ou de divorce judiciaire dans les conditions prévues aux articles 1106 et
+1107.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1088 (V)
+	  - Code de procédure civile - art. 1106 (V)
+	  - Code civil - art. 388-1 (V)
 
 
 ### Chapitre VI : La filiation et les subsides
@@ -37691,17 +37968,19 @@ représentées par un mandataire.
 
 La compétence dévolue aux huissiers de justice pour la délivrance des actes prévus au présent code peut être exercée dans les
 îles Wallis et Futuna par un représentant de l'autorité administrative ou militaire ; celle dévolue aux commissaires-priseurs
-pour les ventes aux enchères peut être exercée par le greffier du tribunal de première instance.
+pour les ventes aux enchères peut être exercée par le greffier du tribunal de première instance ;  celle dévolue aux notaires
+pour recevoir en dépôt au rang de leurs  minutes la convention de divorce par consentement mutuel prévu à l'article 229-1 du
+code civilpeut-être exercée par le greffier du tribunal de première instance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 41 (VD)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de procédure civile - art. 1515 (M)
+	  - Code civil - art. 229-1 (V)
 
 
 ###### Article 1579
