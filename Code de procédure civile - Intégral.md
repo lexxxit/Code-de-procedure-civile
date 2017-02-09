@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-02-10
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -23049,7 +23049,7 @@ l'article 255 du code civil, sont exécutoires de droit à titre provisoire.
 	  - Code civil - art. 255 (V)
 
 
-#### Section II : Le divorce et la séparation de corps
+#### Section II : Le divorce judiciaire et la séparation de corps
 
 ##### Sous-section I : Dispositions générales
 
@@ -23418,9 +23418,295 @@ et l'exercice de l'autorité parentale.
 	  - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Sous-section II : Le divorce par consentement mutuel
+##### Sous-section II : Le divorce judiciaire par consentement mutuel
 
-##### Sous-section III : Les autres procédures de divorce
+###### Article 1088
+
+Le divorce par consentement mutuel relève de la matière gracieuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1148-2 (V)
+
+
+###### Article 1089
+
+La demande en divorce est formée par une requête unique des époux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1090
+
+La requête, qui n'indique pas les faits à l'origine de la demande, doit contenir, à peine d'irrecevabilité : 
+
+1° Les nom, prénoms, profession, résidence, nationalité, date et lieu de naissance de chacun des époux ; la date et le lieu
+de leur mariage ; les mêmes indications, le cas échéant, pour chacun de leurs enfants ; 
+
+2° Les renseignements prévus à l'article 1075 ; 
+
+3° L'indication de la juridiction devant laquelle la demande est portée ; 
+
+4° Le nom des avocats chargés par les époux de les représenter, ou de celui qu'ils ont choisi à cet effet d'un commun
+accord. 
+
+Sous la même sanction, la requête est datée et est signée par chacun des époux et leur avocat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1075 (V)
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1132 (V)
+
+
+###### Article 1091
+
+A peine d'irrecevabilité, la requête comprend en annexe, le cas échéant, le formulaire d'information de l'enfant mineur
+demandant à être entendu daté et signé par lui ainsi qu'une convention datée et signée par chacun des époux et leur avocat
+portant règlement complet des effets du divorce et incluant notamment un état liquidatif du régime matrimonial ou la
+déclaration qu'il n'y a pas lieu à liquidation. L'état liquidatif doit être passé en la forme authentique devant notaire
+lorsque la liquidation porte sur des biens soumis à publicité foncière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cité par**:
+
+	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
+	  - Décret n°2016-230 du 26 février 2016 - art. 2
+	  - Code de commerce - art. R444-59 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 6
+
+
+###### Article 1092
+
+Le juge aux affaires familiales est saisi par la remise au greffe de la requête, qui vaut conclusions. 
+
+Après avoir procédé à l'audition du mineur dans les conditions définies au titre IX bis du livre Ier ou, en l'absence de
+discernement, avoir refusé son audition dans les conditions définies aux articles 338-4 et 338-5, il convoque chacun des
+époux par lettre simple expédiée quinze jours au moins avant la date qu'il fixe pour leur audition. Il avise le ou les
+avocats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 7
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1101 (V)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 338-4 (V)
+
+
+###### Article 1099
+
+Au jour fixé, le juge procède selon les modalités prévues aux articles 250 à 250-3 du code civil ; il vérifie la recevabilité
+de la requête ; il s'assure que le consentement des époux est libre et éclairé et appelle leur attention sur l'importance des
+engagements pris par eux, notamment quant à l'exercice de l'autorité parentale. 
+
+Avec l'accord des parties, en présence du ou des avocats, le juge peut faire supprimer ou modifier les clauses de la
+convention qui lui paraîtraient contraires à l'intérêt des enfants ou de l'un des époux. 
+
+Il rend sur-le-champ un jugement par lequel il homologue la convention et prononce le divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 250 (V)
+
+
+###### Article 1100
+
+Si la convention lui paraît préserver insuffisamment les intérêts des enfants ou de l'un des époux, le juge peut refuser de
+l'homologuer, ne pas prononcer le divorce et ajourner sa décision, par ordonnance rendue sur-le-champ, jusqu'à présentation
+d'une nouvelle convention. 
+
+Il informe les époux qu'ils devront présenter une nouvelle convention avant l'expiration d'un délai de six mois. L'ordonnance
+fait mention de cette information et de son contenu. 
+
+L'ordonnance précise les conditions ou garanties auxquelles seront subordonnés l'homologation de la nouvelle convention et,
+en conséquence, le prononcé du divorce. 
+
+Elle comprend, le cas échéant, les mesures provisoires homologuées par le juge en application de l'article 250-2 du code
+civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 250-2 (V)
+
+
+###### Article 1101
+
+Le délai de six mois pour présenter une nouvelle convention est suspendu en cas d'appel. 
+
+A défaut de présentation d'une nouvelle convention dans le délai fixé, le juge constate d'office, par ordonnance, la caducité
+de la demande en divorce. 
+
+Lorsque les époux présentent une nouvelle convention, les parties sont convoquées selon les modalités prévues à l'article
+1092. S'il refuse de l'homologuer, le juge rend une ordonnance par laquelle il constate la caducité de la demande en divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1092 (V)
+
+
+###### Article 1102
+
+Les décisions du juge aux affaires familiales sont susceptibles d'appel, à l'exception de celles qui prononcent le divorce.
+
+Le délai d'appel est de quinze jours ; il court à compter de la date de la décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1103
+
+Le délai de pourvoi en cassation est de quinze jours à compter du prononcé de la décision qui homologue la convention des
+époux et prononce le divorce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+
+###### Article 1104
+
+Les créanciers de l'un et de l'autre époux peuvent faire déclarer que la convention homologuée leur est inopposable en
+formant tierce opposition contre la décision d'homologation dans l'année qui suit l'accomplissement des formalités
+mentionnées à l'article 262 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code civil - art. 262 (V)
+
+
+###### Article 1105
+
+Les dépens de l'instance sont partagés par moitié entre les époux. Toutefois, leur convention peut en disposer autrement sous
+réserve de l'application des dispositions de l'article 123-2 du décret n° 91-1266 du 19 décembre 1991 lorsque l'un des époux
+bénéficie de l'aide juridictionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Cite**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2
+
+	**Modifié par**:
+
+	  - Décret n°2011-272 du 15 mars 2011 - art. 24
+
+
+##### Sous-section III : Les autres procédures de divorce judiciaire
 
 ##### Paragraphe 1 : La requête initiale
 
@@ -24178,320 +24464,6 @@ Les dépens afférents à l'instance d'appel sont traités comme ceux d'une inst
 
 	  - Nouveau code de procédure civile 1147
 
-
-#### Section II : Le divorce judiciaire et la séparation de corps
-
-##### Sous-section I : Dispositions générales
-
-##### Sous-section II : Le divorce judiciaire par consentement mutuel
-
-###### Article 1088
-
-Le divorce par consentement mutuel relève de la matière gracieuse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1148-2 (V)
-
-
-###### Article 1089
-
-La demande en divorce est formée par une requête unique des époux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1090
-
-La requête, qui n'indique pas les faits à l'origine de la demande, doit contenir, à peine d'irrecevabilité : 
-
-1° Les nom, prénoms, profession, résidence, nationalité, date et lieu de naissance de chacun des époux ; la date et le lieu
-de leur mariage ; les mêmes indications, le cas échéant, pour chacun de leurs enfants ; 
-
-2° Les renseignements prévus à l'article 1075 ; 
-
-3° L'indication de la juridiction devant laquelle la demande est portée ; 
-
-4° Le nom des avocats chargés par les époux de les représenter, ou de celui qu'ils ont choisi à cet effet d'un commun
-accord. 
-
-Sous la même sanction, la requête est datée et est signée par chacun des époux et leur avocat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 1075 (V)
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1132 (V)
-
-
-###### Article 1091
-
-A peine d'irrecevabilité, la requête comprend en annexe, le cas échéant, le formulaire d'information de l'enfant mineur
-demandant à être entendu daté et signé par lui ainsi qu'une convention datée et signée par chacun des époux et leur avocat
-portant règlement complet des effets du divorce et incluant notamment un état liquidatif du régime matrimonial ou la
-déclaration qu'il n'y a pas lieu à liquidation. L'état liquidatif doit être passé en la forme authentique devant notaire
-lorsque la liquidation porte sur des biens soumis à publicité foncière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Cité par**:
-
-	  - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
-	  - Décret n°2016-230 du 26 février 2016 - art. 2
-	  - Code de commerce - art. R444-59 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2016-1907 du 28 décembre 2016 - art. 6
-
-
-###### Article 1092
-
-Le juge aux affaires familiales est saisi par la remise au greffe de la requête, qui vaut conclusions. 
-
-Après avoir procédé à l'audition du mineur dans les conditions définies au titre IX bis du livre Ier ou, en l'absence de
-discernement, avoir refusé son audition dans les conditions définies aux articles 338-4 et 338-5, il convoque chacun des
-époux par lettre simple expédiée quinze jours au moins avant la date qu'il fixe pour leur audition. Il avise le ou les
-avocats.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2016-1907 du 28 décembre 2016 - art. 7
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1101 (V)
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 338-4 (V)
-
-
-###### Article 1099
-
-Au jour fixé, le juge procède selon les modalités prévues aux articles 250 à 250-3 du code civil ; il vérifie la recevabilité
-de la requête ; il s'assure que le consentement des époux est libre et éclairé et appelle leur attention sur l'importance des
-engagements pris par eux, notamment quant à l'exercice de l'autorité parentale. 
-
-Avec l'accord des parties, en présence du ou des avocats, le juge peut faire supprimer ou modifier les clauses de la
-convention qui lui paraîtraient contraires à l'intérêt des enfants ou de l'un des époux. 
-
-Il rend sur-le-champ un jugement par lequel il homologue la convention et prononce le divorce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 250 (V)
-
-
-###### Article 1100
-
-Si la convention lui paraît préserver insuffisamment les intérêts des enfants ou de l'un des époux, le juge peut refuser de
-l'homologuer, ne pas prononcer le divorce et ajourner sa décision, par ordonnance rendue sur-le-champ, jusqu'à présentation
-d'une nouvelle convention. 
-
-Il informe les époux qu'ils devront présenter une nouvelle convention avant l'expiration d'un délai de six mois. L'ordonnance
-fait mention de cette information et de son contenu. 
-
-L'ordonnance précise les conditions ou garanties auxquelles seront subordonnés l'homologation de la nouvelle convention et,
-en conséquence, le prononcé du divorce. 
-
-Elle comprend, le cas échéant, les mesures provisoires homologuées par le juge en application de l'article 250-2 du code
-civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 250-2 (V)
-
-
-###### Article 1101
-
-Le délai de six mois pour présenter une nouvelle convention est suspendu en cas d'appel. 
-
-A défaut de présentation d'une nouvelle convention dans le délai fixé, le juge constate d'office, par ordonnance, la caducité
-de la demande en divorce. 
-
-Lorsque les époux présentent une nouvelle convention, les parties sont convoquées selon les modalités prévues à l'article
-1092. S'il refuse de l'homologuer, le juge rend une ordonnance par laquelle il constate la caducité de la demande en divorce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 1092 (V)
-
-
-###### Article 1102
-
-Les décisions du juge aux affaires familiales sont susceptibles d'appel, à l'exception de celles qui prononcent le divorce.
-
-Le délai d'appel est de quinze jours ; il court à compter de la date de la décision.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1103
-
-Le délai de pourvoi en cassation est de quinze jours à compter du prononcé de la décision qui homologue la convention des
-époux et prononce le divorce.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 6 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 1104
-
-Les créanciers de l'un et de l'autre époux peuvent faire déclarer que la convention homologuée leur est inopposable en
-formant tierce opposition contre la décision d'homologation dans l'année qui suit l'accomplissement des formalités
-mentionnées à l'article 262 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-
-	**Cite**:
-
-	  - Code civil - art. 262 (V)
-
-
-###### Article 1105
-
-Les dépens de l'instance sont partagés par moitié entre les époux. Toutefois, leur convention peut en disposer autrement sous
-réserve de l'application des dispositions de l'article 123-2 du décret n° 91-1266 du 19 décembre 1991 lorsque l'un des époux
-bénéficie de l'aide juridictionnelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Cite**:
-
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2
-
-	**Modifié par**:
-
-	  - Décret n°2011-272 du 15 mars 2011 - art. 24
-
-
-##### Sous-section III : Les autres procédures de divorce judiciaire
-
-##### Paragraphe 1 : La requête initiale
-
-##### Paragraphe 2 : La tentative de conciliation
-
-##### Paragraphe 3 : L'instance
-
-##### Paragraphe 4 : Les mesures provisoires
-
-##### Paragraphe 5 : Les voies de recours
-
-##### Paragraphe 6 : Dispositions particulières au divorce accepté
-
-##### Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal
-
-##### Paragraphe 8 : Dispositions particulières au divorce pour faute
-
-##### Sous-section IV : La séparation de corps
-
-##### Sous-section V : Le divorce sur conversion de la séparation de corps
 
 #### Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins
 
@@ -25433,183 +25405,6 @@ L'acte prévu à l'article 1157-2 mentionne que cette information a été donné
 	  - Code de procédure civile - art. 1157-2 (V)
 
 
-### Chapitre VII : La déclaration d'abandon
-
-###### Article 1158
-
-La demande en déclaration d'abandon est portée devant le tribunal de grande instance du lieu où demeure l'enfant ;
-lorsqu'elle émane du service de l'aide sociale à l'enfance, elle est portée devant le tribunal de grande instance du chef-
-lieu du département dans lequel l'enfant a été recueilli.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-148 du 7 février 2017 - art. 2
-
-
-###### Article 1159
-
-L'instance obéit aux règles de la procédure en matière contentieuse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-148 du 7 février 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1261-1 (V)
-
-
-###### Article 1160
-
-La demande est formée par requête remise au greffe.
-
-Elle peut aussi être formée par simple requête du demandeur lui-même, remise au procureur de la République, qui doit la
-transmettre au tribunal.
-
-Le greffier convoque les intéressés par lettre recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2017-148 du 7 février 2017 - art. 2
-
-
-###### Article 1161
-
-L'affaire est instruite et débattue en chambre du conseil en présence du requérant, après avis du ministère public. Le
-ministère d'avocat n'est pas obligatoire. 
-
-Les parents ou tuteur sont entendus ou appelés. Dans le cas où ceux-ci ont disparu, le tribunal peut faire procéder à une
-recherche dans l'intérêt des familles ; il sursoit alors à la décision pour un délai n'excédant pas six mois. 
-
-Le jugement est prononcé en audience publique. Il est notifié par le greffier au demandeur, aux parents et, le cas échéant,
-au tuteur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Modifié par**:
-
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
-	  - Décret n°84-618 1984-07-13 art. 25 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2017-148 du 7 février 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1261-1 (V)
-
-
-###### Article 1162
-
-S'il y a lieu, le tribunal statue, en la même forme et par le même jugement, sur la délégation de l'autorité parentale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-148 du 7 février 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1261-1 (V)
-
-
-###### Article 1163
-
-L'appel est formé selon les règles de la procédure sans représentation obligatoire. Il est instruit et jugé selon les règles
-applicables en première instance.
-
-Les voies de recours sont ouvertes aux personnes auxquelles le jugement a été notifié ainsi qu'au ministère public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Modifié par**:
-
-	  - Décret n°84-618 1984-07-13 art. 26 et 31 JORF 18 juillet 1984 rectificatif 18 août 1984 en vigueur le 1er octobre 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2017-148 du 7 février 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code de procédure civile - art. 1261-1 (V)
-
-
-###### Article 1164
-
-Les demandes en restitution de l'enfant sont soumises aux dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-148 du 7 février 2017 - art. 2
-
-
 ### Chapitre VIII : L'adoption
 
 #### Section I : Le consentement à l'adoption
@@ -26344,12 +26139,12 @@ jour de son entrée en vigueur.
 ###### Article 1180-16
 
 Toute décision du juge est notifiée, à la diligence du greffe, au requérant, aux parents et, le cas échéant, à
-l'administrateur ad hoc. 
+l'administrateur ad hoc.
 
-La décision est notifiée au mineur âgé de 16 ans révolus à moins que son état ne le permette pas. 
+Le mineur âgé de seize ans révolus est avisé par lettre simple de la décision, à moins que son état ne le permette pas.
 
 Les notifications sont faites par lettre recommandée avec demande d'avis de réception. Le juge peut toutefois décider
-qu'elles seront faites par acte d'huissier. 
+qu'elles seront faites par acte d'huissier.
 
 La délivrance d'une copie certifiée conforme d'une décision du juge des tutelles par le greffe contre récépissé daté et signé
 vaut notification dès lors que les voies de recours et les sanctions encourues pour recours abusif sont portées à la
@@ -26362,9 +26157,9 @@ jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-185 du 23 février 2016 - art. 4
+	  - Décret n°2017-148 du 7 février 2017 - art. 4
 
 
 ###### Article 1180-17
@@ -27329,6 +27124,8 @@ Les décisions de la cour d'appel sont notifiées conformément à l'article 120
 
 #### Section III : Délégation, retrait total et partiel de l'autorité parentale
 
+#### Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental
+
 ###### Article 1202
 
 Les demandes en retrait total ou partiel de l'autorité parentale sont portées devant le tribunal de grande instance du lieu
@@ -27337,87 +27134,136 @@ où demeure l'ascendant contre lequel l'action est exercée.
 Les demandes en délégation de l'autorité parentale sont portées devant le juge aux affaires familiales du lieu où demeure le
 mineur.
 
+Les  demandes en déclaration judiciaire de délaissement parental sont  portées devant le tribunal de grande instance du lieu
+où demeure le  mineur.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
 
 
 ###### Article 1203
 
-Le tribunal ou le juge est saisi par requête. Les parties sont dispensées du ministère d'avocat. La requête peut être
-adressée au procureur de la République qui doit la transmettre au tribunal ou au juge.
+Le tribunal ou le juge est saisi par requête remise ou adressée au greffe. Les parties sont dispensées du ministère d'avocat.
+La requête peut être adressée au procureur de la République qui doit la transmettre au tribunal ou au juge. 
+
+Outre les mentions prévues à l'article 58, la requête indique, à peine d'irrecevabilité, le lieu où demeure le mineur et, le
+cas échéant, le lieu où demeurent le ou les titulaires de l'autorité parentale ainsi que les motifs de la requête.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 58 (V)
 
 
 ###### Article 1204
 
-Lorsque la demande tend au retrait total ou partiel de l'autorité parentale, qu'elle émane du ministère public, d'un membre
-de la famille ou du tuteur de l'enfant, la requête est notifiée par le greffier à l'ascendant contre lequel l'action est
-exercée.
+Sont convoqués à l'audience, par lettre recommandée avec avis de réception à laquelle la requête est annexée, huit jours au
+moins avant la date de celle-ci : 
+
+1° Le requérant ; 
+
+2° Les parents du mineur ; 
+
+3° La personne, l'établissement ou le service qui a recueilli l'enfant ; 
+
+4° Le cas échéant, le tuteur du mineur ; 
+
+5° Lorsque la demande tend à la délégation de l'exercice de l'autorité parentale, le tiers candidat à la délégation. 
+
+Les conseils des parties, si elles sont assistées ou représentées, ainsi que le ministère public sont également avisés de la
+date de l'audience. 
+
+Les convocations et avis informent les destinataires de la possibilité de consulter le dossier conformément à l'article
+1208-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1208-1 (V)
 
 
 ###### Article 1205
 
 Le tribunal ou le juge, même d'office, procède ou fait procéder à toutes les investigations utiles et notamment aux mesures
-d'information prévues à l'article 1183. Il peut à cet effet commettre le juge des enfants. 
-
-Lorsqu'une procédure d'assistance éducative a été diligentée à l'égard d'un ou plusieurs enfants, le dossier en est
-communiqué au tribunal ou au juge.
+d'information prévues à l'article 1183. Il peut à cet effet commettre le juge des enfants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1183 (V)
+	  - Code de procédure civile - art. 1183
+
+
+###### Article 1205-1
+
+Lorsqu'une procédure d'assistance éducative a été diligentée à l'égard d'un ou plusieurs enfants, le dossier en est
+communiqué au tribunal ou au juge par le juge des enfants, dans les conditions définies à l'article 1187-1. Le juge des
+enfants ne transmet pas les pièces qu'il a exclues de la consultation en application de l'article 1187. 
+
+Dans tous les cas, le juge des enfants fait connaître son avis au regard de la procédure d'assistance éducative en cours. 
+
+Une copie de la décision du juge ou du tribunal est transmise au juge des enfants ainsi que toute pièce que ce dernier estime
+utile
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1187 (V)
+	  - Code de procédure civile - art. 1187-1 (V)
 
 
 ###### Article 1206
 
-Le procureur de la République recueille les renseignements qu'il estime utiles sur la situation de famille du mineur et la
-moralité de ses parents.
+Le procureur de la République peut recueillir les renseignements qu'il estime utiles sur la situation de famille du mineur et
+la moralité de ses parents.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
 
 
 ###### Article 1207
@@ -27441,7 +27287,8 @@ parentale.
 Le tribunal ou le juge entend les          parents, le tuteur, la personne ou le représentant du service à qui l'enfant a été
 confié, ainsi que toute personne dont l'audition lui paraît utile. 
 
-L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en présence du ministère public.
+Dans  le cas où les parents ont disparu, le tribunal ou le juge peut faire  procéder à une recherche dans l'intérêt des
+familles ; en ce cas, il  sursoit à la décision pour un délai n'excédant pas six mois.
 
 **Liens relatifs à cet article**
 
@@ -27451,21 +27298,84 @@ L'affaire est instruite et jugée en chambre du conseil. Les débats ont lieu en
 
 	**Modifié par**:
 
-	  - Décret n°2013-429 du 24 mai 2013 - art. 1
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
+
+
+###### Article 1208-1
+
+Le dossier peut être consulté au greffe, jusqu'à la veille de  l'audience, par le requérant, les parents, le tuteur, la
+personne ou le  service à qui l'enfant a été confié ou leurs avocats s'ils sont assistés  ou représentés. L'avocat peut se
+faire délivrer copie de tout ou partie  des pièces du dossier pour l'usage exclusif de la procédure. Il ne peut  communiquer
+les copies obtenues ou leur reproduction à son client.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1204 (V)
+
+
+###### Article 1208-2
+
+L'affaire est instruite et jugée en chambre du conseil après avis du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
+
+
+###### Article 1208-3
+
+Les décisions du juge ou du tribunal sont notifiées par lettre  recommandée avec avis de réception, dans les huit jours, au
+requérant,  aux parents, tuteur, personne ou service à qui l'enfant a été confié ou  au tiers délégataire. Le juge ou le
+tribunal peut toutefois décider que  la notification aura lieu par acte d'huissier de justice, le cas  échéant, à la
+diligence du greffe, ou par la voie administrative.
+
+Dans tous les cas, un avis de notification est donné au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 1209-1 (V)
+
+
+###### Article 1208-4
+
+Le tribunal saisi d'une demande de déclaration judiciaire de  délaissement parental, statue en la même forme et par le même
+jugement,  sur la délégation de l'exercice de l'autorité parentale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
 
 
 ###### Article 1209
 
-Les dispositions de l'article 1186, du premier alinéa de l'article 1187, du second alinéa de l'article 1188, des premier et
-quatrième alinéas de l'article 1190, des articles 1191 et 1193, alinéa 1, et 1194 à 1197 sont applicables aux procédures
-relatives à la délégation, au retrait total ou partiel de l'autorité parentale, les pouvoirs et obligations du juge des
-enfants étant assumés, selon le cas, par le tribunal ou le juge des affaires familiales.
+Les décisions du juge ou du tribunal peuvent être frappées d'appel par :
+
+1° Les personnes auxquelles le jugement a été notifié jusqu'à  l'expiration d'un délai de quinze jours suivant la
+notification qui leur  en est faite ;
+
+2° Le ministère public jusqu'à l'expiration d'un délai de quinze jours suivant la remise de l'avis qui lui a été donné.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -27474,17 +27384,52 @@ enfants étant assumés, selon le cas, par le tribunal ou le juge des affaires f
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1186 (V)
-	  - Code de procédure civile - art. 1187 (V)
-	  - Code de procédure civile - art. 1188 (V)
-	  - Code de procédure civile - art. 1190 (V)
-	  - Code de procédure civile - art. 1191 (V)
-	  - Code de procédure civile - art. 1193 (V)
-	  - Code de procédure civile - art. 1194 (V)
+	  - Code de procédure civile - art. 1186
+	  - Code de procédure civile - art. 1187
+	  - Code de procédure civile - art. 1188
+	  - Code de procédure civile - art. 1190
+	  - Code de procédure civile - art. 1191
+	  - Code de procédure civile - art. 1193
+	  - Code de procédure civile - art. 1194
+
+
+###### Article 1209-1
+
+L'appel est formé selon les règles édictées aux articles 931 à 934. 
+
+Le greffier avise de l'appel, par lettre simple, les personnes et le service auxquels la décision a été notifiée et qui ne
+l'auraient pas eux-mêmes formé et les informe qu'ils seront ultérieurement convoqués devant la cour. 
+
+L'appel est instruit et jugé en chambre du conseil par la cour d'appel chargée des affaires de mineurs suivant la procédure
+applicable en première instance. 
+
+Les décisions de la cour d'appel sont notifiées comme il est dit à l'article 1208-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1208-3 (V)
+	  - Code de procédure civile - art. 931 (V)
+
+
+###### Article 1209-2
+
+Le pourvoi en cassation est ouvert au ministère public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
 
 
 ###### Article 1210
@@ -27493,15 +27438,17 @@ La demande en restitution des droits délégués ou retirés est formée par req
 demeure la personne à laquelle ces droits ont été conférés. Elle est notifiée à cette personne par le greffier. Elle obéit,
 pour le surplus, aux règles qui gouvernent les demandes en délégation de l'autorité parentale.
 
+Les demandes en restitution d'enfants déclarés délaissés sont soumises aux dispositions du présent chapitre.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2002-1436 du 3 décembre 2002 - art. 21 () JORF 12 décembre 2002
+	  - Décret n°2017-148 du 7 février 2017 - art. 3
 
 
 #### Section IV : Dispositions relatives à l'administrateur ad hoc
@@ -37890,22 +37837,21 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2016-1907 du 28 décembre
-2016 relatif au divorce prévu à l' article 229-1 du code civil et à diverses dispositions en matière successorale, à
-l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
-chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-148 du 7 février 2017
+portant diverses dispositions de procédure en matière d'autorité parentale, à l'exception des dispositions des titres IV et V
+du livre II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du
+livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2016-1907 du 28 décembre 2016 (V)
-	  - Code civil - art. 229-1 (V)
+	  - Décret n°2016-1907 du 28 décembre 2016
+	  - Code civil - art. 229-1
 
 	**Modifié par**:
 
-	  - Décret n°2016-1906 du 28 décembre 2016 - art. 5
-	  - Décret n°2016-1907 du 28 décembre 2016 - art. 41 (V)
+	  - Décret n°2017-148 du 7 février 2017 - art. 5
 
 	**Cité par**:
 
