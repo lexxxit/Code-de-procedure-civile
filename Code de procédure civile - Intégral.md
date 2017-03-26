@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-02-10
+Version Consolidée au 2017-03-27
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -21386,16 +21386,21 @@ qui ne sont manifestement pas de nature à entraîner la cassation.
 
 ###### Article 1015
 
-Le président de la formation ou le conseiller rapporteur doit aviser les parties des moyens susceptibles d'être relevés
-d'office et les inviter à présenter leurs observations dans le délai qu'il fixe. Il en est de même lorsqu'il envisage de
-rejeter un moyen par substitution d'un motif de pur droit relevé d'office à un motif erroné ou lorsqu'il est envisagé de
-prononcer d'office une cassation sans renvoi.
+Lorsqu'il est envisagé de relever d'office un ou plusieurs moyens, de rejeter un moyen par substitution d'un motif de pur
+droit relevé d'office à un motif erroné ou de prononcer une cassation sans renvoi, le président de la formation ou le
+conseiller rapporteur en avise les parties et les invite à présenter leurs observations dans le délai qu'il fixe.
+
+Il en est de même lorsqu'il est envisagé de statuer au fond après cassation. En ce cas, le président de la formation ou le
+conseiller rapporteur précise les chefs du dispositif de la décision attaquée susceptibles d'être atteints par la cassation
+et les points sur lesquels il pourrait être statué au fond. Le cas échéant, il peut demander aux parties de communiquer, dans
+le respect du principe de la contradiction et selon les modalités qu'il définit, toute pièce utile à la décision sur le fond
+envisagée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1338 du 6 novembre 2014 - art. 20
+	  - Décret n°2017-396 du 24 mars 2017 - art. 1
 
 
 ###### Article 1015-1
@@ -21415,6 +21420,24 @@ la chambre appelée à donner son avis.
 	**Créé par**:
 
 	  - Décret n°99-131 du 26 février 1999 - art. 12 () JORF 27 février 1999 en vigueur le 1er mars 1999
+
+
+###### Article 1015-2
+
+Lorsque la Cour de cassation invite une personne à produire des observations d'ordre général sur les points qu'elle détermine
+en application de l'article L. 431-3-1 du code de l'organisation judiciaire, celle-ci peut faire des observations par écrit,
+qui sont alors communiquées aux parties, ou être entendue au cours d'une audience à laquelle les parties sont convoquées. Il
+est imparti à ces dernières un délai pour présenter leurs observations écrites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-396 du 24 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L431-3-1
 
 
 ###### Article 1016
@@ -27121,8 +27144,6 @@ Les décisions de la cour d'appel sont notifiées conformément à l'article 120
 
 	  - Code de procédure civile - art. 1200-10
 
-
-#### Section III : Délégation, retrait total et partiel de l'autorité parentale
 
 #### Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental
 
