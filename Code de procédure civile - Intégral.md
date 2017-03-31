@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-03-27
+Version Consolidée au 2017-04-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -22418,45 +22418,13 @@ Les voies de recours sont, dans tous les cas, ouvertes au ministère public.
 
 ###### Article 1055-1
 
-La demande en changement de prénom est présentée au juge dans le ressort duquel l'acte de naissance de l'intéressé a été
-dressé ou du lieu où demeure celui-ci.
+Le procureur de la République territorialement compétent pour contester devant le juge aux affaires familiales le ou les
+prénoms choisis par les parents, en application du troisième alinéa de l'article 57 du code civil, est celui dans le ressort
+duquel est détenu l'acte de naissance de l'enfant.
 
-Lorsque l'acte de naissance de l'intéressé est détenu par le service central de l'état civil du ministère des affaires
-étrangères, la demande peut aussi être présentée au juge du lieu où est établi ce service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°93-1091 1993-09-16 art. 2 JORF 17 septembre 1993
-
-
-###### Article 1055-2
-
-La demande en changement de prénom relève de la matière gracieuse.
-
-Les voies de recours sont ouvertes au ministère public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°93-1091 1993-09-16 art. 2 JORF 17 septembre 1993
-
-
-###### Article 1055-3
-
-Le dispositif de la décision de changement de prénom formée en application des dispositions de l'article 60 du code civil est
-transmis immédiatement par le procureur de la République à l'officier de l'état civil qui détient l'acte de naissance de
-l'intéressé.
+Lorsque l'acte de naissance a été dressé ou transcrit par les autorités diplomatiques ou consulaires, le procureur de la
+République territorialement compétent est celui du lieu où est établi le service central d'état civil du ministère des
+affaires étrangères.
 
 **Liens relatifs à cet article**
 
@@ -22466,45 +22434,162 @@ l'intéressé.
 
 	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 39
+	  - Décret n°2017-450 du 29 mars 2017 - art. 2
 
 	**Cite**:
 
-	  - Code civil - art. 60
+	  - Code civil - art. 57
+
+
+###### Article 1055-2
+
+Lorsque le procureur de la République s'oppose au changement de prénom en application des dispositions du dernier alinéa de
+l'article 60 du code civil, la demande est portée contre lui devant le juge aux affaires familiales du tribunal de grande
+instance auprès duquel le procureur de la République exerce ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-450 du 29 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 60 (V)
+
+
+###### Article 1055-3
+
+Les demandes formées en application des dispositions du troisième alinéa de l'article 57 et du dernier alinéa de l'article 60
+du code civil obéissent aux règles de la procédure en matière contentieuse applicable devant le tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-450 du 29 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code civil - art. 57 (V)
+	  - Code civil - art. 60 (V)
 
 
 ###### Article 1055-4
 
-Le procureur de la République, conformément à l'alinéa 3 de l'article 57 du code civil est celui dans le ressort duquel est
-détenu l'acte de naissance de l'enfant. En cas de déclaration faite devant les autorités diplomatiques ou consulaires, le
-procureur de la République territorialement compétent est celui du lieu où est établi le service central d'état civil.
+Le dispositif de la décision ordonnant la modification du prénom est transmis sans délai par le procureur de la République à
+l'officier de l'état civil dépositaire des actes de l'état civil de l'intéressé en marge desquels est portée la mention de la
+décision.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 39
+	  - Décret n°2017-450 du 29 mars 2017 - art. 2
 
 	**Cite**:
 
 	  - Code civil - art. 57
 
+
+#### Section II bis : La modification de la mention du sexe dans les actes de l'état civil 
 
 ###### Article 1055-5
 
-Le dispositif de la décision rendue sur le fondement des dispositions de l'alinéa 4 de l'article 57 du code civil est
-transmis immédiatement par le procureur de la République aux officiers de l'état civil dépositaires des actes de l'état civil
-de l'enfant en marge desquels est portée la mention de la décision.
+La demande en modification de la mention du sexe et, le cas échéant, des prénoms, dans les actes de l'état civil, est portée
+devant le tribunal de grande instance dans le ressort duquel soit la personne intéressée demeure, soit son acte de naissance
+a été dressé ou transcrit.
+
+Dans le second cas mentionné à l'alinéa précédent, sont toutefois seuls compétents :
+
+– la juridiction du lieu d'établissement du service central d'état civil du ministère des affaires étrangères, pour les actes
+détenus par ce service ;
+
+– le tribunal de grande instance de Paris, pour les pièces tenant lieu d'acte d'état civil à un réfugié, un apatride ou un
+bénéficiaire de la protection subsidiaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-450 du 29 mars 2017 - art. 3
+
+	**Cite**:
+
+	  - Code civil - art. 57
+
+
+###### Article 1055-6
+
+La demande en modification de la mention du sexe dans les actes de l'état civil et, le cas échéant, des prénoms, relève de la
+matière gracieuse. Les voies de recours sont ouvertes au ministère public.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 39
+	  - Décret n°2017-450 du 29 mars 2017 - art. 3
 
-	**Cite**:
 
-	  - Code civil - art. 57
+###### Article 1055-7
+
+La demande est formée par requête remise ou adressée au greffe. Le cas échéant, la requête précise si la demande tend
+également à un changement de prénoms.
+
+Le ministère d'avocat n'est pas obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-450 du 29 mars 2017 - art. 3
+
+
+###### Article 1055-8
+
+L'affaire est instruite et débattue en chambre du conseil, après avis du ministère public. Les décisions sont rendues hors la
+présence du public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-450 du 29 mars 2017 - art. 3
+
+
+###### Article 1055-9
+
+Le tribunal ordonne la modification des prénoms dans les actes de l'état civil des conjoints, et, le cas échéant, des
+enfants, après avoir constaté le consentement des intéressés ou de leurs représentants légaux.
+
+La personne dont l'état civil est en cause ou son représentant légal peut être entendu.
+
+Le bénéficiaire du changement de prénom peut également demander cette modification, postérieurement à la décision du
+tribunal, auprès du procureur de la République près ledit tribunal.
+
+Cette demande est accompagnée du dispositif de la décision devenue définitive et des documents contenant les consentements
+requis.
+
+Le conjoint, l'enfant majeur ou le représentant légal de l'enfant mineur, peuvent, dans les mêmes conditions, demander au
+procureur de la République la modification des seuls actes qui les concernent postérieurement à la décision du tribunal.
+
+Dans tous les cas, le procureur de la République ordonne l'apposition de la modification des prénoms sur les actes concernés
+et transmet les pièces mentionnées à l'alinéa précédent à l'officier de l'état civil dépositaire desdits actes pour y être
+annexées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-450 du 29 mars 2017 - art. 3
 
 
 #### Section III : La transcription et la mention des décisions sur les registres de l'état civil
@@ -37858,10 +37943,9 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-148 du 7 février 2017
-portant diverses dispositions de procédure en matière d'autorité parentale, à l'exception des dispositions des titres IV et V
-du livre II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du
-livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-450 du 29 mars 2017, à
+l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
+chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
@@ -37872,7 +37956,7 @@ livre V, dans les conditions définies au présent livre.
 
 	**Modifié par**:
 
-	  - Décret n°2017-148 du 7 février 2017 - art. 5
+	  - Décret n°2017-450 du 29 mars 2017 - art. 4
 
 	**Cité par**:
 
