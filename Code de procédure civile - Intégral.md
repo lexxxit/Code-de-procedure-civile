@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-05-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -37943,9 +37943,9 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-450 du 29 mars 2017, à
-l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
-chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-683 du 28 avril 2017,
+à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis
+du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
@@ -37954,14 +37954,14 @@ chapitre IX du titre Ier du livre III et du livre V, dans les conditions défini
 	  - Décret n°2016-1907 du 28 décembre 2016
 	  - Code civil - art. 229-1
 
-	**Modifié par**:
-
-	  - Décret n°2017-450 du 29 mars 2017 - art. 4
-
 	**Cité par**:
 
 	  - Décret n°2017-683 du 28 avril 2017 - art. 4
 	  - Décret n°2017-892 du 6 mai 2017 - art. 72 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-683 du 28 avril 2017 - art. 4
 
 
 ###### Article 1576
