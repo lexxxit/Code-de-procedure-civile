@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-05-01
+Version Consolidée au 2017-05-11
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -511,8 +511,8 @@ Est irrecevable toute prétention émise par ou contre une personne dépourvue d
 
 ###### Article 32-1
 
-Celui qui agit en justice de manière dilatoire ou abusive peut être condamné à une amende civile d'un maximum de 3 000 euros,
-sans préjudice des dommages-intérêts qui seraient réclamés.
+Celui qui agit en justice de manière dilatoire ou abusive peut être condamné à une amende civile d'un maximum de 10 000
+euros, sans préjudice des dommages-intérêts qui seraient réclamés.
 
 **Liens relatifs à cet article**
 
@@ -524,11 +524,11 @@ sans préjudice des dommages-intérêts qui seraient réclamés.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 77 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
 
 ## Titre III : La compétence.
@@ -908,18 +908,18 @@ Elle introduit l'instance.
 ###### Article 54
 
 Sous réserve des cas où l'instance est introduite par la présentation volontaire des parties devant le juge, la demande
-initiale est formée par assignation, par remise d'une requête conjointe au secrétariat de la juridiction ou par requête ou
-déclaration au secrétariat de la juridiction.
+initiale est formée par assignation, par remise d'une requête conjointe au greffe de la juridiction ou par requête ou
+déclaration au greffe de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 2 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 55
@@ -1126,13 +1126,17 @@ En matière gracieuse, la demande est formée par requête.
 
 ###### Article 61
 
-Le juge est saisi par la remise de la requête au secrétariat de la juridiction.
+Le juge est saisi par la remise de la requête au greffe de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ### Chapitre II : Les demandes incidentes.
@@ -1311,19 +1315,23 @@ Les dispositions de l'alinéa premier ne font pas non plus obstacle à l'applica
 
 #### Section I : Les exceptions d'incompétence.
 
-##### Sous-section I : L'incompétence soulevée par les parties.
+##### Sous-section I : Le jugement statuant sur la compétence
 
 ###### Article 75
 
-S'il est prétendu que la juridiction saisie est incompétente, la partie qui soulève cette exception doit, à peine
-d'irrecevabilité, la motiver et faire connaître dans tous les cas devant quelle juridiction elle demande que l'affaire soit
-portée.
+S'il est prétendu que la juridiction saisie en première instance ou en appel est incompétente, la partie qui soulève cette
+exception doit, à peine d'irrecevabilité, la motiver et faire connaître dans tous les cas devant quelle juridiction elle
+demande que l'affaire soit portée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -1332,8 +1340,12 @@ portée.
 
 ###### Article 76
 
-Le juge peut, dans un même jugement, mais par des dispositions distinctes, se déclarer compétent et statuer sur le fond du
-litige, sauf à mettre préalablement les parties en demeure de conclure sur le fond.
+L'incompétence peut être prononcée d'office en cas de violation d'une règle de compétence d'attribution lorsque cette règle
+est d'ordre public ou lorsque le défendeur ne comparaît pas. Elle ne peut l'être qu'en ces cas.
+
+Devant la cour d'appel et devant la Cour de cassation, cette incompétence ne peut être relevée d'office que si l'affaire
+relève de la compétence d'une juridiction répressive ou administrative ou échappe à la connaissance de la juridiction
+française.
 
 **Liens relatifs à cet article**
 
@@ -1343,155 +1355,149 @@ litige, sauf à mettre préalablement les parties en demeure de conclure sur le 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de procédure civile - art. 78 (V)
+	  - Code de procédure civile - art. 92 (T)
 
 
 ###### Article 77
+
+En matière gracieuse, le juge peut relever d'office son incompétence territoriale. Il ne le peut, en matière contentieuse,
+que dans les litiges relatifs à l'état des personnes, dans les cas où la loi attribue compétence exclusive à une autre
+juridiction ou si le défendeur ne comparaît pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 93 (T)
+
+
+###### Article 78
+
+Le juge peut, dans un même jugement, mais par des dispositions distinctes, se déclarer compétent et statuer sur le fond du
+litige, après avoir, le cas échéant, mis préalablement les parties en demeure de conclure sur le fond.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 76 (T)
+
+
+###### Article 79
 
 Lorsqu'il ne se prononce pas sur le fond du litige, mais que la détermination de la compétence dépend d'une question de fond,
 le juge doit, dans le dispositif du jugement, statuer sur cette question de fond et sur la compétence par des dispositions
 distinctes.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 79 (V)
-
-
-##### Sous-section II : L'appel.
-
-###### Article 78
-
-Si le juge se déclare compétent et statue sur le fond du litige dans un même jugement, celui-ci ne peut être attaqué que par
-voie d'appel, soit dans l'ensemble de ses dispositions s'il est susceptible d'appel, soit du chef de la compétence dans le
-cas où la décision sur le fond est rendue en premier et dernier ressort.
+Sa décision a autorité de chose jugée sur cette question de fond.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de procédure civile - art. 90 (V)
+	  - Code de procédure civile - art. 77 (T)
+	  - Code de procédure civile - art. 95 (T)
 
-
-###### Article 79
-
-Lorsque la cour infirme du chef de la compétence, elle statue néanmoins sur le fond du litige si la décision attaquée est
-susceptible d'appel dans l'ensemble de ses dispositions et si la cour est juridiction d'appel relativement à la juridiction
-qu'elle estime compétente.
-
-Dans les autres cas, la cour, en infirmant du chef de la compétence la décision attaquée, renvoie l'affaire devant la cour
-qui est juridiction d'appel relativement à la juridiction qui eût été compétente en première instance. Cette décision
-s'impose aux parties et à la cour de renvoi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 90 (V)
-
-
-##### Sous-section III : Le contredit.
 
 ###### Article 80
 
-Lorsque le juge se prononce sur la compétence sans statuer sur le fond du litige, sa décision ne peut être attaquée que par
-la voie du contredit, quand bien même le juge aurait tranché la question de fond dont dépend la compétence.
-
-Sous réserve des règles particulières à l'expertise, la décision ne peut pareillement être attaquée du chef de la compétence
-que par la voie du contredit lorsque le juge se prononce sur la compétence et ordonne une mesure d'instruction ou une mesure
-provisoire.
+Si le juge se déclare compétent, sans statuer sur le fond, l'instance est suspendue jusqu'à l'expiration du délai pour former
+appel et, en cas d'appel, jusqu'à ce que la cour d'appel ait rendu sa décision.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de procédure civile - art. 83 (V)
+	  - Code de procédure civile - art. 81 (T)
 
 
 ###### Article 81
 
-Si le juge se déclare compétent, l'instance est suspendue jusqu'à l'expiration du délai pour former contredit et, en cas de
-contredit, jusqu'à ce que la cour d'appel ait rendu sa décision.
+Lorsque le juge estime que l'affaire relève de la compétence d'une juridiction répressive, administrative, arbitrale ou
+étrangère, il renvoie seulement les parties à mieux se pourvoir.
+
+Dans tous les autres cas, le juge qui se déclare incompétent désigne la juridiction qu'il estime compétente. Cette
+désignation s'impose aux parties et au juge de renvoi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 80 (V)
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 847-5 (VT)
 
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 96 (T)
+
 
 ###### Article 82
 
-Le contredit doit, à peine d'irrecevabilité, être motivé et remis au secrétariat de la juridiction qui a rendu la décision
-dans les quinze jours de celle-ci.
+En cas de renvoi devant une juridiction désignée, le dossier de l'affaire lui est transmis par le greffe, avec une copie de
+la décision de renvoi, à défaut d'appel dans le délai.
 
-Si le contredit donne lieu à perception de frais par le secrétariat, la remise n'est acceptée que si son auteur a consigné
-ces frais.
+Dès réception du dossier, les parties sont invitées par tout moyen par le greffe de la juridiction désignée à poursuivre
+l'instance et, s'il y a lieu, à constituer avocat dans le délai d'un mois à compter de cet avis.
 
-Il est délivré récépissé de cette remise.
+Lorsque devant la juridiction désignée les parties sont tenues de se faire représenter, l'affaire est d'office radiée si
+aucune d'elles n'a constitué avocat dans le mois de l'invitation qui leur a été faite en application de l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°78-62 1978-01-20 art. 16 JORF 24 janvier 1978
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
 	**Cité par**:
 
@@ -1501,57 +1507,87 @@ Il est délivré récépissé de cette remise.
 	  - Code de procédure civile - art. 354 (V)
 	  - Code de procédure civile - art. 47 (VD)
 
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 97 (T)
+
+
+##### Sous-section II : L'appel du jugement statuant sur la compétence
+
+##### Paragraphe 1 : L'appel du jugement statuant exclusivement sur la compétence 
 
 ###### Article 83
 
-Le secrétaire de la juridiction qui a rendu la décision notifie sans délai à la partie adverse une copie du contredit, par
-lettre recommandée avec demande d'avis de réception, et en informe également son représentant si elle en a un. 
+Lorsque le juge s'est prononcé sur la compétence sans statuer sur le fond du litige, sa décision peut faire l'objet d'un
+appel dans les conditions prévues par le présent paragraphe.
 
-Il transmet simultanément au greffier en chef de la cour le dossier de l'affaire avec le contredit et une copie du jugement.
+La décision ne peut pareillement être attaquée du chef de la compétence que par voie d'appel lorsque le juge se prononce sur
+la compétence et ordonne une mesure d'instruction ou une mesure provisoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°78-62 1978-01-20 art. 17 JORF 24 janvier 1978
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 272 (V)
 
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 80 (T)
+
 
 ###### Article 84
 
-Le premier président fixe la date de l'audience, laquelle doit avoir lieu dans le plus bref délai. 
+Le délai d'appel est de quinze jours à compter de la notification du jugement. Le greffe procède à cette notification
+adressée aux parties par lettre recommandée avec demande d'avis de réception. Il notifie également le jugement à leur avocat,
+dans le cas d'une procédure avec représentation obligatoire.
 
-Le greffier de la cour en informe les parties par lettre recommandée avec demande d'avis de réception.
+En cas d'appel, l'appelant doit, à peine de caducité de la déclaration d'appel, saisir, dans le délai d'appel, le premier
+président en vue, selon le cas, d'être autorisé à assigner à jour fixe ou de bénéficier d'une fixation prioritaire de
+l'affaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
 
 ###### Article 85
 
-Les parties peuvent, à l'appui de leur argumentation, déposer toutes observations écrites qu'elles estiment utiles. Ces
-observations, visées par le juge, sont versées au dossier.
+Outre les mentions prescrites selon le cas par les articles 901 ou 933, la déclaration d'appel précise qu'elle est dirigée
+contre un jugement statuant sur la compétence et doit, à peine d'irrecevabilité, être motivée, soit dans la déclaration elle-
+même, soit dans des conclusions jointes à cette déclaration. 
+
+Nonobstant toute disposition contraire, l'appel est instruit et jugé comme en matière de procédure à jour fixe si les règles
+applicables à l'appel des décisions rendues par la juridiction dont émane le jugement frappé d'appel imposent la constitution
+d'avocat, ou, dans le cas contraire, comme il est dit à l'article 948.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 901 (VT)
+	  - Code de procédure civile - art. 933 (VT)
 
 
 ###### Article 86
@@ -1559,36 +1595,43 @@ observations, visées par le juge, sont versées au dossier.
 La cour renvoie l'affaire à la juridiction qu'elle estime compétente. Cette décision s'impose aux parties et au juge de
 renvoi.
 
+Lorsque le renvoi est fait à la juridiction qui avait été initialement saisie, l'instance se poursuit à la diligence du juge.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
 
 ###### Article 87
 
-Le greffier de la cour notifie aussitôt l'arrêt aux parties par lettre recommandée avec demande d'avis de réception. 
+Le greffier de la cour notifie aussitôt l'arrêt aux parties par lettre recommandée avec demande d'avis de réception.
 
-Cet arrêt n'est pas susceptible d'opposition. Le délai de pourvoi en cassation court à compter de sa notification.
+Cet arrêt n'est pas susceptible d'opposition.
+
+Le délai de pourvoi en cassation court à compter de sa notification.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°76-1236 1976-12-28 art. 1 JORF 30 décembre 1976
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
 
 ###### Article 88
 
-Les frais éventuellement afférents au contredit sont à la charge de la partie qui succombe sur la question de compétence. Si
-elle est l'auteur du contredit, elle peut, en outre, être condamnée à une amende civile d'un maximum de 3 000 euros, sans
-préjudice des dommages-intérêts qui pourraient lui être réclamés.
+Lorsque la cour est juridiction d'appel relativement à la juridiction qu'elle estime compétente, elle peut évoquer le fond si
+elle estime de bonne justice de donner à l'affaire une solution définitive après avoir ordonné elle-même, le cas échéant, une
+mesure d'instruction.
 
 **Liens relatifs à cet article**
 
@@ -1599,43 +1642,55 @@ préjudice des dommages-intérêts qui pourraient lui être réclamés.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 77 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 89 (T)
 
 
 ###### Article 89
 
-Lorsque la cour est juridiction d'appel relativement à la juridiction qu'elle estime compétente, elle peut évoquer le fond si
-elle estime de bonne justice de donner à l'affaire une solution définitive après avoir ordonné elle-même, le cas échéant, une
-mesure d'instruction.
+Quand elle décide d'évoquer, la cour invite les parties, le cas échéant par lettre recommandée avec demande d'avis de
+réception, à constituer avocat dans le délai qu'elle fixe, si les règles applicables à l'appel des décisions rendues par la
+juridiction dont émane le jugement frappé d'appel imposent cette constitution.
+
+Si aucune des parties ne constitue avocat, la cour peut prononcer d'office la radiation de l'affaire par décision motivée non
+susceptible de recours. Copie de cette décision est portée à la connaissance de chacune des parties par lettre simple
+adressée à leur domicile ou à leur résidence.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code de procédure civile - art. 88 (V)
+	  - Code de procédure civile - art. 90 (T)
 
+
+##### Paragraphe 2 : L'appel du jugement statuant sur la compétence et le fond du litige 
 
 ###### Article 90
 
-Quand elle décide d'évoquer, la cour invite les parties, le cas échéant par lettre recommandée avec demande d'avis de
-réception, à constituer avocat dans le délai qu'elle fixe, si les règles applicables à l'appel des décisions rendues par la
-juridiction dont émane le jugement frappé de contredit imposent cette constitution. 
+Lorsque le juge s'est déclaré compétent et a statué sur le fond du litige dans un même jugement rendu en premier ressort,
+celui-ci peut être frappé d'appel dans l'ensemble de ses dispositions.
 
-Si aucune des parties ne constitue avocat, la cour peut prononcer d'office la radiation de l'affaire par décision motivée non
-susceptible de recours. Copie de cette décision est portée à la connaissance de chacune des parties par lettre simple
-adressée à leur domicile ou à leur résidence.
+Lorsque la cour infirme du chef de la compétence, elle statue néanmoins sur le fond du litige si la cour est juridiction
+d'appel relativement à la juridiction qu'elle estime compétente.
+
+Si elle n'est pas juridiction d'appel, la cour, en infirmant du chef de la compétence la décision attaquée, renvoie l'affaire
+devant la cour qui est juridiction d'appel relativement à la juridiction qui eût été compétente en première instance. Cette
+décision s'impose aux parties et à la cour de renvoi.
 
 **Liens relatifs à cet article**
 
@@ -1649,27 +1704,23 @@ adressée à leur domicile ou à leur résidence.
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 89 (V)
+	  - Code de procédure civile - art. 78 (T)
+	  - Code de procédure civile - art. 79 (T)
 
 
 ###### Article 91
 
-Lorsque la cour estime que la décision qui lui est déférée par la voie du contredit devait l'être par celle de l'appel, elle
-n'en demeure pas moins saisie. 
+Lorsque le juge s'est déclaré compétent et a statué sur le fond du litige dans un même jugement rendu en dernier ressort,
+celui-ci peut être frappé d'appel exclusivement sur la compétence. Un pourvoi formé à l'encontre des dispositions sur le fond
+rend l'appel irrecevable.
 
-L'affaire est alors instruite et jugée selon les règles applicables à l'appel des décisions rendues par la juridiction dont
-émane le jugement frappé de contredit. 
-
-Si, selon ces règles, les parties sont tenues de constituer avocat, l'appel est d'office déclaré irrecevable si celui qui a
-formé le contredit n'a pas constitué avocat dans le mois de l'avis donné aux parties par le greffier.
+En cas d'appel, lorsque la cour infirme la décision attaquée du chef de la compétence, elle renvoie l'affaire devant la
+juridiction qu'elle estime compétente à laquelle le dossier est transmis à l'expiration du délai du pourvoi ou, le cas
+échéant, lorsqu'il a été statué sur celui-ci. La décision de renvoi s'impose aux parties et à la juridiction de renvoi.
 
 **Liens relatifs à cet article**
 
@@ -1679,63 +1730,10 @@ formé le contredit n'a pas constitué avocat dans le mois de l'avis donné aux 
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
 
 ##### Sous-section IV : L'incompétence relevée d'office.
-
-###### Article 92
-
-L'incompétence peut être prononcée d'office en cas de violation d'une règle de compétence d'attribution lorsque cette règle
-est d'ordre public ou lorsque le défendeur ne comparaît pas. Elle ne peut l'être qu'en ces cas.
-
-Devant la cour d'appel et devant la Cour de cassation, cette incompétence ne peut être relevée d'office que si l'affaire
-relève de la compétence d'une juridiction répressive ou administrative ou échappe à la connaissance de la juridiction
-française.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°76-1236 1976-12-28 art. 2 JORF 30 décembre 1976
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 76 (V)
-
-
-###### Article 93
-
-En matière gracieuse, le juge peut relever d'office son incompétence territoriale. Il ne le peut, en matière contentieuse,
-que dans les litiges relatifs à l'état des personnes, dans les cas où la loi attribue compétence exclusive à une autre
-juridiction ou si le défendeur ne comparaît pas.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°76-1236 1976-12-28 art. 3 JORF 30 décembre 1976
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 77 (V)
-
 
 ###### Article 94
 
@@ -1753,89 +1751,6 @@ La voie du contredit est seule ouverte lorsqu'une juridiction statuant en premie
 
 
 ##### Sous-section V : Dispositions communes.
-
-###### Article 95
-
-Lorsque le juge, en se prononçant sur la compétence, tranche la question de fond dont dépend cette compétence, sa décision a
-autorité de chose jugée sur cette question de fond.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 79 (V)
-
-
-###### Article 96
-
-Lorsque le juge estime que l'affaire relève de la compétence d'une juridiction répressive, administrative, arbitrale ou
-étrangère, il renvoie seulement les parties à mieux se pourvoir.
-
-Dans tous les autres cas, le juge qui se déclare incompétent désigne la juridiction qu'il estime compétente. Cette
-désignation s'impose aux parties et au juge de renvoi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 81 (V)
-
-
-###### Article 97
-
-En cas de renvoi devant une juridiction désignée, le dossier de l'affaire lui est aussitôt transmis par le secrétariat, avec
-une copie de la décision de renvoi. Toutefois, la transmission n'est faite qu'à défaut de contredit dans le délai, lorsque
-cette voie était ouverte contre la décision de renvoi.
-
-Dès réception du dossier, les parties sont invitées par lettre recommandée avec demande d'avis de réception du secrétaire de
-la juridiction désignée à poursuivre l'instance et, s'il y a lieu, à constituer avocat.
-
-Lorsque devant celle-ci les parties sont tenues de se faire représenter, l'affaire est d'office radiée si aucune d'elles n'a
-constitué avocat, selon le cas, dans le mois de l'avis qui leur a été donné.
-
-Lorsque le renvoi est fait à la juridiction qui avait été primitivement saisie, l'instance se poursuit à la diligence du
-juge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-891 du 6 mai 2017 - art. 1
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R142-2 (Ab)
-	  - Code de procédure civile - art. 1425-8 (V)
-	  - Code de procédure civile - art. 47 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 82 (V)
-
 
 ###### Article 98
 
@@ -3321,16 +3236,20 @@ simple mention au dossier ou au registre d'audience.
 ###### Article 152
 
 La décision qui, en cours d'instance, se borne à ordonner ou à modifier une mesure d'instruction n'est pas notifiée. Il en
-est de même de la décision qui refuse d'ordonner ou de modifier la mesure.
+est de même de la décision qui refuse d'ordonner ou de modifier la mesure. 
 
-Le secrétaire adresse copie de la décision par lettre simple aux parties défaillantes ou absentes lors du prononcé de la
+Le greffier adresse copie de la décision par lettre simple aux parties défaillantes ou absentes lors du prononcé de la
 décision.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 153
@@ -3433,15 +3352,15 @@ Lorsque l'éloignement des parties ou des personnes qui doivent apporter leur co
 lieux, rend le déplacement trop difficile ou trop onéreux, le juge peut charger une autre juridiction de degré égal ou
 inférieur de procéder à tout ou partie des opérations ordonnées.
 
-La décision est transmise avec tous documents utiles par le secrétariat de la juridiction commettante à la juridiction
-commise. Dès réception, il est procédé aux opérations prescrites à l'initiative de la juridiction commise ou du juge que le
-président de cette juridiction désigne à cet effet.
+La décision est transmise avec tous documents utiles par le greffe de la juridiction commettante à la juridiction commise.
+Dès réception, il est procédé aux opérations prescrites à l'initiative de la juridiction commise ou du juge que le président
+de cette juridiction désigne à cet effet.
 
 Les parties ou les personnes qui doivent apporter leur concours à l'exécution de la mesure d'instruction sont directement
 convoquées ou avisées par la juridiction commise. Les parties ne sont pas tenues de constituer avocat devant cette
 juridiction.
 
-Sitôt les opérations accomplies, le secrétariat de la juridiction qui y a procédé transmet à la juridiction commettante les
+Sitôt les opérations accomplies, le greffe de la juridiction qui y a procédé transmet à la juridiction commettante les
 procès-verbaux accompagnés des pièces et objets annexés ou déposés.
 
 **Liens relatifs à cet article**
@@ -3452,7 +3371,7 @@ procès-verbaux accompagnés des pièces et objets annexés ou déposés.
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 158
@@ -3481,13 +3400,13 @@ La mesure d'instruction ordonnée peut être exécutée sur-le-champ.
 ###### Article 160
 
 Les parties et les tiers qui doivent apporter leur concours aux mesures d'instruction sont convoqués, selon le cas, par le
-secrétaire du juge qui y procède ou par le technicien commis. La convocation est faite par lettre recommandée avec demande
-d'avis de réception. Les parties peuvent également être convoquées par remise à leur défenseur d'un simple bulletin.
+greffier du juge qui y procède ou par le technicien commis. La convocation est faite par lettre recommandée avec demande
+d'avis de réception. Les parties peuvent également être convoquées par remise à leur défenseur d'un simple bulletin. 
 
 Les parties et les tiers peuvent aussi être convoqués verbalement s'ils sont présents lors de la fixation de la date
-d'exécution de la mesure.
+d'exécution de la mesure. 
 
-Les défenseurs des parties sont avisés par lettre simple s'ils ne l'ont été verbalement ou par bulletin.
+Les défenseurs des parties sont avisés par lettre simple s'ils ne l'ont été verbalement ou par bulletin. 
 
 Les parties défaillantes sont avisées par lettre simple.
 
@@ -3495,13 +3414,17 @@ Les parties défaillantes sont avisées par lettre simple.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2014-897 du 15 août 2014 - art. 1
 	  - Code de la santé publique - art. R3211-13 (V)
 	  - Code de la santé publique - art. R3211-14 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 161
@@ -3557,13 +3480,17 @@ règles applicables aux débats sur le fond.
 ###### Article 165
 
 Le juge peut, pour procéder à une mesure d'instruction ou assister à son exécution, se déplacer sans être assisté par le
-secrétaire de la juridiction.
+greffier de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 166
@@ -3593,22 +3520,26 @@ exécution.
 
 ###### Article 168
 
-Le juge se prononce sur-le-champ si la difficulté survient au cours d'une opération à laquelle il procède ou assiste.
+Le juge se prononce sur-le-champ si la difficulté survient au cours d'une opération à laquelle il procède ou assiste. 
 
 Dans les autres cas, le juge saisi sans forme fixe la date pour laquelle les parties et, s'il y a lieu, le technicien commis
-seront convoqués par le secrétaire de la juridiction.
+seront convoqués par le greffier de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 169
 
-En cas d'intervention d'un tiers à l'instance, le secrétaire de la juridiction en avise aussitôt le juge ou le technicien
-chargé d'exécuter la mesure d'instruction.
+En cas d'intervention d'un tiers à l'instance, le greffier de la juridiction en avise aussitôt le juge ou le technicien
+chargé d'exécuter la mesure d'instruction. 
 
 L'intervenant est mis en mesure de présenter ses observations sur les opérations auxquelles il a déjà été procédé.
 
@@ -3616,7 +3547,11 @@ L'intervenant est mis en mesure de présenter ses observations sur les opératio
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 170
@@ -3675,29 +3610,35 @@ même sur les lieux, et statuer aussitôt sur leurs prétentions.
 ###### Article 173
 
 Les procès-verbaux, avis ou rapports établis, à l'occasion ou à la suite de l'exécution d'une mesure d'instruction sont
-adressés ou remis en copie à chacune des parties par le secrétaire de la juridiction qui les a établis ou par le technicien
-qui les a rédigés, selon le cas. Mention en est faite sur l'original.
+adressés ou remis en copie à chacune des parties par le greffier de la juridiction qui les a établis ou par le technicien qui
+les a rédigés, selon le cas. Mention en est faite sur l'original.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 174
 
 Le juge peut faire établir un enregistrement sonore, visuel ou audiovisuel de tout ou partie des opérations d'instruction
-auxquelles il procède.
-
-L'enregistrement est conservé au secrétariat de la juridiction. Chaque partie peut demander qu'il lui en soit remis, à ses
-frais, un exemplaire, une copie ou une transcription.
+auxquelles il procède. L'enregistrement est conservé au greffe de la juridiction. Chaque partie peut demander qu'il lui en
+soit remis, à ses frais, un exemplaire, une copie ou une transcription.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ##### Section III : Nullités.
@@ -4013,15 +3954,19 @@ jugée en dernier ressort.
 
 Les parties interrogées signent le procès-verbal, après lecture, ou le certifient conforme à leurs déclarations auquel cas
 mention en est faite au procès-verbal. Le cas échéant, il y est indiqué que les parties refusent de le signer ou de le
-certifier conforme.
+certifier conforme. 
 
-Le procès-verbal est en outre daté et signé par le juge et, s'il y a lieu, par le secrétaire.
+Le procès-verbal est en outre daté et signé par le juge et, s'il y a lieu, par le greffier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 196
@@ -4187,24 +4132,22 @@ divorcé.
 
 ###### Article 207
 
-Les témoins défaillants peuvent être cités à leurs frais si leur audition est jugée nécessaire. 
-
-Les témoins défaillants et ceux qui, sans motif légitime, refusent de déposer ou de prêter serment peuvent être condamnés à
-une amende civile d'un maximum de 3 000 euros.
-
-Celui qui justifie n'avoir pas pu se présenter au jour fixé pourra être déchargé de l'amende et des frais de citation.
+Les témoins défaillants peuvent être cités à leurs frais si leur audition est jugée nécessaire. Les témoins défaillants et
+ceux qui, sans motif légitime, refusent de déposer ou de prêter serment peuvent être condamnés à une amende civile d'un
+maximum de 10 000 euros. Celui qui justifie n'avoir pas pu se présenter au jour fixé pourra être déchargé de l'amende et des
+frais de citation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 77 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
@@ -4379,17 +4322,21 @@ certifier conforme.
 
 Le juge peut consigner dans ce procès-verbal ses constatations relatives au comportement du témoin lors de son audition. 
 
-Les observations des parties sont consignées dans le procès-verbal, ou lui sont annexées lorsqu'elles sont écrites.
+Les observations des parties sont consignées dans le procès-verbal, ou lui sont annexées lorsqu'elles sont écrites. 
 
 Les documents versés à l'enquête sont également annexés. 
 
-Le procès-verbal est daté et signé par le juge et, s'il y a lieu, par le secrétaire.
+Le procès-verbal est daté et signé par le juge et, s'il y a lieu, par le greffier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 221
@@ -4443,17 +4390,19 @@ La décision qui prescrit l'enquête énonce les nom, prénoms et demeure des pe
 
 Si les parties sont dans l'impossibilité d'indiquer d'emblée les personnes à entendre, le juge peut néanmoins les autoriser
 soit à se présenter sans autres formalités à l'enquête avec les témoins qu'elles désirent faire entendre, soit à faire
-connaître au secrétariat de la juridiction, dans le délai qu'il fixe, les nom, prénoms et demeure des personnes dont elles
-sollicitent l'audition.
-
-Lorsque l'enquête est ordonnée d'office, le juge, s'il ne peut indiquer dans sa décision le nom des témoins à entendre,
-enjoint aux parties de procéder comme il est dit à l'alinéa précédent.
+connaître au greffe de la juridiction, dans le délai qu'il fixe, les nom, prénoms et demeure des personnes dont elles
+sollicitent l'audition. Lorsque l'enquête est ordonnée d'office, le juge, s'il ne peut indiquer dans sa décision le nom des
+témoins à entendre, enjoint aux parties de procéder comme il est dit à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ##### Paragraphe 3 : Détermination du mode et du calendrier de l'enquête.
@@ -4503,13 +4452,17 @@ Le juge commis fixe les jour, heure et lieu de l'enquête.
 
 ###### Article 228
 
-Les témoins sont convoqués par le secrétaire de la juridiction huit jours au moins avant la date de l'enquête.
+Les témoins sont convoqués par le greffier de la juridiction huit jours au moins avant la date de l'enquête.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 229
@@ -4853,29 +4806,34 @@ constatant une avance sur sa rémunération, dont il fixe le montant.
 
 ###### Article 252
 
-Le constatant est avisé de sa mission par le secrétaire de la juridiction.
+Le constatant est avisé de sa mission par le greffier de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 253
 
-Le constat est remis au secrétariat de la juridiction.
-
-Il est dressé procès-verbal des constatations présentées oralement. La rédaction du procès-verbal peut toutefois être
-suppléée par une mention dans le jugement si l'affaire est immédiatement jugée en dernier ressort.
-
-Sont joints au dossier de l'affaire les documents à l'appui des constatations.
+Le constat est remis au greffe de la juridiction. Il est dressé procès-verbal des constatations présentées oralement. La
+rédaction du procès-verbal peut toutefois être suppléée par une mention dans le jugement si l'affaire est immédiatement jugée
+en dernier ressort. Sont joints au dossier de l'affaire les documents à l'appui des constatations.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 254
@@ -4952,29 +4910,35 @@ fixe le montant.
 
 ###### Article 259
 
-Le consultant est avisé de sa mission par le secrétaire de la juridiction qui le convoque s'il y a lieu.
+Le consultant est avisé de sa mission par le greffier de la juridiction qui le convoque s'il y a lieu.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 260
 
 Si la consultation est donnée oralement, il en est dressé procès-verbal. La rédaction du procès-verbal peut toutefois être
-suppléée par une mention dans le jugement si l'affaire est immédiatement jugée en dernier ressort.
-
-Si la consultation est écrite, elle est remise au secrétariat de la juridiction.
-
-Sont joints au dossier de l'affaire les documents à l'appui de la consultation.
+suppléée par une mention dans le jugement si l'affaire est immédiatement jugée en dernier ressort. Si la consultation est
+écrite, elle est remise au greffe de la juridiction. Sont joints au dossier de l'affaire les documents à l'appui de la
+consultation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 261
@@ -5078,7 +5042,7 @@ Les documents utiles à l'expertise sont remis à l'expert lors de cette confér
 
 ###### Article 267
 
-Dès le prononcé de la décision nommant l'expert, le secrétaire de la juridiction lui en notifie copie par tout moyen.
+Dès le prononcé de la décision nommant l'expert, le greffier de la juridiction lui en notifie copie par tout moyen. 
 
 L'expert fait connaître sans délai au juge son acceptation ; il doit commencer les opérations d'expertise dès qu'il est
 averti que les parties ont consigné la provision mise à leur charge, ou le montant de la première échéance dont la
@@ -5088,27 +5052,30 @@ consignation a pu être assortie, à moins que le juge ne lui enjoigne d'entrepr
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 37 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 268
 
-Les dossiers des parties ou les documents nécessaires à l'expertise sont provisoirement conservés au secrétariat de la
-juridiction sous réserve de l'autorisation donnée par le juge aux parties qui les ont remis d'en retirer certains éléments ou
-de s'en faire délivrer copie. L'expert peut les consulter même avant d'accepter sa mission.
-
-Dès son acceptation, l'expert peut, contre émargement ou récépissé, retirer ou se faire adresser par le secrétaire de la
-juridiction les dossiers ou les documents des parties.
+Les dossiers des parties ou les documents nécessaires à l'expertise sont provisoirement conservés au greffe de la juridiction
+sous réserve de l'autorisation donnée par le juge aux parties qui les ont remis d'en retirer certains éléments ou de s'en
+faire délivrer copie. L'expert peut les consulter même avant d'accepter sa mission. Dès son acceptation, l'expert peut,
+contre émargement ou récépissé, retirer ou se faire adresser par le greffier de la juridiction les dossiers ou les documents
+des parties.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cité par**:
 
@@ -5180,26 +5147,35 @@ caducité. L'instance est poursuivie sauf à ce qu'il soit tiré toute conséque
 ###### Article 272
 
 La décision ordonnant l'expertise peut être frappée d'appel indépendamment du jugement sur le fond sur autorisation du
-premier président de la cour d'appel s'il est justifié d'un motif grave et légitime.
+premier président de la cour d'appel s'il est justifié d'un motif grave et légitime. 
 
 La partie qui veut faire appel saisit le premier président qui statue en la forme des référés. L'assignation doit être
-délivrée dans le mois de la décision.
+délivrée dans le mois de la décision. 
 
 S'il fait droit à la demande, le premier président fixe le jour où l'affaire sera examinée par la cour, laquelle est saisie
-et statue comme en matière de procédure à jour fixe ou comme il est dit à l'article 948 selon le cas.
+et statue comme en matière de procédure à jour fixe ou comme il est dit à l'article 948 selon le cas. 
 
-Si le jugement ordonnant l'expertise s'est également prononcé sur la compétence, la cour peut être saisie de la contestation
-sur la compétence alors même que les parties n'auraient pas formé contredit.
+Si le jugement ordonnant l'expertise s'est également prononcé sur la compétence, l'appel est formé, instruit et jugé selon
+les modalités prévues aux articles 83 à 89.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 53 du décret n° 2017-891 du 6 mai 2017, ces dispositions s'appliquent aux
+décisions rendues à compter du 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 948 (V)
+	  - Code de procédure civile - art. 83 (V)
 
 
 ##### Sous-section II : Les opérations d'expertise.
@@ -5384,16 +5360,16 @@ Les parties peuvent demander au juge de donner force exécutoire à l'acte expri
 
 Si l'avis n'exige pas de développements écrits, le juge peut autoriser l'expert à l'exposer oralement à l'audience ; il en
 est dressé procès-verbal. La rédaction du procès-verbal peut toutefois être suppléée par une mention dans le jugement si
-l'affaire est immédiatement jugée en dernier ressort. 
+l'affaire est immédiatement jugée en dernier ressort.
 
-Dans les autres cas, l'expert doit déposer un rapport au secrétariat de la juridiction. Il n'est rédigé qu'un seul rapport,
-même s'il y a plusieurs experts ; en cas de divergence, chacun indique son opinion. 
+Dans les autres cas, l'expert doit déposer un rapport au greffe de la juridiction. Il n'est rédigé qu'un seul rapport, même
+s'il y a plusieurs experts ; en cas de divergence, chacun indique son opinion.
 
 Si l'expert a recueilli l'avis d'un autre technicien dans une spécialité distincte de la sienne, cet avis est joint, selon le
-cas, au rapport, au procès-verbal d'audience ou au dossier. 
+cas, au rapport, au procès-verbal d'audience ou au dossier.
 
 Lorsque l'expert s'est fait assister dans l'accomplissement de sa mission en application de l'article 278-1, le rapport
-mentionne les nom et qualités des personnes qui ont prêté leur concours. 
+mentionne les nom et qualités des personnes qui ont prêté leur concours.
 
 Le dépôt par l'expert de son rapport est accompagné de sa demande de rémunération, dont il adresse un exemplaire aux parties
 par tout moyen permettant d'en établir la réception. S'il y a lieu, celles-ci adressent à l'expert et à la juridiction ou, le
@@ -5408,7 +5384,7 @@ délai de quinze jours à compter de sa réception.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1451 du 24 décembre 2012 - art. 8
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
@@ -5583,19 +5559,23 @@ dont il dispose justifient le renversement de cette présomption.
 ###### Article 289
 
 S'il ne statue pas sur-le-champ, le juge retient l'écrit à vérifier et les pièces de comparaison ou ordonne leur dépôt au
-secrétariat de la juridiction.
+greffe de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 290
 
 Lorsqu'il est utile de comparer l'écrit contesté à des documents détenus par des tiers, le juge peut ordonner, même d'office
-et à peine d'astreinte, que ces documents soient déposés au secrétariat de la juridiction en original ou en reproduction.
+et à peine d'astreinte, que ces documents soient déposés au greffe de la juridiction en original ou en reproduction.
 
 Il prescrit toutes les mesures nécessaires, notamment celles qui sont relatives à la conservation, la consultation, la
 reproduction, la restitution ou le rétablissement des documents.
@@ -5604,7 +5584,11 @@ reproduction, la restitution ou le rétablissement des documents.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 291
@@ -5624,13 +5608,17 @@ Il peut entendre l'auteur prétendu de l'écrit contesté.
 ###### Article 292
 
 S'il est fait appel à un technicien, celui-ci peut être autorisé par le juge à retirer contre émargement l'écrit contesté et
-les pièces de comparaison ou à se les faire adresser par le secrétaire de la juridiction.
+les pièces de comparaison ou à se les faire adresser par le greffier de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 293
@@ -5663,19 +5651,19 @@ ordonnance ou d'un jugement.
 ###### Article 295
 
 S'il est jugé que la pièce a été écrite ou signée par la personne qui l'a déniée, celle-ci est condamnée à une amende civile
-d'un maximum de 3 000 euros sans préjudice des dommages-intérêts qui seraient réclamés.
+d'un maximum de 10 000 euros sans préjudice des dommages-intérêts qui seraient réclamés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 77 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
@@ -5813,20 +5801,20 @@ Le juge peut  ordonner l'audition de celui qui a dressé l'acte litigieux.
 
 ###### Article 305
 
-Le demandeur en faux qui succombe est condamné à une amende civile d'un maximum de 3 000 euros sans préjudice des dommages-
+Le demandeur en faux qui succombe est condamné à une amende civile d'un maximum de 10 000 euros sans préjudice des dommages-
 intérêts qui seraient réclamés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 77 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
@@ -6082,10 +6070,10 @@ sur le fond.
 
 ###### Article 321
 
-Le serment est fait par la partie en personne et à l'audience.
+Le serment est fait par la partie en personne et à l'audience. 
 
 Si la partie justifie qu'elle est dans l'impossibilité de se déplacer, le serment peut être prêté soit devant un juge commis
-à cet effet qui se transporte, assisté du secrétaire, chez la partie, soit devant le tribunal du lieu de sa résidence.
+à cet effet qui se transporte, assisté du greffier, chez la partie, soit devant le tribunal du lieu de sa résidence. 
 
 Dans tous les cas, le serment est fait en présence de l'autre partie ou celle-ci appelée.
 
@@ -6093,7 +6081,11 @@ Dans tous les cas, le serment est fait en présence de l'autre partie ou celle-c
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 322
@@ -6563,7 +6555,9 @@ pour cause de suspicion légitime.
 	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre II : La récusation.
+### Chapitre II : La récusation et le renvoi pour cause de suspicion légitime
+
+#### Section I : Dispositions générales
 
 ###### Article 341
 
@@ -6587,9 +6581,9 @@ l'organisation judiciaire.
 	  - Code des douanes de Mayotte - art. 308 (Ab)
 	  - Code du travail - art. R1457-1 (VD)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 31
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -6598,20 +6592,20 @@ l'organisation judiciaire.
 
 ###### Article 342
 
-La partie qui veut récuser un juge doit, à peine d'irrecevabilité, le faire dès qu'elle a connaissance de la cause de
-récusation.
+La partie qui veut récuser un juge ou demander le renvoi pour cause de suspicion légitime devant une autre juridiction de
+même nature doit, à peine d'irrecevabilité, le faire dès qu'elle a connaissance de la cause justifiant la demande.
 
-En aucun cas la demande de récusation ne peut être formée après la clôture des débats.
+En aucun cas la demande ne peut être formée après la clôture des débats.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 	**Cité par**:
 
@@ -6620,29 +6614,34 @@ En aucun cas la demande de récusation ne peut être formée après la clôture 
 
 ###### Article 343
 
-A l'exception des actions portées devant la Cour de cassation, la récusation peut être proposée par la partie elle-même ou
-par son mandataire.
+A l'exception des actions portées devant la Cour de cassation, la récusation ou le renvoi pour cause de suspicion légitime
+peut être proposé par la partie elle-même ou par son mandataire.
 
 Le mandataire doit être muni d'un pouvoir spécial.
+
+La requête est formée par avocat devant les juridictions où celui-ci a seul qualité pour représenter les parties.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 344
 
-La demande de récusation est formée par acte remis au secrétariat de la juridiction à laquelle appartient le juge ou par une
-déclaration qui est consignée par le secrétaire dans un procès-verbal.
+La demande de récusation ou de renvoi pour cause de suspicion légitime est portée devant le premier président de la cour
+d'appel. Elle est formée par acte remis au greffe de la cour d'appel.
 
-La demande doit, à peine d'irrecevabilité, indiquer avec précision les motifs de la récusation et être accompagnée des pièces
-propres à la justifier.
+Lorsque la cause justifiant la demande est découverte à l'audience, la demande est formée par déclaration consignée par le
+greffier dans un procès-verbal, qui est adressé sans délai au premier président. Une copie en est conservée au dossier.
+
+La demande doit, à peine d'irrecevabilité, indiquer les motifs de récusation ou de renvoi pour cause de suspicion légitime et
+être accompagnée des pièces justificatives.
 
 Il est délivré récépissé de la demande.
 
@@ -6650,7 +6649,7 @@ Il est délivré récépissé de la demande.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -6659,149 +6658,22 @@ Il est délivré récépissé de la demande.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
 ###### Article 345
 
-Le secrétaire communique au juge la copie de la demande de récusation dont celui-ci est l'objet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 346
-
-Le juge, dès qu'il a communication de la demande, doit s'abstenir jusqu'à ce qu'il ait été statué sur la récusation.
-
-En cas d'urgence, un autre juge peut être désigné, même d'office, pour procéder aux opérations nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 347
-
-Dans les huit jours de cette communication, le juge récusé fait connaître par écrit soit son acquiescement à la récusation,
-soit les motifs pour lesquels il s'y oppose.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 348
-
-Si le juge acquiesce, il est aussitôt remplacé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 349
-
-Si le juge s'oppose à la récusation ou ne répond pas, la demande de récusation est jugée sans délai par la cour d'appel ou,
-si elle est dirigée contre un assesseur d'une juridiction échevinale, par le président de cette juridiction qui se prononce
-sans appel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 350
-
-Le secrétaire communique la demande de récusation avec la réponse du juge ou mention de son silence, selon le cas au premier
-président de la cour d'appel ou au président de la juridiction échevinale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-
-###### Article 351
-
-L'affaire est examinée sans qu'il soit nécessaire d'appeler les parties ni le juge récusé.
-
-Copie de la décision est remise ou adressée par le secrétaire au juge et aux parties.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 2
-
-
-###### Article 352
-
-Si la récusation est admise, il est procédé au remplacement du juge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 2
-
-
-###### Article 353
-
-Si la récusation est rejetée, son auteur peut être condamné à une amende civile d'un maximum de 3 000 euros sans préjudice
-des dommages-intérêts qui pourraient être réclamés.
+Le président de la juridiction faisant l'objet d'une demande de renvoi pour cause de suspicion légitime ou à laquelle
+appartient le magistrat dont la récusation est demandée, ainsi que le magistrat concerné, sont avisés par tout moyen par le
+premier président de la requête dont il est saisi. Selon le cas, le président de la juridiction ou le magistrat concerné est
+invité à présenter ses observations.
+
+Lorsque le magistrat concerné s'abstient, le président de la juridiction en informe sans délai le premier président.
+
+La requête présentée au premier président ne dessaisit pas le magistrat dont la récusation est demandée ou la juridiction
+dont le dessaisissement est demandé. Toutefois, le premier président peut, après avis du procureur général, ordonner qu'il
+soit sursis à toute décision juridictionnelle jusqu'à la décision sur la demande de récusation ou de renvoi pour cause de
+suspicion légitime.
 
 **Liens relatifs à cet article**
 
@@ -6811,198 +6683,126 @@ des dommages-intérêts qui pourraient être réclamés.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
 	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
-###### Article 354
+###### Article 346
 
-Les actes accomplis par le juge récusé avant qu'il ait eu connaissance de la demande de récusation ne peuvent être remis en
-cause.
+Le premier président statue sans débat dans le délai d'un mois à compter de sa saisine après avis du procureur général.
+Lorsque la demande de récusation concerne le juge des libertés et de la détention statuant dans les contentieux visés à
+l'article L. 213-8 du code de l'organisation judiciaire, le premier président statue à bref délai.
+
+Le greffier avise, par tout moyen et sans délai, de la décision rendue les parties, le juge dont la récusation a été demandée
+et le président de la juridiction à laquelle appartient ce magistrat ou dont le dessaisissement a été demandé.
+
+L'ordonnance rejetant la demande de récusation ou de renvoi pour cause de suspicion légitime peut faire l'objet d'un pourvoi
+dans les quinze jours de sa notification par le greffe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L213-8
+
+
+###### Article 347
+
+Si la demande de récusation est admise, il est procédé au remplacement du juge.
+
+Si la demande de renvoi pour cause de suspicion légitime est admise, l'affaire est renvoyée devant une autre formation de la
+juridiction initialement saisie ou devant une autre juridiction de même nature. Cette décision s'impose aux parties et au
+juge de renvoi. En cas de renvoi devant une autre juridiction, il est procédé comme il est dit à l'article 97.
+
+Les actes de procédure accomplis par le juge ou la juridiction avant que la décision accueillant la demande de récusation ou
+de renvoi pour cause de suspicion légitime n'ait été portée à sa connaissance ne peuvent être remis en cause. Est toutefois
+non avenue, quelle qu'en soit sa date, la décision rendue par le juge ou la juridiction qui tranche tout ou partie du
+principal ou qui, sans trancher le principal, est exécutoire à titre provisoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
-###### Article 355
+###### Article 348
+
+Si la demande de récusation ou de renvoi pour cause de suspicion légitime est rejetée, son auteur peut être condamné à une
+amende civile d'un maximum de 10 000 € sans préjudice des dommages-intérêts qui pourraient être réclamés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
+
+#### Section II : Dispositions particulières
+
+###### Article 349
 
 La récusation contre plusieurs juges doit, à peine d'irrecevabilité, être demandée par un même acte à moins qu'une cause de
-récusation ne se révèle postérieurement.
+récusation ne se révèle postérieurement. 
 
-Il est alors procédé comme il est dit au chapitre ci-après, alors même que le renvoi n'aurait pas été demandé.
+La requête est formée, instruite et jugée conformément aux dispositions des articles aux articles 341 à 348.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code de procédure civile - art. 341 (V)
+
+
+###### Article 350
+
+Toute demande de récusation visant le premier président de la cour d'appel et toute demande de renvoi pour cause de suspicion
+légitime visant la cour d'appel dans son ensemble doivent faire l'objet d'une requête adressée au premier président de la
+Cour de cassation qui, après avis du procureur général près ladite cour, statue sans débat par une ordonnance. Les articles
+341, 342 et 344 à 348 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 341 (V)
+	  - Code de procédure civile - art. 344 (V)
 
 
 ### Chapitre III : Le renvoi à une autre juridiction.
 
 #### Section I : Le renvoi pour cause de suspicion légitime.
-
-###### Article 356
-
-La demande de renvoi pour cause de suspicion légitime est assujettie aux mêmes conditions de recevabilité et de forme que la
-demande de récusation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 2
-
-
-###### Article 357
-
-La demande de dessaisissement est aussitôt communiquée par le secrétaire au président de la juridiction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 2
-
-
-###### Article 358
-
-Si le président estime la demande fondée, il distribue l'affaire à une autre formation de la même juridiction ou la renvoie à
-une autre juridiction de même nature.
-
-Si le président estime que l'affaire doit être renvoyée à une autre juridiction, il transmet le dossier au président de la
-juridiction immédiatement supérieure qui désigne la juridiction de renvoi.
-
-Copie de la décision est adressée par le secrétaire aux parties.
-
-La décision n'est susceptible d'aucun recours ; elle s'impose aux parties et au juge de renvoi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 2
-
-
-###### Article 359
-
-Si le président s'oppose à la demande, il transmet l'affaire, avec les motifs de son refus, au président de la juridiction
-immédiatement supérieure.
-
-Cette juridiction statue dans le mois, en chambre du conseil, le ministère public entendu, et sans qu'il soit nécessaire
-d'appeler les parties.
-
-Copie de la décision est adressée par le secrétaire aux parties et au président de la juridiction dont le dessaisissement a
-été demandé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 2
-
-
-###### Article 360
-
-Si la demande est justifiée, l'affaire est renvoyée soit à une autre formation de la juridiction primitivement saisie, soit à
-une autre juridiction de même nature que celle-ci.
-
-La décision s'impose aux parties et au juge de renvoi. Elle n'est susceptible d'aucun recours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 352 (V)
-
-
-###### Article 361
-
-L'instance n'est pas suspendue devant la juridiction dont le dessaisissement est demandé.
-
-Le président de la juridiction saisie de la demande de renvoi peut toutefois ordonner suivant les circonstances, que la
-juridiction soupçonnée de partialité surseoira à statuer jusqu'au jugement sur le renvoi.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 353 (V)
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 2
-
 
 ###### Article 362
 
@@ -7024,99 +6824,77 @@ En cas de renvoi, il est procédé comme il est dit à l'article 97.
 	  - Code de procédure civile - art. 354 (V)
 
 
-###### Article 363
+### Chapitre III : Le renvoi pour cause de sûreté publique
 
-Le rejet de la demande de renvoi peut emporter l'application des dispositions de l'article 353.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 2
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 353
-
-
-#### Section II : Renvoi pour cause de récusation contre plusieurs juges.
-
-###### Article 364
-
-Si le renvoi est demandé pour cause de récusation en la personne de plusieurs juges de la juridiction saisie, il est procédé
-comme en matière de renvoi pour cause de suspicion légitime, après que chacun des juges récusés a répondu ou laissé expirer
-le délai de réponse.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 2
-
-
-#### Section III : Le renvoi pour cause de sûreté publique.
-
-###### Article 365
+###### Article 351
 
 Le renvoi pour cause de sûreté publique est prononcé par la Cour de cassation sur réquisition du procureur général près
 ladite cour.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 351 (V)
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 2
-
-
-###### Article 366
-
-Les dispositions des articles 360 à 362 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 2
 
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 365 (T)
+
+
+###### Article 352
+
+Si la demande est justifiée, l'affaire est renvoyée soit à une autre formation de la juridiction primitivement saisie, soit à
+une autre juridiction de même nature que celle-ci.
+
+La décision s'impose aux parties et au juge de renvoi. Elle n'est susceptible d'aucun recours.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 360 (T)
+
+
+###### Article 353
+
+L'instance n'est pas suspendue devant la juridiction dont le dessaisissement est demandé.
+
+Le premier président de la Cour de cassation peut toutefois ordonner que l'instance soit suspendue jusqu'à la décision sur la
+demande de renvoi.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 361 (T)
+
+
+###### Article 354
+
+En cas de renvoi, il est procédé comme il est dit à l'article 82.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 2
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 362 (VT)
+
 	**Cite**:
 
-	  - Nouveau code de procédure civile 360, 361, 362
+	  - Code de procédure civile - art. 82 (V)
 
 
 ### Chapitre IV : La prise à partie.
@@ -7639,13 +7417,17 @@ Elle peut être opposée par voie d'exception à la partie qui accomplit un acte
 
 La péremption doit, à peine d'irrecevabilité, être demandée ou opposée avant tout autre moyen ; elle est de droit.
 
-Elle ne peut être relevée d'office par le juge.
+Le juge peut la constater d'office après avoir invité les parties à présenter leurs observations.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 3
 
 
 ###### Article 389
@@ -7996,14 +7778,18 @@ Une partie n'est admise à se faire représenter que par une seule des personnes
 
 ###### Article 415
 
-Le nom du représentant et sa qualité doivent être portés à la connaissance du juge par déclaration au secrétaire de la
+Le nom du représentant et sa qualité doivent être portés à la connaissance du juge par déclaration au greffier de la
 juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 416
@@ -8531,11 +8317,23 @@ a toujours la faculté d'ordonner que les parties se présentent devant lui.
 ###### Article 446-2
 
 Lorsque les débats sont renvoyés à une audience ultérieure, le juge peut organiser les échanges entre les parties
-comparantes. Si les parties en sont d'accord, le juge peut ainsi fixer les délais et les conditions de communication de leurs
-prétentions, moyens et pièces.
+comparantes. Après avoir recueilli leur avis, le juge peut ainsi fixer les délais et, si elles en sont d'accord, les
+conditions de communication de leurs prétentions, moyens et pièces.
 
-Lorsque les parties formulent leurs prétentions et moyens par écrit, le juge peut, avec leur accord, prévoir qu'elles seront
-réputées avoir abandonné les prétentions et moyens non repris dans leurs dernières écritures communiquées.
+Lorsque toutes les parties comparantes formulent leurs prétentions et moyens par écrit et sont assistées ou représentées par
+un avocat, les conclusions doivent formuler expressément les prétentions ainsi que les moyens en fait et en droit sur
+lesquels chacune de ces prétentions est fondée avec indication pour chaque prétention des pièces invoquées et de leur
+numérotation. Un bordereau énumérant les pièces justifiant ces prétentions est annexé aux conclusions. Les conclusions
+comprennent distinctement un exposé des faits et de la procédure, une discussion des prétentions et des moyens ainsi qu'un
+dispositif récapitulant les prétentions. Les moyens qui n'auraient pas été formulés dans les écritures précédentes doivent
+être présentés de manière formellement distincte. Le juge ne statue que sur les prétentions énoncées au dispositif et
+n'examine les moyens au soutien de ces prétentions que s'ils sont invoqués dans la discussion. Les parties doivent reprendre
+dans leurs dernières conclusions les prétentions et moyens présentés ou invoqués dans leurs conclusions antérieures. A
+défaut, elles sont réputées les avoir abandonnés et le juge ne statue que sur les dernières conclusions déposées.
+
+Lorsque les parties formulent leurs prétentions et moyens par écrit et qu'elles ne sont pas assistées ou représentées par un
+avocat, le juge peut, avec leur accord, prévoir qu'elles seront réputées avoir abandonné les prétentions et moyens non repris
+dans leurs dernières écritures communiquées.
 
 A défaut pour les parties de respecter les modalités de communication fixées par le juge, celui-ci peut rappeler l'affaire à
 l'audience, en vue de la juger ou de la radier.
@@ -8543,11 +8341,16 @@ l'audience, en vue de la juger ou de la radier.
 Le juge peut écarter des débats les prétentions, moyens et pièces communiqués sans motif légitime après la date fixée pour
 les échanges et dont la tardiveté porte atteinte aux droits de la défense.
 
+**Nota:**
+
+Conformément aux dispositions du II de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables
+aux instances introduites à compter de l'entrée en vigueur dudit décret.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 5
+	  - Décret n°2017-892 du 6 mai 2017 - art. 4
 
 	**Cité par**:
 
@@ -8711,7 +8514,7 @@ La date du jugement est celle à laquelle il est prononcé, en audience ou par m
 
 ###### Article 454
 
-Le jugement est rendu au nom du peuple français.
+Le jugement est rendu au nom du peuple français. 
 
 Il contient l'indication :
 
@@ -8723,7 +8526,7 @@ Il contient l'indication :
 
 - du nom du représentant du ministère public s'il a assisté aux débats ;
 
-- du nom du secrétaire ;
+- du nom du greffier ;
 
 - des nom, prénoms ou dénomination des parties ainsi que de leur domicile ou siège social ;
 
@@ -8735,7 +8538,11 @@ Il contient l'indication :
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 455
@@ -8942,21 +8749,21 @@ accordé plus qu'il n'a été demandé.
 
 ###### Article 465
 
-Chacune des parties a la faculté de se faire délivrer une expédition revêtue de la formule exécutoire.
+Chacune des parties a la faculté de se faire délivrer une expédition revêtue de la formule exécutoire. 
 
 S'il y a un motif légitime, une seconde expédition, revêtue de cette formule, peut être délivrée à la même partie par le
-secrétaire de la juridiction qui a rendu le jugement. En cas de difficulté, le président de cette juridiction statue par
+greffier de la juridiction qui a rendu le jugement. En cas de difficulté, le président de cette juridiction statue par
 ordonnance sur requête.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 17 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 465-1
@@ -9067,12 +8874,12 @@ elles en ont un.
 ###### Article 471
 
 Le défendeur qui ne comparaît pas peut, à l'initiative du demandeur ou sur décision prise d'office par le juge, être à
-nouveau invité à comparaître si la citation n'a pas été délivrée à personne.
+nouveau invité à comparaître si la citation n'a pas été délivrée à personne. 
 
 La citation est, sauf application des règles particulières à certaines juridictions, réitérée selon les formes de la première
 citation. Le juge peut cependant ordonner qu'elle sera faite par acte d'huissier de justice lorsque la première citation
-avait été faite par le secrétaire de la juridiction. La nouvelle citation doit faire mention, selon le cas, des dispositions
-des articles 472 et 473 ou de celles de l'article 474 (alinéa 2).
+avait été faite par le greffier de la juridiction. La nouvelle citation doit faire mention, selon le cas, des dispositions
+des articles 472 et 473 ou de celles de l'article 474 (alinéa 2). 
 
 Le juge peut aussi informer l'intéressé, par lettre simple, des conséquences de son abstention.
 
@@ -9080,11 +8887,11 @@ Le juge peut aussi informer l'intéressé, par lettre simple, des conséquences 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°76-1236 1976-12-28 art. 6 JORF 30 décembre 1976
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
@@ -9359,6 +9166,21 @@ préparer sa défense.
 	  - Code du travail - art. R1455-10 (VD)
 
 
+###### Article 486-1
+
+Lorsque la demande en référé porte sur une mesure d'instruction exécutée par un technicien ou sur une mesure d'expertise, le
+défendeur qui a indiqué, avant l'audience, acquiescer à la demande, est dispensé de comparaître. Néanmoins, le juge a
+toujours la faculté d'ordonner qu'il soit présent devant lui.
+
+La décision rendue dans ces conditions est contradictoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 5
+
+
 ###### Article 487
 
 Le juge des référés a la faculté de renvoyer l'affaire en état de référé devant la formation collégiale de la juridiction à
@@ -9438,7 +9260,7 @@ Le délai d'appel ou d'opposition est de quinze jours.
 
 ###### Article 491
 
-Le juge statuant en référé peut prononcer des condamnations à des astreintes. Il peut les liquider, à titre provisoire.
+Le juge des référés qui assortit sa décision d'une astreinte peut s'en réserver la liquidation.
 
 Il statue sur les dépens.
 
@@ -9446,18 +9268,26 @@ Il statue sur les dépens.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 6
 
 
 ###### Article 492
 
-Les minutes des ordonnances de référé sont conservées au secrétariat de la juridiction.
+Les minutes des ordonnances de référé sont conservées au greffe de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 492-1
@@ -9589,13 +9419,17 @@ Le juge a la faculté de modifier ou de rétracter son ordonnance, même si le j
 
 ###### Article 498
 
-Le double de l'ordonnance est conservé au secrétariat.
+Le double de l'ordonnance est conservé au greffe.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ### Chapitre III : Disposition finale.
@@ -9692,7 +9526,7 @@ l'absence, dans le délai, d'une opposition, d'un appel, ou d'un pourvoi en cass
 
 ###### Article 505
 
-Toute partie peut se faire délivrer par le secrétaire de la juridiction devant laquelle le recours pouvait être formé un
+Toute partie peut se faire délivrer par le greffier de la juridiction devant laquelle le recours pouvait être formé un
 certificat attestant l'absence d'opposition, d'appel ou de pourvoi en cassation ou indiquant la date du recours s'il en a été
 formé un.
 
@@ -9700,7 +9534,11 @@ formé un.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cité par**:
 
@@ -9763,9 +9601,10 @@ territoire de la République de la manière et dans les cas prévus par la loi.
 
 ###### Article 509-1
 
-I. - Sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention les requêtes
-aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à l'étranger en
-application :
+I. - Sont présentées au directeur de greffe de la juridiction qui a rendu la décision ou homologué la convention :
+
+1° Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution
+à l'étranger en application :
 
 - des articles 45 à 58 et 61 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
 compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
@@ -9778,11 +9617,12 @@ la reconnaissance et l'exécution des décisions en matière civile et commercia
 l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n°
 1347/2000 ;
 
-- du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire
-européen pour les créances incontestées ;
-
 - de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
-commerciale, faite à Lugano le 30 octobre 2007.
+commerciale, faite à Lugano le 30 octobre 2007 ;
+
+2° Les requêtes aux fins d'obtention d'un extrait d'une décision présentées en application de l'article 28, paragraphe 1, du
+règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance et
+l'exécution des décisions et la coopération en matière d'obligations alimentaires.
 
 II. - Sont présentées au juge qui a rendu la décision ou homologué la convention :
 
@@ -9792,6 +9632,9 @@ l'étranger en application :
 - des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la
 reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le
 règlement (CE) n° 1347/2000 ;
+
+- du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire
+européen pour les créances incontestées ;
 
 - des articles 5, 9 et 14.1 du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif à la
 reconnaissance mutuelle des mesures de protection en matière civile ;
@@ -9804,15 +9647,15 @@ Les requêtes présentées devant le juge sont dispensées du ministère d'avoca
 
 **Nota:**
 
-Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015, les dispositions de l'article 509-1 telles qu'issues de
-l'article 1er dudit décret, s'appliquent aux décisions judiciaires rendues, aux actes authentiques dressés ou enregistrés
-formellement et aux transactions judiciairement approuvées à compter du 17 août 2015.
+Se reporter pour les conditions d'application des dispositions de l'article 509-1 aux dispositions du III de l'article 70 du
+décret n° 2017-892 du 6 mai 2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1395 du 2 novembre 2015 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
+	  - Décret n°2017-892 du 6 mai 2017 - art. 7
 
 	**Cité par**:
 
@@ -9821,38 +9664,32 @@ formellement et aux transactions judiciairement approuvées à compter du 17 ao�
 
 ###### Article 509-2
 
-Sont présentées au greffier en chef du tribunal de grande instance les requêtes aux fins de reconnaissance ou de constatation
-de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application : 
+Sont présentées au directeur de greffe du tribunal de grande instance les requêtes aux fins de reconnaissance ou de
+constatation de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application :
 
 - des articles 45 à 58 et 61 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
 compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
-authentiques en matière de successions et à la création d'un certificat successoral européen ; 
+authentiques en matière de successions et à la création d'un certificat successoral européen ;
 
 - de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
-commerciale, faite à Lugano le 30 octobre 2007. 
+commerciale, faite à Lugano le 30 octobre 2007.
 
 Sont présentées au président du tribunal de grande instance ou à son délégué les requêtes aux fins de reconnaissance ou de
-constatation de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application : 
+constatation de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application :
 
 - du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des
-décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n° 1347/2000 ; 
+décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n° 1347/2000 ;
 
 - des articles 26 et 27 du règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi
-applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires. 
+applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires.
 
 Les requêtes présentées devant le juge sont dispensées du ministère d'avocat.
-
-**Nota:**
-
-Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015, les dispositions de l'article 509-2 telles qu'issues de
-l'article 1er dudit décret, s'appliquent aux décisions judiciaires rendues, aux actes authentiques dressés ou enregistrés
-formellement et aux transactions judiciairement approuvées à compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1395 du 2 novembre 2015 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cité par**:
 
@@ -9951,21 +9788,16 @@ La décision rejetant la requête aux fins de constatation de la force exécutoi
 Le certificat, ou la décision relative à la demande de reconnaissance ou de constatation de la force exécutoire, est remis au
 requérant contre émargement ou récépissé, ou lui est notifié par lettre recommandée avec demande d'avis de réception.
 
-Le double de la requête ainsi que du certificat ou de la décision sont conservés au secrétariat.
+Le double de la requête ainsi que du certificat ou de la décision sont conservés au greffe.
 
 Le certificat délivré en application du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013
 relatif à la reconnaissance mutuelle des mesures de protection en matière civile est en outre notifié par le greffe à la
-personne à l'origine du risque encouru. 
+personne à l'origine du risque encouru.
 
 La décision constatant la force exécutoire prévue à l'article 48 du règlement (UE) n° 650/2012 du Parlement européen et du
 Conseil du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et
 l'acceptation et l'exécution des actes authentiques en matière de successions et à la création d'un certificat successoral
 européen est notifiée par le greffe à la partie contre laquelle l'exécution est demandée.
-
-**Nota:**
-
-Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015,    les dispositions de l'article 509-6 telles qu'issues
-de l'article 3 du    présent décret, s'appliquent aux successions des personnes décédées à  compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
@@ -9975,7 +9807,7 @@ de l'article 3 du    présent décret, s'appliquent aux successions des personne
 
 	**Modifié par**:
 
-	  - Décret n°2015-1395 du 2 novembre 2015 - art. 3
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 509-7
@@ -10941,24 +10773,22 @@ La renonciation ne vaut pas si, postérieurement, une autre partie interjette el
 
 ###### Article 559
 
-En cas d'appel principal dilatoire ou abusif, l'appelant peut être condamné à une amende civile d'un maximum de 3 000 euros,
-sans préjudice des dommages-intérêts qui lui seraient réclamés.
-
-Cette amende, perçue séparément des droits d'enregistrement de la décision qui l'a prononcée, ne peut être réclamée aux
-intimés. Ceux-ci peuvent obtenir une expédition de la décision revêtue de la formule exécutoire sans que le non-paiement de
-l'amende puisse y faire obstacle.
+En cas d'appel principal dilatoire ou abusif, l'appelant peut être condamné à une amende civile d'un maximum de 10 000 euros,
+sans préjudice des dommages-intérêts qui lui seraient réclamés. Cette amende, perçue séparément des droits d'enregistrement
+de la décision qui l'a prononcée, ne peut être réclamée aux intimés. Ceux-ci peuvent obtenir une expédition de la décision
+revêtue de la formule exécutoire sans que le non-paiement de l'amende puisse y faire obstacle.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 77 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
@@ -11184,8 +11014,8 @@ L'opposition doit contenir les moyens du défaillant.
 ###### Article 575
 
 Dans le cas où l'opposition est faite selon le mode prévu à l'article 573 (alinéa 2) elle doit, à peine d'irrecevabilité,
-être déclarée au secrétariat de la juridiction qui a rendu la décision par l'avocat constitué par le défaillant, dans le mois
-de la date où elle a été formée.
+être déclarée au greffe de la juridiction qui a rendu la décision par l'avocat constitué par le défaillant, dans le mois de
+la date où elle a été formée.
 
 **Liens relatifs à cet article**
 
@@ -11195,7 +11025,7 @@ de la date où elle a été formée.
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
@@ -11264,20 +11094,20 @@ Les voies extraordinaires de recours ne sont ouvertes que dans les cas spécifi�
 
 ###### Article 581
 
-En cas de recours dilatoire ou abusif, son auteur peut être condamné à une amende civile d'un maximum de 3 000 euros, sans
+En cas de recours dilatoire ou abusif, son auteur peut être condamné à une amende civile d'un maximum de 10 000 euros, sans
 préjudice des dommages-intérêts qui seraient réclamés à la juridiction saisie du recours.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 77 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
@@ -12086,24 +11916,24 @@ l'organisation judiciaire.
 ###### Article 628
 
 Le demandeur en cassation qui succombe dans son pourvoi ou dont le pourvoi n'est pas admis peut, en cas de recours jugé
-abusif, être condamné à une amende civile dont le montant ne peut excéder 3 000 euros et, dans les mêmes limites, au paiement
-d'une indemnité envers le défendeur.
+abusif, être condamné à une amende civile dont le montant ne peut excéder 10 000 euros et, dans les mêmes limites, au
+paiement d'une indemnité envers le défendeur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-836 du 20 août 2004 - art. 33 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 	  - Code de procédure civile - art. 1026 (VD)
 	  - Code de procédure civile - art. 1029 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
 
 ###### Article 629
@@ -12290,17 +12120,17 @@ afférents à la décision cassée.
 ###### Article 639-1
 
 Le pourvoi prévu à l'article 17 de la loi n° 67-523 du 3 juillet 1967 est formé contre une décision ayant acquis force de
-chose jugée. 
+chose jugée.
 
 Il est formé à compter du jour où la décision n'est plus susceptible d'aucun recours par les parties ou du jour où celles-ci
-l'ont acceptée ou exécutée. Il ne peut être exercé au-delà d'un délai de cinq ans à compter du prononcé de la décision. 
+l'ont acceptée ou exécutée. Il ne peut être exercé au-delà d'un délai de cinq ans à compter du prononcé de la décision.
 
 Le procureur général près la Cour de cassation peut, en vue de déférer, dans l'intérêt de la loi, un jugement à la Cour,
 inviter le ministère public près la juridiction qui a rendu ce jugement à le faire notifier aux parties. La notification est
-effectuée par le secrétariat de la juridiction par lettre recommandée avec demande d'avis de réception. 
+effectuée par le greffe de la juridiction par lettre recommandée avec demande d'avis de réception.
 
 Le pourvoi est formé par requête motivée, déposée au greffe de la Cour de cassation ; il est dirigé contre les motifs ou le
-dispositif du jugement dont la cassation est demandée et qui est joint à la requête. 
+dispositif du jugement dont la cassation est demandée et qui est joint à la requête.
 
 Les parties sont avisées, par tout moyen, par le greffier, du pourvoi du procureur général et qu'elles sont recevables à
 formuler des observations écrites dans un délai de deux mois à compter de cet avis. La constitution d'un avocat au Conseil
@@ -12312,9 +12142,9 @@ d'Etat et à la Cour de cassation n'est pas obligatoire.
 
 	  - Loi n°67-523 du 3 juillet 1967 - art. 17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-1338 du 6 novembre 2014 - art. 13
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 639-2
@@ -12504,11 +12334,12 @@ formalités de publicité doivent être opérées.
 ###### Article 643
 
 Lorsque la demande est portée devant une juridiction qui a son siège en France métropolitaine, les délais de comparution,
-d'appel, d'opposition, de recours en révision et de pourvoi en cassation sont augmentés de :
+d'appel, d'opposition, de tierce opposition dans l'hypothèse prévue à l'article 586 alinéa 3, de recours en révision et de
+pourvoi en cassation sont augmentés de : 
 
 1. Un mois pour les personnes qui demeurent en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-
 Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-
-Calédonie et dans les Terres australes et antarctiques françaises ;
+Calédonie et dans les Terres australes et antarctiques françaises ; 
 
 2. Deux mois pour celles qui demeurent à l'étranger.
 
@@ -12541,22 +12372,22 @@ Calédonie et dans les Terres australes et antarctiques françaises ;
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 22
+	  - Décret n°2017-892 du 6 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 586 (V)
 
 
 ###### Article 644
 
 Lorsque la demande est portée devant une juridiction qui a son siège en Guadeloupe, en Guyane, à la Martinique, à La Réunion,
 à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna, les délais de
-comparution, d'appel, d'opposition et de recours en révision sont augmentés d'un mois pour les personnes qui ne demeurent pas
-dans la collectivité territoriale dans le ressort de laquelle la juridiction a son siège et de deux mois pour les personnes
-qui demeurent à l'étranger.
+comparution, d'appel, d'opposition de tierce opposition dans l'hypothèse prévue à l'article 586 alinéa 3, et de recours en
+révision sont augmentés d'un mois pour les personnes qui ne demeurent pas dans la collectivité territoriale dans le ressort
+de laquelle la juridiction a son siège et de deux mois pour les personnes qui demeurent à l'étranger.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-452 du 13 mai 2008 - art. 23
 
 	**Cité par**:
 
@@ -12564,6 +12395,14 @@ qui demeurent à l'étranger.
 	  - Code de l'aviation civile - art. R123-4 (V)
 	  - Code de l'aviation civile - art. R123-7 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R731-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 8
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 586 (V)
 
 
 ###### Article 645
@@ -13202,23 +13041,23 @@ pouvoir à cet effet.
 
 ###### Article 670-1
 
-En cas de retour au secrétariat de la juridiction d'une lettre de notification dont l'avis de réception n'a pas été signé
-dans les conditions prévues à l'article 670, le secrétaire invite la partie à procéder par voie de signification.
+En cas de retour au greffe de la juridiction d'une lettre de notification dont l'avis de réception n'a pas été signé dans les
+conditions prévues à l'article 670, le greffier invite la partie à procéder par voie de signification.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 60 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
 	  - Code des procédures civiles d'exécution - art. R442-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
@@ -13229,8 +13068,8 @@ dans les conditions prévues à l'article 670, le secrétaire invite la partie �
 
 Si l'acte est destiné à une personne qui demeure en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-
 Calédonie et dans les Terres australes et antarctiques françaises, et à moins que la notification ait pu être faite par
-lettre recommandée avec demande d'avis de réception, le secrétaire de la juridiction expédie l'acte à l'autorité compétente
-aux fins de sa remise à l'intéressé selon les modalités applicables dans la collectivité où il demeure.
+lettre recommandée avec demande d'avis de réception, le greffier de la juridiction expédie l'acte à l'autorité compétente aux
+fins de sa remise à l'intéressé selon les modalités applicables dans la collectivité où il demeure. 
 
 L'autorité compétente informe la juridiction des diligences faites ; elle lui transmet, le cas échéant, tout procès-verbal ou
 récépissé constatant la remise de l'acte.
@@ -13239,18 +13078,18 @@ récépissé constatant la remise de l'acte.
 
 	**Modifié par**:
 
-	  - Décret n°2008-452 du 13 mai 2008 - art. 25
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 670-3
 
-Lorsque, pour la notification à l'étranger accomplie à la diligence du secrétariat de la juridiction, la traduction de
-l'acte, ou de toute autre pièce, paraît nécessaire, le traducteur est requis par le greffier en chef ou le responsable du
-secrétariat de la juridiction. 
+Lorsque, pour la notification à l'étranger accomplie à la diligence du greffe de la juridiction, la traduction de l'acte, ou
+de toute autre pièce, paraît nécessaire, le traducteur est requis par le directeur de greffe ou le responsable du greffe de
+la juridiction.
 
-La traduction est rémunérée en application de l'article R. 122 du code de procédure pénale. 
+La traduction est rémunérée en application de l'article R. 122 du code de procédure pénale.
 
-Les frais occasionnés par la notification d'un acte à l'étranger à la diligence du secrétariat de la juridiction sont taxés,
+Les frais occasionnés par la notification d'un acte à l'étranger à la diligence du greffe de la juridiction sont taxés,
 avancés et recouvrés au titre des frais visés au 13° du I de l'article R. 93 du code de procédure pénale.
 
 **Liens relatifs à cet article**
@@ -13261,7 +13100,7 @@ avancés et recouvrés au titre des frais visés au 13° du I de l'article R. 93
 
 	**Modifié par**:
 
-	  - Décret n°2016-479 du 18 avril 2016 - art. 16
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
@@ -13325,16 +13164,20 @@ aussitôt à son confrère l'un des exemplaires après l'avoir daté et visé.
 
 ###### Article 675
 
-Les jugements sont notifiés par voie de signification à moins que la loi n'en dispose autrement.
+Les jugements sont notifiés par voie de signification à moins que la loi n'en dispose autrement. 
 
-En matière gracieuse, les jugements sont notifiés par le secrétaire de la juridiction, par lettre recommandée avec demande
+En matière gracieuse, les jugements sont notifiés par le greffier de la juridiction, par lettre recommandée avec demande
 d'avis de réception.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cité par**:
 
@@ -13450,23 +13293,20 @@ La notification d'un jugement est valablement faite au domicile élu en France p
 
 #### Section V : Règles particulières aux notifications internationales.
 
-##### Sous-section I : Notification des actes à l'étranger.
-
 ###### Article 683
 
-Sous réserve de l'application des règlements communautaires et des traités internationaux, la transmission des actes
-judiciaires et extrajudiciaires à l'étranger est faite par voie de notification ou de signification internationales dans les
-conditions prévues par la présente sous-section.
+Les notifications des actes judiciaires et extrajudiciaires à l'étranger ou en provenance de l'étranger sont régies par les
+règles prévues par la présente section, sous réserve de l'application des règlements européens et des traités internationaux.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 66 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-892 du 6 mai 2017 - art. 9
 
 	**Cité par**:
 
@@ -13474,16 +13314,18 @@ conditions prévues par la présente sous-section.
 	  - Code des transports - art. R4123-5 (V)
 
 
+##### Sous-section I : Notification des actes à l'étranger.
+
 ###### Article 684
 
 L'acte destiné à être notifié à une personne ayant sa résidence habituelle à l'étranger est remis au parquet, sauf dans les
-cas où un règlement communautaire ou un traité international autorise l'huissier de justice ou le greffe à transmettre
-directement cet acte à son destinataire ou à une autorité compétente de l'Etat de destination.
+cas où un règlement européen ou un traité international autorise l'huissier de justice ou le greffe à transmettre directement
+cet acte à son destinataire ou à une autorité compétente de l'Etat de destination.
 
 L'acte destiné à être notifié à un Etat étranger, à un agent diplomatique étranger en France ou à tout autre bénéficiaire de
 l'immunité de juridiction est remis au parquet et transmis par l'intermédiaire du ministre de la justice aux fins de
-signification par voie diplomatique, à moins qu'en vertu d'un règlement communautaire ou d'un traité international la
-transmission puisse être faite par une autre voie.
+signification par voie diplomatique, à moins qu'en vertu d'un règlement européen ou d'un traité international la transmission
+puisse être faite par une autre voie.
 
 Le parquet auquel la remise doit être faite est, selon le cas, celui de la juridiction devant laquelle la demande est portée,
 celui de la juridiction qui a statué ou celui de la juridiction dans le ressort de laquelle demeure le requérant. S'il
@@ -13494,17 +13336,17 @@ duquel cette juridiction a son siège.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 66 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
-	  - Code de procédure civile - art. 688 (M)
+	  - Code de procédure civile - art. 688 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 415 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 10
 
 
 ###### Article 684-1
@@ -13527,7 +13369,7 @@ L'huissier de justice ou le greffier relate dans l'acte les modalités de son ex
 L'autorité chargée de la notification remet deux copies de l'acte au procureur de la République qui vise l'original.
 
 Le procureur de la République fait parvenir sans délai les copies de l'acte au ministre de la justice aux fins de
-transmission ou à l'autorité désignée en vertu du règlement communautaire ou du traité international applicable.
+transmission ou à l'autorité désignée en vertu du règlement européen ou du traité international applicable.
 
 Il y joint une ordonnance du juge prescrivant la transmission de l'acte lorsque l'intervention du juge est exigée par le pays
 destinataire.
@@ -13536,11 +13378,11 @@ destinataire.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 66 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-892 du 6 mai 2017 - art. 10
 
 
 ###### Article 686
@@ -13586,43 +13428,43 @@ notification a été requise par un huissier de justice, celui-ci tient ces docu
 
 S'il ressort des éléments transmis par l'autorité requise ou les services postaux que le destinataire n'habite pas à
 l'adresse indiquée et que celui-ci n'a plus ni domicile ni résidence connus, l'huissier de justice relate dans l'acte les
-indications ainsi fournies et procède à la signification comme il est dit aux alinéas 2 à 5 de l'article 659.
+indications ainsi fournies et procède à la signification comme il est dit aux alinéas 2 à 4 de l'article 659.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-366 du 15 mars 2012 - art. 20
+	  - Décret n°2017-892 du 6 mai 2017 - art. 11
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 659 (V)
+	  - Code de procédure civile - art. 659
 
 	**Cité par**:
 
-	  - Code de procédure civile - art. 688 (M)
+	  - Code de procédure civile - art. 688 (V)
 
 
 ###### Article 688
 
 La juridiction est saisie de la demande formée par assignation par la remise qui lui est faite de l'acte complété par les
 indications prévues à l'article 684-1 ou selon le cas, à l'article 687-1, le cas échéant accompagné des justificatifs des
-diligences accomplies en vue de sa notification au destinataire. 
+diligences accomplies en vue de sa notification au destinataire.
 
 S'il n'est pas établi que le destinataire d'un acte en a eu connaissance en temps utile, le juge saisi de l'affaire ne peut
-statuer au fond que si les conditions ci-après sont réunies : 
+statuer au fond que si les conditions ci-après sont réunies :
 
-1° L'acte a été transmis selon les modes prévus par les règlements communautaires ou les traités internationaux applicables
-ou, à défaut de ceux-ci, selon les prescriptions des articles 684 à 687 ; 
+1° L'acte a été transmis selon les modes prévus par les règlement européen ou les traités internationaux applicables ou, à
+défaut de ceux-ci, selon les prescriptions des articles 684 à 687 ;
 
-2° Un délai d'au moins six mois s'est écoulé depuis l'envoi de l'acte ; 
+2° Un délai d'au moins six mois s'est écoulé depuis l'envoi de l'acte ;
 
 3° Aucun justificatif de remise de l'acte n'a pu être obtenu nonobstant les démarches effectuées auprès des autorités
-compétentes de l'Etat où l'acte doit être remis. 
+compétentes de l'Etat où l'acte doit être remis.
 
 Le juge peut prescrire d'office toutes diligences complémentaires, notamment donner commission rogatoire à toute autorité
 compétente aux fins de s'assurer que le destinataire a eu connaissance de l'acte et de l'informer des conséquences d'une
-abstention de sa part. 
+abstention de sa part.
 
 Toutefois, le juge peut ordonner immédiatement les mesures provisoires ou conservatoires nécessaires à la sauvegarde des
 droits du demandeur.
@@ -13640,12 +13482,12 @@ droits du demandeur.
 
 	**Modifié par**:
 
-	  - Décret n°2012-366 du 15 mars 2012 - art. 21
+	  - Décret n°2017-892 du 6 mai 2017 - art. 10
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 684 (V)
-	  - Code de procédure civile - art. 684-1 (V)
+	  - Code de procédure civile - art. 684-1
 	  - Code de procédure civile - art. 687-1 (V)
 
 
@@ -13811,6 +13653,36 @@ La notification est aussi valablement faite au domicile élu lorsque la loi l'ad
 	  - Code de procédure civile - art. 693 (V)
 
 
+###### Article 689-1
+
+Toute partie demeurant à l'étranger a la faculté de déclarer au greffe de la juridiction saisie, dès l'introduction de
+l'instance, qu'elle élit domicile en France afin d'être rendue destinataire : 
+
+1° Des envois, remises, et notifications des actes de procédure, des pièces, avis, avertissements ou convocations, des
+rapports et des procès-verbaux, lorsque la partie n'a pas chargé une personne demeurant en France de la représenter en
+justice ; 
+
+2° De la notification du jugement prévue à l'article 682 ; 
+
+3° De la notification relative à l'exercice d'une voie de recours. 
+
+La déclaration d'élection de domicile est faite par la partie elle-même ou par la personne chargée de la représenter en
+justice. 
+
+L'élection de domicile prend effet à l'égard de la juridiction, à compter de la déclaration faite au greffe, et à l'égard des
+autres parties, à compter de l'avis qui leur en est donné par la personne qui élit domicile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 14
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 682 (V)
+
+
 ###### Article 690
 
 La notification destinée à une personne morale de droit privé ou à un établissement public à caractère industriel ou
@@ -13880,6 +13752,20 @@ réception. A défaut, elle est réputée notifiée à domicile.
 	  - Décret n°2017-924 du 6 mai 2017 - art. 3
 
 
+###### Article 692-2
+
+Lorsqu'en application du présent code, le greffe convoque les parties à l'audience par lettre recommandée avec demande d'avis
+de réception, les parties ou certaines d'entre elles peuvent, sur mention du juge au dossier, être avisées de cette date
+d'audience par lettre simple. Si une partie avisée par lettre simple ne comparait pas à l'audience ou n'y a pas été
+représentée, elle est convoquée par lettre recommandée avec demande d'avis de réception à une audience ultérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 15
+
+
 ###### Article 693
 
 Ce qui est prescrit par les articles 654 à 659, 663 à 665-1, 672, 675, 678, 680, 683 à 684-1, 686, le premier alinéa de
@@ -13930,34 +13816,34 @@ La nullité des notifications est régie par les dispositions qui gouvernent la 
 
 ###### Article 695
 
-Les dépens afférents aux instances, actes et procédures d'exécution comprennent : 
+Les dépens afférents aux instances, actes et procédures d'exécution comprennent :
 
-1° Les droits, taxes, redevances ou émoluments perçus par les secrétariats des juridictions ou l'administration des impôts à
+1° Les droits, taxes, redevances ou émoluments perçus par les greffes des juridictions ou l'administration des impôts à
 l'exception des droits, taxes et pénalités éventuellement dus sur les actes et titres produits à l'appui des prétentions des
-parties ; 
+parties ;
 
-2° Les frais de traduction des actes lorsque celle-ci est rendue nécessaire par la loi ou par un engagement international ; 
+2° Les frais de traduction des actes lorsque celle-ci est rendue nécessaire par la loi ou par un engagement international ;
 
-3° Les indemnités des témoins ; 
+3° Les indemnités des témoins ;
 
-4° La rémunération des techniciens ; 
+4° La rémunération des techniciens ;
 
-5° Les débours tarifés ; 
+5° Les débours tarifés ;
 
-6° Les émoluments des officiers publics ou ministériels ; 
+6° Les émoluments des officiers publics ou ministériels ;
 
-7° La rémunération des avocats dans la mesure où elle est réglementée y compris les droits de plaidoirie ; 
+7° La rémunération des avocats dans la mesure où elle est réglementée y compris les droits de plaidoirie ;
 
-8° Les frais occasionnés par la notification d'un acte à l'étranger ; 
+8° Les frais occasionnés par la notification d'un acte à l'étranger ;
 
 9° Les frais d'interprétariat et de traduction rendus nécessaires par les mesures d'instruction effectuées à l'étranger à la
 demande des juridictions dans le cadre du règlement (CE) n° 1206/2001 du Conseil du 28 mai 2001 relatif à la coopération
-entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale ; 
+entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale ;
 
-10° Les enquêtes sociales ordonnées en application des articles 1072, 1171 et 1221 ; 
+10° Les enquêtes sociales ordonnées en application des articles 1072, 1171 et 1221 ;
 
 11° La rémunération de la personne désignée par le juge pour entendre le mineur, en application de l'article 388-1 du code
-civil ; 
+civil ;
 
 12° Les rémunérations et frais afférents aux mesures, enquêtes et examens requis en application des dispositions de l'article
 1210-8.
@@ -13966,13 +13852,13 @@ civil ;
 
 	**Modifié par**:
 
-	  - Décret n°2012-98 du 27 janvier 2012 - art. 3
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 1072
 	  - Code de procédure civile - art. 1171
-	  - Code de procédure civile - art. 1210-8 (V)
+	  - Code de procédure civile - art. 1210-8
 	  - Code de procédure civile - art. 1221
 	  - Code civil - art. 388-1
 
@@ -14105,6 +13991,8 @@ alloue une somme au titre du 2° du présent article, celle-ci ne peut être inf
 
 ### Chapitre II : La liquidation des dépens à recouvrer par le secrétariat.
 
+### Chapitre II : La liquidation des dépens à recouvrer par le greffe
+
 ###### Article 701
 
 Les dépens prévus à l'article 695 (1° et 3°) sont liquidés dans le jugement qui les adjuge ou par mention apposée sur la
@@ -14129,14 +14017,17 @@ Les expéditions du jugement peuvent être délivrées avant que la liquidation 
 
 ###### Article 702
 
-Lorsque le montant des dépens liquidés ne figure pas dans l'expédition du jugement, le secrétaire délivre un titre
-exécutoire.
+Lorsque le montant des dépens liquidés ne figure pas dans l'expédition du jugement, le greffier délivre un titre exécutoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 703
@@ -14162,8 +14053,8 @@ La liquidation peut être contestée selon la procédure prévue aux articles 70
 
 ###### Article 704
 
-Les parties peuvent, en cas de difficultés, demander, sans forme, au secrétaire de la juridiction compétente en application
-de l'article 52, de vérifier le montant des dépens mentionnés à l'article 695.
+Les parties peuvent, en cas de difficultés, demander, sans forme, au greffier de la juridiction compétente en application de
+l'article 52, de vérifier le montant des dépens mentionnés à l'article 695. 
 
 Il en est de même de l'auxiliaire de justice qui entend recouvrer les dépens ; sa demande est alors accompagnée du compte
 détaillé qu'il est tenu de remettre aux parties en vertu de la réglementation tarifaire. Ce compte mentionne les provisions
@@ -14173,11 +14064,11 @@ reçues.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°84-618 1984-07-13 art. 7, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cité par**:
 
@@ -14191,15 +14082,19 @@ reçues.
 
 ###### Article 705
 
-Le secrétaire de la juridiction vérifie le montant des dépens après avoir, s'il y a lieu, procédé aux redressements
-nécessaires afin de rendre le compte conforme aux tarifs. Il remet ou adresse par simple lettre à l'intéressé un certificat
-de vérification.
+Le greffier de la juridiction vérifie le montant des dépens après avoir, s'il y a lieu, procédé aux redressements nécessaires
+afin de rendre le compte conforme aux tarifs. Il remet ou adresse par simple lettre à l'intéressé un certificat de
+vérification.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 706
@@ -14223,14 +14118,18 @@ contestation dans le délai indiqué, le certificat de vérification peut être 
 
 ###### Article 707
 
-En l'absence de contestation par l'adversaire dans le délai, le poursuivant peut demander au secrétaire vérificateur de le
+En l'absence de contestation par l'adversaire dans le délai, le poursuivant peut demander au greffier vérificateur de le
 mentionner sur le certificat de vérification. Cette mention vaut titre exécutoire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cité par**:
 
@@ -14240,20 +14139,18 @@ mentionner sur le certificat de vérification. Cette mention vaut titre exécuto
 ###### Article 708
 
 Celui qui entend contester la vérification peut toujours présenter lui-même une demande d'ordonnance de taxe ; il peut aussi
-le faire par l'intermédiaire de son représentant.
-
-La demande est faite oralement ou par écrit au secrétariat de la juridiction qui a vérifié le compte. Elle doit être motivée
-et être accompagnée du certificat de vérification.
+le faire par l'intermédiaire de son représentant. La demande est faite oralement ou par écrit au greffe de la juridiction qui
+a vérifié le compte. Elle doit être motivée et être accompagnée du certificat de vérification.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°84-618 1984-07-13 art. 9, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 709
@@ -14311,27 +14208,27 @@ mentionne, s'il y a lieu, les sommes déjà perçues à titre de provision.
 ###### Article 712
 
 Le juge a la faculté de renvoyer la demande, en l'état, à une audience du tribunal dont il fixe la date. Les parties sont
-convoquées quinze jours au moins à l'avance par le secrétaire de la juridiction.
+convoquées quinze jours au moins à l'avance par le greffier de la juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°84-618 1984-07-13 art. 11, art. 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 713
 
-L'ordonnance de taxe est revêtue sur minute de la formule exécutoire par le secrétaire.
+L'ordonnance de taxe est revêtue sur minute de la formule exécutoire par le greffier. 
 
-Lorsqu'elle est susceptible d'appel, la notification de l'ordonnance contient, à peine de nullité :
+Lorsqu'elle est susceptible d'appel, la notification de l'ordonnance contient, à peine de nullité : 
 
 1. La mention que cette ordonnance deviendra exécutoire si elle n'est pas frappée de recours dans les délais et formes prévus
-aux articles 714 et 715 ;
+aux articles 714 et 715 ; 
 
 2. La teneur des articles 714 et 715.
 
@@ -14339,7 +14236,11 @@ aux articles 714 et 715 ;
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
@@ -14422,10 +14323,10 @@ date.
 
 ###### Article 718
 
-Les notifications ou convocations sont faites par lettre recommandée avec demande d'avis de réception.
+Les notifications ou convocations sont faites par lettre recommandée avec demande d'avis de réception. 
 
-Lorsqu'elles sont faites par le secrétaire de la juridiction, elles peuvent l'être par simple bulletin si elles sont
-adressées aux avocats.
+Lorsqu'elles sont faites par le greffier de la juridiction, elles peuvent l'être par simple bulletin si elles sont adressées
+aux avocats.
 
 **Liens relatifs à cet article**
 
@@ -14435,7 +14336,7 @@ adressées aux avocats.
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ### Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens.
@@ -14575,9 +14476,11 @@ d'établir préalablement un certificat de vérification.
 
 ## Titre XIX : Le secrétariat de la juridiction.
 
+## Titre XIX : Le greffe de la juridiction
+
 ###### Article 726
 
-Le secrétariat tient un répertoire général des affaires dont la juridiction est saisie.
+Le greffe tient un répertoire général des affaires dont la juridiction est saisie.
 
 Le répertoire général indique la date de la saisine, le numéro d'inscription, le nom des parties, la nature de l'affaire,
 s'il y a lieu la chambre à laquelle celle-ci est distribuée, la nature et la date de la décision.
@@ -14586,20 +14489,24 @@ s'il y a lieu la chambre à laquelle celle-ci est distribuée, la nature et la d
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 727
 
-Pour chaque affaire inscrite au répertoire général, le secrétaire constitue un dossier sur lequel sont portés, outre les
+Pour chaque affaire inscrite au répertoire général, le greffier constitue un dossier sur lequel sont portés, outre les
 indications figurant à ce répertoire, le nom du ou des juges ayant à connaître de l'affaire et, s'il y a lieu, le nom des
-personnes qui représentent ou assistent les parties.
+personnes qui représentent ou assistent les parties. 
 
-Sont versés au dossier, après avoir été visés par le juge ou le secrétaire, les actes, notes et documents relatifs à
-l'affaire.
+Sont versés au dossier, après avoir été visés par le juge ou le greffier, les actes, notes et documents relatifs à
+l'affaire. 
 
 Y sont mentionnés ou versés en copie les décisions auxquelles celle-ci donne lieu, les avis et les lettres adressés par la
-juridiction.
+juridiction. 
 
 Lorsque la procédure est orale, les prétentions des parties ou la référence qu'elles font aux prétentions qu'elles auraient
 formulées par écrit sont notées au dossier ou consignées dans un procès-verbal.
@@ -14608,52 +14515,60 @@ formulées par écrit sont notées au dossier ou consignées dans un procès-ver
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 728
 
-Le secrétaire de la formation de jugement tient un registre où sont portés, pour chaque audience :
+Le greffier de la formation de jugement tient un registre où sont portés, pour chaque audience :
 
 - la date de l'audience ;
 
-- le nom des juges et du secrétaire ;
+- le nom des juges et du greffier ;
 
 - le nom des parties et la nature de l'affaire ;
 
 - l'indication des parties qui comparaissent elles-mêmes dans les matières où la représentation n'est pas obligatoire ;
 
-- le nom des personnes qui représentent ou assistent les parties à l'audience.
+- le nom des personnes qui représentent ou assistent les parties à l'audience. 
 
-Le secrétaire y mentionne également le caractère public ou non de l'audience, les incidents d'audience et les décisions
-prises sur ces incidents.
+Le greffier y mentionne également le caractère public ou non de l'audience, les incidents d'audience et les décisions prises
+sur ces incidents. 
 
 L'indication des jugements prononcés est portée sur le registre qui est signé, après chaque audience, par le président et le
-secrétaire.
+greffier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 729
 
-En cas de recours ou de renvoi après cassation, le secrétaire adresse le dossier à la juridiction compétente, soit dans les
-quinze jours de la demande qui lui en est faite, soit dans les délais prévus par des dispositions particulières.
+En cas de recours ou de renvoi après cassation, le greffier adresse le dossier à la juridiction compétente, soit dans les
+quinze jours de la demande qui lui en est faite, soit dans les délais prévus par des dispositions particulières. 
 
-Le secrétaire établit, s'il y a lieu, copie des pièces nécessaires à la poursuite de l'instance.
+Le greffier établit, s'il y a lieu, copie des pièces nécessaires à la poursuite de l'instance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 9 et 16 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 729-1
@@ -14696,9 +14611,9 @@ tous les actes judiciaires qu'il estime nécessaires.
 
 ###### Article 731
 
-La décision est transmise avec tous documents utiles par le secrétariat de la juridiction commettante à la juridiction
-commise. Dès réception, il est procédé aux opérations prescrites à l'initiative de la juridiction commise ou du juge que le
-président de cette juridiction désigne à cet effet.
+La décision est transmise avec tous documents utiles par le greffe de la juridiction commettante à la juridiction commise.
+Dès réception, il est procédé aux opérations prescrites à l'initiative de la juridiction commise ou du juge que le président
+de cette juridiction désigne à cet effet.
 
 Les parties ou les personnes qui doivent apporter leur concours à la justice sont directement convoquées ou avisées par la
 juridiction commise. Les parties ne sont pas tenues de constituer avocat devant cette juridiction.
@@ -14711,26 +14626,49 @@ juridiction commise. Les parties ne sont pas tenues de constituer avocat devant 
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 732
 
-Sitôt les opérations accomplies, le secrétariat de la juridiction qui y a procédé transmet à la juridiction commettante les
+Sitôt les opérations accomplies, le greffe de la juridiction qui y a procédé transmet à la juridiction commettante les
 procès-verbaux accompagnés des pièces et objets annexés ou déposés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ### Chapitre II : Les commissions rogatoires internationales.
 
-#### Section I : Commissions rogatoires à destination d'un Etat étranger.
-
 ###### Article 733
+
+Les dispositions du présent chapitre s'appliquent sous réserve des règlements européens et des traités internationaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 16
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
+
+
+#### Section I : Commissions rogatoires à destination de l'étranger
+
+###### Article 734
 
 Le juge peut, à la demande des parties, ou d'office, faire procéder dans un Etat étranger aux mesures d'instruction ainsi
 qu'aux autres actes judiciaires qu'il estime nécessaires en donnant commission rogatoire soit à toute autorité judiciaire
@@ -14740,84 +14678,117 @@ compétente de cet Etat, soit aux autorités diplomatiques ou consulaires franç
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
-###### Article 734
+###### Article 734-1
 
-Le secrétaire de la juridiction commettante adresse au ministère public une expédition de la décision donnant commission
-rogatoire accompagnée d'une traduction établie à la diligence des parties.
+Le greffe de la juridiction commettante adresse au ministère public une expédition de la décision donnant commission
+rogatoire à moins que la transmission doive se faire directement à la juridiction ou à l'autorité étrangère compétente.
+
+La décision donnant commission rogatoire est accompagnée d'une traduction établie à la diligence des parties, à moins que ne
+soit autorisée sa transmission en langue française.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 16
+	  - Code de procédure civile - art. 734 (T)
 
-	**Nouveaux textes**:
 
-	  - Code de procédure civile - art. 734-1 (V)
+###### Article 734-2
 
+Le ministère public près la juridiction commettante fait aussitôt parvenir la commission rogatoire au ministre de la justice
+aux fins de transmission, à moins qu'en vertu d'un traité la transmission doive être faite directement à l'autorité
+étrangère.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 735 (T)
+
+
+#### Section II : Commissions rogatoires en provenance de l'Etat étranger
+
+##### Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal de grande instance
 
 ###### Article 735
 
-Le ministère public fait aussitôt parvenir la commission rogatoire au ministre de la justice aux fins de transmission, à
-moins qu'en vertu d'un traité la transmission puisse être faite directement à l'autorité étrangère.
+Le tribunal de grande instance a seul compétence pour connaître des commissions rogatoires.
+
+Le tribunal de grande instance territorialement compétent est celui dans le ressort duquel la commission rogatoire doit être
+exécutée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 16
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
 
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 734-2 (V)
-
-
-#### Section II : Commissions rogatoires en provenance d'un Etat étranger.
 
 ###### Article 736
 
-Le ministre de la justice transmet au ministère public dans le ressort duquel elles doivent être exécutées les commissions
-rogatoires qui lui sont adressées par les Etats étrangers.
+Le ministre de la justice transmet au ministère public près le tribunal de grande instance compétent les commissions
+rogatoires qui lui sont adressées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 737
 
-Le ministère public fait aussitôt parvenir la commission rogatoire à la juridiction compétente aux fins d'exécution.
+Le ministère public fait aussitôt parvenir la commission rogatoire au président du tribunal de grande instance aux fins
+d'exécution.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 738
 
-Dès réception de la commission rogatoire, il est procédé aux opérations prescrites à l'initiative de la juridiction commise
-ou du juge que le président de cette juridiction désigne à cet effet.
+Dès réception de la commission rogatoire, le juge commis à cet effet par le président du tribunal de grande instance procède
+aux opérations prescrites.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 739
@@ -14832,7 +14803,11 @@ enregistrées.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 740
@@ -14844,7 +14819,11 @@ ci doivent être formulées ou traduites en langue française ; il en est de mê
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 741
@@ -14856,7 +14835,11 @@ procédé à l'exécution de la commission rogatoire ; le juge étranger commett
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 742
@@ -14869,7 +14852,11 @@ commettante, ou qu'elle n'admet pas le résultat auquel tend la commission rogat
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 743
@@ -14885,7 +14872,11 @@ déjà prises et d'annuler les actes constatant l'exécution de la commission ro
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 744
@@ -14899,7 +14890,11 @@ les mesures qu'il a prises ou d'annuler les actes constatant l'exécution de la 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 745
@@ -14912,7 +14907,11 @@ annuler les actes constatant l'exécution de la commission rogatoire.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 746
@@ -14928,7 +14927,11 @@ Le délai d'appel est de quinze jours ; il n'est pas augmenté en raison des dis
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ###### Article 747
@@ -14941,8 +14944,42 @@ transmis à la juridiction commettante selon les mêmes voies que celles par les
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
+
+
+##### Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale
+
+###### Article 747-1
+
+Si demande en est faite dans la commission rogatoire, et pour autant que la mesure d'instruction prescrive qu'il soit
+exclusivement procédé à une audition, le ministère de la justice peut en autoriser l'exécution directe par la juridiction
+étrangère, notamment par vidéoconférence, sans contrainte ni sanction possible.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
+
+
+###### Article 747-2
+
+S'il est déféré à la demande de la juridiction étrangère, le ministère de la justice indique dans quelles conditions il doit
+être procédé à la mesure d'instruction et, s'il y a lieu, désigne le tribunal de grande instance compétent chargé d'assister
+la juridiction étrangère dans l'exécution de la mesure d'instruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 16
+
+
+##### Paragraphe 3 : Dispositions communes
 
 ###### Article 748
 
@@ -14956,7 +14993,11 @@ l'application d'une forme particulière de procéder à la demande de la juridic
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
 ## Titre XXI : La communication par voie électronique.
@@ -15310,8 +15351,13 @@ Outre les mentions prescrites à l'article 56, l'assignation contient à peine d
 ###### Article 753
 
 Les conclusions doivent formuler expressément les prétentions des parties ainsi que les moyens en fait et en droit sur
-lesquels chacune de ces prétentions est fondée. Un bordereau énumérant les pièces justifiant ces prétentions est annexé aux
-conclusions.
+lesquels chacune de ces prétentions est fondée avec indication pour chaque prétention des pièces invoquées et de leur
+numérotation. Un bordereau énumérant les pièces justifiant ces prétentions est annexé aux conclusions.
+
+Les conclusions comprennent distinctement un exposé des faits et de la procédure, une discussion des prétentions et des
+moyens ainsi qu'un dispositif récapitulant les prétentions. Les moyens qui n'auraient pas été formulés dans les conclusions
+précédentes doivent être présentés de manière formellement distincte. Le tribunal ne statue que sur les prétentions énoncées
+au dispositif et n'examine les moyens au soutien de ces prétentions que s'ils sont invoqués dans la discussion.
 
 Les parties doivent reprendre dans leurs dernières conclusions les prétentions et moyens présentés ou invoqués dans leurs
 conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et le tribunal ne statue que sur les dernières
@@ -15322,15 +15368,20 @@ cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous
 
 Copie des conclusions est remise au greffe avec la justification de leur notification.
 
+**Nota:**
+
+Conformément aux dispositions du II de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables
+aux instances introduites à compter de l'entrée en vigueur dudit décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°98-1231 du 28 décembre 1998 - art. 13 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+	  - Décret n°2017-892 du 6 mai 2017 - art. 18
 
 	**Cité par**:
 
@@ -15563,9 +15614,9 @@ Il peut ordonner le retrait du rôle dans les cas et conditions des articles 382
 Le juge de la mise en état fixe, au fur et à mesure, les délais nécessaires à l'instruction de l'affaire, eu égard à la
 nature, à l'urgence et à la complexité de celle-ci, et après avoir provoqué l'avis des avocats.
 
-Il peut accorder des prorogations de délai. 
+Il peut accorder des prorogations de délai.
 
-Il peut, après avoir recueilli l'accord des avocats, fixer un calendrier de la mise en état.
+Il peut, après avoir recueilli l'avis des avocats, fixer un calendrier de la mise en état.
 
 Le calendrier comporte le nombre prévisible et la date des échanges de conclusions, la date de la clôture, celle des débats
 et, par dérogation aux premier et deuxième alinéas de l'article 450, celle du prononcé de la décision.
@@ -15578,11 +15629,11 @@ Le juge peut également renvoyer l'affaire à une conférence ultérieure en vue
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 23 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-892 du 6 mai 2017 - art. 19
 
 	**Cite**:
 
@@ -16819,19 +16870,454 @@ Lire R. 41-2 du code de procédure pénale.
 	  - Nouveau code de procédure civile 759 à 762 et 809
 
 
-### Sous-titre V : L'action de groupe en matière de santé
+### Sous-titre V : L'action de groupe
 
 ###### Article 826-2
 
-Pour le jugement des actions de groupe engagées sur le fondement du chapitre III " Action de groupe " du titre IV du livre
-Ier de la première partie du code de la santé publique, la demande est formée, instruite et jugée selon les règles
-applicables à la procédure ordinaire en matière contentieuse devant le tribunal de grande instance.
+Sous réserve des dispositions particulières prévues pour chacune de ces actions, le présent sous-titre est applicable aux
+actions de groupe suivantes engagées sur le fondement du titre V de la loi n° 2016-1547 du 18 novembre 2016 de modernisation
+de la justice du XXI
+  <sup>e</sup> siècle :
+
+1° L'action ouverte sur le fondement de la loi n° 2008-496 du 27 mai 2008 portant diverses dispositions d'adaptation au droit
+communautaire dans le domaine de la lutte contre les discriminations ;
+
+2° L'action ouverte sur le fondement des articles L. 1134-6 à L. 1134-10 du code du travail ;
+
+3° L'action ouverte sur le fondement de l'article L. 142-3-1 du code de l'environnement ;
+
+4° L'action ouverte sur le fondement du chapitre III du titre IV du livre Ier de la première partie du code de la santé
+publique ;
+
+5° L'action ouverte sur le fondement de l'article 43 ter de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 43 ter
+	  - Loi n°2008-496 du 27 mai 2008
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 60
+	  - Code du travail - art. L1134-6
+	  - Code de la santé publique
+	  - Code de l'environnement - art. L142-3-1
+
+	**Modifié par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+#### Chapitre Ier : Dispositions préliminaires
+
+###### Article 826-3
+
+Le tribunal de grande instance territorialement compétent est celui du lieu où demeure le défendeur.
+
+Le tribunal de grande instance de Paris est compétent lorsque le défendeur demeure à l'étranger ou n'a ni domicile ni
+résidence connus.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2016-1249 du 26 septembre 2016 - art. 4
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-4
+
+Outre les mentions prescrites aux articles 56 et 752, l'assignation expose expressément, à peine de nullité, les cas
+individuels présentés par le demandeur au soutien de son action.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 56
+	  - Code de procédure civile - art. 752
+
+
+###### Article 826-5
+
+La demande est formée, instruite et jugée selon les règles applicables à la procédure ordinaire en matière contentieuse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+#### Chapitre II : Cessation du manquement
+
+###### Article 826-6
+
+Lorsqu'il désigne un tiers aux fins de mise en œuvre des mesures destinées à faire cesser le manquement, le juge statue par
+décision spécialement motivée énonçant les chefs de la mission confiée et le délai dans lequel le tiers lui en fait rapport.
+
+Le tiers est choisi parmi tout professionnel justifiant d'une compétence dans le domaine considéré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-7
+
+Dès le prononcé de la décision désignant un tiers, le greffe lui en notifie copie par tout moyen. 
+
+Le tiers fait connaître sans délai au juge son acceptation. Il commence ses opérations dès qu'il est avisé du versement de la
+provision mentionnée à l'article 826-8, à moins que le juge ne lui enjoigne d'entreprendre immédiatement ses opérations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 826-8 (V)
+
+
+###### Article 826-8
+
+Le coût de la mission est à la charge de l'auteur du manquement. Le juge qui désigne le tiers fixe le montant d'une provision
+à valoir sur la rémunération de celui-ci aussi proche que possible de sa rémunération définitive prévisible et détermine le
+délai dans lequel l'auteur du manquement la consigne au secrétariat de la juridiction. Le juge aménage, s'il y a lieu, les
+échéances dont la consignation peut être assortie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 826-7 (V)
+
+
+###### Article 826-9
+
+A l'issue du délai imparti par le juge, le tiers remet son rapport, accompagné de sa demande de rémunération, dont il adresse
+un exemplaire aux parties par tout moyen permettant d'en établir la réception. S'il y a lieu, l'auteur du manquement adresse
+au tiers et au juge ses observations écrites sur cette demande dans un délai de quinze jours à compter de sa réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-10
+
+Le greffier invite l'auteur du manquement à consigner la provision au greffe dans le délai et selon les modalités impartis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-11
+
+Si le tiers se heurte à des difficultés qui font obstacle à l'accomplissement de sa mission ou si une extension de celle-ci
+s'avère nécessaire, il en fait rapport aux parties et au juge.
+
+Celui-ci peut, en se prononçant, proroger le délai dans lequel le tiers doit déposer son rapport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-12
+
+Le tiers peut, sur justification de l'état d'avancement de ses opérations, être autorisé par le juge à prélever un acompte
+sur la somme consignée si la complexité de l'affaire le requiert.
+
+En cas d'insuffisance manifeste de la provision allouée, au vu des diligences faites ou à venir, le tiers en fait sans délai
+rapport au juge, qui, s'il y a lieu, ordonne la consignation d'une provision complémentaire. A défaut de consignation dans le
+délai et selon les modalités fixés par le juge, et sauf prorogation de ce délai, le tiers dépose son rapport en l'état.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-13
+
+Passé le délai imparti à l'auteur du manquement pour présenter ses observations, le juge fixe la rémunération du tiers en
+fonction, notamment, des diligences accomplies, du respect des délais impartis et de la qualité du travail fourni.
+
+Il autorise le tiers à se faire remettre, à due concurrence, les sommes consignées au greffe. Il ordonne, selon le cas, soit
+le versement des sommes complémentaires dues au tiers, soit la restitution des sommes consignées en excédent.
+
+Lorsque le juge envisage de fixer la rémunération du tiers à un montant inférieur au montant demandé, il doit au préalable
+l'inviter à formuler ses observations.
+
+Le juge délivre au tiers un titre exécutoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+#### Chapitre III : Réparation des préjudices
+
+##### Section 1 : Jugement sur la responsabilité
+
+###### Article 826-14
+
+Le jugement qui reconnaît la responsabilité du défendeur fixe le délai dans lequel ce dernier doit mettre en œuvre les
+mesures de publicité ordonnées en application de l'article 67 de la loi du 18 novembre 2016 susmentionnée et, à défaut, à
+l'expiration duquel elles le seront par le demandeur à l'action aux frais du défendeur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 67
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-15
+
+Le jugement qui reconnaît la responsabilité du défendeur précise s'il est fait application de la procédure individuelle de
+réparation ou de la procédure collective de liquidation des préjudices.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-16
+
+Les mesures d'information ordonnées par le juge comportent, outre les mentions éventuellement prescrites par le jugement :
+
+1° La reproduction du dispositif de la décision ;
+
+2° Selon qu'il est fait application de la procédure collective de liquidation ou de la procédure individuelle de réparation,
+les coordonnées de la ou des parties auprès desquelles chaque personne intéressée peut adresser sa demande de réparation ;
+
+3° La forme, le contenu de cette demande de réparation ainsi que le délai dans lequel elle doit être adressée, dans le cadre
+d'une procédure individuelle de réparation des préjudices, au choix de la personne intéressé, soit à la personne déclarée
+responsable, soit au demandeur à l'action, et dans le cadre d'une procédure collective de liquidation des préjudices, au
+demandeur à l'action ;
+
+4° L'indication que la demande de réparation adressée au demandeur à l'action lui confère un mandat aux fins d'indemnisation
+et, le cas échéant, en cas de refus d'indemnisation opposé par la personne déclarée responsable, aux fins de représentation
+pour engager une action en réparation ou pour l'exécution forcée du jugement prononcé à l'issue de cette action, ainsi que
+l'indication qu'elle peut y mettre fin à tout moment et que ce mandat ne vaut ni n'implique adhésion à l'association qui
+engage l'action ;
+
+5° L'indication que, à défaut de demande de réparation reçue selon les modalités et dans le délai prévus par le jugement, la
+personne intéressée ne sera plus recevable à obtenir une indemnisation dans le cadre de l'action de groupe mais qu'elle
+pourra toujours agir en indemnisation de ses préjudices à titre individuel ;
+
+6° L'indication qu'en cas d'adhésion, la personne intéressée ne pourra plus agir individuellement à l'encontre de la personne
+déclarée responsable en réparation du préjudice déjà indemnisé dans le cadre de l'action de groupe mais qu'elle pourra
+toujours agir en indemnisation de ses autres préjudices ;
+
+7° L'indication que la personne intéressée doit produire tout document utile au soutien de sa demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+	**Cité par**:
+
+	  - Code de procédure civile - art. 826-19 (V)
+
+
+##### Section 2 : Mise en œuvre du jugement et réparation des préjudices 
+
+##### Sous-section 1 : Adhésion au groupe
+
+###### Article 826-17
+
+L'adhésion au groupe prend la forme d'une demande de réparation. Elle est faite par tout moyen permettant d'en accuser la
+réception, selon les modalités et dans le délai déterminés par le juge :
+
+1° Auprès de l'une des parties à l'instance lorsqu'il est fait application de la procédure individuelle de réparation des
+préjudices ;
+
+2° Auprès du demandeur à l'action lorsqu'il est fait application de la procédure collective de liquidation des préjudices.
+
+Elle contient notamment les nom, prénoms, domicile de la personne intéressée ainsi que, le cas échéant, une adresse
+électronique à laquelle elle accepte de recevoir les informations relatives à la procédure.
+
+Cette demande justifie que les critères de rattachement au groupe sont remplis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-18
+
+Dans le cadre de la mise en œuvre de la procédure individuelle de réparation des préjudices, lorsque la personne intéressée
+adresse directement la demande de réparation à la personne déclarée responsable, elle en informe le demandeur à l'action ou
+le demandeur de son choix en cas de pluralité de demandeurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-19
+
+Les personnes susceptibles d'appartenir au groupe qui n'y ont pas adhéré dans le délai prévu dans le jugement statuant sur la
+responsabilité et dans les conditions prévues par l'article 826-16 ne sont plus recevables à demander leur indemnisation dans
+le cadre de l'action de groupe et ne sont pas représentées par le demandeur à l'action.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 826-16
+
+
+###### Article 826-20
+
+Le mandat aux fins d'indemnisation donné au demandeur à l'action par l'effet de l'adhésion de la personne intéressée au
+groupe vaut pouvoir d'accomplir au nom de celle-ci tous actes de procédure et diligences en vue d'obtenir la réparation du
+préjudice subi par elle et entrant dans le champ de l'action de groupe, notamment pour l'exercice des voies de recours.
+
+Le mandat emporte avance par le demandeur à l'action de toutes les dépenses et frais liés à la procédure et représentation
+des personnes intéressées lors du déroulement d'éventuelles mesures d'instruction et lors de l'action en justice tendant à la
+réparation du préjudice subi.
+
+La personne intéressée peut mettre un terme au mandat à tout moment. Elle doit en informer le demandeur à l'action par tout
+moyen permettant d'en accuser la réception et celle-ci en avise la personne déclarée responsable sans délai. La révocation du
+mandat emporte renonciation à l'adhésion au groupe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+##### Sous-section 2 : Réparation des préjudices par le juge et exécution forcée du jugement 
+
+###### Article 826-21
+
+Le demandeur à l'action ayant reçu mandat aux fins d'indemnisation est réputé créancier, au sens des articles L. 111-1 et L.
+111-2 du code des procédures civiles d'exécution, pour l'exécution forcée du jugement rendu sur le fondement de l'article 71
+ou de l'article 73 de la loi du 18 novembre 2016 susmentionnée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 71
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 73
+	  - Code des procédures civiles d'exécution - art. L111-1
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+###### Article 826-22
+
+Dans tous les actes relatifs à la réparation par le juge des préjudices et à l'exécution forcée du jugement, le demandeur à
+l'action précise, outre les mentions prévues par la loi, à peine de nullité, l'identité des personnes pour le compte
+desquelles il agit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+##### Section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe 
+
+###### Article 826-23
+
+Le demandeur à l'action ouvre auprès de la Caisse des dépôts et consignations un compte spécifique au groupe des personnes
+lésées défini par le juge. 
+
+Sous réserve de l'article 240 du décret n° 91-1197 du 27 novembre 1991, toute somme reçue au titre des articles 68 et 74 de
+la loi du 18 novembre 2016 susmentionnée est immédiatement déposée par le demandeur à l'action sur le compte ouvert
+conformément à l'alinéa précédent. 
+
+Le demandeur à l'action est seul habilité, sous sa responsabilité, à procéder aux mouvements sur chaque compte ouvert
+conformément au premier alinéa et à le clôturer. 
+
+La tenue des comptes ouverts conformément au premier alinéa peut donner lieu à des frais de gestion perçus par la Caisse des
+dépôts et consignations, qui ne peuvent être imputés sur les indemnités versées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 240
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 68
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 74
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
+
+
+#### Chapitre IV :  Dispositions diverses
+
+###### Article 826-24
+
+La substitution dans les droits du demandeur à l'action défaillant est faite par voie de demande incidente. 
+
+Lorsque le juge fait droit à une demande de substitution à un demandeur défaillant, il statue, saisi de conclusions en ce
+sens, sur le transfert de tout ou partie de la provision qui aura pu être allouée en application des dispositions de
+l'article 68 de la loi du 18 novembre 2016 susmentionnée. 
+
+La substitution emporte transfert du mandat donné par les personnes intéressées au demandeur substitué. 
+
+Le demandeur défaillant est tenu de remettre les pièces ainsi que les fonds détenus, le cas échéant pour le compte des
+personnes intéressées, au demandeur qui lui est substitué qui en accuse réception. Tant que cette remise n'a pas lieu, le
+demandeur défaillant n'est pas déchargé de ses obligations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 68
+
+	**Créé par**:
+
+	  - Décret n°2017-888 du 6 mai 2017 - art. 1
 
 
 ## Titre II : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.
@@ -16971,7 +17457,7 @@ du demandeur et l'objet de la demande.
 Le demandeur et le conciliateur de justice sont avisés par tous moyens de la décision du juge. Une copie de la demande est
 adressée au conciliateur. 
 
-Le conciliateur de justice procède à la tentative de conciliation comme il est dit aux articles 129-2 à 129-4, 130 et 131. A
+Le conciliateur de justice procède à la tentative de conciliation comme il est dit aux articles 129-3 à 129-5,130 et 131. A
 sa demande, sa mission peut être renouvelée, sans qu'il soit nécessaire de recueillir l'accord des parties. 
 
 En cas d'échec de la tentative de conciliation, le conciliateur de justice en informe le juge en précisant la date de la
@@ -16981,13 +17467,12 @@ réunion à l'issue de laquelle il a constaté cet échec.
 
 	**Modifié par**:
 
-	  - Décret n°2015-282 du 11 mars 2015 - art. 25
+	  - Décret n°2017-892 du 6 mai 2017 - art. 21
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 129-2
+	  - Code de procédure civile - art. 129-3 (V)
 	  - Code de procédure civile - art. 130
-	  - Code de procédure civile - art. 831
 
 
 ###### Article 832-1
@@ -17415,30 +17900,34 @@ ont déjà plaidé.
 ###### Article 847-5
 
 Le juge de proximité renvoie toutes les exceptions d'incompétence au juge d'instance. Sa décision peut revêtir la forme d'une
-simple mention au dossier.
+simple mention au dossier. 
 
 Le juge de proximité peut toujours relever d'office son incompétence ainsi que le tribunal d'instance au profit du juge de
-proximité.
+proximité. 
 
 Le juge d'instance statue sans recours si sa décision concerne seulement sa propre compétence et la compétence des juges de
-proximité de son ressort.
+proximité de son ressort. 
 
-Les articles 96 et 97 sont applicables.
+Les articles 81 et 82 sont applicables.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2017-683 du 28 avril 2017 - art. 2
+
 	**Modifié par**:
 
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+	  - Décret n°2017-891 du 6 mai 2017 - art. 4
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R142-2 (Ab)
-	  - Code de procédure civile - art. 1425-1 (VD)
+	  - Code de procédure civile - art. 1425-1 (V)
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 96, 97
+	  - Code de procédure civile - art. 81 (V)
 
 
 ### Sous-titre II : Les ordonnances de référé devant le juge d'instance.
@@ -17567,18 +18056,18 @@ Lorsqu'une affaire a été renvoyée devant le juge dans les conditions prévues
 l'article R. 41-2 du code de procédure pénale, le greffe de ce juge convoque à l'audience, un mois au moins à l'avance et par
 lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été engagée devant la
 juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. La convocation à laquelle est
-annexée une copie de la décision de renvoi vaut citation en justice.
+annexée une copie de la décision de renvoi vaut citation en justice. 
 
 La convocation indique que, même s'ils ne comparaissent pas, des décisions exécutoires à titre provisoire pourront être
 prises contre les parties autres que la victime du dommage et contre les tiers responsables mentionnés dans la décision de
-renvoi.
+renvoi. 
 
 Les organismes de sécurité sociale et le fonds de garantie automobile, s'ils sont intervenus devant la juridiction pénale,
 sont convoqués à la même audience au moyen d'une lettre recommandée avec demande d'avis de réception adressée par le greffe.
-Une copie de la décision de renvoi est annexée à la convocation.
+Une copie de la décision de renvoi est annexée à la convocation. 
 
-A l'audience, il est procédé comme il est dit aux articles 840 à 844. Le président peut accorder en référé une provision dans
-les conditions prévues par l'alinéa 2 de l'article 849.
+A l'audience, il est procédé comme il est dit aux articles 845 à 847-3. Le président peut accorder en référé une provision
+dans les conditions prévues par l'alinéa 2 de l'article 849.
 
 **Liens relatifs à cet article**
 
@@ -17588,12 +18077,14 @@ les conditions prévues par l'alinéa 2 de l'article 849.
 
 	**Modifié par**:
 
-	  - Décret n°2015-282 du 11 mars 2015 - art. 3
+	  - Décret n°2017-892 du 6 mai 2017 - art. 22
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. R41-2
-	  - Nouveau code de procédure civile 470-1, 840, 841, 842, 843, 844 et 849
+	  - Code de procédure civile - art. 845 (V)
+	  - Code de procédure civile - art. 849 (V)
+	  - Code de procédure pénale - art. 470-1 (V)
+	  - Code de procédure pénale - art. R41-2 (V)
 
 
 ## Titre III : Dispositions particulières au tribunal de commerce.
@@ -18729,9 +19220,6 @@ ordonnance de référé ou à une des ordonnances du juge de la mise en état é
 de la chambre saisie, d'office ou à la demande d'une partie, fixe à bref délai l'audience à laquelle elle sera appelée ; au
 jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
 
-L'appel des jugements rendus sur le fondement du chapitre III " Action de groupe " du titre IV du livre Ier de la première
-partie du code de la santé publique est jugé selon la procédure prévue au premier alinéa.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -18750,7 +19238,7 @@ partie du code de la santé publique est jugé selon la procédure prévue au pr
 
 	**Modifié par**:
 
-	  - Décret n°2016-1249 du 26 septembre 2016 - art. 4
+	  - Décret n°2017-888 du 6 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -19111,7 +19599,7 @@ La requête peut aussi être présentée au premier président au plus tard dans
 
 L'appelant assigne la partie adverse pour le jour fixé. 
 
-Copies de la requête, de l'ordonnance du premier président, et un exemplaire de la déclaration d'appel visé par le secrétaire
+Copies de la requête, de l'ordonnance du premier président, et un exemplaire de la déclaration d'appel visé par le greffier
 ou une copie de la déclaration d'appel dans le cas mentionné au troisième alinéa de l'article 919, sont joints à
 l'assignation. 
 
@@ -19129,7 +19617,7 @@ lui fait sommation de communiquer avant la date de l'audience les nouvelles piè
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
@@ -19452,13 +19940,17 @@ de la décision.
 
 ###### Article 934
 
-Le secrétaire enregistre l'appel à sa date ; il délivre ou adresse par lettre simple récépissé de la déclaration.
+Le greffier enregistre l'appel à sa date ; il délivre ou adresse par lettre simple récépissé de la déclaration.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cité par**:
 
@@ -19730,8 +20222,8 @@ dispositions aux organismes qui doivent être tenus informés de la procédure e
 
 ###### Article 950
 
-L'appel contre une décision gracieuse est formé, par une déclaration faite ou adressée par pli recommandé au secrétariat de
-la juridiction qui a rendu la décision, par un avocat ou un officier public ou ministériel dans les cas où ce dernier y est
+L'appel contre une décision gracieuse est formé, par une déclaration faite ou adressée par pli recommandé au greffe de la
+juridiction qui a rendu la décision, par un avocat ou un officier public ou ministériel dans les cas où ce dernier y est
 habilité par les dispositions en vigueur.
 
 **Liens relatifs à cet article**
@@ -19740,10 +20232,6 @@ habilité par les dispositions en vigueur.
 
 	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Modifié par**:
-
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
-
 	**Cité par**:
 
 	  - Décret n°2014-346 du 17 mars 2014 - art. 22 (V)
@@ -19751,13 +20239,17 @@ habilité par les dispositions en vigueur.
 	  - Code de commerce - art. R123-148 (V)
 	  - Code de commerce - art. R527-16 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
+
 
 ###### Article 952
 
 Le juge peut, sur cette déclaration, modifier ou rétracter sa décision. 
 
-Dans le cas contraire, le secrétaire de la juridiction transmet sans délai au greffe de la cour le dossier de l'affaire avec
-la déclaration et une copie de la décision. 
+Dans le cas contraire, le greffier de la juridiction transmet sans délai au greffe de la cour le dossier de l'affaire avec la
+déclaration et une copie de la décision. 
 
 Le juge informe la partie dans le délai d'un mois de sa décision d'examiner à nouveau l'affaire ou de la transmettre à la
 cour.
@@ -19766,15 +20258,15 @@ cour.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2014-346 du 17 mars 2014 - art. 22 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 953
@@ -20268,10 +20760,10 @@ Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
 ###### Article 972
 
 Si l'affaire est renvoyée devant une juridiction de première instance ou si elle doit reprendre son cours devant une telle
-juridiction, le dossier est transmis sans délai par le greffier de la cour au secrétaire de cette juridiction.
+juridiction, le dossier est transmis sans délai par le greffier de la cour au greffier de cette juridiction. 
 
 Si la décision n'est l'objet d'aucun recours, le dossier de la juridiction ayant statué en premier ressort est renvoyé au
-secrétaire de cette juridiction.
+greffier de cette juridiction. 
 
 Dans tous les cas, il est joint une copie de la décision de la cour.
 
@@ -20279,11 +20771,11 @@ Dans tous les cas, il est joint une copie de la décision de la cour.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ## Titre VII : Dispositions particulières à la Cour de cassation.
@@ -20922,17 +21414,13 @@ notification.
 Le délai de pourvoi en cassation est de dix jours sauf disposition contraire.
 
 Le pourvoi est formé par déclaration orale ou écrite que la partie, ou tout mandataire muni d'un pouvoir spécial, fait, remet
-ou adresse par pli recommandé au secrétariat de la juridiction qui a rendu la décision attaquée.
+ou adresse par pli recommandé au greffe de la juridiction qui a rendu la décision attaquée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -20969,6 +21457,10 @@ ou adresse par pli recommandé au secrétariat de la juridiction qui a rendu la 
 	  - Code forestier - art. R221-14 (Ab)
 	  - Code rural - art. R492-13 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
+
 
 ###### Article 1000
 
@@ -20991,27 +21483,27 @@ Outre les mentions prescrites par l'article 58, la déclaration désigne la déc
 
 ###### Article 1001
 
-Le secrétaire enregistre le pourvoi. Il mentionne la date à laquelle il est formé et délivre, ou adresse par lettre simple,
+Le greffier enregistre le pourvoi. Il mentionne la date à laquelle il est formé et délivre, ou adresse par lettre simple,
 récépissé de la déclaration, lequel reproduit la teneur des articles 1004 et 1005.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1004 (V)
+	  - Code de procédure civile - art. 1004
 
 
 ###### Article 1002
 
-Le secrétaire adresse aussitôt au défendeur copie de la déclaration par lettre recommandée avec demande d'avis de réception. 
+Le greffier adresse aussitôt au défendeur copie de la déclaration par lettre recommandée avec demande d'avis de réception. 
 
 Cette notification reproduit la teneur de l'article 1006.
 
@@ -21019,22 +21511,22 @@ Cette notification reproduit la teneur de l'article 1006.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1006 (V)
+	  - Code de procédure civile - art. 1006
 
 
 ###### Article 1003
 
-Le secrétaire transmet au greffe de la Cour de cassation le dossier de l'affaire avec : 
+Le greffier transmet au greffe de la Cour de cassation le dossier de l'affaire avec :
 
-- une copie de la déclaration ; 
+- une copie de la déclaration ;
 
 - une copie de la décision attaquée. 
 
@@ -21044,11 +21536,11 @@ Il transmet immédiatement au greffe de la Cour de cassation toute pièce qui lu
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 1004
@@ -21797,24 +22289,20 @@ La saisine pour avis ne fait pas obstacle à ce que le juge ordonne des mesures 
 
 ###### Article 1031-2
 
-La décision sollicitant l'avis est adressée, avec les conclusions et les observations écrites éventuelles, par le secrétariat
-de la juridiction au greffe de la Cour de cassation.
-
-Elle est notifiée, ainsi que la date de transmission du dossier, aux parties par lettre recommandée avec demande d'avis de
-réception.
-
-Le ministère public auprès de la juridiction est avisé ainsi que le premier président de la cour d'appel et le procureur
-général lorsque la demande d'avis n'émane pas de la cour.
+La décision sollicitant l'avis est adressée, avec les conclusions et les observations écrites éventuelles, par le greffe de
+la juridiction au greffe de la Cour de cassation. Elle est notifiée, ainsi que la date de transmission du dossier, aux
+parties par lettre recommandée avec demande d'avis de réception. Le ministère public auprès de la juridiction est avisé ainsi
+que le premier président de la cour d'appel et le procureur général lorsque la demande d'avis n'émane pas de la cour.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 1031-3
@@ -21904,17 +22392,17 @@ Il est notifié aux parties par le greffe de la Cour de cassation.
 
 ###### Article 1032
 
-La juridiction de renvoi est saisie par déclaration au secrétariat de cette juridiction.
+La juridiction de renvoi est saisie par déclaration au greffe de cette juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 1033
@@ -21984,8 +22472,8 @@ saisie.
 
 ###### Article 1036
 
-Le secrétaire de la juridiction de renvoi adresse aussitôt, par lettre simple, à chacune des parties à l'instance de
-cassation, copie de la déclaration avec, s'il y a lieu, l'indication de l'obligation de constituer avocat.
+Le greffier de la juridiction de renvoi adresse aussitôt, par lettre simple, à chacune des parties à l'instance de cassation,
+copie de la déclaration avec, s'il y a lieu, l'indication de l'obligation de constituer avocat. 
 
 En cas de non-comparution, les parties défaillantes sont citées de la même manière que le sont les défendeurs devant la
 juridiction dont émane la décision cassée.
@@ -21998,12 +22486,12 @@ juridiction dont émane la décision cassée.
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article 1037
 
-Le secrétaire de la juridiction de renvoi demande, sans délai, au greffe de la juridiction dont la décision a été cassée, de
+Le greffier de la juridiction de renvoi demande, sans délai, au greffe de la juridiction dont la décision a été cassée, de
 lui communiquer le dossier de l'affaire.
 
 **Liens relatifs à cet article**
@@ -22014,7 +22502,7 @@ lui communiquer le dossier de l'affaire.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1338 du 6 novembre 2014 - art. 22
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 # Livre III : Dispositions particulières à certaines matières
@@ -22200,58 +22688,116 @@ exercé dans ce délai est également suspensif.
 
 #### Section I : L'annulation et la rectification des actes de l'état civil
 
-##### Sous-section I : La rectification administrative
+##### Sous-section I : La rectification et l'annulation administratives
 
 ###### Article 1046
 
 Le procureur de la République territorialement compétent pour procéder à la rectification administrative des erreurs et
-omissions purement matérielles des actes de l'état civil est :
+omissions purement matérielles des actes de l'état civil et à l'annulation des actes irrégulièrement établis est le procureur
+de la République du lieu où a été établi l'acte comportant l'erreur ou l'omission initiale ou l'acte irrégulièrement dressé.
 
-- le procureur de la République du lieu où l'acte a été dressé ou transcrit ;
+Toutefois, sont compétents :
 
-- le procureur de la République du lieu où est établi le service central de l'état civil du ministère des affaires
-étrangères, pour les actes détenus par ce service ;
+1° Le procureur de la République du lieu où est établi le service central d'état civil du ministère des affaires étrangères,
+pour les actes détenus par ce service ;
 
-- le procureur de la République près le tribunal de grande instance de Paris pour les pièces tenant lieu d'actes d'état civil
-à un réfugié ou à un apatride.
-
-Toutefois, la demande peut toujours être présentée au procureur de la République du lieu où demeure l'intéressé afin d'être
-transmise au procureur de la République territorialement compétent.
+2° Le procureur de la République près le tribunal de grande instance de Paris pour les certificats tenant lieu d'actes de
+l'état civil à un réfugié, un apatride ou un bénéficiaire de la protection subsidiaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2008-521 du 2 juin 2008 - art. 8 (VD)
 
+	**Modifié par**:
 
-##### Sous-section II : La rectification et l'annulation judiciaire
+	  - Décret n°2017-890 du 6 mai 2017 - art. 47
+
+
+###### Article 1046-1
+
+Le procureur de la République territorialement compétent donne instructions aux dépositaires des registres de l'acte erroné
+ou annulé, ainsi qu'à ceux qui détiennent les autres actes entachés par la même erreur ou dressés à la suite de l'acte erroné
+ou annulé.
+
+Le procureur de la République informe de la rectification ou de l'annulation de l'acte, la personne à laquelle l'acte se
+rapporte, son ou ses représentants légaux ou la personne chargée de sa protection au sens de l'article 425 du code civil.
+Cette information n'est pas requise lorsque l'acte a été établi, par erreur, en double.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-890 du 6 mai 2017 - art. 47
+
+	**Cite**:
+
+	  - Code civil - art. 425
+
 
 ###### Article 1047
 
-Le président du tribunal de grande instance a compétence pour connaître de la rectification des actes de l'état civil ou des
-pièces en tenant lieu.
+Les erreurs ou omissions purement matérielles qui, en application de l'article 99-1 du code civil, peuvent faire l'objet
+d'une rectification par l'officier de l'état civil, sont : 
 
-Le tribunal de grande instance a compétence pour connaître de l'annulation des actes de l'état civil, de leurs énonciations
-ou des pièces en tenant lieu, et de la rectification des jugements déclaratifs ou supplétifs d'actes de l'état civil.
+1° L'erreur ou l'omission dans un acte de l'état civil dont la preuve est rapportée par l'acte de naissance de l'intéressé,
+de son parent ou de toute autre personne désignée dans l'acte en cause, lorsque l'acte de naissance est détenu par un
+officier de l'état civil français ; 
+
+2° L'erreur ou l'omission portant sur une énonciation ou une mention apposée en marge d'un acte de l'état civil, à
+l'exception de celles apposées sur instruction du procureur de la République, lorsque la preuve de l'erreur ou de l'omission
+est rapportée par la production de l'acte, de la déclaration ou de la décision qu'il mentionne ou qu'il a omis. 
+
+Par exception : 
+
+a) L'erreur ou l'omission figurant dans un acte de mariage ne peut être rectifiée que sur production des pièces versées au
+dossier de mariage ; 
+
+b) L'omission dans l'apposition d'une mention est réparée par un nouvel envoi de l'avis de mention ; 
+
+3° Une mention apposée à tort en marge d'un acte de naissance, lorsque l'officier de l'état civil détient l'acte à l'origine
+de la mention ; 
+
+4° L'erreur dans le domicile ou la profession mentionnée dans un acte de l'état civil sur production de pièces
+justificatives ; 
+
+5° L'erreur portant sur la date de naissance ou de décès dans un acte de l'état civil, sur production d'un certificat
+d'accouchement ou de décès ; 
+
+6° L'erreur relative à l'officier de l'état civil ayant établi l'acte de l'état civil ; 
+
+7° L'erreur portant sur l'un ou les prénoms mentionnés dans un acte de naissance, sur production du certificat d'accouchement
+ou d'une copie du registre des naissances détenu par l'établissement du lieu de l'accouchement ; 
+
+8° L'erreur portant sur la présentation matérielle du nom de famille composé de plusieurs vocables dans les actes de l'état
+civil. 
+
+L'intéressé, son ou ses représentants légaux ou la personne chargée de sa protection au sens de l'article 425 du code civil
+produisent, à l'appui de leur demande de rectification, une copie intégrale des actes de l'état civil datant de moins de
+trois mois. 
+
+L'officier de l'état civil, détenteur de l'acte comportant l'erreur initiale procède aux rectifications entachant cet acte.
+Il met également à jour les autres actes de l'état civil entachés de la même erreur ; lorsqu'il n'en est pas dépositaire, il
+transmet un avis de mention à chacun des officiers de l'état civil dépositaires de ces actes conformément à l'article 49 du
+code civil. 
+
+L'officier de l'état civil informe de la rectification opérée la personne à laquelle l'acte se rapporte, son ou ses
+représentants légaux ou la personne chargée de sa protection au sens de l'article 425 du code civil.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 	**Cité par**:
 
@@ -22261,30 +22807,37 @@ ou des pièces en tenant lieu, et de la rectification des jugements déclaratifs
 	  - Code des pensions militaires d'invalidité et de... - art. R514-1 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. R531-1 (V)
 
+	**Cite**:
+
+	  - Code civil - art. 425 (V)
+	  - Code civil - art. 99-1 (V)
+
+
+##### Sous-section II : La rectification et l'annulation judiciaire
 
 ###### Article 1048
 
-La juridiction territorialement compétente est la juridiction du lieu où demeure la personne dont l'état civil est en cause
-ou, si elle demeure hors de France, le tribunal de grande instance de Paris ou son président. Peuvent également être saisies
-la juridiction du lieu où l'acte d'état civil a été dressé ou transcrit, ou la juridiction qui a rendu le jugement déféré.
+Le tribunal de grande instance ou son président territorialement compétent, est celui du lieu où demeure la personne dont
+l'état civil est en cause ou, si elle demeure hors de France, le tribunal de grande instance de Paris ou son président. Peut
+également être saisie la juridiction du lieu ou l'acte a été dressé ou transcrit.
 
 Sont toutefois seuls compétents :
 
 - la juridiction du lieu d'établissement du service central d'état civil du ministère des affaires étrangères, pour les actes
 détenus par ce service ;
 
-- le tribunal de grande instance de Paris ou son président, pour les pièces tenant lieu d'acte d'état civil à un réfugié ou
-un apatride.
+- le tribunal de grande instance de Paris ou son président, pour les certificats tenant lieu d'acte d'état civil à un
+réfugié, un apatride ou un bénéficiaire de la protection subsidiaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 
 ###### Article 1049
@@ -22326,17 +22879,17 @@ La demande est formée, instruite et jugée comme en matière gracieuse.
 Elle peut aussi être présentée sans forme au procureur de la République qui saisit la juridiction compétente.
 
 Toutefois, si le procureur de la République entend s'opposer à la demande, il en informe le requérant et l'invite à saisir
-lui-même la juridiction.
+lui-même la juridiction par assignation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 
 ###### Article 1052
@@ -22364,42 +22917,44 @@ naissance sans préjudice des mentions prévues par le 1° de l'article 57.
 
 ###### Article 1053
 
-Le juge peut ordonner la mise en cause de toute personne intéressée ainsi que la convocation du conseil de famille.
+La juridiction peut ordonner la mise en cause de toute personne intéressée ainsi que la convocation du conseil de famille.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 
 ###### Article 1054
 
-S'il fait droit à la demande, le juge ordonne la modification, par mention en marge, de tous actes même établis, dressés ou
-transcrits hors de son ressort. A cette fin, le dispositif de la décision est transmis par le procureur de la République au
-dépositaire des actes modifiés.
-
-L'acte annulé ne peut plus être mis à jour. Il ne peut être délivré que sur autorisation exceptionnelle du procureur de la
-République dans le ressort duquel l'acte est conservé.
+S'il fait droit à la demande, la juridiction ordonne la modification, par mention en marge, de tous actes même établis,
+dressés ou transcrits hors de son ressort. A cette fin, le dispositif de la décision est transmis par le procureur de la
+République au dépositaire des actes modifiés. L'acte annulé ne peut plus être mis à jour. Il ne peut être délivré que sur
+autorisation exceptionnelle du procureur de la République dans le ressort duquel l'acte est conservé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 
 ###### Article 1055
 
-L'appel des décisions rendues en matière gracieuse est formé, instruit et jugé selon cette même procédure.
+L'appel des décisions rendues en matière gracieuse est formé selon les règles prévues à l'article 950. Les dispositions de
+l'article 952 sont applicables. L'appel est instruit et jugé selon la procédure suivie en première instance.
+
+L'appel des décisions rendues en matière contentieuse est formé, instruit et jugé selon les règles prévues aux articles 917 à
+925, sans que l'appelant ait à se prévaloir d'un péril dans sa requête.
 
 Les voies de recours sont, dans tous les cas, ouvertes au ministère public.
 
@@ -22407,11 +22962,11 @@ Les voies de recours sont, dans tous les cas, ouvertes au ministère public.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 
 #### Section II : Les procédures relatives au prénom
@@ -24722,21 +25277,21 @@ pour l'entendre séparément ou en présence de l'autre partie.
 ###### Article 1136-7
 
 L'ordonnance qui statue sur la demande de mesures de protection des victimes de violences est exécutoire à titre provisoire à
-moins que le juge en dispose autrement. 
+moins que le juge en dispose autrement.
 
 L'ordonnance fixe la durée des mesures prises en application des articles 515-11 et 515-13 du code civil. A défaut, celles-ci
-prennent fin à l'issue d'un délai de quatre mois suivant la notification de l'ordonnance, sous réserve des dispositions de
-l'article 1136-13 ; il en est fait mention dans l'acte de notification.
+prennent fin à l'issue d'un délai de six mois suivant la notification de l'ordonnance, sous réserve des dispositions des
+articles 1136-13 et 1136-14 ; il en est fait mention dans l'acte de notification.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+	  - Décret n°2017-890 du 6 mai 2017 - art. 48
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1136-13 (V)
+	  - Code de procédure civile - art. 1136-13
 	  - Code civil - art. 515-11
 
 
@@ -24768,17 +25323,16 @@ L'ordonnance est notifiée par voie de signification, à moins que le juge, soit
 décide qu'elle sera notifiée par le greffe par lettre recommandée avec demande d'avis de réception, ou par la voie
 administrative, en cas de danger grave et imminent pour la sécurité d'une personne concernée par une ordonnance de protection
 ou lorsqu'il n'existe pas d'autre moyen de notification. Toutefois, la notification au ministère public est faite par remise
-avec émargement ou envoi contre récépissé. 
+avec émargement ou envoi contre récépissé.
 
 La notification de l'ordonnance prononçant une mesure de protection reproduit les dispositions des articles 227-4-2 et
-227-4-3 du code pénal et, lorsqu'elle est faite à une personne mariée, rappelle les dispositions de l'article 1136-13 du
-présent code.
+227-4-3 du code pénal et, rappelle les dispositions des articles 1136-13 et 1136-14 du présent code
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+	  - Décret n°2017-890 du 6 mai 2017 - art. 48
 
 	**Cite**:
 
@@ -25073,9 +25627,9 @@ greffe de la cour d'appel. Il est jugé selon la procédure gracieuse.
 
 ###### Article 1144
 
-L'information prévue au 1° de l'article 229-2 prend la forme d'un formulaire destiné à chacun des enfants mineurs, qui
-mentionne son droit de demander à être entendu dans les conditions de l'article 388-1 du code civil ainsi que les
-conséquences de son choix sur les suites de la procédure. 
+L'information prévue au 1° de l'article 229-2 du code civil prend la forme d'un formulaire destiné à chacun des enfants
+mineurs, qui mentionne son droit de demander à être entendu dans les conditions de l'article 388-1  du même code ainsi que
+les conséquences de son choix sur les suites de la procédure.
 
 Le modèle de formulaire est fixé par arrêté du garde des sceaux, ministre de la justice.
 
@@ -25087,12 +25641,12 @@ Le modèle de formulaire est fixé par arrêté du garde des sceaux, ministre de
 
 	**Modifié par**:
 
-	  - Décret n°2016-1907 du 28 décembre 2016 - art. 4
+	  - Décret n°2017-890 du 6 mai 2017 - art. 49
 
 	**Cite**:
 
-	  - Code civil - art. 229-2 (V)
-	  - Code civil - art. 388-1 (V)
+	  - Code civil - art. 229-2
+	  - Code civil - art. 388-1
 
 
 ###### Article 1144-1
@@ -25862,18 +26416,18 @@ ministère public.
 ###### Article 1180-1
 
 La déclaration conjointe prévue aux articles 365 et 372 du code civil est remise ou envoyée en trois exemplaires par lettre
-recommandée au greffier en chef du tribunal de grande instance du lieu où demeure l'enfant. 
+recommandée au directeur de greffe du tribunal de grande instance du lieu où demeure l'enfant.
 
-Elle est accompagnée des pièces suivantes : 
+Elle est accompagnée des pièces suivantes :
 
 1° La copie intégrale de l'acte de naissance de l'enfant et, le cas échéant, du jugement prononçant l'adoption simple de
-l'enfant ; 
+l'enfant ;
 
 2° Pour chacun des parents, la copie intégrale de son acte de naissance ainsi que la copie d'un document officiel délivré par
 une administration publique comportant son nom, son prénom, sa date et son lieu de naissance, sa photographie et sa
-signature. 
+signature.
 
-Le greffier en chef appose son visa et la date sur chacun des exemplaires de la déclaration conjointe. Il en notifie, par
+Le directeur de greffe appose son visa et la date sur chacun des exemplaires de la déclaration conjointe. Il en notifie, par
 lettre recommandée, un exemplaire à chacun des parents dans les conditions prévues aux articles 665 à 670-3 et en conserve un
 exemplaire au greffe.
 
@@ -25885,13 +26439,13 @@ exemplaire au greffe.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1443 du 24 décembre 2012 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 665 (V)
-	  - Code civil - art. 365 (V)
-	  - Code civil - art. 372 (V)
+	  - Code de procédure civile - art. 665
+	  - Code civil - art. 365
+	  - Code civil - art. 372
 
 
 ###### Article 1180-2
@@ -26320,20 +26874,15 @@ jour de son entrée en vigueur.
 
 ###### Article 1180-19
 
-L'amende civile prévue à l'article 387-6 du code civil ne peut excéder 3 000 €.
-
-**Nota:**
-
-Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
-jour de son entrée en vigueur.
+L'amende civile prévue à l'article 387-6 du code civil ne peut excéder 10 000 euros.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2016-185 du 23 février 2016 - art. 4
-
 	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
@@ -26348,13 +26897,10 @@ jour de son entrée en vigueur.
 
 Les mesures d'assistance éducative sont prises par le juge des enfants du lieu où demeure, selon le cas, l'un des parents, le
 tuteur du mineur ou la personne, ou le service à qui l'enfant a été confié ; à défaut, par le juge du lieu où demeure le
-mineur. 
-
-Si la personne mentionnée à l'alinéa précédent change de lieu de résidence, le juge se dessaisit au profit du juge du lieu de
-la nouvelle résidence, sauf ordonnance motivée. 
-
-Ainsi qu'il est dit à l'article L. 228-4 du code de l'action sociale et des familles, en cas de changement de département, le
-président du conseil général de l'ancienne résidence et celui de la nouvelle résidence sont informés du dessaisissement.
+mineur. Si la personne mentionnée à l'alinéa précédent change de lieu de résidence, le juge se dessaisit au profit du juge du
+lieu de la nouvelle résidence, sauf ordonnance motivée. Ainsi qu'il est dit à l'article L. 228-4 du code de l'action sociale
+et des familles, en cas de changement de département, le président du conseil départemental de l'ancienne résidence et celui
+de la nouvelle résidence sont informés du dessaisissement.
 
 **Liens relatifs à cet article**
 
@@ -26371,11 +26917,11 @@ président du conseil général de l'ancienne résidence et celui de la nouvelle
 
 	**Modifié par**:
 
-	  - Décret n°2013-429 du 24 mai 2013 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 69
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L228-4 (V)
+	  - Code de l'action sociale et des familles - art. L228-4
 
 
 ###### Article 1182
@@ -26982,29 +27528,29 @@ troisième alinéas de l'article 1181 s'appliquent.
 
 ###### Article 1200-3
 
-Le juge des enfants peut être saisi par : 
+Le juge des enfants peut être saisi par :
 
-1° L'un des représentants légaux du mineur ; 
+1° L'un des représentants légaux du mineur ;
 
-2° L'allocataire ou l'attributaire des prestations familiales auxquelles ouvre droit le mineur ; 
+2° L'allocataire ou l'attributaire des prestations familiales auxquelles ouvre droit le mineur ;
 
-3° Le procureur de la République ; 
+3° Le procureur de la République ;
 
 4° Le maire de la commune de résidence de l'allocataire ou de l'attributaire des prestations familiales auxquelles le mineur
 ouvre droit, ou le maire de la commune de résidence de ce mineur, conjointement avec l'organisme débiteur des prestations
-familiales, en application des dispositions de l'article 375-9-2 du code civil. 
+familiales, en application des dispositions de l'article 375-9-2 du code civil.
 
-Le juge des enfants peut se saisir d'office à titre exceptionnel. 
+Le juge des enfants peut se saisir d'office à titre exceptionnel.
 
-Le président du conseil général peut signaler au procureur de la République toute situation pour laquelle l'accompagnement en
-économie sociale et familiale est insuffisant. Celui-ci s'assure qu'une telle situation entre dans le champ d'application de
-l'article 375-9-1 du code civil.
+Le président du conseil départemental peut signaler au procureur de la République toute situation pour laquelle
+l'accompagnement en économie sociale et familiale est insuffisant. Celui-ci s'assure qu'une telle situation entre dans le
+champ d'application de l'article 375-9-1 du code civil.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1486 du 30 décembre 2008 - art. 3
+	  - Décret n°2017-892 du 6 mai 2017 - art. 69
 
 	**Cité par**:
 
@@ -27018,41 +27564,41 @@ l'article 375-9-1 du code civil.
 
 ###### Article 1200-4
 
-Le juge des enfants avise de l'ouverture de la procédure, s'ils ne sont pas auteurs de la saisine : 
+Le juge des enfants avise de l'ouverture de la procédure, s'ils ne sont pas auteurs de la saisine :
 
-1° Les représentants légaux du mineur ; 
+1° Les représentants légaux du mineur ;
 
-2° L'allocataire ou l'attributaire des prestations familiales auxquelles ouvre droit le mineur ; 
+2° L'allocataire ou l'attributaire des prestations familiales auxquelles ouvre droit le mineur ;
 
-3° Le procureur de la République ; 
+3° Le procureur de la République ;
 
-4° L'organisme débiteur des prestations familiales ; 
+4° L'organisme débiteur des prestations familiales ;
 
-5° Le président du conseil général de la résidence de l'allocataire ou de l'attributaire des prestations familiales. 
+5° Le président du conseil départemental de la résidence de l'allocataire ou de l'attributaire des prestations familiales.
 
 Cet avis informe l'allocataire ou l'attributaire des prestations familiales de son droit de choisir un avocat ou de demander
 qu'il lui en soit désigné un d'office, conformément aux dispositions de l'article 1200-5. Il l'informe également de la
-possibilité de consulter le dossier, conformément aux dispositions de l'article 1200-6. 
+possibilité de consulter le dossier, conformément aux dispositions de l'article 1200-6.
 
 Après avoir recueilli toutes informations utiles, le juge convoque, au moins huit jours avant la date de l'audience,
 l'allocataire ou l'attributaire des prestations familiales et en avise leur avocat désigné ou choisi lorsqu'il en a été
 informé.
 
 L'allocataire ou l'attributaire est avisé à chaque convocation, dans les mêmes termes que dans l'avis d'ouverture de la
-procédure, de son droit d'être assisté par un avocat lors de l'audience et de consulter le dossier. 
+procédure, de son droit d'être assisté par un avocat lors de l'audience et de consulter le dossier.
 
 Le juge des enfants peut également convoquer à l'audience toute personne dont l'audition lui paraît utile.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1486 du 30 décembre 2008 - art. 3
+	  - Décret n°2017-892 du 6 mai 2017 - art. 69
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 1200-5
-	  - Code de procédure civile - art. 1200-6 (V)
+	  - Code de procédure civile - art. 1200-6
 
 
 ###### Article 1200-5
@@ -27653,9 +28199,35 @@ du droit d'asile entrent en vigueur à la date de publication du présent arrêt
 
 ###### Article 1210-4
 
-Les actions engagées sur le fondement des dispositions des instruments internationaux et européens relatives au déplacement
-illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal de grande instance
-territorialement compétent en application de l'article L. 211-12 du code de l'organisation judiciaire.
+L'autorité centrale désignée dans le cadre des instruments internationaux et européens relatifs au déplacement illicite
+international d'enfants transmet au procureur de la République près le tribunal de grande instance territorialement compétent
+en application de l'article L. 211-12 du code de l'organisation judiciaire la demande de retour dont elle a été saisie. 
+
+I. – Lorsque la demande concerne un enfant déplacé ou retenu en France, le procureur de la République ordonne dès réception
+tous les actes utiles pour localiser l'enfant ou confirmer sa localisation. Si une juridiction a été saisie au fond sur les
+modalités de l'exercice de l'autorité parentale, le procureur de la République l'informe de la demande de retour. 
+
+Le procureur de la République peut aussi : 
+
+1° Prendre toute mesure en vue d'assurer la remise volontaire de l'enfant, notamment en faisant procéder à l'audition de la
+personne dont il est allégué qu'elle a déplacé ou retenu l'enfant et en l'invitant à un retour volontaire de l'enfant, ou de
+faciliter une solution amiable ; 
+
+2° Ordonner toute mesure d'investigation, examen ou expertise qui lui semble nécessaire ; 
+
+3° Saisir le juge compétent pour qu'il ordonne les mesures provisoires prévues par la loi ou, le cas échéant, transmettre les
+informations nécessaires au procureur de la République près le tribunal de grande instance territorialement compétent aux
+mêmes fins ; 
+
+4° Introduire une procédure judiciaire afin d'obtenir le retour de l'enfant. 
+
+II. – Lorsque la demande concerne un enfant déplacé ou retenu à l'étranger, le procureur de la République peut ordonner toute
+mesure d'investigation afin de recueillir les informations sur l'enfant et son environnement matériel, familial et social qui
+ont été sollicitées par l'autorité centrale étrangère. 
+
+Le procureur de la République peut également prendre les mesures qu'il estime utiles afin d'assurer la protection de l'enfant
+après son retour ou, le cas échéant, transmettre les éléments pertinents au procureur de la République près le tribunal de
+grande instance territorialement compétent aux mêmes fins.
 
 **Liens relatifs à cet article**
 
@@ -27665,15 +28237,7 @@ territorialement compétent en application de l'article L. 211-12 du code de l'o
 
 	**Modifié par**:
 
-	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 28
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1210-5 (V)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 28
 
 	**Cité par**:
 
@@ -27681,19 +28245,20 @@ territorialement compétent en application de l'article L. 211-12 du code de l'o
 
 	**Cite**:
 
-	  - Code de l'organisation judiciaire - art. L211-12
+	  - Code de l'organisation judiciaire - art. L211-2 (V)
 
 
 ###### Article 1210-5
 
-La demande aux fins d'obtenir le retour de l'enfant, en application de la convention du 25 octobre 1980 sur les aspects
-civils de l'enlèvement international d'enfants, est formée, instruite et jugée en la forme des référés.
+Les actions engagées sur le fondement des dispositions des instruments internationaux et européens relatives au déplacement
+illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal de grande instance
+territorialement compétent en application de l'article L. 211-12 du code de l'organisation judiciaire.
+
+Est également portée devant le juge mentionné au premier alinéa la demande tendant à l'interdiction de sortie de l'enfant du
+territoire français sans l'autorisation des deux parents lorsque ce juge est saisi d'une demande de retour de l'enfant ou
+lorsque la demande est formée par le procureur de la République en application de l'article 1210-4.
 
 **Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1210-6 (V)
 
 	**Cite**:
 
@@ -27701,26 +28266,21 @@ civils de l'enlèvement international d'enfants, est formée, instruite et jugé
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1158 du 29 octobre 2004 - art. 12 () JORF 31 octobre 2004 en vigueur le 1er mars 2005
+	  - Décret n°2017-892 du 6 mai 2017 - art. 28
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 28
+	  - Code de procédure civile - art. 1210-4 (T)
 
 
 ###### Article 1210-6
 
-En l'absence d'exécution volontaire de la décision de retour, le procureur de la République compétent en application de
-l'article 12-1 de la loi n° 91-650 du 9 juillet 1991 pour requérir directement la force publique afin de faire exécuter la
-décision est celui près le tribunal de grande instance spécialement désigné en application de l'article L. 211-12 du code de
-l'organisation judiciaire, dans le ressort duquel se trouve l'enfant. Il informe, s'il y a lieu, le procureur de la
-République près le tribunal de grande instance dans le ressort duquel se trouve l'enfant de son intention de requérir la
-force publique pour faire exécuter la décision de retour et peut recueillir de ce dernier toutes informations utiles,
-notamment au regard des risques que l'exécution de la décision pourrait entraîner.
+La demande aux fins d'obtenir le retour de l'enfant, en application de la convention du 25 octobre 1980 sur les aspects
+civils de l'enlèvement international d'enfants, est formée, instruite et jugée en la forme des référés.
 
 **Liens relatifs à cet article**
 
@@ -27735,27 +28295,29 @@ notamment au regard des risques que l'exécution de la décision pourrait entra�
 
 	**Modifié par**:
 
-	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 28
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 28
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 1210-9 (V)
+	  - Code de procédure civile - art. 1210-5 (T)
 
 
 ###### Article 1210-7
 
-Dès qu'il est informé de la décision de retour, le procureur de la République chargé de son exécution peut procéder ou faire
-procéder à l'audition de la personne chez qui se trouve l'enfant qui fait l'objet de cette décision.
+Dès qu'il est informé de la décision de retour, le procureur de la République chargé de son exécution, qui est celui près le
+tribunal de grande instance spécialement désigné en application de l'article L. 211-12 du code de l'organisation judiciaire,
+dans le ressort duquel se trouve l'enfant, peut procéder ou faire procéder à l'audition de la personne chez qui se trouve
+l'enfant qui fait l'objet de cette décision.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 28
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire - art. L211-12 (V)
 
 
 ###### Article 1210-8
@@ -27784,29 +28346,98 @@ l'objet de la décision de retour ;
 
 ###### Article 1210-9
 
-La décision de non-retour de l'enfant rendue à l'étranger ainsi que les documents qui l'accompagnent, transmis à l'autorité
-centrale française en application du 6 de l'article 11 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif
-à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité
-parentale, sont communiqués au ministère public près le tribunal de grande instance visé à l'article 1210-4, qui en saisit le
-juge aux affaires familiales par requête. 
+En l'absence d'exécution volontaire de la décision de retour, le procureur de la République compétent en application de
+l'article 34-1 de la loi n° 95-125 du 8 janvier 1995 pour requérir directement la force publique afin de faire exécuter la
+décision est celui près le tribunal de grande instance spécialement désigné en application de l'article L. 211-12 du code de
+l'organisation judiciaire, dans le ressort duquel se trouve l'enfant. Il informe, s'il y a lieu, le procureur de la
+République près le tribunal de grande instance dans le ressort duquel se trouve l'enfant de son intention de requérir la
+force publique pour faire exécuter la décision de retour et peut recueillir de ce dernier toutes informations utiles,
+notamment au regard des risques que l'exécution de la décision pourrait entraîner.
 
-Nonobstant les articles 100 et 101 du présent code, les autres juges aux affaires familiales saisis du même litige, ou de
-litiges connexes, se dessaisissent à son profit.
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-125 du 8 février 1995 - art. 34-1 (V)
+	  - Code de l'organisation judiciaire - art. L211-12 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 28
+
+	**Anciens textes**:
+
+	  - Code de procédure civile - art. 1210-6 (T)
+
+
+###### Article 1210-10
+
+Une copie des pièces des procédures diligentées par le procureur de la République sur le fondement des articles
+1210-4,1210-7,1210-8 et 1210-9 doit être communiquée à l'autorité centrale française dans le cadre de la convention de La
+Haye du 25 octobre 1980 lorsque celle-ci en fait la demande.
+
+Sauf refus exprès du procureur de la République, une copie des pièces visées à l'alinéa 1er peut être communiquée par
+l'intermédiaire de l'autorité centrale française, à une autre autorité centrale désignée par la convention précitée, ainsi
+qu'aux parents ou l'un d'eux, tuteur, personne ou service à qui l'enfant a été confié.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2012-98 du 27 janvier 2012 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 28
+
+
+###### Article 1210-11
+
+La décision de refus de retour rendue par une juridiction étrangère et les documents qui l'accompagnent transmis par elle en
+application de l'article 11 paragraphe 6 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
+compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale,
+sont communiqués à la juridiction déjà saisie par les parties d'une demande relative à l'exercice de l'autorité parentale ou,
+à défaut, au juge aux affaires familiales territorialement compétent en application de l'article L. 211-12 du code de
+l'organisation judiciaire, dans le ressort duquel réside le parent ayant sollicité le retour de l'enfant en France. 
+
+Lorsque la décision et les documents susvisés ont été transmis à une juridiction déjà saisie, le greffe de la juridiction les
+notifie aux parties. Lorsqu'à la suite de cette transmission, une partie forme une nouvelle demande tendant à voir ordonner
+le retour de l'enfant sur le fondement de l'article 11 du règlement (CE) n° 2201/2003, la juridiction se dessaisit s'il y a
+lieu au profit du juge aux affaires familiales spécialement désigné par l'article L. 211-12 du code de l'organisation
+judiciaire dans le ressort de la même cour d'appel. 
+
+Lorsque la décision et les documents susvisés ont été transmis au juge aux affaires familiales compétent en application de
+l'article L. 211-12 du code de l'organisation judiciaire, le greffe les notifie aux titulaires de l'exercice de l'autorité
+parentale qui sont invités à présenter leurs demandes dans un délai de trois mois, dans les formes prévues à l'article 1137.
+
+**Nota:**
+
+Conformément aux dispositions du V de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables aux
+décisions de refus de retour rendues à compter de l'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 28
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 100 (V)
-	  - Code de procédure civile - art. 1210-4 (V)
+	  - Code de procédure civile - art. 1137 (V)
+	  - Code de l'organisation judiciaire - art. L211-12 (V)
 
-	**Anciens textes**:
 
-	  - Code de procédure civile - art. 1210-6 (T)
+###### Article 1210-12
+
+Le délai de pourvoi en cassation sur les décisions rendues en matière de déplacement illicite international d'enfants est de
+quinze jours.
+
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables
+aux arrêts rendus sur appels interjetés à compter de l'entrée en vigueur dudit décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 28
 
 
 ### Chapitre X : La protection juridique des mineurs et des majeurs
@@ -27919,21 +28550,16 @@ mandat de recherche des héritiers.
 
 ###### Article 1216
 
-L'amende civile prévue aux  articles 411-1 et 417 du code civil ne peut excéder 3 000 euros. La décision qui la prononce
+L'amende civile prévue aux articles 411-1 et 417 du code civil ne peut excéder 10 000 euros. La décision qui la prononce
 n'est pas susceptible de recours.
-
-**Nota:**
-
-Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
-jour de son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2016-185 du 23 février 2016 - art. 6
-
 	**Cité par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 67
+
+	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 67
 
@@ -29515,19 +30141,19 @@ dossier du tribunal par la personne chargée de cette mission.
 ###### Article 1254-1
 
 Pour l'application de l'article 511 du code civil, lorsque les ressources de la personne protégée le permettent et que le
-greffier en chef l'estime utile, ce dernier peut solliciter, aux frais de la personne protégée, l'assistance d'un huissier de
-justice dans sa mission de vérification des comptes. La personne protégée et la personne désignée pour exercer la mesure de
-protection en sont informées par tout moyen ; ceux-ci peuvent déférer cette décision au juge des tutelles, qui statue sur la
-requête par une ordonnance non susceptible de recours. L'huissier de justice peut consulter l'ensemble des pièces relatives
-aux comptes figurant dans le dossier de la personne protégée, au greffe de la juridiction qui le détient, sans autre
-restriction que les nécessités du service, et en conserver les copies nécessaires à l'exécution de sa mission, mais ne peut
-les communiquer à un tiers.
+directeur de greffe l'estime utile, ce dernier peut solliciter, aux frais de la personne protégée, l'assistance d'un huissier
+de justice dans sa mission de vérification des comptes. La personne protégée et la personne désignée pour exercer la mesure
+de protection en sont informées par tout moyen ; ceux-ci peuvent déférer cette décision au juge des tutelles, qui statue sur
+la requête par une ordonnance non susceptible de recours. L'huissier de justice peut consulter l'ensemble des pièces
+relatives aux comptes figurant dans le dossier de la personne protégée, au greffe de la juridiction qui le détient, sans
+autre restriction que les nécessités du service, et en conserver les copies nécessaires à l'exécution de sa mission, mais ne
+peut les communiquer à un tiers.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1470 du 8 novembre 2011 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 	**Cite**:
 
@@ -30161,21 +30787,21 @@ La procédure prévue aux articles 1244 à 1245-1 est applicable.
 
 La demande relative au recours contre l'arrêté d'admission en qualité de pupille de l'Etat prévu aux articles L. 224-4 et L.
 224-8 du code de l'action sociale et des familles est portée devant le tribunal de grande instance dans le ressort duquel
-l'arrêté est pris. 
+l'arrêté est pris.
 
 Les dispositions des articles 1159 et 1160, du premier alinéa de l'article 1161 et de l'article 1162 sont applicables à la
-demande et à l'instance. 
+demande et à l'instance.
 
 Le jugement est prononcé en audience publique. Il est notifié par le greffier au demandeur, au tuteur et au président du
-conseil général. 
+conseil départemental.
 
 Les voies de recours sont régies par les dispositions de l'article 1163.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+	  - Décret n°2017-892 du 6 mai 2017 - art. 69
 
 	**Cite**:
 
@@ -30191,14 +30817,14 @@ Les voies de recours sont régies par les dispositions de l'article 1163.
 ###### Article 1262
 
 Lorsqu'après avoir reçu le rapport prévu à l'article L. 271-6 du code de l'action sociale et des familles le procureur de la
-République saisit le juge des tutelles, il en informe aussitôt le président du conseil général par tout moyen. Il en est de
-même lorsqu'il estime n'y avoir lieu à cette saisine.
+République saisit le juge des tutelles, il en informe aussitôt le président du conseil départemental par tout moyen. Il en
+est de même lorsqu'il estime n'y avoir lieu à cette saisine.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 69
 
 	**Cité par**:
 
@@ -30277,15 +30903,16 @@ Sa décision n'est pas susceptible d'opposition.
 ###### Article 1262-5
 
 La décision est notifiée à la personne qui perçoit les prestations et, le cas échéant, au mandataire judiciaire à la
-protection des majeurs désigné. 
+protection des majeurs désigné.
 
-Avis en est donné au procureur de la République, au président du conseil général et, le cas échéant, à l'organisme payeur.
+Avis en est donné au procureur de la République, au président du conseil départemental et, le cas échéant, à l'organisme
+payeur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 69
 
 
 ###### Article 1262-6
@@ -30307,21 +30934,21 @@ présent code sont applicables.
 
 ###### Article 1262-7
 
-L'appel est ouvert à la personne qui perçoit les prestations et au procureur de la République. 
+L'appel est ouvert à la personne qui perçoit les prestations et au procureur de la République.
 
-L'appel est formé, instruit et jugé selon la procédure sans représentation obligatoire. 
+L'appel est formé, instruit et jugé selon la procédure sans représentation obligatoire.
 
-Le délai d'appel est de quinze jours. 
+Le délai d'appel est de quinze jours.
 
 L'arrêt est notifié à la personne qui perçoit les prestations et, le cas échéant, au mandataire judiciaire à la protection
-des majeurs désigné. Avis en est donné au procureur de la République, au président du conseil général et, le cas échéant, à
-l'organisme payeur.
+des majeurs désigné. Avis en est donné au procureur de la République, au président du conseil départemental et, le cas
+échéant, à l'organisme payeur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1276 du 5 décembre 2008 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 69
 
 
 ###### Article 1262-8
@@ -30381,91 +31008,6 @@ suivantes :
 
 
 ## Titre II : Les biens.
-
-### Chapitre Ier : Les actions possessoires.
-
-###### Article 1264
-
-Sous réserve du respect des règles concernant le domaine public, les actions possessoires sont ouvertes dans l'année du
-trouble à ceux qui, paisiblement, possèdent ou détiennent depuis au moins un an ; toutefois, l'action en réintégration contre
-l'auteur d'une voie de fait peut être exercée alors même que la victime de la dépossession possédait ou détenait depuis moins
-d'un an.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 29
-
-
-###### Article 1265
-
-La protection possessoire et le fond du droit ne sont jamais cumulés.
-
-Le juge peut toutefois examiner les titres à l'effet de vérifier si les conditions de la protection possessoire sont réunies.
-
-Les mesures d'instruction ne peuvent porter sur le fond du droit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 29
-
-
-###### Article 1266
-
-Celui qui agit au fond n'est plus recevable à agir au possessoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 29
-
-
-###### Article 1267
-
-Le défendeur au possessoire ne peut agir au fond qu'après avoir mis fin au trouble.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 29
-
 
 ### Chapitre II : La reddition de compte et la liquidation des fruits.
 
@@ -34925,105 +35467,6 @@ droit commun. La requête et les documents produits sont restitués au requéran
 	  - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
 
-### Chapitre III : Les offres de paiement et la consignation.
-
-###### Article 1426
-
-Le procès-verbal d'offres réelles désigne la chose offerte ; s'il s'agit d'une somme d'argent, il en précise le montant et le
-mode de paiement.
-
-Il indique, dans tous les cas, le lieu où la consignation sera faite si les offres ne sont pas acceptées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Cité par**:
-
-	  - Décret n°2016-230 du 26 février 2016 - art.
-	  - Code de commerce - art. L523-8 (V)
-	  - Code de commerce - art. L524-6 (V)
-	  - Code de commerce - art. L925-2 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 31
-
-
-###### Article 1427
-
-Le procès-verbal fait mention de la réponse, du refus ou de l'acceptation du créancier, et indique s'il a signé, refusé de
-signer ou déclaré ne pouvoir signer.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 31
-
-
-###### Article 1428
-
-Si le créancier refuse les offres, le débiteur peut, de lui-même, pour se libérer, se dessaisir de la somme ou de la chose
-offerte, en la consignant avec, le cas échéant, les intérêts jusqu'au jour de la consignation.
-
-Le tiers saisi qu'une opposition empêche de payer peut se libérer en consignant sans avoir à faire des offres réelles.
-
-L'officier ministériel dresse procès-verbal de la consignation et le signifie au créancier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Cité par**:
-
-	  - Décret n°2016-230 du 26 février 2016 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 31
-
-
-###### Article 1429
-
-Les contestations relatives à la validité des offres ou de la consignation relèvent de la compétence du juge saisi du
-principal lorsqu'elles sont soulevées incidemment.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
-
-	**Abrogé par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 31
-
-
 ### Chapitre IV : La reconstitution d'actes détruits.
 
 ###### Article 1430
@@ -37181,17 +37624,20 @@ participative, de leurs avocats.
 
 Les dispositions du présent livre s'appliquent aux différends relevant des juridictions de l'ordre judiciaire statuant en
 matière civile, commerciale, sociale ou rurale, sous réserve des règles spéciales à chaque matière et des dispositions
-particulières à chaque juridiction. 
+particulières à chaque juridiction.
 
-Ces dispositions s'appliquent en matière prud'homale sous la réserve prévue par le 
+Elles s'appliquent en matière prud'homale sous la réserve prévue par le 
 troisième alinéa de l'article 2066 du code civil
 .
+
+Ces dispositions s'appliquent également aux conventions de procédure participative aux fins de mise en état du litige
+conclues dans le cadre d'instances pendantes devant les juridictions précitées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-660 du 20 mai 2016 - art. 32
+	  - Décret n°2017-892 du 6 mai 2017 - art. 24
 
 	**Cite**:
 
@@ -37390,22 +37836,14 @@ d'un exemplaire au greffe du tribunal d'instance.
 
 ###### Article 1541
 
-La demande tendant à l'homologation du constat d'accord est présentée au juge par requête d'une des parties à moins que l'une
-d'elles s'oppose à l'homologation dans l'acte constatant son accord. 
-
-Toutefois, lorsque la conciliation met fin à un différend transfrontalier la requête est présentée par l'ensemble des parties
-ou par l'une d'elles, sur justification du consentement exprès des autres parties. Ce consentement peut être contenu dans le
-constat d'accord. 
-
-Est transfrontalier le différend dans lequel, à la date où il est recouru à la conciliation, une des parties au moins est
-domiciliée ou a sa résidence habituelle dans un Etat membre de l'Union européenne autre que la France et une autre partie au
-moins est domiciliée ou a sa résidence habituelle en France.
+La demande tendant à l'homologation de l'accord issu de la conciliation est présentée au juge par requête de l'ensemble des
+parties à la conciliation ou de l'une d'elles, avec l'accord exprès des autres.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1515 du 28 décembre 2012 - art. 9
+	  - Décret n°2017-892 du 6 mai 2017 - art. 25
 
 
 ## Titre II : La procédure participative
@@ -37427,14 +37865,16 @@ La procédure participative prévue aux articles 2062 à 2067 du code civil est 
 
 ###### Article 1543
 
-Elle se déroule selon une procédure conventionnelle de recherche d'un accord et se poursuit, le cas échéant, par une
-procédure aux fins de jugement.
+Elle se déroule selon une procédure conventionnelle de recherche d'un accord, suivie, le cas échéant, par une procédure aux
+fins de jugement.
+
+Elle peut aussi se dérouler dans le cadre de l'instance, aux fins de mise en état.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
 ### Chapitre Ier  : La procédure conventionnelle 
@@ -37442,20 +37882,20 @@ procédure aux fins de jugement.
 
 
 
-#### Section 1 : Dispositions générales 
+#### Section 1 : La convention
 
-
+##### Sous-section 1 : Dispositions générales
 
 ###### Article 1544
 
-Les parties, assistées de leurs avocats, recherchent conjointement, dans les conditions fixées par convention, un accord
-mettant un terme au différend qui les oppose.
+Les parties, assistées de leurs avocats, œuvrent conjointement, dans les conditions fixées par convention, à un accord
+mettant un terme au différend qui les oppose ou à la mise en état de leur litige.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
 ###### Article 1545
@@ -37463,19 +37903,29 @@ mettant un terme au différend qui les oppose.
 Outre les mentions prévues à l'article 2063 du code civil, la convention de procédure participative mentionne les noms,
 prénoms et adresses des parties et de leurs avocats. 
 
-La communication des écritures et pièces entre les parties se fait par l'intermédiaire de leurs avocats selon les modalités
-prévues par la convention ; ceux-ci les portent à la connaissance des intéressés par tous moyens appropriés. Un bordereau est
-établi lorsqu'une pièce est communiquée.
+La communication des pièces et informations entre les parties se fait par l'intermédiaire de leurs avocats selon les
+modalités prévues par la convention ; ceux-ci les portent à la connaissance des intéressés par tous moyens appropriés. Un
+bordereau est établi lorsqu'une pièce est communiquée. 
+
+La convention fixe également la répartition des frais entre les parties sous réserve des dispositions de l'article 123-2 du
+décret n° 91-1266 du 19 décembre 1991 lorsque l'une des parties bénéficie de l'aide juridictionnelle. A défaut de précision
+dans la convention, les frais de la procédure participative sont partagés par moitié.
+
+**Nota:**
+
+Conformément aux dispositions du VIII de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables
+aux procédures participatives conclues à compter de l'entrée en vigueur dudit décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
-
 	**Cite**:
 
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2 (V)
 	  - Code civil - art. 2063
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
 ###### Article 1546
@@ -37484,9 +37934,47 @@ La convention de procédure participative est modifiée dans les mêmes formes q
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
+
+
+##### Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état
+
+###### Article 1546-1
+
+Le juge ordonne le retrait du rôle lorsque les parties l'informent de la conclusion d'une convention de procédure
+participative.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
+
+
+#### Section 1 bis : Les actes contresignés par avocats
+
+###### Article 1546-3
+
+Par actes contresignés par avocats précisés dans la convention de procédure participative, les parties peuvent notamment :
+
+1° Constater les faits qui ne l'auraient pas été dans la convention ;
+
+2° Déterminer les points de droit auxquels elles entendent limiter le débat, dès lors qu'ils portent sur des droits dont
+elles ont la libre disposition ;
+
+3° Convenir des modalités de communication de leurs écritures ;
+
+4° Recourir à un technicien ;
+
+5° Désigner un conciliateur de justice ou un médiateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
 #### Section 2 : Le recours à un technicien 
@@ -37610,27 +38098,27 @@ Ce rapport peut être produit en justice.
 
 ###### Article 1555
 
-La procédure conventionnelle s'éteint par : 
+La procédure conventionnelle s'éteint par :
 
-1° L'arrivée du terme de la convention de procédure participative ; 
+1° L'arrivée du terme de la convention de procédure participative ;
 
-2° La résiliation anticipée et par écrit de cette convention par les parties assistées de leurs avocats ; 
+2° La résiliation anticipée et par écrit de cette convention par les parties assistées de leurs avocats ;
 
-3° La conclusion d'un accord mettant fin en totalité au différend ou l'établissement d'un acte constatant la persistance de
-tout ou partie de celui-ci. 
+3° La conclusion d'un accord mettant fin en totalité au différend ou au litige ou l'établissement d'un acte constatant la
+persistance de tout ou partie de celui-ci.
 
 Lorsqu'un accord au moins partiel a pu être conclu, il est constaté dans un écrit établi par les parties, assistées de leurs
 avocats. Il énonce de manière détaillée les éléments ayant permis la conclusion de cet accord.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 	**Cité par**:
 
-	  - Code de procédure civile - art. 1557 (M)
+	  - Code de procédure civile - art. 1557 (V)
 	  - Code de procédure civile - art. 1564-2 (V)
 
 
@@ -37643,8 +38131,9 @@ avocats. Il énonce de manière détaillée les éléments ayant permis la concl
 
 A l'issue de la procédure conventionnelle et exception faite des demandes en divorce ou en séparation de corps sur lesquelles
 il est statué conformément aux dispositions de la section II du chapitre V du titre Ier du livre III, le juge peut être saisi
-de l'affaire, selon le cas, pour homologuer l'accord des parties mettant fin en totalité au différend, pour homologuer un
-accord partiel des parties et statuer sur la partie du litige persistant ou pour statuer sur l'entier litige. 
+de l'affaire ou celle-ci être rétablie à la demande d'une des parties, selon le cas, pour homologuer l'accord des parties
+mettant fin en totalité au différend ou au litige, pour homologuer un accord partiel des parties et statuer sur la partie du
+litige persistant ou pour statuer sur l'entier litige.
 
 La demande faite au juge par une partie, en application du premier alinéa de l'article 2065 du code civil, pour qu'il statue
 sur le litige avant le terme de la convention, du fait de son inexécution par l'autre partie, est formée, instruite et jugée
@@ -37652,22 +38141,18 @@ conformément aux règles de procédure applicables devant ce juge.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 	**Cite**:
 
 	  - Code civil - art. 2065
 
 
-#### Section 1 : La procédure d'homologation d'un accord 
-mettant fin à l'entier différend 
+#### Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable
 
-
-
-
-
+##### Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend
 
 ###### Article 1557
 
@@ -37682,23 +38167,20 @@ par le juge ou la personne désignée par lui et à être assisté par un avocat
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1555
+	  - Code de procédure civile - art. 1555 (V)
 
 	**Cité par**:
 
-	  - Code de procédure civile - art. 1560 (M)
+	  - Code de procédure civile - art. 1560 (V)
 
 
-#### Section 2 : La procédure de jugement du différend persistant 
-
-
-
+##### Sous-section 2 : La procédure de jugement du différend persistant
 
 ##### Paragraphe 1 : Dispositions communes 
 
@@ -37716,9 +38198,9 @@ appelée à une audience pour y être jugée.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2016-660 du 20 mai 2016 - art. 33
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 	**Cite**:
 
@@ -37734,13 +38216,13 @@ peut être renvoyée devant le juge de la mise en état que dans les cas prévus
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 	**Cité par**:
 
-	  - Code de procédure civile - art. 1561 (M)
+	  - Code de procédure civile - art. 1561 (V)
 
 
 ##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel 
@@ -37770,19 +38252,19 @@ procédure conventionnelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1557
+	  - Code de procédure civile - art. 1557 (V)
 	  - Code de procédure civile - art. 57
 	  - Code civil - art. 2063
 
 	**Cité par**:
 
-	  - Code de procédure civile - art. 1563 (M)
+	  - Code de procédure civile - art. 1563 (V)
 
 
 ###### Article 1561
@@ -37799,11 +38281,11 @@ l'invitation du juge de fournir les explications de fait ou de droit qu'il estim
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2015-282 du 11 mars 2015 - art. 32
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
-	**Cité par**:
+	**Cite**:
 
 	  - Code de procédure civile - art. 1559 (V)
 
@@ -37826,9 +38308,9 @@ du présent paragraphe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
 ###### Article 1563
@@ -37846,13 +38328,13 @@ Devant le tribunal de grande instance, le dépôt de cet acte au greffe contient
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1560
+	  - Code de procédure civile - art. 1560 (V)
 	  - Code de procédure civile - art. 58
 
 	**Cité par**:
@@ -37872,13 +38354,81 @@ notification prévue au troisième alinéa de l'article 1563.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+	  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 	**Cite**:
 
 	  - Code de procédure civile - art. 1563
+
+
+#### Section 2 : La procédure de jugement après mise en état du litige
+
+###### Article 1564-1
+
+L'affaire est rétablie à la demande de l'une des parties afin que le juge, selon le cas, homologue l'accord et statue sur la
+partie du litige persistant ou statue sur l'entier litige.
+
+La demande de rétablissement est accompagnée de la convention de procédure participative conclue entre les parties, des
+pièces prévues à l'
+article 2063 du code civil
+, le cas échéant, du rapport du technicien, ainsi que des pièces communiquées au cours de la procédure conventionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
+
+	**Cite**:
+
+	  - Code civil - art. 2063
+
+
+###### Article 1564-2
+
+Lorsque la mise en état a permis de parvenir à un accord total, la demande tendant à l'homologation de l'accord des parties
+établi conformément à l'article 1555 est présentée au juge par la partie la plus diligente ou l'ensemble des parties. 
+
+Lorsque l'accord concerne un mineur capable de discernement, notamment lorsqu'il porte sur les modalités de l'exercice de
+l'autorité parentale, la demande mentionne les conditions dans lesquelles le mineur a été informé de son droit à être entendu
+par le juge ou la personne désignée par lui et à être assisté par un avocat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1555 (V)
+
+
+###### Article 1564-3
+
+Lorsque la mise en état a permis de parvenir à un accord partiel, la demande de rétablissement indique les points faisant
+l'objet d'un accord entre les parties, ainsi que les prétentions respectives des parties relativement aux points sur lesquels
+elles restent en litige, accompagnées des moyens de fait et de droit sur lesquels chacune de ces prétentions est fondée, avec
+l'indication pour chaque prétention des pièces invoquées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
+
+
+###### Article 1564-4
+
+Lorsque le litige persiste en totalité, le juge en connaît selon les modalités prévues à l'article 1564-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
 ## Titre III : Dispositions communes
@@ -37943,16 +38493,19 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-683 du 28 avril 2017,
-à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis
-du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-888 du 6 mai 2017
+relatif à l'action de groupe et à l'action en reconnaissance de droits prévues aux titres V et VI de la loi n° 2016-1547 du
+18 novembre 2016 de modernisation de la justice du XXI 
+  <sup>e </sup>siècle, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre
+III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent
+livre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2016-1907 du 28 décembre 2016
-	  - Code civil - art. 229-1
+	  - Loi n°2016-1547 du 18 novembre 2016 (V)
+	  - Décret n°2017-888 du 6 mai 2017 (V)
 
 	**Cité par**:
 
@@ -37961,7 +38514,7 @@ du chapitre IX du titre Ier du livre III et du livre V, dans les conditions déf
 
 	**Modifié par**:
 
-	  - Décret n°2017-683 du 28 avril 2017 - art. 4
+	  - Décret n°2017-888 du 6 mai 2017 - art. 9 (V)
 
 
 ###### Article 1576
@@ -37986,17 +38539,13 @@ Pour l'application du présent code à Wallis et Futuna, les termes énumérés 
 
 9° "Caisse des dépôts et consignations" par : "Trésor public" ;
 
-10° " président du conseil général " ou " maire " par : " chef du territoire ".
+10° " président du conseil départemental " ou " maire " par : " chef du territoire ".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Code de procédure civile - art. 1513 (M)
+	  - Décret n°2017-892 du 6 mai 2017 - art. 69
 
 
 ###### Article 1577
@@ -38688,38 +39237,6 @@ accuse réception.
 	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-###### Article ANNEXE, art. 30-3
-
-Le représentant de l'Etat dans le département qui s'oppose à l'inscription d'une association sur le fondement de l'article 61
-du code civil local en fait la déclaration au greffe du tribunal d'instance dans le délai prévu à l'article 63 du même code.
-
-Le greffe notifie l'opposition à la direction de l'association, par lettre recommandée avec demande d'avis de réception, dans
-le délai d'un mois à compter de sa réception au greffe. Le tribunal peut toutefois décider que cette notification aura lieu
-par acte d'huissier de justice ou par la voie administrative.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code civil local 61, 63
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2017-908 du 6 mai 2017 - art. 14
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. R93 (V)
-
-
 ###### Article ANNEXE, art. 30-4
 
 Les déclarations prévues au premier alinéa de l'article 67 et aux articles 74 et 76 du code civil local sont faites au greffe
@@ -38777,11 +39294,10 @@ organisé selon des modalités fixées par arrêté du garde des sceaux, ministr
 
 ###### Article ANNEXE, art. 30-7
 
-L'attestation prévue à l'article 69 du code civil local est établie par le greffier en chef du tribunal d'instance, ou son
-délégué, selon un modèle fixé par arrêté du garde des sceaux, ministre de la justice.
-
-Elle précise les nom, prénoms, domicile, nationalité, date et lieu de naissance de chacun des membres de la direction ainsi
-que la date d'inscription de l'association.
+L'attestation prévue à l'article 69 du code civil local est établie par le directeur de greffe du tribunal d'instance, ou son
+délégué, selon un modèle fixé par arrêté du garde des sceaux, ministre de la justice. Elle précise les nom, prénoms,
+domicile, nationalité, date et lieu de naissance de chacun des membres de la direction ainsi que la date d'inscription de
+l'association.
 
 **Liens relatifs à cet article**
 
@@ -38791,16 +39307,16 @@ que la date d'inscription de l'association.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article ANNEXE, art. 30-8
 
-Le greffier en chef du tribunal d'instance avise le ministère public de l'omission des déclarations à fin d'inscription
+Le directeur de greffe du tribunal d'instance avise le ministère public de l'omission des déclarations à fin d'inscription
 prévues par le premier alinéa de l'article 67, le premier alinéa de l'article 71, le deuxième alinéa de l'article 74 et
 l'article 76 du code civil local dont il a connaissance. Il en est de même lorsque l'attestation prévue par l'article 72 du
 même code n'est pas fournie.
@@ -38813,11 +39329,11 @@ même code n'est pas fournie.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ##### Paragraphe 3 : La publication de l'inscription
@@ -39492,8 +40008,8 @@ forcée sur les immeubles, à la procédure en matière de purge des hypothèque
 
 ###### Article ANNEXE, art. 45
 
-Les notifications qui incombent au secrétaire d'une juridiction sont faites conformément aux dispositions des articles 665 et
-670 du  code de procédure civile.
+Les notifications qui incombent au greffier d'une juridiction sont faites conformément aux dispositions des articles 665 et
+670 du code de procédure civile.
 
 Lorsqu'elles sont faites par voie postale, elles le sont par lettre recommandée avec demande d'avis de réception.
 
@@ -39501,11 +40017,11 @@ Lorsqu'elles sont faites par voie postale, elles le sont par lettre recommandée
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°76-899 1976-09-29 art. 6 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
 ###### Article ANNEXE, art. 46

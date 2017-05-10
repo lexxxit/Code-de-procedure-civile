@@ -1,6 +1,6 @@
 # Article ANNEXE, art. 30-8
 
-Le greffier en chef du tribunal d'instance avise le ministère public de l'omission des déclarations à fin d'inscription
+Le directeur de greffe du tribunal d'instance avise le ministère public de l'omission des déclarations à fin d'inscription
 prévues par le premier alinéa de l'article 67, le premier alinéa de l'article 71, le deuxième alinéa de l'article 74 et
 l'article 76 du code civil local dont il a connaissance. Il en est de même lorsque l'attestation prévue par l'article 72 du
 même code n'est pas fournie.
@@ -13,8 +13,8 @@ même code n'est pas fournie.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+	  - Décret n°2017-892 du 6 mai 2017 - art. 68
