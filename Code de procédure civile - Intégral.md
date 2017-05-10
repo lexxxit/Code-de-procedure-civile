@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-05-11
+Version Consolidée au 2017-05-11 00:00:01 +0200
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -6798,30 +6798,6 @@ Cour de cassation qui, après avis du procureur général près ladite cour, sta
 
 	  - Code de procédure civile - art. 341 (V)
 	  - Code de procédure civile - art. 344 (V)
-
-
-### Chapitre III : Le renvoi à une autre juridiction.
-
-#### Section I : Le renvoi pour cause de suspicion légitime.
-
-###### Article 362
-
-En cas de renvoi, il est procédé comme il est dit à l'article 97.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-	  - Décret n°2017-891 du 6 mai 2017 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code de procédure civile - art. 354 (V)
 
 
 ### Chapitre III : Le renvoi pour cause de sûreté publique
@@ -13989,8 +13965,6 @@ alloue une somme au titre du 2° du présent article, celle-ci ne peut être inf
 	  - Décret n°2013-1280 du 29 décembre 2013 - art. 22
 
 
-### Chapitre II : La liquidation des dépens à recouvrer par le secrétariat.
-
 ### Chapitre II : La liquidation des dépens à recouvrer par le greffe
 
 ###### Article 701
@@ -14474,8 +14448,6 @@ d'établir préalablement un certificat de vérification.
 	  - Nouveau code de procédure civile 704, 705, 706, 707, 708
 
 
-## Titre XIX : Le secrétariat de la juridiction.
-
 ## Titre XIX : Le greffe de la juridiction
 
 ###### Article 726
@@ -14646,25 +14618,6 @@ procès-verbaux accompagnés des pièces et objets annexés ou déposés.
 
 
 ### Chapitre II : Les commissions rogatoires internationales.
-
-###### Article 733
-
-Les dispositions du présent chapitre s'appliquent sous réserve des règlements européens et des traités internationaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2017-892 du 6 mai 2017 - art. 16
-
-	**Modifié par**:
-
-	  - Décret n°2017-892 du 6 mai 2017 - art. 16
-
 
 #### Section I : Commissions rogatoires à destination de l'étranger
 
