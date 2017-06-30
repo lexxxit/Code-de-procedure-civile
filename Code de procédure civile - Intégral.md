@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-05-15
+Version Consolidée au 2017-07-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -17275,69 +17275,6 @@ demandeur défaillant n'est pas déchargé de ses obligations.
 
 ## Titre II : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.
 
-###### Article 827
-
-Les parties se défendent elles-mêmes.
-
-Elles ont la faculté de se faire assister ou représenter.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R331-9-2 (Ab)
-	  - Code de la consommation - art. R713-4 (V)
-
-
-###### Article 828
-
-Les parties peuvent se faire assister ou représenter par :
-
-- un avocat ;
-
-- leur conjoint ;
-
-- comme il est dit à l'article 2 de la loi n° 2007-1787 du 20 décembre 2007 relative à la simplification du droit, leur
-concubin ou la personne avec laquelle elles ont conclu un pacte civil de solidarité ;
-
-- leurs parents ou alliés en ligne directe ;
-
-- leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus ;
-
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise. 
-
-L'Etat,  les départements, les régions, les communes et les établissements publics peuvent se faire représenter ou assister
-par un fonctionnaire ou un agent de leur administration. 
-
-Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°89-462 du 6 juillet 1989 - art. 24-1 (V)
-	  - Code de la consommation - art. R142-2 (Ab)
-	  - Code de la consommation - art. R713-4 (V)
-	  - Code de procédure civile - art. 834 (VD)
-	  - Code général de la propriété des personnes publ... - art. R5112-35 (V)
-
-	**Cite**:
-
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 2
-
-	**Modifié par**:
-
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 38
-
-
 ### Sous-titre Ier : La procédure ordinaire.
 
 ###### Article 829
@@ -17822,67 +17759,6 @@ moyen.
 	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
 
 
-##### Sous-section III : Des renvois de compétence
-
-###### Article 847-4
-
-Lorsqu'il se heurte à une difficulté juridique sérieuse portant sur l'application d'une règle de droit ou sur
-l'interprétation d'un contrat liant les parties, le juge de proximité, après avoir entendu les parties, renvoie l'affaire au
-juge d'instance en lui transmettant immédiatement le dossier.
-
-Sa décision est une mesure d'administration judiciaire. Elle peut revêtir la forme d'une simple mention au dossier.
-
-Le juge d'instance reprend la procédure en l'état où l'a laissée le juge de proximité, sauf à réentendre les parties si elles
-ont déjà plaidé.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 70-4 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-	**Abrogé par**:
-
-	  - Décret n°2017-683 du 28 avril 2017 - art. 2
-
-
-###### Article 847-5
-
-Le juge de proximité renvoie toutes les exceptions d'incompétence au juge d'instance. Sa décision peut revêtir la forme d'une
-simple mention au dossier. 
-
-Le juge de proximité peut toujours relever d'office son incompétence ainsi que le tribunal d'instance au profit du juge de
-proximité. 
-
-Le juge d'instance statue sans recours si sa décision concerne seulement sa propre compétence et la compétence des juges de
-proximité de son ressort. 
-
-Les articles 81 et 82 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2017-683 du 28 avril 2017 - art. 2
-
-	**Modifié par**:
-
-	  - Décret n°2017-891 du 6 mai 2017 - art. 4
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R142-2 (Ab)
-	  - Code de procédure civile - art. 1425-1 (V)
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 81 (V)
-
-
 ### Sous-titre II : Les ordonnances de référé devant le juge d'instance.
 
 ###### Article 848
@@ -18039,6 +17915,79 @@ dans les conditions prévues par l'alinéa 2 de l'article 849.
 	  - Code de procédure pénale - art. 470-1 (V)
 	  - Code de procédure pénale - art. R41-2 (V)
 
+
+## Titre II : Dispositions particulières au tribunal d'instance
+
+###### Article 827
+
+Les parties se défendent elles-mêmes.
+
+Elles ont la faculté de se faire assister ou représenter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R331-9-2 (Ab)
+	  - Code de la consommation - art. R713-4 (V)
+
+
+###### Article 828
+
+Les parties peuvent se faire assister ou représenter par :
+
+- un avocat ;
+
+- leur conjoint ;
+
+- comme il est dit à l'article 2 de la loi n° 2007-1787 du 20 décembre 2007 relative à la simplification du droit, leur
+concubin ou la personne avec laquelle elles ont conclu un pacte civil de solidarité ;
+
+- leurs parents ou alliés en ligne directe ;
+
+- leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus ;
+
+- les personnes exclusivement attachées à leur service personnel ou à leur entreprise. 
+
+L'Etat,  les départements, les régions, les communes et les établissements publics peuvent se faire représenter ou assister
+par un fonctionnaire ou un agent de leur administration. 
+
+Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24-1 (V)
+	  - Code de la consommation - art. R142-2 (Ab)
+	  - Code de la consommation - art. R713-4 (V)
+	  - Code de procédure civile - art. 834 (VD)
+	  - Code général de la propriété des personnes publ... - art. R5112-35 (V)
+
+	**Cite**:
+
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 38
+
+
+### Sous-titre Ier : La procédure ordinaire.
+
+### Sous-titre II : Les ordonnances de référé devant le juge d'instance.
+
+### Sous-titre III : Les ordonnances sur requête devant le juge d'instance.
+
+### Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale.
 
 ## Titre III : Dispositions particulières au tribunal de commerce.
 
@@ -34865,8 +34814,8 @@ La loi n° 81-1 du 2 janvier 1981 a été codifiée aux articles L. 313-23 et su
 
 ###### Article 1406
 
-La demande est portée, selon le cas, devant le tribunal d'instance, la juridiction de proximité ou devant le président du
-tribunal de grande instance ou du tribunal de commerce, dans la limite de la compétence d'attribution de ces juridictions. 
+La demande est portée, selon le cas, devant le tribunal d'instance ou devant le président du tribunal de grande instance ou
+du tribunal de commerce, dans la limite de la compétence d'attribution de ces juridictions.
 
 Le juge territorialement compétent est celui du lieu où demeure le ou l'un des débiteurs poursuivis.
 
@@ -34881,7 +34830,7 @@ relever d'office son incompétence, l'article 847-5 étant alors applicable.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1515 du 28 décembre 2012 - art. 2
+	  - Décret n°2017-683 du 28 avril 2017 - art. 2
 
 
 ###### Article 1407
@@ -35121,8 +35070,8 @@ compétente selon les règles prévues à l'article 97.
 
 ###### Article 1418
 
-Devant le tribunal d'instance, la juridiction de proximité et le tribunal de commerce, le greffier convoque les parties à
-l'audience par lettre recommandée avec demande d'avis de réception. 
+Devant le tribunal d'instance et le tribunal de commerce, le greffier convoque les parties à l'audience par lettre
+recommandée avec demande d'avis de réception.
 
 La convocation est adressée à toutes les parties, même à celles qui n'ont pas formé opposition.
 
@@ -35142,17 +35091,17 @@ contre lui sur les seuls éléments fournis par son adversaire.
 Ces mentions sont prescrites à peine de nullité.
 
 Devant le tribunal de grande instance, l'affaire est instruite et jugée selon la procédure contentieuse applicable devant
-cette juridiction, sous réserve des dispositions suivantes. 
+cette juridiction, sous réserve des dispositions suivantes.
 
 Le greffe adresse au créancier, par lettre recommandée avec demande d'avis de réception, une copie de la déclaration
 d'opposition. Cette notification est régulièrement faite à l'adresse indiquée par le créancier lors du dépôt de la requête en
 injonction de payer. En cas de retour au greffe de l'avis de réception non signé, la date de notification est, à l'égard du
-destinataire, celle de la présentation et la notification est réputée faite à domicile ou à résidence. 
+destinataire, celle de la présentation et la notification est réputée faite à domicile ou à résidence.
 
-Le créancier doit constituer avocat dans un délai de quinze jours à compter de la notification. 
+Le créancier doit constituer avocat dans un délai de quinze jours à compter de la notification.
 
 Dès qu'il est constitué, l'avocat du créancier en informe le débiteur par lettre recommandée avec demande d'avis de
-réception, lui indiquant qu'il est tenu de constituer avocat dans un délai de quinze jours. 
+réception, lui indiquant qu'il est tenu de constituer avocat dans un délai de quinze jours.
 
 Une copie des actes de constitution est remise au greffe.
 
@@ -35164,20 +35113,20 @@ Une copie des actes de constitution est remise au greffe.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1515 du 28 décembre 2012 - art. 4
+	  - Décret n°2017-683 du 28 avril 2017 - art. 2
 
 	**Cité par**:
 
-	  - Code de procédure civile - art. 1419 (V)
+	  - Code de procédure civile - art. 1419 (VD)
 
 
 ###### Article 1419
 
-Devant le tribunal d'instance, la juridiction de proximité et le tribunal de commerce, la juridiction constate l'extinction
-de l'instance si aucune des parties ne comparaît. 
+Devant le tribunal d'instance et le tribunal de commerce, la juridiction constate l'extinction de l'instance si aucune des
+parties ne comparaît.
 
 Devant le tribunal de grande instance, le président constate l'extinction de l'instance si le créancier ne constitue pas
-avocat dans le délai prévu à l'article 1418. 
+avocat dans le délai prévu à l'article 1418.
 
 L'extinction de l'instance rend non avenue l'ordonnance portant injonction de payer.
 
@@ -35189,11 +35138,11 @@ L'extinction de l'instance rend non avenue l'ordonnance portant injonction de pa
 
 	**Modifié par**:
 
-	  - Décret n°2012-1515 du 28 décembre 2012 - art. 5
+	  - Décret n°2017-683 du 28 avril 2017 - art. 2
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 1418
+	  - Code de procédure civile - art. 1418 (VD)
 
 
 ###### Article 1420
@@ -35560,25 +35509,22 @@ Toutefois, la caducité n'est pas encourue en cas de procédure d'injonction de 
 
 L'exécution en nature d'une obligation née d'un contrat conclu entre des personnes n'ayant pas toutes la qualité de
 commerçant peut être demandée au tribunal d'instance lorsque la valeur de la prestation dont l'exécution est réclamée
-n'excède pas le taux de compétence de cette juridiction. 
-
-Le juge de proximité est compétent dans les limites définies au code de l'organisation judiciaire et dans les conditions de
-l'article 847-5 du présent code.
+n'excède pas le taux de compétence de cette juridiction.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2004-836 du 20 août 2004 - art. 50 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Décret n°2016-230 du 26 février 2016 - art.
 	  - Code de la consommation - art. R631-2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-683 du 28 avril 2017 - art. 2
 
 	**Liens**:
 
@@ -35586,7 +35532,7 @@ l'article 847-5 du présent code.
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 847-5 (V)
+	  - Code de procédure civile - art. 847-5 (M)
 
 
 ###### Article 1425-2
@@ -40151,6 +40097,8 @@ Dans les cas prévus au présent chapitre, les articles 751 et 753 du code de pr
 
 ### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.
 
+### Chapitre III : Dispositions particulières au tribunal d'instance
+
 ###### Article ANNEXE, art. 36
 
 Le tribunal d'instance peut être saisi soit selon les dispositions des chapitres Ier et II du sous-titre Ier du titre II du
@@ -40169,29 +40117,6 @@ applicables.
 	**Cite**:
 
 	  - Code de procédure civile - art. 843
-
-
-###### Article ANNEXE, art. 36-1
-
-L'article 36 est applicable devant la juridiction de proximité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 26 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2017-683 du 28 avril 2017 - art. 2
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile annexe, 36
 
 
 ### Chapitre IV : Dispositions particulières à la matière commerciale.
