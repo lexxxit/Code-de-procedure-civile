@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-09-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -766,7 +766,7 @@ limitrophe.
 
 Le défendeur ou toutes les parties en cause d'appel peuvent demander le renvoi devant une juridiction choisie dans les mêmes
 conditions. A peine d'irrecevabilité, la demande est présentée dès que son auteur a connaissance de la cause de renvoi. En
-cas de renvoi, il est procédé comme il est dit à l'article 97.
+cas de renvoi, il est procédé comme il est dit à l'article 82.
 
 **Liens relatifs à cet article**
 
@@ -776,7 +776,7 @@ cas de renvoi, il est procédé comme il est dit à l'article 97.
 
 	**Modifié par**:
 
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 26
+	  - Décret n°2017-891 du 6 mai 2017 - art. 3
 
 	**Cité par**:
 
@@ -785,7 +785,7 @@ cas de renvoi, il est procédé comme il est dit à l'article 97.
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 97
+	  - Code de procédure civile - art. 82 (V)
 
 
 ###### Article 48
@@ -1729,58 +1729,6 @@ juridiction qu'elle estime compétente à laquelle le dossier est transmis à l'
 	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
-
-	  - Décret n°2017-891 du 6 mai 2017 - art. 1
-
-
-##### Sous-section IV : L'incompétence relevée d'office.
-
-###### Article 94
-
-La voie du contredit est seule ouverte lorsqu'une juridiction statuant en premier ressort se déclare d'office incompétente.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2017-891 du 6 mai 2017 - art. 1
-
-
-##### Sous-section V : Dispositions communes.
-
-###### Article 98
-
-La voie de l'appel est seule ouverte contre les ordonnances de référé et contre les ordonnances du juge conciliateur en
-matière de divorce ou de séparation de corps.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2017-891 du 6 mai 2017 - art. 1
-
-
-###### Article 99
-
-Par dérogation aux règles de la présente section, la cour ne peut être saisie que par la voie de l'appel lorsque
-l'incompétence est invoquée ou relevée d'office au motif que l'affaire relève de la compétence d'une juridiction
-administrative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Abrogé par**:
 
 	  - Décret n°2017-891 du 6 mai 2017 - art. 1
 
@@ -7895,15 +7843,17 @@ En dehors de ces cas, il peut agir pour la défense de l'ordre public à l'occas
 Le ministère public est partie jointe lorsqu'il intervient pour faire connaître son avis sur l'application de la loi dans une
 affaire dont il a communication.
 
+Lorsque le ministère public intervient, le greffe en informe aussitôt les parties.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 art. 14 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+	  - Décret n°2017-891 du 6 mai 2017 - art. 45
 
 
 ###### Article 425
@@ -10220,16 +10170,35 @@ la mise en état peut, en cas d'appel, décider, à la demande de l'intimé et a
 parties, la radiation du rôle de l'affaire lorsque l'appelant ne justifie pas avoir exécuté la décision frappée d'appel ou
 avoir procédé à la consignation autorisée dans les conditions prévues à l'article 521, à moins qu'il lui apparaisse que
 l'exécution serait de nature à entraîner des conséquences manifestement excessives ou que l'appelant est dans l'impossibilité
-d'exécuter la décision.
+d'exécuter la décision. 
 
-Le premier président ou le conseiller chargé de la mise en état autorise, sauf s'il constate la péremption, la réinscription
-de l'affaire au rôle de la cour sur justification de l'exécution de la décision attaquée.
+La demande de l'intimé doit, à peine d'irrecevabilité prononcée d'office, être présentée avant l'expiration des délais
+prescrits aux articles 905-2,909,910 et 911. 
+
+La décision de radiation est notifiée par le greffe aux parties ainsi qu'à leurs représentants par lettre simple. Elle est
+une mesure d'administration judiciaire. 
+
+La demande de radiation suspend les délais impartis à l'intimé par les articles 905-2,909,910 et 911. 
+
+Ces délais recommencent à courir à compter de la notification de la décision autorisant la réinscription de l'affaire au rôle
+de la cour ou de la décision rejetant la demande de radiation. 
+
+La décision de radiation n'emporte pas suspension des délais impartis à l'appelant par les articles 905-2,908 et 911. Elle
+interdit l'examen des appels principaux et incidents ou provoqués. 
+
+Le délai de péremption court à compter de la notification de la décision ordonnant la radiation. Il est interrompu par un
+acte manifestant sans équivoque la volonté d'exécuter. Le premier président ou le conseiller de la mise en état peut, soit à
+la demande des parties, soit d'office, après avoir invité les parties à présenter leurs observations, constater la
+péremption. 
+
+Le premier président ou le conseiller de la mise en état autorise, sauf s'il constate la péremption, la réinscription de
+l'affaire au rôle de la cour sur justification de l'exécution de la décision attaquée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -10237,11 +10206,14 @@ de l'affaire au rôle de la cour sur justification de l'exécution de la décisi
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 47 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-891 du 6 mai 2017 - art. 46
 
 	**Cite**:
 
-	  - Nouveau code de procédure civile 521
+	  - Code de procédure civile - art. 521 (V)
+	  - Code de procédure civile - art. 905-2 (VD)
+	  - Code de procédure civile - art. 908 (VD)
+	  - Code de procédure civile - art. 909 (VD)
 
 
 ## Titre XVI : Les voies de recours.
@@ -10333,7 +10305,8 @@ Le délai ne court contre le majeur en curatelle que du jour de la notification 
 ###### Article 531
 
 S'il se produit, au cours du délai du recours, un changement dans la capacité d'une partie à laquelle le jugement avait été
-notifié, le délai est interrompu.
+notifié, le délai est interrompu. Ce délai est également interrompu par l'effet du jugement qui prononce la sauvegarde, le
+redressement judiciaire ou la liquidation judiciaire dans les causes où il emporte assistance ou dessaisissement du débiteur.
 
 Le délai court en vertu d'une notification faite à celui qui a désormais qualité pour la recevoir.
 
@@ -10341,7 +10314,11 @@ Le délai court en vertu d'une notification faite à celui qui a désormais qual
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 47
 
 
 ###### Article 532
@@ -10512,13 +10489,18 @@ gracieuse, il peut être relevé de la forclusion dans les conditions prévues �
 
 ###### Article 542
 
-L'appel tend à faire réformer ou annuler par la cour d'appel un jugement rendu par une juridiction du premier degré.
+L'appel tend, par la critique du jugement rendu par une juridiction du premier degré, à sa réformation ou à son annulation
+par la cour d'appel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 7
 
 
 ##### Section I : Le droit d'appel.
@@ -10618,27 +10600,23 @@ intimée, ayant été partie en première instance.
 
 ###### Article 550
 
-Sous réserve des articles 909 et 910, l'appel incident ou l'appel provoqué peut être formé, en tout état de cause, alors même
-que celui qui l'interjetterait serait forclos pour agir à titre principal. Dans ce dernier cas, il ne sera toutefois pas reçu
-si l'appel principal n'est pas lui-même recevable. 
+Sous réserve des articles 905-2,909 et 910, l'appel incident ou l'appel provoqué peut être formé, en tout état de cause,
+alors même que celui qui l'interjetterait serait forclos pour agir à titre principal. Dans ce dernier cas, il ne sera
+toutefois pas reçu si l'appel principal n'est pas lui-même recevable ou s'il est caduc. 
 
 La cour peut condamner à des dommages-intérêts ceux qui se seraient abstenus, dans une intention dilatoire, de former
 suffisamment tôt leur appel incident ou provoqué.
-
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 9
+	  - Décret n°2017-891 du 6 mai 2017 - art. 8
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 909
+	  - Code de procédure civile - art. 905-2 (VD)
+	  - Code de procédure civile - art. 909 (VD)
 
 
 ###### Article 551
@@ -10787,28 +10765,38 @@ légitime, de comparaître en première instance.
 
 ###### Article 561
 
-L'appel remet la chose jugée en question devant la juridiction d'appel pour qu'il soit à nouveau statué en fait et en droit.
+L'appel remet la chose jugée en question devant la juridiction d'appel.
+
+Il est statué à nouveau en fait et en droit dans les conditions et limites déterminées aux livres premier et deuxième du
+présent code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 9
 
 
 ###### Article 562
 
-L'appel ne défère à la cour que la connaissance des chefs de jugement qu'il critique expressément ou implicitement et de ceux
-qui en dépendent.
+L'appel défère à la cour la connaissance des chefs de jugement qu'il critique expressément et de ceux qui en dépendent.
 
-La dévolution s'opère pour le tout lorsque l'appel n'est pas limité à certains chefs, lorsqu'il tend à l'annulation du
-jugement ou si l'objet du litige est indivisible.
+La dévolution ne s'opère pour le tout que lorsque l'appel tend à l'annulation du jugement ou si l'objet du litige est
+indivisible.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 10
 
 
 ###### Article 563
@@ -10850,15 +10838,18 @@ leur fondement juridique est différent.
 
 ###### Article 566
 
-Les parties peuvent aussi expliciter les prétentions qui étaient virtuellement comprises dans les demandes et défenses
-soumises au premier juge et ajouter à celles-ci toutes les demandes qui en sont l'accessoire, la conséquence ou le
-complément.
+Les parties ne peuvent ajouter aux prétentions soumises au premier juge que les demandes qui en sont l'accessoire, la
+conséquence ou le complément nécessaire.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 11
 
 
 ###### Article 567
@@ -10876,8 +10867,8 @@ Les demandes reconventionnelles sont également recevables en appel.
 
 ###### Article 568
 
-Lorsque la cour d'appel est saisie d'un jugement qui a ordonné une mesure d'instruction, ou d'un jugement qui, statuant sur
-une exception de procédure, a mis fin à l'instance, elle peut évoquer les points non jugés si elle estime de bonne justice de
+Lorsque la cour d'appel infirme ou annule un jugement qui a ordonné une mesure d'instruction, ou qui, statuant sur une
+exception de procédure, a mis fin à l'instance, elle peut évoquer les points non jugés si elle estime de bonne justice de
 donner à l'affaire une solution définitive, après avoir ordonné elle-même, le cas échéant, une mesure d'instruction.
 
 L'évocation ne fait pas obstacle à l'application des articles 554, 555 et 563 à 567.
@@ -10886,7 +10877,11 @@ L'évocation ne fait pas obstacle à l'application des articles 554, 555 et 563 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 12
 
 	**Cite**:
 
@@ -13510,17 +13505,23 @@ nationale des huissiers de justice et sous réserve de tous autres modes de noti
 
 ###### Article 688-3
 
-Lorsque la notification est faite par les soins du ministère public, elle a lieu par voie de simple remise et sans frais.
+Lorsque la notification est faite par les soins du ministère public, elle a lieu par voie de simple remise et sans frais,
+contre récépissé attestant de la date et des conditions de la remise.
+
+**Nota:**
+
+Conformément aux dispositions du IV de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables à
+compter du 1er septembre 2017.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+	  - Décret n°2017-892 du 6 mai 2017 - art. 12
 
 
 ###### Article 688-4
@@ -13563,15 +13564,23 @@ Toutefois le destinataire qui ne connaît pas la langue dans laquelle l'acte est
 demander que celui-ci soit traduit ou accompagné d'une traduction en langue française, à la diligence et aux frais de la
 partie requérante.
 
+L'autorité en charge de la remise ou de la signification informe le destinataire de l'acte de cette possibilité. Mention est
+faite de cette information dans l'acte constatant la remise ou la signification.
+
+**Nota:**
+
+Conformément aux dispositions du IV de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables à
+compter du 1er septembre 2017.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
+	  - Décret n°2017-892 du 6 mai 2017 - art. 13
 
 
 ###### Article 688-7
@@ -15515,11 +15524,17 @@ tenue le jour même.
 Toutes les affaires que le président ne renvoie pas à l'audience sont mises en état d'être jugées, conformément aux
 dispositions ci-après.
 
+Le greffe avise les avocats constitués de la désignation du juge de la mise en état.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
+
+	**Modifié par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 48
 
 	**Cité par**:
 
@@ -15763,6 +15778,22 @@ Le juge de la mise en état peut statuer sur les dépens et les demandes formée
 	**Cite**:
 
 	  - Nouveau code de procédure civile 700
+
+
+###### Article 772-1
+
+Le juge de la mise en état est saisi par des conclusions qui lui sont spécialement adressées distinctes des conclusions au
+sens de l'article 753.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 49
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 753 (V)
 
 
 ###### Article 773
@@ -17273,7 +17304,70 @@ demandeur défaillant n'est pas déchargé de ses obligations.
 	  - Décret n°2017-888 du 6 mai 2017 - art. 1
 
 
-## Titre II : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.
+## Titre II : Dispositions particulières au tribunal d'instance
+
+###### Article 827
+
+Les parties se défendent elles-mêmes.
+
+Elles ont la faculté de se faire assister ou représenter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+	**Modifié par**:
+
+	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+
+	**Cité par**:
+
+	  - Code de la consommation - art. R331-9-2 (Ab)
+	  - Code de la consommation - art. R713-4 (V)
+
+
+###### Article 828
+
+Les parties peuvent se faire assister ou représenter par :
+
+- un avocat ;
+
+- leur conjoint ;
+
+- comme il est dit à l'article 2 de la loi n° 2007-1787 du 20 décembre 2007 relative à la simplification du droit, leur
+concubin ou la personne avec laquelle elles ont conclu un pacte civil de solidarité ;
+
+- leurs parents ou alliés en ligne directe ;
+
+- leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus ;
+
+- les personnes exclusivement attachées à leur service personnel ou à leur entreprise. 
+
+L'Etat,  les départements, les régions, les communes et les établissements publics peuvent se faire représenter ou assister
+par un fonctionnaire ou un agent de leur administration. 
+
+Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°89-462 du 6 juillet 1989 - art. 24-1 (V)
+	  - Code de la consommation - art. R142-2 (Ab)
+	  - Code de la consommation - art. R713-4 (V)
+	  - Code de procédure civile - art. 834 (VD)
+	  - Code général de la propriété des personnes publ... - art. R5112-35 (V)
+
+	**Cite**:
+
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 2
+
+	**Modifié par**:
+
+	  - Décret n°2012-66 du 20 janvier 2012 - art. 38
+
 
 ### Sous-titre Ier : La procédure ordinaire.
 
@@ -17915,79 +18009,6 @@ dans les conditions prévues par l'alinéa 2 de l'article 849.
 	  - Code de procédure pénale - art. 470-1 (V)
 	  - Code de procédure pénale - art. R41-2 (V)
 
-
-## Titre II : Dispositions particulières au tribunal d'instance
-
-###### Article 827
-
-Les parties se défendent elles-mêmes.
-
-Elles ont la faculté de se faire assister ou représenter.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Modifié par**:
-
-	  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-	**Cité par**:
-
-	  - Code de la consommation - art. R331-9-2 (Ab)
-	  - Code de la consommation - art. R713-4 (V)
-
-
-###### Article 828
-
-Les parties peuvent se faire assister ou représenter par :
-
-- un avocat ;
-
-- leur conjoint ;
-
-- comme il est dit à l'article 2 de la loi n° 2007-1787 du 20 décembre 2007 relative à la simplification du droit, leur
-concubin ou la personne avec laquelle elles ont conclu un pacte civil de solidarité ;
-
-- leurs parents ou alliés en ligne directe ;
-
-- leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus ;
-
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise. 
-
-L'Etat,  les départements, les régions, les communes et les établissements publics peuvent se faire représenter ou assister
-par un fonctionnaire ou un agent de leur administration. 
-
-Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°89-462 du 6 juillet 1989 - art. 24-1 (V)
-	  - Code de la consommation - art. R142-2 (Ab)
-	  - Code de la consommation - art. R713-4 (V)
-	  - Code de procédure civile - art. 834 (VD)
-	  - Code général de la propriété des personnes publ... - art. R5112-35 (V)
-
-	**Cite**:
-
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 2
-
-	**Modifié par**:
-
-	  - Décret n°2012-66 du 20 janvier 2012 - art. 38
-
-
-### Sous-titre Ier : La procédure ordinaire.
-
-### Sous-titre II : Les ordonnances de référé devant le juge d'instance.
-
-### Sous-titre III : Les ordonnances sur requête devant le juge d'instance.
-
-### Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale.
 
 ## Titre III : Dispositions particulières au tribunal de commerce.
 
@@ -19012,15 +19033,16 @@ L'appel est formé par déclaration unilatérale ou par requête conjointe.
 
 ###### Article 901
 
-La déclaration d'appel est faite par acte contenant, outre les mentions prescrites par l'article 58, et à peine de nullité : 
+La déclaration d'appel est faite par acte contenant, outre les mentions prescrites par l'article 58, et à peine de nullité :
 
-1° La constitution de l'avocat de l'appelant ; 
+1° La constitution de l'avocat de l'appelant ;
 
-2° L'indication de la décision attaquée ; 
+2° L'indication de la décision attaquée ;
 
-3° L'indication de la cour devant laquelle l'appel est porté. 
+3° L'indication de la cour devant laquelle l'appel est porté ;
 
-La déclaration indique, le cas échéant, les chefs du jugement auxquels l'appel est limité.
+4° Les chefs du jugement expressément critiqués auxquels l'appel est limité, sauf si l'appel tend à l'annulation du jugement
+ou si l'objet du litige est indivisible.
 
 Elle est signée par l'avocat constitué. Elle est accompagnée d'une copie de la décision. Elle est remise au greffe et vaut
 demande d'inscription au rôle.
@@ -19040,8 +19062,7 @@ demande d'inscription au rôle.
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
-	  - Décret n°2012-634 du 3 mai 2012 - art. 21
+	  - Décret n°2017-891 du 6 mai 2017 - art. 13
 
 	**Cite**:
 
@@ -19051,14 +19072,15 @@ demande d'inscription au rôle.
 ###### Article 902
 
 Le greffier adresse aussitôt à chacun des intimés, par lettre simple, un exemplaire de la déclaration avec l'indication de
-l'obligation de constituer avocat. 
+l'obligation de constituer avocat.
 
 En cas de retour au greffe de la lettre de notification ou lorsque l'intimé n'a pas constitué avocat dans un délai d'un mois
 à compter de l'envoi de la lettre de notification, le greffier en avise l'avocat de l'appelant afin que celui-ci procède par
-voie de signification de la déclaration d'appel. 
+voie de signification de la déclaration d'appel.
 
-A peine de caducité de la déclaration d'appel, la signification doit être effectuée dans le mois de l'avis adressé par le
-greffe. 
+A peine de caducité de la déclaration d'appel relevée d'office, la signification doit être effectuée dans le mois de l'avis
+adressé par le greffe ; cependant, si, entre-temps, l'intimé a constitué avocat avant la signification de la déclaration
+d'appel, il est procédé par voie de notification à son avocat.
 
 A peine de nullité, l'acte de signification indique à l'intimé que, faute pour lui de constituer avocat dans un délai de
 quinze jours à compter de celle-ci, il s'expose à ce qu'un arrêt soit rendu contre lui sur les seuls éléments fournis par son
@@ -19079,7 +19101,7 @@ déclarées d'office irrecevables.
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 14
 
 	**Cite**:
 
@@ -19115,12 +19137,26 @@ Le greffe en avise les avocats constitués.
 	  - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
+###### Article 904-1
+
+Le président de la chambre à laquelle l'affaire a été distribuée décide de son orientation soit en fixant une date d'appel de
+l'affaire à bref délai, soit en désignant un conseiller de la mise en état.
+
+Le greffe en avise les avocats constitués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 15
+
+
 ###### Article 905
 
 Lorsque l'affaire semble présenter un caractère d'urgence ou être en état d'être jugée ou lorsque l'appel est relatif à une
-ordonnance de référé ou à une des ordonnances du juge de la mise en état énumérées aux 1° à 4° de l'article 776, le président
-de la chambre saisie, d'office ou à la demande d'une partie, fixe à bref délai l'audience à laquelle elle sera appelée ; au
-jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
+ordonnance de référé ou en la forme des référés ou à une des ordonnances du juge de la mise en état énumérées aux 1° à 4° de
+l'article 776, le président de la chambre saisie, d'office ou à la demande d'une partie, fixe les jours et heures auxquels
+l'affaire sera appelée à bref délai ; au jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
 
 **Liens relatifs à cet article**
 
@@ -19140,7 +19176,7 @@ jour indiqué, il est procédé selon les modalités prévues aux articles 760 �
 
 	**Modifié par**:
 
-	  - Décret n°2017-888 du 6 mai 2017 - art. 2
+	  - Décret n°2017-891 du 6 mai 2017 - art. 16
 
 	**Cite**:
 
@@ -19148,12 +19184,80 @@ jour indiqué, il est procédé selon les modalités prévues aux articles 760 �
 	  - Code de procédure civile - art. 776
 
 
+###### Article 905-1
+
+Lorsque l'affaire est fixée à bref délai par le président de la chambre, l'appelant signifie la déclaration d'appel dans les
+dix jours de la réception de l'avis de fixation qui lui est adressé par le greffe à peine de caducité de la déclaration
+d'appel relevée d'office par le président de la chambre ou le magistrat désigné par le premier président ; cependant, si,
+entre-temps, l'intimé a constitué avocat avant signification de la déclaration d'appel, il est procédé par voie de
+notification à son avocat.
+
+A peine de nullité, l'acte de signification indique à l'intimé que, faute pour lui de constituer avocat dans un délai de
+quinze jours à compter de celle-ci, il s'expose à ce qu'un arrêt soit rendu contre lui sur les seuls éléments fournis par son
+adversaire et que, faute de conclure dans le délai mentionné l'article 905-2, il s'expose à ce que ses écritures soient
+déclarées d'office irrecevables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 17
+
+
+###### Article 905-2
+
+A peine de caducité de la déclaration d'appel, relevée d'office par ordonnance du président de la chambre saisie ou du
+magistrat désigné par le premier président, l'appelant dispose d'un délai d'un mois à compter de la réception de l'avis de
+fixation de l'affaire à bref délai pour remettre ses conclusions au greffe. 
+
+L'intimé dispose, à peine d'irrecevabilité relevée d'office par ordonnance du président de la chambre saisie ou du magistrat
+désigné par le premier président, d'un délai d'un mois à compter de la notification des conclusions de l'appelant pour
+remettre ses conclusions au greffe et former, le cas échéant, appel incident ou appel provoqué. 
+
+L'intimé à un appel incident ou à un appel provoqué dispose, à peine d'irrecevabilité relevée d'office par ordonnance du
+président de la chambre saisie ou du magistrat désigné par le premier président, d'un délai d'un mois à compter de la
+notification de l'appel incident ou de l'appel provoqué à laquelle est jointe une copie de l'avis de fixation pour remettre
+ses conclusions au greffe. 
+
+L'intervenant forcé à l'instance d'appel dispose, à peine d'irrecevabilité relevée d'office par ordonnance du président de la
+chambre saisie ou du magistrat désigné par le premier président, d'un délai d'un mois à compter de la notification de la
+demande d'intervention formée à son encontre à laquelle est jointe une copie de l'avis de fixation pour remettre ses
+conclusions au greffe. L'intervenant volontaire dispose, sous la même sanction, du même délai à compter de son intervention
+volontaire. 
+
+Le président de la chambre saisie ou le magistrat désigné par le premier président peut d'office, par ordonnance, impartir
+des délais plus courts que ceux prévus aux alinéas précédents. 
+
+Les ordonnances du président ou du magistrat désigné par le premier président de la chambre saisie statuant sur la fin de
+non-recevoir tirée de l'irrecevabilité de l'appel, sur la caducité de celui-ci ou sur l'irrecevabilité des conclusions et des
+actes de procédure en application du présent article et de l'article 930-1 ont autorité de la chose jugée au principal.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 38 (VD)
+	  - Code de procédure civile - art. 1546-2 (VD)
+	  - Code de procédure civile - art. 526 (VD)
+	  - Code de procédure civile - art. 550 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 17
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 930-1 (VD)
+
+
 ###### Article 906
 
 Les conclusions sont notifiées et les pièces communiquées simultanément par l'avocat de chacune des parties à celui de
-l'autre partie ; en cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avocats constitués. 
+l'autre partie ; en cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avocats constitués.
 
 Copie des conclusions est remise au greffe avec la justification de leur notification.
+
+Les pièces communiquées et déposées au soutien de conclusions irrecevables sont elles-mêmes irrecevables.
 
 **Liens relatifs à cet article**
 
@@ -19163,7 +19267,7 @@ Copie des conclusions est remise au greffe avec la justification de leur notific
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 18
 
 
 ###### Article 907
@@ -19192,7 +19296,7 @@ du 1er janvier 2011.
 ###### Article 908
 
 A peine de caducité de la déclaration d'appel, relevée d'office, l'appelant dispose d'un délai de trois mois à compter de la
-déclaration d'appel pour conclure.
+déclaration d'appel pour remettre ses conclusions au greffe.
 
 **Liens relatifs à cet article**
 
@@ -19209,13 +19313,14 @@ déclaration d'appel pour conclure.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 4
+	  - Décret n°2017-891 du 6 mai 2017 - art. 19
 
 
 ###### Article 909
 
-L'intimé dispose, à peine d'irrecevabilité relevée d'office, d'un délai de deux mois à compter de la notification des
-conclusions de l'appelant prévues à l'article 908 pour conclure et former, le cas échéant, appel incident.
+L'intimé dispose, à peine d'irrecevabilité relevée d'office, d'un délai de trois mois à compter de la notification des
+conclusions de l'appelant prévues à l'article 908 pour remettre ses conclusions au greffe et former, le cas échéant, appel
+incident ou appel provoqué.
 
 **Liens relatifs à cet article**
 
@@ -19232,21 +19337,18 @@ conclusions de l'appelant prévues à l'article 908 pour conclure et former, le 
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 5
+	  - Décret n°2017-891 du 6 mai 2017 - art. 20
 
 
 ###### Article 910
 
-L'intimé à un appel incident ou à un appel provoqué dispose, à peine d'irrecevabilité relevée d'office, d'un délai de deux
-mois à compter de la notification qui lui en est faite pour conclure. 
+L'intimé à un appel incident ou à un appel provoqué dispose, à peine d'irrecevabilité relevée d'office, d'un délai de trois
+mois à compter de la notification qui lui en est faite pour remettre ses conclusions au greffe.
 
 L'intervenant forcé à l'instance d'appel dispose, à peine d'irrecevabilité relevée d'office, d'un délai de trois mois à
-compter de la date à laquelle la demande d'intervention formée à son encontre lui a été notifiée pour conclure.
-
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
+compter de la date à laquelle la demande d'intervention formée à son encontre lui a été notifiée pour remettre ses
+conclusions au greffe. L'intervenant volontaire dispose, sous la même sanction, du même délai à compter de son intervention
+volontaire.
 
 **Liens relatifs à cet article**
 
@@ -19258,15 +19360,73 @@ du 1er janvier 2011.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+	  - Décret n°2017-891 du 6 mai 2017 - art. 21
+
+
+###### Article 910-1
+
+Les conclusions exigées par les articles 905-2 et 908 à 910 sont celles, adressées à la cour, qui sont remises au greffe et
+notifiées dans les délais prévus par ces textes et qui déterminent l'objet du litige.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 22
+
+
+###### Article 910-2
+
+La décision d'ordonner une médiation interrompt les délais impartis pour conclure et former appel incident mentionnés aux
+articles 905-2 et 908 à 910 du même code. L'interruption de ces délais produit ses effets jusqu'à l'expiration de la mission
+du médiateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 22
+
+
+###### Article 910-3
+
+En cas de force majeure, le président de la chambre ou le conseiller de la mise en état peut écarter l'application des
+sanctions prévues aux articles 905-2 et 908 à 911.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 22
+
+
+###### Article 910-4
+
+A peine d'irrecevabilité, relevée d'office, les parties doivent présenter, dès les conclusions mentionnées aux articles 905-2
+et 908 à 910, l'ensemble de leurs prétentions sur le fond. L'irrecevabilité peut également être invoquée par la partie contre
+laquelle sont formées des prétentions ultérieures.
+
+Néanmoins, et sans préjudice de l'alinéa 2 de l'article 783, demeurent recevables, dans les limites des chefs du jugement
+critiqués, les prétentions destinées à répliquer aux conclusions et pièces adverses ou à faire juger les questions nées,
+postérieurement aux premières conclusions, de l'intervention d'un tiers ou de la survenance ou de la révélation d'un fait.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 22
 
 
 ###### Article 911
 
-Sous les sanctions prévues aux articles 908 à 910, les conclusions sont notifiées aux avocats des parties dans le délai de
-leur remise au greffe de la cour. Sous les mêmes sanctions, elles sont signifiées dans le mois suivant l'expiration de ce
-délai aux parties qui n'ont pas constitué avocat ; cependant, si, entre-temps, celles-ci ont constitué avocat avant la
-signification des conclusions, il est procédé par voie de notification à leur avocat.
+Sous les sanctions prévues aux articles 905-2 et 908 à 910, les conclusions sont notifiées aux avocats des parties dans le
+délai de leur remise au greffe de la cour. Sous les mêmes sanctions, elles sont signifiées au plus tard dans le mois suivant
+l'expiration des délais prévus à ces articles aux parties qui n'ont pas constitué avocat ; cependant, si, entre-temps,
+celles-ci ont constitué avocat avant la signification des conclusions, il est procédé par voie de notification à leur avocat.
+
+La notification de conclusions au sens de l'article 910-1 faite à une partie dans le délai prévu aux articles 905-2 et 908 à
+910 ainsi qu'à l'alinéa premier du présent article constitue le point de départ du délai dont cette partie dispose pour
+remettre ses conclusions au greffe.
 
 **Liens relatifs à cet article**
 
@@ -19277,7 +19437,7 @@ signification des conclusions, il est procédé par voie de notification à leur
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 23
 
 	**Cite**:
 
@@ -19287,17 +19447,25 @@ signification des conclusions, il est procédé par voie de notification à leur
 ###### Article 911-1
 
 Le conseiller de la mise en état peut d'office, par ordonnance et en raison de la nature de l'affaire, impartir des délais
-plus courts que ceux prévus aux articles 908 à 910. 
+plus courts que ceux prévus aux articles 908 à 910.
 
 La caducité de la déclaration d'appel en application des articles 902 et 908 ou l'irrecevabilité des conclusions en
 application des articles 909 et 910 sont prononcées par ordonnance du conseiller de la mise en état qui statue après avoir
 sollicité les observations écrites des parties. L'ordonnance qui prononce la caducité ne peut être rapportée.
 
+La partie dont la déclaration d'appel a été frappée de caducité en application des articles 902, 905-1, 905-2 ou 908 ou dont
+l'appel a été déclaré irrecevable n'est plus recevable à former un appel principal contre le même jugement et à l'égard de la
+même partie.
+
+De même, n'est plus recevable à former appel principal l'intimé auquel ont été régulièrement notifiées les conclusions de
+l'appelant et qui n'a pas formé un appel incident ou provoqué contre le jugement attaqué dans les délais impartis aux
+articles 905-2 et 909 ou dont l'appel incident ou provoqué a été déclaré irrecevable.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 7
+	  - Décret n°2017-891 du 6 mai 2017 - art. 24
 
 	**Cite**:
 
@@ -19308,25 +19476,26 @@ sollicité les observations écrites des parties. L'ordonnance qui prononce la c
 
 ###### Article 911-2
 
-Les délais prévus au troisième alinéa de l'article 902 et à l'article 908 sont augmentés : 
+Les délais prévus au premier alinéa de l'article 905-1, à l'article 905-2, au troisième alinéa de l'article 902 et à
+l'article 908 sont augmentés :
 
 ― d'un mois, lorsque la demande est portée soit devant une juridiction qui a son siège en France métropolitaine, pour les
 parties qui demeurent en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin,
 à Saint-Pierre-et-Miquelon, en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie ou dans les Terres
 australes et antarctiques françaises, soit devant une juridiction qui a son siège en Guadeloupe, en Guyane, à la Martinique,
 à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon ou dans les îles Wallis et Futuna,
-pour les parties qui ne demeurent pas dans cette collectivité ; 
+pour les parties qui ne demeurent pas dans cette collectivité ;
 
-― de deux mois si l'appelant demeure à l'étranger. 
+― de deux mois si l'appelant demeure à l'étranger.
 
-Les délais prescrits aux intimés et intervenants forcés par les articles 909 et 910 sont augmentés dans les mêmes conditions
-et selon les mêmes modalités.
+Les délais prescrits aux intimés et intervenants forcés par les articles 905-2, 909 et 910 sont augmentés dans les mêmes
+conditions et selon les mêmes modalités.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 8
+	  - Décret n°2017-891 du 6 mai 2017 - art. 25
 
 	**Cité par**:
 
@@ -19340,10 +19509,10 @@ et selon les mêmes modalités.
 ###### Article 912
 
 Le conseiller de la mise en état examine l'affaire dans les quinze jours suivant l'expiration des délais pour conclure et
-communiquer les pièces. 
+communiquer les pièces.
 
 Il fixe la date de la clôture et celle des plaidoiries. Toutefois, si l'affaire nécessite de nouveaux échanges de
-conclusions, il en fixe le calendrier, après avoir recueilli l'avis des avocats. 
+conclusions, sans préjudice de l'article 910-4, il en fixe le calendrier, après avoir recueilli l'avis des avocats.
 
 Dans tous les cas, les dossiers, comprenant les copies des pièces visées dans les conclusions et numérotées dans l'ordre du
 bordereau récapitulatif, sont déposés à la cour quinze jours avant la date fixée pour l'audience de plaidoiries.
@@ -19352,46 +19521,55 @@ bordereau récapitulatif, sont déposés à la cour quinze jours avant la date f
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 26
 
 
 ###### Article 913
 
 Le conseiller de la mise en état peut enjoindre aux avocats de mettre leurs conclusions en conformité avec les dispositions
-de l'article 954.
+des articles 954 et 961.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 27
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 954
+	  - Code de procédure civile - art. 954 (VD)
+	  - Code de procédure civile - art. 961 (VD)
 
 
 ###### Article 914
 
-Le conseiller de la mise en état est, lorsqu'il est désigné et jusqu'à son dessaisissement, seul compétent pour prononcer la
-caducité de l'appel, pour déclarer l'appel irrecevable et trancher à cette occasion toute question ayant trait à la
-recevabilité de l'appel ou pour déclarer les conclusions irrecevables en application des articles 909 et 910. Les parties ne
-sont plus recevables à invoquer la caducité ou l'irrecevabilité après son dessaisissement, à moins que leur cause ne
-survienne ou ne soit révélée postérieurement. 
+Les parties soumettent au conseiller de la mise en état, qui est seul compétent depuis sa désignation et jusqu'à la clôture
+de l'instruction, leurs conclusions, spécialement adressées à ce magistrat, tendant à :
+
+– prononcer la caducité de l'appel ;
+
+– déclarer l'appel irrecevable et trancher à cette occasion toute question ayant trait à la recevabilité de l'appel ; les
+moyens tendant à l'irrecevabilité de l'appel doivent être invoqués simultanément à peine d'irrecevabilité de ceux qui ne
+l'auraient pas été ;
+
+– déclarer les conclusions irrecevables en application des articles 909 et 910 ;
+
+– déclarer les actes de procédure irrecevables en application de l'article 930-1.
+
+Les parties ne sont plus recevables à invoquer devant la cour d'appel la caducité ou l'irrecevabilité après la clôture de
+l'instruction, à moins que leur cause ne survienne ou ne soit révélée postérieurement. Néanmoins, sans préjudice du dernier
+alinéa du présent article, la cour d'appel peut, d'office, relever la fin de non-recevoir tirée de l'irrecevabilité de
+l'appel ou la caducité de celui-ci.
 
 Les ordonnances du conseiller de la mise en état statuant sur la fin de non-recevoir tirée de l'irrecevabilité de l'appel,
-sur la caducité de celui-ci ou sur l'irrecevabilité des conclusions en application des articles 909 et 910 ont autorité de la
-chose jugée au principal.
+sur la caducité de celui-ci ou sur l'irrecevabilité des conclusions et des actes de procédure en application des articles
+909, 910, et 930-1 ont autorité de la chose jugée au principal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 10
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 909
+	  - Décret n°2017-891 du 6 mai 2017 - art. 28
 
 
 ###### Article 915
@@ -19409,19 +19587,29 @@ provisoire.
 
 ###### Article 916
 
-Les ordonnances du conseiller de la mise en état ne sont susceptibles d'aucun recours indépendamment de l'arrêt sur le fond. 
+Les ordonnances du conseiller de la mise en état ne sont susceptibles d'aucun recours indépendamment de l'arrêt sur le fond.
 
-Toutefois, elles peuvent être déférées par simple requête à la cour dans les quinze jours de leur date lorsqu'elles ont pour
-effet de mettre fin à l'instance, lorsqu'elles constatent son extinction, lorsqu'elles ont trait à des mesures provisoires en
-matière de divorce ou de séparation de corps, lorsqu'elles statuent sur une exception de procédure, un incident mettant fin à
-l'instance, la fin de non-recevoir tirée de l'irrecevabilité de l'appel ou la caducité de celui-ci ou lorsqu'elles prononcent
-l'irrecevabilité des conclusions en application des articles 909 et 910.
+Toutefois, elles peuvent être déférées par requête à la cour dans les quinze jours de leur date lorsqu'elles ont pour effet
+de mettre fin à l'instance, lorsqu'elles constatent son extinction ou lorsqu'elles ont trait à des mesures provisoires en
+matière de divorce ou de séparation de corps.
+
+Elles peuvent être déférées dans les mêmes conditions lorsqu'elles statuent sur une exception de procédure, sur un incident
+mettant fin à l'instance, sur la fin de non-recevoir tirée de l'irrecevabilité de l'appel ou la caducité de celui-ci ou sur
+l'irrecevabilité des conclusions et des actes de procédure en application des articles 909,910, et 930-1.
+
+La requête, remise au greffe de la chambre à laquelle l'affaire est distribuée, contient, outre les mentions prescrites par
+l'article 58 et à peine d'irrecevabilité, l'indication de la décision déférée ainsi qu'un exposé des moyens en fait et en
+droit.
+
+Les ordonnances du président de la chambre saisie ou du magistrat désigné par le premier président, statuant sur la caducité
+ou l'irrecevabilité en application des articles 905-1 et 905-2, peuvent également être déférées à la cour dans les conditions
+des alinéas précédents.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 12
+	  - Décret n°2017-891 du 6 mai 2017 - art. 29
 
 	**Cité par**:
 
@@ -19431,7 +19619,7 @@ l'irrecevabilité des conclusions en application des articles 909 et 910.
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 909
+	  - Code de procédure civile - art. 930-1 (VD)
 
 
 ##### Sous-section II : La procédure à jour fixe.
@@ -19702,23 +19890,18 @@ L'affaire est instruite et jugée comme en matière de procédure abrégée.
 A peine d'irrecevabilité relevée d'office, les actes de procédure sont remis à la juridiction par voie électronique.
 
 Lorsqu'un acte ne peut être transmis par voie électronique pour une cause étrangère à celui qui l'accomplit, il est établi
-sur support papier et remis au greffe. En ce cas, la déclaration d'appel est remise au greffe en autant d'exemplaires qu'il y
-a de parties destinataires, plus deux. La remise est constatée par la mention de sa date et le visa du greffier sur chaque
-exemplaire, dont l'un est immédiatement restitué.
+sur support papier et remis au greffe ou lui est adressé par lettre recommandée avec demande d'avis de réception. En ce cas,
+la déclaration d'appel est remise ou adressée au greffe en autant d'exemplaires qu'il y a de parties destinataires, plus
+deux. La remise est constatée par la mention de sa date et le visa du greffier sur chaque exemplaire, dont l'un est
+immédiatement restitué.
+
+Lorsque la déclaration d'appel est faite par voie postale, le greffe enregistre l'acte à la date figurant sur le cachet du
+bureau d'émission et adresse à l'appelant un récépissé par tout moyen.
 
 Les avis, avertissements ou convocations sont remis aux avocats des parties par voie électronique, sauf impossibilité pour
 cause étrangère à l'expéditeur.
 
 Un arrêté du garde des sceaux définit les modalités des échanges par voie électronique.
-
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions de l'article 5 instituant l'article 930-1 du code de
-procédure civile ne sont applicables qu'aux déclarations d'appel et aux constitutions d'avoué afférentes aux appels formés à
-compter du 1er janvier 2011.
-
-Les dispositions de l'article 5 sont applicables aux autres actes mentionnés à l'article 930-1 du code de procédure civile à
-compter de la date fixée par l'arrêté prévu à cet article et au plus tard au 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -19734,7 +19917,7 @@ compter de la date fixée par l'arrêté prévu à cet article et au plus tard a
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 30
 
 
 ###### Article 930-2
@@ -19827,23 +20010,24 @@ cour.
 
 ###### Article 933
 
-La déclaration comporte les mentions prescrites par l'article 58. Elle désigne le jugement dont il est fait appel et
-mentionne, le cas échéant, le nom et l'adresse du représentant de l'appelant devant la cour. Elle est accompagnée de la copie
-de la décision.
+La déclaration comporte les mentions prescrites par l'article 58. Elle désigne le jugement    dont il est fait appel, précise
+les chefs du jugement critiqués auquel l'appel est limité, sauf si l'appel tend à l'annulation du jugement ou si l'objet du
+litige est indivisible, et mentionne, le cas échéant, le nom et l'adresse du représentant de l'appelant devant la cour. Elle
+est accompagnée de la copie de la décision.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°2005-1678 du 28 décembre 2005 - art. 7 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+	  - Décret n°2017-891 du 6 mai 2017 - art. 31
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 58 (V)
+	  - Code de procédure civile - art. 58
 
 	**Cité par**:
 
@@ -19871,8 +20055,8 @@ Le greffier enregistre l'appel à sa date ; il délivre ou adresse par lettre si
 
 ###### Article 936
 
-Dès l'accomplissement des formalités par l'appelant, le secrétaire avise, par tous moyens, la partie adverse de l'appel en
-l'informant qu'elle sera ultérieurement convoquée devant la cour.
+Dès l'accomplissement des formalités par l'appelant, le greffe avise, par tous moyens, la partie adverse de l'appel, lui
+adresse une copie de la déclaration d'appel et l'informe qu'elle sera ultérieurement convoquée devant la cour.
 
 **Liens relatifs à cet article**
 
@@ -19882,7 +20066,7 @@ l'informant qu'elle sera ultérieurement convoquée devant la cour.
 
 	**Modifié par**:
 
-	  - Décret n°2015-282 du 11 mars 2015 - art. 5
+	  - Décret n°2017-891 du 6 mai 2017 - art. 32
 
 	**Cité par**:
 
@@ -20092,12 +20276,11 @@ ultérieures les parties qui ne l'auraient pas été verbalement.
 ###### Article 948
 
 La partie dont les droits sont en péril peut, même si une date d'audience a déjà été fixée, demander au premier président de
-la cour de retenir l'affaire, par priorité, à une prochaine audience. 
+la cour de retenir l'affaire, par priorité, à une prochaine audience.
 
 S'il est fait droit à sa demande, le requérant est aussitôt avisé par tous moyens de la date fixée.
 
-A moins que le premier président n'ait décidé qu'elle le serait par acte d'huissier de justice à l'initiative du requérant,
-le greffier convoque la partie adverse par lettre recommandée avec demande d'avis de réception.
+La partie adverse est convoquée par acte d'huissier de justice à la diligence du requérant.
 
 La cour s'assure qu'il s'est écoulé un temps suffisant entre la convocation et l'audience pour que la partie convoquée ait pu
 préparer sa défense.
@@ -20110,7 +20293,7 @@ préparer sa défense.
 
 	**Modifié par**:
 
-	  - Décret n°2015-282 du 11 mars 2015 - art. 8
+	  - Décret n°2017-891 du 6 mai 2017 - art. 33
 
 
 ###### Article 949
@@ -20200,12 +20383,18 @@ L'appel est instruit et jugé selon les règles applicables en matière gracieus
 
 ###### Article 954
 
-Les conclusions d'appel doivent formuler expressément les prétentions des parties et les moyens de fait et de droit sur
-lesquels chacune de ses prétentions est fondée avec indication pour chaque prétention des pièces invoquées. Un bordereau
-récapitulatif des pièces est annexé.
+Les conclusions d'appel contiennent, en en-tête, les indications prévues à l'article 961. Elles doivent formuler expressément
+les prétentions des parties et les moyens de fait et de droit sur lesquels chacune de ces prétentions est fondée avec
+indication pour chaque prétention des pièces invoquées et de leur numérotation. Un bordereau récapitulatif des pièces est
+annexé.
 
-Les prétentions sont récapitulées sous forme de dispositif. La cour ne statue que sur les prétentions énoncées au
-dispositif. 
+Les conclusions comprennent distinctement un exposé des faits et de la procédure, l'énoncé des chefs de jugement critiqués,
+une discussion des prétentions et des moyens ainsi qu'un dispositif récapitulant les prétentions. Si, dans la discussion, des
+moyens nouveaux par rapport aux précédentes écritures sont invoqués au soutien des prétentions, ils sont présentés de manière
+formellement distincte.
+
+La cour ne statue que sur les prétentions énoncées au dispositif et n'examine les moyens au soutien de ces prétentions que
+s'ils sont invoqués dans la discussion.
 
 Les parties doivent reprendre, dans leurs dernières écritures, les prétentions et moyens précédemment présentés ou invoqués
 dans leurs conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et la cour ne statue que sur les
@@ -20214,34 +20403,39 @@ dernières conclusions déposées.
 La partie qui conclut à l'infirmation du jugement doit expressément énoncer les moyens qu'elle invoque sans pouvoir procéder
 par voie de référence à ses conclusions de première instance.
 
-La partie qui, sans énoncer de nouveaux moyens, demande la confirmation du jugement est réputée s'en approprier les motifs.
+La partie qui ne conclut pas ou qui, sans énoncer de nouveaux moyens, demande la confirmation du jugement est réputée s'en
+approprier les motifs.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1524 du 9 décembre 2009 - art. 11
+	  - Décret n°2017-891 du 6 mai 2017 - art. 34
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 913 (VD)
 	  - Code de procédure civile - art. 913-1 (MMN)
 
+	**Cite**:
+
+	  - Code de procédure civile - art. 961 (VD)
+
 
 ###### Article 955
 
-Lorsqu'elle confirme un jugement, la cour est réputée avoir adopté les motifs de ce jugement qui ne sont pas contraires aux
-siens.
+En cas de confirmation d'un jugement, la cour peut statuer par adoption de ses motifs ou par motifs propres. Dans ce cas,
+elle est réputée avoir adopté les motifs du jugement qui ne sont pas contraires aux siens.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°79-941 1979-11-07 art. 11 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°2017-891 du 6 mai 2017 - art. 35
 
 
 ###### Article 955-1
@@ -20374,7 +20568,9 @@ b) S'il s'agit d'une personne morale, sa forme, sa dénomination, son siège soc
 ###### Article 961
 
 Les conclusions des parties sont signées par leur avocat et notifiées dans la forme des notifications entre avocats. Elles ne
-sont pas recevables tant que les indications mentionnées à l'alinéa 2 de l'article précédent n'ont pas été fournies. 
+sont pas recevables tant que les indications mentionnées à l'alinéa 2 de l'article précédent n'ont pas été fournies. Cette
+fin de non-recevoir peut être régularisée jusqu'au jour du prononcé de la clôture ou, en l'absence de mise en état, jusqu'à
+l'ouverture des débats.
 
 La communication des pièces produites est valablement attestée par la signature de l'avocat destinataire apposée sur le
 bordereau établi par l'avocat qui procède à la communication.
@@ -20393,7 +20589,7 @@ bordereau établi par l'avocat qui procède à la communication.
 
 	**Modifié par**:
 
-	  - Décret n°2012-634 du 3 mai 2012 - art. 19
+	  - Décret n°2017-891 du 6 mai 2017 - art. 36
 
 
 ###### Article 962
@@ -20467,23 +20663,22 @@ Sont compétents pour prononcer l'irrecevabilité de l'appel en application de l
 
 - le président de la chambre à laquelle l'affaire est distribuée ;
 
-- selon le cas, le conseiller de la mise en état jusqu'à la clôture de l'instruction ou le magistrat chargé d'instruire
-l'affaire jusqu'à l'audience prévue pour les débats ;
+- le conseiller de la mise en état jusqu'à la clôture de l'instruction ;
 
-- la formation de jugement. 
+- la formation de jugement.
 
 A moins que les parties aient été convoquées ou citées à comparaître à une audience, ils peuvent statuer sans débat. Ils
-statuent, le cas échéant, sur les demandes fondées sur l'article 700. 
+statuent, le cas échéant, sur les demandes fondées sur l'article 700.
 
 Saisis dans un délai de quinze jours suivant leur décision, ils rapportent, en cas d'erreur, l'irrecevabilité, sans débat. Le
 délai de recours contre la décision d'irrecevabilité court à compter de la notification de la décision qui refuse de la
-rapporter. 
+rapporter.
 
-La décision d'irrecevabilité prononcée par le conseiller de la mise en état ou le magistrat chargé d'instruire l'affaire peut
-être déférée à la cour dans les conditions respectivement prévues par les articles 916 et 945. 
+La décision d'irrecevabilité prononcée par le président de la chambre ou le magistrat désigné par le premier président ou le
+conseiller de la mise en état peut être déférée à la cour dans les conditions respectivement prévues par les articles 916 .
 
-Lorsqu'elle émane du premier président ou du président de la chambre, la décision peut faire l'objet du recours ouvert contre
-les décisions de la juridiction.
+Lorsqu'elle émane du premier président, la décision peut faire l'objet du recours ouvert contre les décisions de la
+juridiction.
 
 **Liens relatifs à cet article**
 
@@ -20500,14 +20695,14 @@ les décisions de la juridiction.
 
 	**Modifié par**:
 
-	  - Décret n°2013-1280 du 29 décembre 2013 - art. 4
+	  - Décret n°2017-891 du 6 mai 2017 - art. 37
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 700 (V)
-	  - Code de procédure civile - art. 916 (V)
-	  - Code de procédure civile - art. 945 (V)
-	  - Code de procédure civile - art. 963 (VT)
+	  - Code de procédure civile - art. 700
+	  - Code de procédure civile - art. 916
+	  - Code de procédure civile - art. 945
+	  - Code de procédure civile - art. 963
 
 
 ###### Article 964-1
@@ -22704,8 +22899,8 @@ l'arrêt de cassation y est annexée.
 ###### Article 1034
 
 A moins que la juridiction de renvoi n'ait été saisie sans notification préalable, la déclaration doit, à peine
-d'irrecevabilité relevée d'office, être faite avant l'expiration d'un délai de quatre mois à compter de la notification de
-l'arrêt de cassation faite à la partie. Ce délai court même à l'encontre de celui qui notifie.
+d'irrecevabilité relevée d'office, être faite avant l'expiration d'un délai de deux mois à compter de la notification de
+l'arrêt de cassation faite à la partie. Ce délai court même à l'encontre de celui qui notifie. 
 
 L'absence de déclaration dans le délai ou l'irrecevabilité de celle-ci confère force de chose jugée au jugement rendu en
 premier ressort lorsque la décision cassée avait été rendue sur appel de ce jugement.
@@ -22714,15 +22909,11 @@ premier ressort lorsque la décision cassée avait été rendue sur appel de ce 
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°85-1330 1985-12-17 art. 15 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+	  - Décret n°2017-891 du 6 mai 2017 - art. 39
 
 	**Cité par**:
 
@@ -22783,6 +22974,50 @@ lui communiquer le dossier de l'affaire.
 	**Modifié par**:
 
 	  - Décret n°2017-892 du 6 mai 2017 - art. 68
+
+
+###### Article 1037-1
+
+En cas de renvoi devant la cour d'appel, lorsque l'affaire relevait de la procédure ordinaire, celle-ci est fixée à bref
+délai dans les conditions de l'article 905. En ce cas, les dispositions de l'article 1036 ne sont pas applicables. 
+
+La déclaration de saisine est signifiée par son auteur aux autres parties à l'instance ayant donné lieu à la cassation dans
+les dix jours de la notification par le greffe de l'avis de fixation. Ce délai est prescrit à peine de caducité de la
+déclaration, relevée d'office par le président de la chambre ou le magistrat désigné par le premier président. 
+
+Les conclusions de l'auteur de la déclaration sont remises au greffe et notifiées dans un délai de deux mois suivant cette
+déclaration. 
+
+Les parties adverses remettent et notifient leurs conclusions dans un délai de deux mois à compter de la notification des
+conclusions de l'auteur de la déclaration. 
+
+La notification des conclusions entre parties est faite dans les conditions prévues par l'article 911 et les délais sont
+augmentés conformément à l'article 911-2. 
+
+Les parties qui ne respectent pas ces délais sont réputées s'en tenir aux moyens et prétentions qu'elles avaient soumis à la
+cour d'appel dont l'arrêt a été cassé. 
+
+En cas d'intervention forcée, l'intervenant forcé remet et notifie ses conclusions dans un délai de deux mois à compter de la
+notification la demande d'intervention formée à son encontre. Ce délai est prescrit à peine d'irrecevabilité relevée d'office
+par ordonnance du président de la chambre saisie ou du magistrat désigné par le premier président. L'intervenant volontaire
+dispose, sous la même sanction, du même délai à compter de son intervention volontaire. 
+
+Les ordonnances du président de la chambre ou du magistrat désigné par le premier président statuant sur la caducité de la
+déclaration de saisine de la cour de renvoi ou sur l'irrecevabilité des conclusions de l'intervenant forcé ou volontaire ont
+autorité de la chose jugée. Elles peuvent être déférées dans les conditions des alinéas 2 et 4 de l'article 916.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-891 du 6 mai 2017 - art. 40
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 905 (VD)
+	  - Code de procédure civile - art. 911 (VD)
+	  - Code de procédure civile - art. 911-2 (VD)
+	  - Code de procédure civile - art. 916 (VD)
 
 
 # Livre III : Dispositions particulières à certaines matières
@@ -23702,24 +23937,20 @@ articles 1057 à 1061. La transmission est faite au service central d'état civi
 ###### Article 1065
 
 Lorsque la décision a été rendue par le juge des tutelles, la transmission est faite par le greffier du tribunal d'instance
-dans les quinze jours qui suivent l'expiration des délais de recours. 
+dans les quinze jours qui suivent l'expiration des délais de recours.
 
-Lorsque la décision a été rendue par le tribunal de grande instance, la transmission est faite par le greffier du tribunal de
-grande instance dans les quinze jours du jugement.
+Lorsque la décision a été rendue par la cour d'appel, la transmission est faite par le greffe de cette cour dans les quinze
+jours de l'arrêt.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Modifié par**:
 
-	  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+	  - Décret n°2017-891 du 6 mai 2017 - art. 50
 
 
 #### Section II : La déclaration d'absence
@@ -35045,26 +35276,19 @@ rendre indisponibles en tout ou partie les biens du débiteur.
 
 ###### Article 1417
 
-Le tribunal statue sur la demande en recouvrement.
-
-Il connaît, dans les limites de sa compétence d'attribution, de la demande initiale et de toutes les demandes incidentes et
-défenses au fond.
-
-En cas de décision d'incompétence, ou dans le cas prévu à l'article 1408, l'affaire est renvoyée devant la juridiction
-compétente selon les règles prévues à l'article 97.
+Le tribunal statue sur la demande en recouvrement. Il connaît, dans les limites de sa compétence d'attribution, de la demande
+initiale et de toutes les demandes incidentes et défenses au fond. En cas de décision d'incompétence, ou dans le cas prévu à
+l'article 1408, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à l'article 82.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+	  - Décret n°2017-891 du 6 mai 2017 - art. 3
 
 	**Cite**:
 
+	  - Code de procédure civile - art. 82 (V)
 	  - Nouveau code de procédure civile 97 et 1408
 
 
@@ -35384,13 +35608,17 @@ Il connaît, dans les limites de sa compétence d'attribution, de la demande ini
 défenses au fond. 
 
 En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à
-l'article 97.
+l'article 82.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+	  - Décret n°2017-891 du 6 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 82 (V)
 
 
 ###### Article 1424-10
@@ -35699,17 +35927,17 @@ Il connaît, dans les limites de sa compétence d'attribution, de la demande ini
 défenses au fond. 
 
 En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à
-l'article 97.
+l'article 82.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-209 du 4 mars 1988 - art. 3 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+	  - Décret n°2017-891 du 6 mai 2017 - art. 3
 
 	**Liens**:
 
@@ -35721,7 +35949,7 @@ l'article 97.
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 97 (V)
+	  - Code de procédure civile - art. 82 (V)
 
 
 ###### Article 1425-9
@@ -38230,6 +38458,34 @@ participative.
 	  - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
+###### Article 1546-2
+
+Devant la cour d'appel, l'information donnée au juge de la conclusion d'une convention de procédure participative entre
+toutes les parties à l'instance d'appel interrompt les délais impartis pour conclure et former appel incident mentionnés aux
+articles 905-2 et 908 à 910. L'interruption de ces délais produit ses effets jusqu'à l'information donnée au juge de
+l'extinction de la procédure participative.
+
+**Nota:**
+
+Conformément aux dispositions du IV de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables à
+compter du 1er septembre 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 26
+
+	**Modifié par**:
+
+	  - Décret n°2017-892 du 6 mai 2017 - art. 27
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 905-2 (VD)
+	  - Code de procédure civile - art. 908 (VT)
+
+
 #### Section 1 bis : Les actes contresignés par avocats
 
 ###### Article 1546-3
@@ -38770,28 +39026,24 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-888 du 6 mai 2017
-relatif à l'action de groupe et à l'action en reconnaissance de droits prévues aux titres V et VI de la loi n° 2016-1547 du
-18 novembre 2016 de modernisation de la justice du XXI 
-  <sup>e </sup>siècle, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre
-III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent
-livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-891 du 6 mai 2017, à
+l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
+chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2016-1547 du 18 novembre 2016 (V)
-	  - Décret n°2017-888 du 6 mai 2017 (V)
 
 	**Cité par**:
 
 	  - Décret n°2017-683 du 28 avril 2017 - art. 4
 	  - Décret n°2017-892 du 6 mai 2017 - art. 72 (V)
 
+	**Cite**:
+
+	  - Décret n°2017-891 du 6 mai 2017
+
 	**Modifié par**:
 
-	  - Décret n°2017-888 du 6 mai 2017 - art. 9 (V)
+	  - Décret n°2017-891 du 6 mai 2017 - art. 51
 
 
 ###### Article 1576
@@ -40095,8 +40347,6 @@ Dans les cas prévus au présent chapitre, les articles 751 et 753 du code de pr
 	  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.
-
 ### Chapitre III : Dispositions particulières au tribunal d'instance
 
 ###### Article ANNEXE, art. 36
@@ -40190,15 +40440,18 @@ procédure civile.
 La déclaration d'appel prévue à l'article 901 du code de procédure civile doit mentionner le nom des représentants des
 intimés en première instance.
 
-Dans le cas prévu au deuxième alinéa de l'article 930-1, l'appelant remet au greffe autant d'exemplaires de la déclaration
-qu'il y a d'intimés et de représentants, plus deux. Le greffier adresse aussitôt un exemplaire à chacun de ces représentants
-par lettre simple.
+Dans le cas prévu au deuxième alinéa de l'article 930-1, l'appelant remet au greffe ou lui adresse par lettre recommandée
+avec demande d'avis de réception autant d'exemplaires de la déclaration qu'il y a d'intimés et de représentants, plus deux.
+Le greffier adresse aussitôt un exemplaire à chacun de ces représentants par lettre simple.
+
+Lorsque la déclaration d'appel est faite par voie postale, le greffe enregistre l'acte à la date figurant sur le cachet du
+bureau d'émission et adresse à l'appelant un récépissé par tout moyen.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-1647 du 28 décembre 2010 - art. 13
+	  - Décret n°2017-891 du 6 mai 2017 - art. 43
 
 	**Cite**:
 
