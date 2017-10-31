@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-11-01
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -33651,12 +33651,16 @@ délégué, saisi par la partie la plus diligente, statue dans la forme des réf
 
 ###### Article 1334
 
-La déclaration d'acceptation à concurrence de l'actif net faite au greffe du tribunal de grande instance indique les nom,
-prénoms et profession de l'héritier, son élection de domicile ainsi que la qualité en vertu de laquelle il est appelé à la
-succession.
+La déclaration d'acceptation à concurrence de l'actif net faite au greffe du tribunal de grande instance ou devant notaire
+indique les nom, prénoms et profession de l'héritier, son élection de domicile ainsi que la qualité en vertu de laquelle il
+est appelé à la succession. 
 
-Le greffe inscrit la déclaration dans un registre tenu à cet effet et en donne récépissé au déclarant. Il informe l'héritier
-de l'obligation de publicité prévue au troisième alinéa de l'article 1335.
+Le notaire auprès de qui la déclaration est faite informe l'héritier de l'obligation de publicité prévue au troisième alinéa
+de l'article 1335. Dans le mois de la déclaration, le notaire en adresse copie au tribunal de grande instance dans le ressort
+duquel la succession s'est ouverte. 
+
+Le greffe inscrit la déclaration dans un registre tenu à cet effet et en donne récépissé au déclarant ou au notaire. Il
+informe l'héritier de l'obligation de publicité prévue au troisième alinéa de l'article 1335. 
 
 Les cohéritiers, les créanciers successoraux et les légataires peuvent, sur justification de leur titre, consulter la partie
 du registre relative à la succession en cause.
@@ -33665,19 +33669,20 @@ du registre relative à la succession en cause.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+	  - Décret n°75-1123 du 5 décembre 1975
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 35
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 1335 (VD)
+	  - Nouveau code de procédure civile 1335
 
 	**Cité par**:
 
 	  - Code de procédure civile - art. 1355 (VD)
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 1335
 
 
 ###### Article 1335
@@ -33687,7 +33692,7 @@ commerciales.
 
 Les modalités de la publicité par voie électronique sont définies par arrêté du garde des sceaux, ministre de la justice.
 
-Dans les quinze jours suivant la déclaration visée à l'article 788 du code civil, l'héritier fait procéder, dans les mêmes
+Dans le délai d'un mois suivant la déclaration visée à l'article 788 du code civil, l'héritier fait procéder, dans les mêmes
 formes que la publicité prévue au premier alinéa du présent article, à l'insertion d'un avis dans un journal d'annonces
 légales diffusé dans le ressort du tribunal compétent.
 
@@ -33695,22 +33700,22 @@ légales diffusé dans le ressort du tribunal compétent.
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
 	  - Arrêté du 9 novembre 2009 - art. 1 (V)
 	  - Code de procédure civile - art. 1334 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 36
+
 	**Cite**:
 
-	  - Code civil - art. 788 (M)
-	  - Code civil - art. 790 (M)
-	  - Code civil - art. 794 (M)
+	  - Code civil - art. 788
+	  - Code civil - art. 790
+	  - Code civil - art. 794
 
 
 ###### Article 1336
@@ -33733,8 +33738,8 @@ dans les mêmes formes que celles prévues pour le curateur de la succession vac
 ###### Article 1337
 
 A l'issue du délai de quinze mois prévu à l'article 792 du code civil, après soit le désintéressement de tous les créanciers
-déclarés, soit l'épuisement de l'actif et l'affectation des sommes correspondantes au paiement des créanciers, l'héritier
-dépose au greffe le compte définitif de son administration.
+déclarés, soit l'épuisement de l'actif et l'affectation des sommes correspondantes au paiement des créanciers, l'héritier ou
+le notaire chargé du règlement de la succession dépose au greffe le compte de l'administration.
 
 Le dépôt donne lieu à publicité dans les conditions prévues à l'article 1335.
 
@@ -33742,11 +33747,7 @@ Le dépôt donne lieu à publicité dans les conditions prévues à l'article 13
 
 	**Codifié par**:
 
-	  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-	**Créé par**:
-
-	  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°75-1123 du 5 décembre 1975
 
 	**Cité par**:
 
@@ -33754,9 +33755,13 @@ Le dépôt donne lieu à publicité dans les conditions prévues à l'article 13
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-5 (Ab)
 	  - Code de l'organisation judiciaire - art. R123-24 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 37
+
 	**Cite**:
 
-	  - Code civil - art. 792 (M)
+	  - Code civil - art. 792
 	  - Nouveau code de procédure civile 1335
 
 
@@ -33789,16 +33794,18 @@ sont à la charge du créancier ou du légataire qui en fait la demande.
 
 ###### Article 1339
 
-La déclaration de renonciation à une succession adressée ou déposée au greffe du tribunal de grande instance indique les nom,
-prénoms, profession et domicile du successible, ainsi que la qualité en vertu de laquelle il est appelé à la succession.
+La déclaration de renonciation à une succession adressée ou déposée par l'héritier ou le notaire  au greffe du tribunal de
+grande instance indique les nom, prénoms, profession et domicile du successible, ainsi que la qualité en vertu de laquelle il
+est appelé à la succession.
 
-Le greffe inscrit la déclaration dans un registre tenu à cet effet et en adresse ou délivre récépissé au déclarant.
+Le greffe inscrit la déclaration dans un registre tenu à cet effet et en adresse ou délivre récépissé au déclarant ou au
+notaire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1366 du 9 novembre 2009 - art. 1
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 38
 
 
 ###### Article 1340
@@ -34643,6 +34650,45 @@ déroulera entre eux. A défaut, les tiers à l'indivision y sont toujours admis
 	**Cité par**:
 
 	  - Décret n°2017-862 du 9 mai 2017 - art. 2
+
+
+#### Section VI bis : L'envoi en possession 
+
+###### Article 1378-1
+
+Dans les quinze jours suivant l'établissement du procès-verbal de l'ouverture et de l'état du testament mentionné à l'article
+1007 du code civil,  le notaire fait procéder à l'insertion d'un avis, qui comporte le nom  du défunt, le nom et les
+coordonnées du notaire chargé de la succession,  ainsi que l'existence d'un legs universel, au Bulletin officiel des
+annonces civiles et commerciales et dans un journal d'annonces légales  diffusé dans le ressort du tribunal compétent. 
+
+Cette publicité peut être faite par voie électronique. 
+
+Les frais de publicité sont à la charge du légataire universel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 39
+
+
+###### Article 1378-2
+
+L'opposition mentionnée au troisième alinéa de l'article 1007 du code civilest formée auprès du notaire chargé de la
+succession. 
+
+Le légataire universel se fait alors envoyer en possession par une  ordonnance du président mise au bas de la requête à
+laquelle est joint  l'acte d'opposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1907 du 28 décembre 2016 - art. 39
+
+	**Cite**:
+
+	  - Code civil - art. 1007 (VD)
 
 
 #### Section VII : Dispositions communes.
@@ -39026,7 +39072,7 @@ l'ensemble des parties à la transaction.
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-891 du 6 mai 2017, à
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-890 du 6 mai 2017, à
 l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
 chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
@@ -39043,7 +39089,7 @@ chapitre IX du titre Ier du livre III et du livre V, dans les conditions défini
 
 	**Modifié par**:
 
-	  - Décret n°2017-891 du 6 mai 2017 - art. 51
+	  - Décret n°2017-890 du 6 mai 2017 - art. 57 (VD)
 
 
 ###### Article 1576
