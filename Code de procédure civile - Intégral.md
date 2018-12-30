@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-11-01
+Version Consolidée au 2018-12-31
 
 # Livre Ier : Dispositions communes à toutes les juridictions
 
@@ -20609,51 +20609,6 @@ celle-ci est antérieure à la saisine de la cour, en même temps que la remise 
 
 
 #### Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel
-
-###### Article 963
-
-Lorsque l'appel entre dans le champ d'application de l'article 1635 bis P du code général des impôts, les parties justifient,
-à peine d'irrecevabilité de l'appel ou des défenses selon le cas, de l'acquittement du droit prévu à cet article. 
-
-Sauf en cas de demande d'aide juridictionnelle, l'auteur de l'appel principal en justifie lors de la remise de sa déclaration
-d'appel et les autres parties lors de la remise de leur acte de constitution par l'apposition de timbres mobiles ou par la
-remise d'un justificatif lorsque le droit pour l'indemnisation de la profession d'avoué a été acquitté par voie électronique.
-En cas de requête conjointe, les appelants justifient de l'acquittement du droit lors de la remise de leur requête. 
-
-Lorsque la partie a sollicité le bénéfice de l'aide juridictionnelle, elle joint la décision accordant cette aide à l'acte
-assujetti à l'acquittement du droit. A défaut de décision rendue sur la demande d'aide juridictionnelle, l'acte est
-accompagné de la copie de cette demande. Si cette demande d'aide juridictionnelle est déclarée caduque ou rejetée ou que la
-décision l'octroyant est retirée, le demandeur justifie, à peine d'irrecevabilité, de l'acquittement du droit dans le mois
-suivant, selon le cas, la notification de la caducité ou la date à laquelle le rejet ou le retrait est devenu définitif. 
-
-L'irrecevabilité est constatée d'office par le magistrat ou la formation compétents. Les parties n'ont pas qualité pour
-soulever cette irrecevabilité. Elles sont avisées de la décision par le greffe.
-
-**Nota:**
-
-Décret n° 2011-1202 du 28 septembre 2011 article 21 I 1°, tel que modifié par le décret n° 2013-1280 du 29 décembre 2013,
-article 13-II : L'article 963 du code de procédure civile demeure applicable jusqu'à l'expiration du délai fixé au II de
-l'article 54 de la loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2010, c'est-à-dire juqu'au 31 décembre
-2018.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°75-1123 du 5 décembre 1975
-
-	**Cité par**:
-
-	  - Décret n°2011-1202 du 28 septembre 2011 - art. 21 (V)
-	  - Décret n°2013-1280 du 29 décembre 2013 - art. 13
-	  - Décret n°2017-892 du 6 mai 2017 - art. 33
-	  - Code de procédure civile - art. 964 (VD)
-	  - Code de procédure civile - art. 964-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2013-1280 du 29 décembre 2013 - art. 4
-
 
 ###### Article 964
 
